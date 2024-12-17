@@ -1,0 +1,11 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv1_mess1,Adrien,14:41:37,WESH silvia pk tu vien et tu fou la merde dans les couple,bully,OAG,victim,OTH,AIN,NULL,NEG,YES,NAG,BS
+conv1_mess2,Théo,14:42:10,grave tu viens et tu pécho d'autre gars,bully_support,OAG,victim,DNG,AIN,AIN,NEG,YES,NAG,BS
+conv1_mess3,Silvia,14:42:12,tu parle de quoi c'est lucas qui a foutu la merde,victim,NAG,NULL,NULL,CNS,AIN,NEU,NO,POS,VS
+conv1_mess4,Théo,14:42:56,vas y t'es tellement une pute que tu irai draguer meme les mecs de tes copines,bully_support,OAG,victim,DNG,ATK,CNS,NEG,YES,NAG,BS
+conv1_mess5,Silvia,14:43:34,nan mais les gars calmez vous quoi si lucas c'est lui la pute j'y peu rien,victim,OAG,NULL,NCG,DFN,ATK,NEG,YES,POS,VS
+conv1_mess6,Théo,14:44:40,Lucas c'est mon meilleur je le connais tu lui a promis des nudes c'est pour ca quil ta embrassé il sortirait jamais avec une serbe et moche en plus,bully_support,OAG,victim,DNG,ATK,DFN,NEG,YES,NAG,BS
+conv1_mess7,Silvia,14:45:34,Lucas il ma di qu'il voulait pas rester avecc sophie,victim,NAG,NULL,NULL,CNS,ATK,NEU,NO,POS,VS
+conv1_mess8,Théo,14:45:51,mon cul:@,bully_support,OAG,victim,OTH,ATK,CNS,NEG,YES,NAG,BS
+conv1_mess9,Camille,14:46:06,aller niquez vos mere,bully_support,OAG,victim,OTH,ATK,CNS,NEG,YES,NAG,BS
+conv1_mess10,Soan,14:46:15,toi nike ta mere sallle pute,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,YES,POS,VS
