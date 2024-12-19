@@ -1,0 +1,17 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv21_mess74,brice,09:21:26,si t'es bien gras paul,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv21_mess75,julien,09:21:39,tres gras moi,bully_support,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv21_mess77,julien,09:22:03,parle pour toi,bully_support,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv21_mess78,Thibaut,09:22:03,mais frere on a besoin de 2 pokeflute pour te réveiller,victim_support,CAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv21_mess79,julien,09:22:06,ok d acoord tg,bully_support,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv21_mess80,Justine,09:22:12,mais arrêtetu vois pas t'es 4 fois plus gros que lui,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv21_mess81,julien,09:22:14,mdrrrrrr,bully_support,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv21_mess82,brice,09:22:22,et toi t quoi pierre,bully,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv21_mess83,Thibaut,09:22:29,oh quel répartie Julien,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv21_mess84,Selena,09:22:33,parle pas quand tu ressemble a rien brice,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv21_mess86,julien,09:22:35,justine jtraime bien mais mentir c mal bb tu sais,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv21_mess88,julien,09:22:51,selena maginfique repartie tu sais,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv21_mess90,brice,09:22:58,ok stv mon sang,bully,CAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv21_mess91,Paul,09:23:01,Laisse tomber Josiane.. Ils sont cons ils entendent rien..,victim,OAG,bully/bully_support,NCG,OTH,CR,NEG,1,0,0
+conv21_mess92,Selena,09:23:05,t'aimerais bien qu'on te le fasse?,victim_support,OAG,bully,THR,DFN,ATK,NEG,1,0,0
+conv21_mess93,julien,09:23:06,inshaallah que non,bully_support,CAG,victim,OTH,ATK,OTH,NEG,1,1,1

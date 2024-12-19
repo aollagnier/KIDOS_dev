@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv18_mess49,Camille,11:15:00,vous estes des gays refoulés c'est pour ça que vous savez qu'insulter,victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv18_mess50,Ellian,11:15:01,t'as cru j'allais rester pote avec un pd,bully,OAG,victim,NCG,ATK,OTH,NEG,1,1,1
+conv18_mess51,nicola,11:15:05,et les gay ont mal,bully_support,CAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv18_mess52,Camille,11:15:12,c'est toi le pd mec,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv18_mess53,Ellian,11:15:12,tg Camille,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess54,Arthur,11:15:18,ils ont mal au cul trnql,bully_support,CAG,victim/victim_support,DNG,ATK,NULL,NEG,1,1,1
+conv18_mess55,Camille,11:15:25,tu veux quoi toi Ellian,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv18_mess56,nicola,11:15:41,tg Camille t'es une merde,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess57,Ellian,11:15:49,tu raconte nimp,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess58,Arthur,11:15:54,allez va dormir Camille,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess59,Camille,11:15:58,je suis pas noir donc non Camille,victim_support,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv18_mess60,Paul,11:16:00,nicola je ne souffre que lorsque des personnes comme vous se comporte comme des boomer,victim,OAG,bully_support,OTH,DFN,AIN,NEG,1,0,0
+conv18_mess61,Camille,11:16:13,Ellian,victim_support,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv18_mess62,Ellian,11:16:15,tu parles a toi bête grosse conne t tebe,bully,OAG,victim_support,NCG,ATK,CNS,NEG,1,1,1
+conv18_mess63,Paul,11:16:22,Oui Camille ?,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv18_mess64,nicola,11:16:25,Paul lui il aime les noir,bully_support,CAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv18_mess65,Ellian,11:16:43, nan mais boomer change de voc pd,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess66,Lisa,11:16:53,mais ojn s'en fout qu'il aime les noirs laisse le aimer qui il veut non ?,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv18_mess67,nicola,11:17:13,bah non  on baisse pas avec des animeaux,bully_support,CAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv18_mess68,Ellian,11:17:15,il aime surtout les grosse,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess69,Paul,11:17:18,Ellian Ok boomer ah ba oui evidemment Ellian c'est bien connu ça ...,victim,OAG,bully,NCG,DFN,ATK,NEG,1,0,0

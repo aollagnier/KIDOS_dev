@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv10_mess103,michel,16:07:10,il le saurait si il avait embrasse qqun nan,victim_support,NAG,NULL,NULL,CNS,GSL,NEU,0,0,0
+conv10_mess104,Lisa,16:07:20,ssale pute  tu vend meme pas ton corps taime ca,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv10_mess105,Sophie,16:07:21,Silvia t'es pire qu'une pute,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv10_mess106,Silvia,16:07:22,mais ta gueule putain tu boites tellement tu te fais défoncer,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess107,michel,16:07:27,demandez a lucas,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv10_mess108,Sophie,16:07:31,tu suis le chemin de ta mère là,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv10_mess109,Silvia,16:07:40,Et toi Sohpie tu es bien conne de croire tout ce qu'on te raconte,victim,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv10_mess111,Adrien,16:07:54,Tu veux voir la photo,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv10_mess112,Silvia,16:07:55,Lucas il te le dira,victim,OAG,bully,NCG,DFN,ATK,NEU,1,0,0
+conv10_mess114,Silvia,16:08:04,putain tu fais plus confiance à Adrien qu'à ton mec,victim,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv10_mess115,michel,16:08:11,alors parle lui avant de croire adrien ce con,victim_support,OAG,bully_support,NCG,EMP,DFN,NEG,1,0,0
+conv10_mess116,Sophie,16:08:11,déjà m'interpelle même pas on est pas pote,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv10_mess117,Lisa,16:08:12,mdr  tu ma bien tuer mais ca va comment les séances de réducation ? tarrive a remarcher ??,bully_support,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv10_mess118,Silvia,16:08:14,quelle photo povr merde,victim,OAG,bully_support,OTH,DFN,OTH,NEG,1,0,0
+conv10_mess119,Adrien,16:08:23,Logique je suis exceptionnel,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv10_mess120,Silvia,16:08:25,tu piques mes répliques Lisa?,victim,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv10_mess121,Silvia,16:08:28,teubé va,victim,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv10_mess122,michel,16:08:34,mais quelle merde,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess123,Sophie,16:08:40,laisse Lisa trql,bully,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1

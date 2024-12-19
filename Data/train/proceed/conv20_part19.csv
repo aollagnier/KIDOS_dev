@@ -1,0 +1,18 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv20_mess111,Paul,10:35:32,merci Camile!,victim,NAG,NULL,NULL,EMP,DFN,NEG,0,0,0
+conv20_mess112,lisa,10:35:33,poupou tkt pas on va pas se laisser faire,victim_support,NAG,NULL,NULL,EMP,DFN,NEG,0,0,0
+conv20_mess113,Paul,10:36:08,merci beaoucp ca fait plz de voir que vous me soutenez,victim,NAG,NULL,NULL,OTH,EMP,POS,0,0,0
+conv20_mess114,lisa,10:36:40,ne t'inquiete pas on sera toujours la pour toi !,victim_support,NAG,NULL,NULL,EMP,OTH,POS,0,0,0
+conv20_mess115,Camille,10:35:48,tkt il faut les faire obeir ses gros chien,victim_support,OAG,bully/bully_support,NCG,DFN,NULL,NEG,1,0,0
+conv20_mess117,Theo,10:36:09,bon,victim_support,NAG,NULL,NULL,EMP,DFN,NEU,0,0,0
+conv20_mess118,Ellian,10:36:13,paul arrête de parler et va te reprendre des queu dans le cul,bully,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv20_mess119,Arthur,10:36:15,calme toi camille reste à ta place de femme,bully_support,CAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv20_mess120,Ellian,10:36:19,sale gay,bully,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv20_mess121,Ellian,10:36:50,merci athur,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv20_mess122,Paul,10:37:01,serieu c'est rien d'être gay! tu es hétéro je suis gay et puis voila,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv20_mess123,lisa,10:37:06,mais vous etes des sale matcho,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv20_mess124,Paul,10:37:10,tkt pas je vais pas te sauter dessus,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv20_mess126,Camille,10:37:19,et toi t koi fere t meme pas un homme tu viens de l'antiquité et tu aprle avec moi,victim_support,CAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv20_mess127,Theo,10:37:20,"Ellian au pire ce que tu peux faire c'est aller sur amazon commander une corde et un tabouret puis te pendre, peut etre qu'apres ton ame sera apaisée car aujourd'hui la société à un regarde de plus en plus gentil sur les LGBT",victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv20_mess128,Arthur,10:37:20,bah frr etre gay c'est une maladie,bully_support,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv20_mess129,Ellian,10:37:32,bin si tu va lui sauter dessu vu que t es gay,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1

@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv28_mess67,Marjorie,11:43:21,on dénigrent personne on donne juste notre AVIS,bully,NAG,NULL,NULL,OTH,CNS,NEG,0,0,1
+conv28_mess68,Michel,11:43:22,bh si vous vous senté bien dasn vos peu comme vous le dites si bien arreter d'embeter les autre bh ton avis maorie tu te le met la ou je pense,victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv28_mess69,Marjorie,11:43:40,allez casse vous un peu,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv28_mess70,Natacha,11:43:48,non on arrete pas:') :') :') :') il est grosse,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv28_mess71,Zoé,11:43:57," laissez-nous tranquille avec nos problèmes de poids, on est au courant merci !",victim,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv28_mess72,Marjorie,11:44:04,ça c'est sur on arretera pas,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv28_mess73,Zoé,11:44:05,on a pas besoin de vous pour savoir qu'on a un problème parce que t'as rien d'autre à faire d eta vie j'imgaine,victim,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv28_mess74,Michel,11:44:37,il est grosse c'est pas francais commence par aller revoir tes cours ensuite vient critiqué les autre,victim_support,CAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv28_mess75,Zoé,11:44:40," tu ferais mieux de réviser tes cours au lieu de passer ton temps à me harceler, tu perds ton temps grave",victim,OAG,bully,OTH,DFN,AIN,NEG,1,0,0
+conv28_mess76,Marjorie,11:44:56,ah si t'inquiete pas j'ai pleins de choses à faire dans ma vie ferme la michel,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv28_mess77,Zoé,11:45:07,harceler qqun t'apportera pas de métier je te rappelle,victim,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv28_mess79,Michel,11:45:09,on dirait pas trop...,victim_support,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv28_mess80,Natacha,11:45:19,non avec toi on perd jamais notre temps sale boufon,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv28_mess81,Michel,11:45:38,mais c'est toi la bouffone nn mais je reve,victim_support,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv28_mess82,Zoé,11:45:38," ouais à part envoyer des photos des gens et te moquer d'eux je vois pas,  tu dois vraiment avoir une vie à chier pour passer ton temps ici et continuer de m'emmerder",victim,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv28_mess83,Marjorie,11:45:40,mdrrr c'est sur,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv28_mess84,Lucie,11:45:48,critiquer le petit porc n'est pas a temps plein,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv28_mess85,Natacha,11:45:57,deja on gagne des sous en tarchelant mdrrr tes grose avoue,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv28_mess86,Lucie,11:46:01,je peux la denigrer un petit peu puis faire ma vie,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv28_mess87,Soan,11:46:03," je me permet de vous posez une question, vous imaginez plus tard en train de dire a vos enfants que vous avez harcelé un personne à cause de son surpoids qu'est ce qui vous dit que vos enfants seront pas forcément dans vos critères de beauté donc vous devriez arrêt& de faire ça et consulter pour votre manque de confiance e vous",victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0

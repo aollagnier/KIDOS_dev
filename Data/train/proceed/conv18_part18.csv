@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv18_mess103,Paul,11:22:19,Ellian et donc tu me conseilles quoi comme traitement ?,victim,NAG,NULL,NULL,DFN,GSL,NEU,0,0,0
+conv18_mess104,Lisa,11:22:28,pourquoi pas quatre,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv18_mess105,Ellian,11:22:46,vas dans un asile !!!,bully,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv18_mess106,Arthur,11:22:48,Paul un traitement ? t'as que dal,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess107,Paul,11:22:56,il n'y a que des mentalités comme la tienne pour considérer que c'est une maladie,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv18_mess108,nicola,11:23:07,un stage avec jacquie et michel,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess109,Ellian,11:23:29,pas du tout c'est comme on a etait crée,bully,NAG,NULL,NULL,GSL,CNS,NEG,0,1,1
+conv18_mess110,Camille,11:23:50,on sais tous que vous regardez des pornos gays arretez de faire les choqué,victim_support,OAG,bully,OTH,DFN,GSL,NEG,1,0,0
+conv18_mess111,Ellian,11:24:06,elle est folle elle,bully,OAG,victim_support,NCG,ATK,DFN,NEG,1,1,1
+conv18_mess112,nicola,11:24:13,oui deux femmes ensemble,bully_support,CAG,victim/victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess113,Ellian,11:24:14,tu veux me faire gerbé,bully,OAG,victim_support,NCG,ATK,DFN,NEG,1,1,1
+conv18_mess114,Lisa,11:24:14,bahahaha gay refoulé,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv18_mess115,Paul,11:24:19,Ellian la mentalité ... Papa dans Maman et rien d'autre ne peut exister par définition c'est bien ça ?,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv18_mess116,Ellian,11:24:30,bah ouais,bully,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv18_mess117,Paul,11:24:57,...,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv18_mess118,Lisa,11:24:57,enfaite vous etes jaloux,victim_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv18_mess119,Camille,11:25:04,wow quell repartie Ellian,victim_support,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv18_mess120,Arthur,11:25:06,Paul t'as tout compris,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess121,Paul,11:25:10,Quel rageux,victim,OAG,bully,OTH,DFN,NULL,NEG,1,0,0
+conv18_mess122,Camille,11:25:58,ton fantasme c'est de baiser un mec t'en reve pourquoi tu nous fait le saint,victim_support,OAG,bully,OTH,DFN,OTH,NEG,1,0,0
+conv18_mess123,nicola,11:26:26,tu parle a Paul la ?,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1

@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv8_mess193,Soan,09:48:53,le fdp c'est celui que tu défend Camille,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv8_mess194,Lucie,09:49:20,aucun rapport mv,victim_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv8_mess195,Adrien,09:49:26,Soan arrete de faire chauffer ftg un peu,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv8_mess196,Diana,09:49:29,soan arrete de parler pour dire de la merde,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv8_mess197,Lucie,09:49:33,cest celui qui defend l'autre fdp de lucas et adrien,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv8_mess198,Diana,09:49:44,soan on t'enccule,bully_support,OAG,victim_support,THR,ATK,DFN,NEG,1,1,1
+conv8_mess199,Soan,09:49:54,Adrien assume c que t'as crée et excuse toi alors,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv8_mess201,Camille,09:50:03,#hainecontresoan,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv8_mess202,Lucie,09:50:16,nonnn,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv8_mess203,Camille,09:50:20,#dianaenforce,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv8_mess204,Soan,09:50:25,Diana c'est satan qui vas t'enculer,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv8_mess205,Theo,09:50:27,silvia on sait tous que t une chudasse,bully_support,OAG,victim,DNG,GSL,NULL,NEG,1,1,1
+conv8_mess206,Lucie,09:50:27,ecoutez vannesa,victim_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv8_mess207,Camille,09:50:39,bisous mesvies,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv8_mess208,Soan,09:50:45,Camille TG,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv8_mess209,Adrien,09:50:45,Soan t'a r compris a l'histoire commence pas avec t'es raciste,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv8_mess210,Lucie,09:50:52,tg,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv8_mess212,Diana,09:50:57,aller ciao bande fde con,bully_support,OAG,victim/victim_support/conciliator,NCG,ATK,NULL,NEG,1,1,1
+conv8_mess213,Camille,09:50:59,soan tg. tu nous soule la,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1

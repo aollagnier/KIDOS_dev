@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv32_mess79,Guillaume,15:46:12,on dit une truie,bully,OAG,bully_support,NCG,AIN,ATK,NEG,1,1,1
+conv32_mess80,Lea,15:46:13,"Vos blagues montrent un cruel manque de finesse et de raisonnement logique. Suceuse ou bon, vous devriez arrêter vos comportements puérils.",victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv32_mess81,Justine,15:46:14,Il n'y a pas Zeimmour,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv32_mess82,Justine,15:46:35,J'ai juste posté une photo c'est tout c'est une discussion complètement inutile,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv32_mess83,Lea,15:46:53,Justine a le droit de faire une photo de sa Bar-Mitzvah non ? Exactement.,victim_support,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv32_mess85,Leo,15:47:00,evites on s en blc de ton truc de feuj jvais appeller hitler,bully,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv32_mess86,Aurelie,15:47:06,c toi t inutile,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv32_mess88,Guillaume,15:47:12,j'ai la phobie des photos juives,bully,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv32_mess89,Isabelle,15:47:13,ish ish c’est chaud,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv32_mess90,Aurelie,15:47:25,jsui juivofobe,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv32_mess91,Leo,15:47:29,dommage qu il soit mort avant de finir son travail,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv32_mess92,Lea,15:47:34,Vous ne connaissez que des personnalités antisémites dis donc,victim_support,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv32_mess93,Guillaume,15:47:35,hitler il est dans ton cul,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv32_mess94,Lea,15:47:58,Ça montre bien que vous n'êtes qu'un ramassis fécal dégénéré pour vous en prendre à Justine,victim_support,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv32_mess95,Aurelie,15:48:01,comme les cendre a ta mere,bully_support,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv32_mess96,Isabelle,15:48:03,bref justine arrête de poster des trucs comme ça aussi tu t’affiches,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv32_mess97,Guillaume,15:48:05,hitler je le suce,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv32_mess98,Lea,15:48:24,C'est vous qui vous vous affichez avec votre haine plus qu'autre chose,victim_support,CAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv32_mess99,Lea,15:48:39,Ayez honte.,victim_support,CAG,bully,DNG,DFN,ATK,NEG,1,0,0

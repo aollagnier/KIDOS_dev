@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv17_mess31,Paul,14:42:07,t'as qu'à pas traiter  ma  tante,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv17_mess32,Arthur,14:42:58,TRD PERDU WLH ATT QUE JTE VOIE,bully_support,OAG,victim,THR,ATK,CNS,NEG,1,1,1
+conv17_mess33,Ellian,14:43:09,et wallah ta 10 ans zebiiii,bully,OAG,victim,NCG,ATK,CNS,NEG,1,1,1
+conv17_mess34,Nicola,14:43:17,on va lui enfoncer une bite dans le cut,bully_support,OAG,victim,THR,AIN,ATK,NEG,1,1,1
+conv17_mess35,Arthur,14:43:19,JVAI GAZER TOUTES TA DESCENDENCE,bully_support,OAG,victim,THR,ATK,CNS,NEG,1,1,1
+conv17_mess36,Ellian,14:43:24,on va te prendre en moulant,bully,OAG,victim,THR,AIN,ATK,NEG,1,1,1
+conv17_mess37,Paul,14:43:24,eh que moi aussi j'te vois et ferme ta bouche,victim,OAG,bully_support,THR,DFN,ATK,NEG,1,0,0
+conv17_mess38,Arthur,14:43:50,tu va faire quoi avec ton pti corp t solo ta pas dami,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv17_mess39,Nicola,14:44:04,on devrais l'emener dans un hopital c mieux,bully_support,CAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv17_mess40,Paul,14:44:12," vous etes nuls ! chacun doit avoir le droit de faire ce qui lui plait  j""vous demande rien",victim,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv17_mess41,Nicola,14:44:21,come sa personne et contaminer ptdr,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv17_mess42,Ellian,14:44:25,va bouffer tes mort ké tu parle avec moi,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv17_mess44,Ellian,14:44:36,vien sucer grosse pute,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv17_mess45,Paul,14:44:48,"c pas une maladie,  c vous les oufs  le monde est plein  de gens  diffferents   faut se respecter",victim,OAG,bully/bully_support,OTH,DFN,AIN,NEG,1,0,0
+conv17_mess46,Ellian,14:44:55,et toi aussi pk tu parle Jimmy wallah,bully,OAG,conciliator,OTH,ATK,CR,NEG,1,1,1
+conv17_mess47,Nicola,14:45:12,jimmy c sont mec c sur,bully_support,OAG,victim/conciliator,DNG,AIN,ATK,NEG,1,1,1
+conv17_mess48,Arthur,14:45:19,casse toi jimmy stv pas finir comme lautre fatfat,bully_support,OAG,conciliator,DNG,ATK,CR,NEG,1,1,1
+conv17_mess50,Nicola,14:45:22,il se suce la bite entre eux,bully_support,OAG,victim/conciliator,DNG,AIN,ATK,NEG,1,1,1
+conv17_mess51,Paul,14:45:23,wallah toi le babtou  pourquoi tu parles comme les autres ?,victim,OAG,bully_support,NCG,DFN,AIN,NEG,1,0,0

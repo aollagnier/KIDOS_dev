@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv33_mess25,Léo,11:33:35,Oof,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv33_mess26,Julie,11:33:41,ça te menera peut être a la mort,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv33_mess27,Coralie,11:34:00,julie nva sucer tes grans mort,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv33_mess28,Fatimah,11:34:00,"aaaaaaaaaaaaaaaaaaaa ok,  c'est ça ton problème mais ptete que si toi aussi tu arreter de manger du porc tu serais moi aggressive!",victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv33_mess29,Julie,11:34:44,coralie je commence par les tiens,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv33_mess30,Coralie,11:34:45,krkrkr bien dit,victim_support,NAG,NULL,NULL,EMP,DFN,NEG,0,0,0
+conv33_mess32,Léo,11:34:58,Allez du fight là mdrrrr,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv33_mess33,Fatimah,11:35:01,mais laisse les morts de Coralie-soutiend tranquil,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv33_mess34,Coralie,11:35:18,c'est mes morts qui te sucent julie,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv33_mess35,Fatimah,11:35:21,"chépa,  la meuf se lache,  elle sait rien et elle crache vasi",victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv33_mess36,Coralie,11:35:41,clairment,victim_support,NAG,NULL,NULL,EMP,DFN,NEG,0,0,0
+conv33_mess37,Fatimah,11:36:04,et clairement LeoSoutienduharc vaut pas mieux,victim,NAG,NULL,NULL,DFN,AIN,NEG,0,0,0
+conv33_mess38,Pierre,11:36:16,oui grave,victim_support,NAG,NULL,NULL,EMP,DFN,NEU,0,0,0
+conv33_mess39,Coralie,11:36:17,j'espere un jour c'est les porcs qui te chieront dessus,victim_support,OAG,bully_support,DNG,DFN,AIN,NEG,1,0,0
+conv33_mess40,Julie,11:36:22,bon fatima retourne dans ton pays et casse pas les couilles,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv33_mess41,Coralie,11:36:23,julie,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv33_mess42,Fatimah,11:36:31,quel pays,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv33_mess43,Léo,11:36:41,Ah mdr m'embrouille pas par contre mdr moi j'suis là j'bouffe du pop corn je fais rien d'autre,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv33_mess44,Fatimah,11:36:43,ouèch chuis plus française que toi,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv33_mess45,Pierre,11:36:45,elle est en france frr,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0

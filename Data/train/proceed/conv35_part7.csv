@@ -1,0 +1,18 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv35_mess37,Julie,15:42:12,la go elle vole nos mecs et tu crois on va la laisser trql cette algerienne la retourne dans ton pays,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv35_mess38,Pierre,15:42:22,t vrmt bizzare,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv35_mess39,Paul,15:42:23,réel,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv35_mess41,Julie,15:42:45,pierre jte conseille de la fermer,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv35_mess42,Fatimah,15:42:46,mais je sais pas d'où je vais voler les mecs des autres j'ai rien fait,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv35_mess43,Pierre,15:43:12,miroir miroir,victim_support,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv35_mess44,Kate,15:43:22,"Prcq elle fait chier tt le monde, elle fait la gentille en face mais derrière elle voles les mecs de tt le monde la",bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv35_mess45,Julie,15:43:24,tu roules du cul devant tt le monde mais tqt tu veux pas attirer les mecs🤣,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv35_mess47,Fatimah,15:43:46,je veux meme pas deux,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv35_mess48,Julie,15:43:54,mskn,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv35_mess50,Paul,15:44:07,fatima elle a rien a rouler..,bully_support,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv35_mess51,Kate,15:44:18,Elle les allume aussi la,bully,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv35_mess52,Julie,15:44:21,MDRRRRR grv kate a raison c’est abusé cmt elle ft trop la meuf,bully,OAG,victim,DNG,AIN,AIN,NEG,1,1,1
+conv35_mess53,Kate,15:44:48,Chepa pour qui elle se prend vrm,bully,OAG,victim,DNG,ATK,AIN,NEG,1,1,1
+conv35_mess54,Pierre,15:44:52,meuf tu fait la meme,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv35_mess55,Julie,15:44:56,j’avoue mddrrr cette pute,bully,OAG,victim,NCG,AIN,ATK,NEG,1,1,1
+conv35_mess57,Julie,15:45:18,mdrrrr pauline degage tu vois pas on a raison,bully,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1

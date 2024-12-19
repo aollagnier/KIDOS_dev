@@ -1,0 +1,17 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv21_mess79,julien,09:22:06,ok d acoord tg,bully_support,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv21_mess80,Justine,09:22:12,mais arrêtetu vois pas t'es 4 fois plus gros que lui,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv21_mess81,julien,09:22:14,mdrrrrrr,bully_support,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv21_mess82,brice,09:22:22,et toi t quoi pierre,bully,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv21_mess83,Thibaut,09:22:29,oh quel répartie Julien,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv21_mess84,Selena,09:22:33,parle pas quand tu ressemble a rien brice,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv21_mess86,julien,09:22:35,justine jtraime bien mais mentir c mal bb tu sais,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv21_mess88,julien,09:22:51,selena maginfique repartie tu sais,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv21_mess90,brice,09:22:58,ok stv mon sang,bully,CAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv21_mess91,Paul,09:23:01,Laisse tomber Josiane.. Ils sont cons ils entendent rien..,victim,OAG,bully/bully_support,NCG,OTH,CR,NEG,1,0,0
+conv21_mess92,Selena,09:23:05,t'aimerais bien qu'on te le fasse?,victim_support,OAG,bully,THR,DFN,ATK,NEG,1,0,0
+conv21_mess93,julien,09:23:06,inshaallah que non,bully_support,CAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv21_mess95,julien,09:23:38,c muslims plutot,bully_support,CAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv21_mess96,brice,09:23:39,perso je ressemble pas a paul donc ça risque pas de m'arriveer,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv21_mess97,Thibaut,09:24:03,ta résons toi t con,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv21_mess99,Selena,09:24:17,brice de nice?,victim_support,CAG,bully,OTH,DFN,ATK,NEG,1,0,0

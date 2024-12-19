@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv2_mess169,Adrien,14:33:42,boucje,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv2_mess170,Silvia,14:33:57,dans ma boche... Voilà qu'on devient raciste,victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv2_mess171,Silvia,14:33:58,bravo,victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv2_mess172,Adrien,14:34:07,ls trous de ta mere,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv2_mess173,Silvia,14:34:33,les trous de la tienne sont plus larges vu les mecs qu'elle s'enfile,victim,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv2_mess174,Adrien,14:34:54,ta mere la brochettes,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv2_mess175,Diana,14:35:04,au moins mon pere est pas mort,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv2_mess177,Silvia,14:35:20,au moins j'arrive à me faire embrasse Diana,victim,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv2_mess178,Soan,14:35:27,Fermez vos geule à la fin laiisser la tranquille,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv2_mess179,Silvia,14:35:31,embrasser*,victim,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv2_mess180,Diana,14:35:49,jai pas besoin d'embrasser un mec en le forcant moi :),bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv2_mess181,Silvia,14:36:02,c'est ton père qui te forçait,victim,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv2_mess182,Amos,14:36:04,bien ouej,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv2_mess183,Silvia,14:36:17,c'est pour ça que tu marches pas droit,victim,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv2_mess185,Diana,14:36:45,tu as jamais reussis a marcher droit,bully_support,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv2_mess186,Adrien,14:36:49,toi aussi tu marche pas droit parceque tu t fais demonter par ton pere,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv2_mess187,Silvia,14:36:49,faut pas attaquer les gens gratuitement,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv2_mess188,Silvia,14:36:57,il est mort mon pềre,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv2_mess189,Diana,14:36:57,toujours etait une pute de mere en fille,bully_support,OAG,victim,DNG,ATK,CNS,NEG,1,1,1

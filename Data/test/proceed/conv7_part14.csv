@@ -1,0 +1,19 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv7_mess79,Pierre,15:44:08,Pauline présidente,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv7_mess80,alice,15:44:17,pauline c koi la dif,victim_support,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv7_mess81,Anton,15:44:17,bien dis poline il sont en france que pour nous voler,bully_support,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv7_mess82,Pauline,15:44:24,oui moi présidente,bully,NAG,NULL,NULL,OTH,AIN,NEU,0,0,1
+conv7_mess83,Anton,15:44:33,pauline presidente,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv7_mess84,Fatima,15:44:38,Mais pourtant moi je t'ai rien fait moi !,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv7_mess85,Julie,15:44:40,pauline t'as un complexe d'inferiorité ma pauvre,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv7_mess87,Pauline,15:44:43,*pauline stp anton,bully,NAG,NULL,NULL,OTH,AIN,NEU,0,0,1
+conv7_mess88,Nicolas,15:44:51,Pauline meilleur programme que Zemmour,bully_support,NAG,NULL,NULL,AIN,OTH,NEU,0,1,1
+conv7_mess89,Pauline,15:45:01,merci ça me touche,bully,NAG,NULL,NULL,OTH,AIN,NEU,0,0,1
+conv7_mess90,Anton,15:45:01,et alors tu dois payer pr les crime de t ancetre,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv7_mess91,Julie,15:45:02,apprend a ecrire le prenom de tes potes avant de parler ytoi,victim_support,CAG,bully_support,DNG,DFN,AIN,NEG,1,0,0
+conv7_mess92,Fatima,15:45:18,Mais j'ai jamais rien demandé à personne wesh T'es chelou toi !,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv7_mess93,Pierre,15:45:24,Même zemmour te donnerais raison,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv7_mess94,Anton,15:45:32,vivie le z,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv7_mess95,Julie,15:45:35," e t toi aussi tu dois ,payer pour les crimes des tiens",victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv7_mess97,Julie,15:45:41,t'es pas tt bleu tt rose mv,victim_support,OAG,bully_support,OTH,DFN,ATK,NEU,1,0,0
+conv7_mess99,alice,15:45:46,seigneur dieux c'est la decadance,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0

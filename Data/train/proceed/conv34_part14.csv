@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv34_mess79,julie,11:18:54,mais tg toi on est Fat igué,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess80,coralie,11:19:06,paul et leo vous etes vraiment fatiguant c'est aberrant avec vos tete de teub,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv34_mess81,FatimahVictime,11:19:16,S'il te plaît Julie !,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv34_mess82,leo,11:19:18,toi dans la tete dans des teub,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess83,FatimahVictime,11:19:22,Arrête tes blagues !,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv34_mess84,leo,11:19:24,ta la,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess85,FatimahVictime,11:19:25,Je suis pas grosse,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv34_mess86,leo,11:19:30,t'es obese,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv34_mess87,FatimahVictime,11:19:33,FAT = grosse,victim,NAG,NULL,NULL,OTH,ATK,NEG,0,0,0
+conv34_mess88,julie,11:19:36,tg avec ta tete d'immigré,bully,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv34_mess89,leo,11:19:40,ta manger trop de bite,bully_support,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv34_mess90,Paul,11:19:43,normal un singe ça bouffe des teub,bully_support,CAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv34_mess91,coralie,11:19:54,c'est toi le singe,victim_support,OAG,bully_support,NCG,DFN,AIN,NEG,1,0,0
+conv34_mess92,leo,11:19:56,faut doser sur le couscous,bully_support,CAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv34_mess93,coralie,11:20:03,t'es meme un chien,victim_support,OAG,bully_support,NCG,DFN,AIN,NEG,1,0,0
+conv34_mess94,julie,11:20:15,*retourne manger tes bananes,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess95,Paul,11:20:38,les merguez t'en prends pas que dans la bouche,bully_support,CAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv34_mess96,coralie,11:20:42,julie tu pu le seum parce qu'elle est belle,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv34_mess97,FatimahVictime,11:20:56,"Julie, arrête maintenant",victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv34_mess98,coralie,11:21:03,julie20 ta trop la rage,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv34_mess99,julie,11:21:04,et toi tu pu...,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1

@@ -1,0 +1,19 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv22_mess163,Thibaut,10:49:49,"julien a pas de parent, ca doit etre dur..",victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess164,Julien,10:49:53,DISPARAITTTT,bully_support,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv22_mess165,Selena,10:49:54,"Julien mais arêter de vous attaquez qur des trucs commace, faites du sport je sais pas moi-_- -_-",victim_support,NAG,NULL,NULL,CR,ATK,NEU,0,0,0
+conv22_mess166,Thibaut,10:50:01,c'est pour ca quil se dechaine,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess167,justine,10:50:07,et pas d'amis quelle dommage,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess169,brice,10:50:14,sa ferait une bonne places sur la terre,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv22_mess170,justine,10:50:24,tg toi,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess171,Thibaut,10:50:31,la place yen a il a pas besoins de disparaitre,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv22_mess172,brice,10:50:46,quand tu bz ta meuf tu l asphyxie ou bquoi,bully,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv22_mess173,Julien,10:50:53,si si c'esr un magicien,bully_support,OAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv22_mess175,Julien,10:51:07,il pens au bien de la planete,bully_support,OAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv22_mess176,justine,10:51:11,bon bas brice et julien excuser vous bande de merde que vous servez a quelque chose,victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv22_mess177,Julien,10:51:32,si tu veux je commande la corde et le tabouret pour toi paul tu te charge juste filmer et sauter en avant,bully_support,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv22_mess178,Selena,10:51:52,julien tu vas trop loin,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess180,justine,10:52:02,c vrai que toi ten a pas besoin ta mere est deja morte julien,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess181,Paul,10:52:04,"tg Julien , J'espère que toi et ton ami brice irez en prison.",victim,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv22_mess182,Selena,10:52:06,arrêtes toi,victim_support,NAG,NULL,NULL,CR,NULL,NEU,0,0,0
+conv22_mess183,Julien,10:52:07,jmen blc jespere il meurt,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1

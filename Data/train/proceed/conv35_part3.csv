@@ -1,0 +1,19 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv35_mess13,Julie,15:38:48,meme paul et leo le disent tu veux tous les mecs pr toi tg pauline arrête de la defendre,bully,OAG,victim/conciliator,OTH,ATK,NULL,NEG,1,1,1
+conv35_mess14,Pierre,15:39:14,he ho c pas gentil tt ca,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv35_mess15,Kate,15:39:21,Oe tu voles les mecs de tt le monde la et tu te prends pour Chepa qui,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv35_mess16,Paul,15:39:25,de  ouf on t'as cramé chuis d'accord avec julie et Kate,bully_support,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv35_mess17,Fatimah,15:39:39,genre je veux sortir avec les gars moche de la classe bien sur,victim,OAG,bully/bully_support,DNG,DFN,NULL,NEG,1,0,0
+conv35_mess19,Julie,15:39:50,MDRRR tu t’es vue,bully,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv35_mess20,Pierre,15:40:00,culotter,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv35_mess21,Julie,15:40:09,ouais bah casse toi on a pas besoin de toi frr,bully,OAG,conciliator,OTH,ATK,CR,NEG,1,1,1
+conv35_mess22,Kate,15:40:24,Tu fais chier tt le monde la,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv35_mess23,Julie,15:40:38,pierre s’agirait de se la fermer et de se regarder dans le miroir,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv35_mess24,Pierre,15:40:54,ah ok dacc,victim_support,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv35_mess25,Paul,15:40:57,tg pierre tu ressemble a rien laisse julie trkl,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv35_mess26,Julie,15:41:03,merci paul mdrrrr,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv35_mess27,Pierre,15:41:04,mais fait le aussi on c jamais,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv35_mess28,Fatimah,15:41:04,mais laissez moi tranquille,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv35_mess29,Pierre,15:41:15,ouais sa pompe par ici,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv35_mess30,Julie,15:41:32,tg tu parles trop,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv35_mess32,Pierre,15:41:48,ah bah nan,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0

@@ -1,0 +1,19 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv3_mess128,SilviaVictime,09:35:13,Oui merci Soan !! Adrien en plus tu t'enfonce avec t'es sous entendu raciste !,victim,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv3_mess129,Soan,09:35:18,Grave,victim_support,NAG,NULL,NULL,EMP,CNS,NEU,0,0,0
+conv3_mess130,Soan,09:35:24,Bande de racistes,victim_support,OAG,bully/bully_support,NCG,EMP,CNS,NEG,1,0,0
+conv3_mess131,SilviaVictime,09:35:33,Tous le monde as de la famille étrangères,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv3_mess132,camille,09:35:34,elle l'autre serbe elle a ouvert les jalbrs jambes,bully_support,OAG,victim_support,OTH,ATK,EMP,NEG,1,1,1
+conv3_mess133,Soan,09:35:37,Vous savez que les propos racistes c'est conda,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv3_mess134,Adrien,09:35:39,jsuis pas rasciste jdis la verite,bully,NAG,NULL,NULL,OTH,CNS,NEU,0,0,1
+conv3_mess135,SilviaVictime,09:35:40,et ca ne définie pas ton comportement,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv3_mess136,Soan,09:35:42,condamnable?,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv3_mess137,Diana,09:36:03,retourne au Kosovo et vient pas faire chier,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv3_mess139,SilviaVictime,09:36:45,Les Serbe ne sons pas des voleurs c'est des cliché de Fachiste comme toi ça,victim,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv3_mess141,camille,09:36:55,t'as sucé pour passer la frontière ?,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv3_mess142,Soan,09:37:02,Que ça vote le z ici.. ça craint,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv3_mess143,Diana,09:37:16,meme ton pseudo c afait pitie,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv3_mess144,Adrien,09:37:19,bah la le serbe a voler le mec de quelqu’un en l’cccurence,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv3_mess145,Soan,09:37:26,apprends à écrire Diana,victim_support,CAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv3_mess146,Adrien,09:37:36,o,bully,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv3_mess147,Soan,09:37:37,la bite dans la bouche depuis tout à l'heure,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0

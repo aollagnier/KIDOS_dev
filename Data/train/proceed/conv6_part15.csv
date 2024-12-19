@@ -1,0 +1,18 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv6_mess85,Teresa,14:43:40,🦄,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv6_mess87,Pauline,14:44:11,ooooo theo ca vas te choper,bully,OAG,conciliator,THR,ATK,CR,NEG,1,1,1
+conv6_mess88,Pierre,14:44:31,Retourne au bled,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv6_mess90,Nicolas,14:44:42,Theo suceur,bully_support,OAG,conciliator,DNG,ATK,DFN,NEG,1,1,1
+conv6_mess91,Pauline,14:44:46,voilaaaa nico,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv6_mess93,Fatima,14:45:05,J'aimerais des excuses ... on ne peut pas rester sur ça enfin !,victim,NAG,NULL,NULL,OTH,NULL,NEG,0,0,0
+conv6_mess94,Pauline,14:45:11,ok,bully,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv6_mess95,Pierre,14:45:12,Si,bully_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv6_mess96,Fatima,14:45:14,il reste toute l'année scolaire !,victim,NAG,NULL,NULL,OTH,NULL,NEG,0,0,0
+conv6_mess97,Pauline,14:45:14," dsl fatima et voilaaa, dans ta mere jrgl",bully,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv6_mess98,Nicolas,14:45:22,Y’a r Théo art ça va t’attraper toi et Fatima,bully_support,OAG,victim/conciliator,THR,ATK,DFN,NEG,1,1,1
+conv6_mess99,Pauline,14:45:24,casse toi,bully,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv6_mess100,Pierre,14:45:30,Maigris fatima,bully_support,CAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv6_mess101,Teresa,14:45:44,Tkt t’es belle Fatima rrrrrrrr😝,victim_support,NAG,NULL,NULL,EMP,OTH,POS,0,0,0
+conv6_mess102,Pauline,14:45:45,lvdm,bully,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv6_mess103,Fatima,14:45:59," oh non tu m'as ""bien eu"" Pauline ...",victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv6_mess105,Pauline,14:46:07,ta vu :') :') :') :'),bully,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1

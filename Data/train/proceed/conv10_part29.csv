@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv10_mess169,Sophie,16:12:43,ptn mais t'es né d'un gangbang ou quoi,bully,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv10_mess170,Sophie,16:12:46,ptn de triso,bully,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv10_mess171,michel,16:12:48,tu fais pitie sophie  si ton mec te veux plus bah tu degage,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess172,Silvia,16:12:50,putain heureusement que t'es pas jury d'un procès pour meurtre,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess173,Axelle,16:12:50,Une personne c'est archi pas une preuve,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv10_mess174,Silvia,16:12:59,vu ton esprit de déduction merdique Sophie,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess175,Adrien,16:13:00,On est deux en ft,bully_support,NAG,NULL,NULL,OTH,CNS,NEU,0,0,1
+conv10_mess176,Sophie,16:13:02,mais michel frere tas vu ton prénom pour commencé,bully,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv10_mess177,Adrien,16:13:05,Hein lisa,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv10_mess178,Silvia,16:13:08,Deux qui pauvre merde?,victim,OAG,bully_support,NCG,DFN,OTH,NEG,1,0,0
+conv10_mess179,Lisa,16:13:09,jai la preuvve !!!,bully_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv10_mess180,Silvia,16:13:18,Mais Lisa t'étais mm pas au voyage,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv10_mess181,michel,16:13:21,sophie saute des fiilees,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess182,Silvia,16:13:25,de où tu as la preuve?,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv10_mess183,Lisa,16:13:28,voila !!!,bully_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv10_mess184,Lisa,16:13:36,tu comprends sale pute,bully_support,OAG,victim,NCG,ATK,OTH,NEG,1,1,1
+conv10_mess185,Silvia,16:13:40,Je suis mm pas rousse putain,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv10_mess186,Silvia,16:13:44,tu ml'as photoshopée,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv10_mess187,Lisa,16:13:46,on ta pris en photo,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv10_mess188,Silvia,16:14:38,Et ton mec il dit quoi de ça?,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv10_mess189,michel,16:14:40,quel photoshop de fou,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0

@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv13_mess61,Elodie,14:47:05,pute et gouine cla meme,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv13_mess62,Julie,14:47:05,ça te dérange si c'était le cas ?,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv13_mess63,Anna,14:47:08,ftg,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv13_mess64,Elodie,14:47:08,oui les garcons avec les filles pas filleet fille c degeulasse,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv13_mess65,Anna,14:47:24,grave vous me degouter,bully_support,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv13_mess66,Julie,14:47:37,t'as un problème va te faire soigner sale homophobe,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv13_mess67,Emilie,14:47:42,exactement stv on te fait un cour crasseuse,bully,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv13_mess68,Anna,14:47:53,c toi ta un problème grosse pute,bully_support,OAG,victim,NCG,GSL,DFN,NEG,1,1,1
+conv13_mess70,Elodie,14:47:57,ftg c toi la gouine tu parle avec nous sombre pute wallah t ki,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv13_mess71,Emilie,14:48:22,on va dire a un gadjo de la violer sa va lui remettre les idée en place,bully,OAG,victim,THR,AIN,NULL,NEG,1,1,1
+conv13_mess72,Elodie,14:48:30,graaave,bully_support,NAG,NULL,NULL,AIN,AIN,NEG,0,1,1
+conv13_mess73,Anna,14:48:33,mais grave wlh,bully_support,NAG,NULL,NULL,AIN,AIN,NEG,0,1,1
+conv13_mess74,Elodie,14:48:46,elles vont voir ce que c de ce faire peter le q,bully_support,OAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv13_mess75,Anna,14:48:47,bande de pute va mais grave elle vont voir,bully_support,OAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv13_mess76,Julie,14:49:04,mais t'es une grande malade toi,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv13_mess77,Elodie,14:49:06,un zizi pas de chatte,bully_support,OAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv13_mess78,Julie,14:49:11,t'as des problèmes pour dire des choses pareil,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv13_mess79,Anna,14:49:14,:') :') :') :') :') :'),bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv13_mess80,Julie,14:49:17,tu te rends compte de ce que tu dis là ??,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv13_mess81,Elodie,14:49:25,je rigole roh,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1

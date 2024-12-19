@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv18_mess1,Ellian,11:05:23,rentre chez toi malade,bully,OAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv18_mess2,Ellian,11:06:10,tu vas contaminer tout le monde paul !!!!!!!,bully,OAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv18_mess3,Paul,11:06:37,Comment ça ?? ,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv18_mess4,nicola,11:07:05,tu cherche la merde,bully_support,CAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv18_mess5,Ellian,11:07:11,t'aimes les homme tu dégoute! vas te faire soigner,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv18_mess6,Lisa,11:07:20,oh clamez vous la calmez,victim_support,NAG,NULL,NULL,CR,NULL,NEU,0,0,0
+conv18_mess7,Ellian,11:07:34,parle francais betasse,bully,OAG,victim_support,OTH,ATK,CR,NEG,1,1,1
+conv18_mess8,Paul,11:07:44,de quoi tu parles ? ,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv18_mess9,Ellian,11:08:35,frère t'es gay et tu me parles,bully,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv18_mess10,Paul,11:08:35,ça n'a aucun lien avec ce dont on a parlé n'est-ce pas ? ...,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv18_mess11,Lisa,11:08:47,faut pas insulter les gens comme ca,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv18_mess12,Ellian,11:08:47,dégage de la pd,bully,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv18_mess13,Camille,11:08:58,t'as que de la bouche toi,victim_support,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv18_mess14,Arthur,11:08:59,ca dégage,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv18_mess15,Paul,11:09:12,Je te faisais confiance ...,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv18_mess16,Ellian,11:09:12,Camille parle francais,bully,CAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv18_mess17,Camille,11:09:15,sinon quoi,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv18_mess18,Lisa,11:09:33,mais t'a pas d'arguments toi,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv18_mess19,Ellian,11:10:02,pédale,bully,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv18_mess20,Paul,11:10:36,Ellian et puis d’abord d'où tu penses que c'est quelque chose dont je dois me soigner ???,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv18_mess21,Arthur,11:10:36,bien dit Ellian,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1

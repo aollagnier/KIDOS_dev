@@ -1,0 +1,17 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv20_mess91,Theo,10:33:06,mdrrrr,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv20_mess92,Ellian,10:33:07,camille aussi,bully,OAG,victim_support,NCG,ATK,DFN,NEG,1,1,1
+conv20_mess94,Theo,10:33:14,Ellian c'est un nom de biche,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv20_mess96,Camille,10:33:22,et toi a la nicge sale chien,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv20_mess97,Theo,10:33:22,pourquoi tu forces espece de loco,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv20_mess99,Arthur,10:33:30,theo frr t'as le nom d'un legume,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv20_mess100,Theo,10:33:36,d'accord Arthur,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv20_mess101,Ellian,10:33:38,grvvvv,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv20_mess102,Theo,10:33:41,si tu veux,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv20_mess103,lisa,10:33:50,ellian vient a la sortie du lycéé je vais te foutre une casserole a la gueule on vera la cuisiniere mdr,victim_support,OAG,bully,THR,DFN,AIN,NEG,1,0,0
+conv20_mess104,Theo,10:34:14,"Théo c'est juste mon pseudonyme, attaquer quelqu'un sur internet c'est comme parler au vent, ça ne mène nul part",victim_support,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv20_mess105,Arthur,10:34:35,paul espece de sale gué,bully_support,OAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv20_mess106,Camille,10:34:43,et alors meme,victim_support,OAG,bully_support,OTH,DFN,ATK,NEU,1,0,0
+conv20_mess107,Theo,10:34:51,plutot que d'insulter essaye de réfléchir correctement car ton cerveau doit bien lagger,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv20_mess108,Camille,10:35:05,*tu met pas ta teub dans son cul cul alors fermme ta gueule,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv20_mess111,Paul,10:35:32,merci Camile!,victim,NAG,NULL,NULL,EMP,DFN,NEG,0,0,0

@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv16_mess115,marie,09:46:58,je comprend pas quans vous parler je parle pas la langue des pute,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv16_mess116,Elodie,09:47:00,bcp de plaisir,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv16_mess117,Julie,09:47:07,"arrête, tu vas regretter après",victim,OAG,bully,THR,DFN,ATK,NEG,1,0,0
+conv16_mess118,Elodie,09:47:25,oui bien sur,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv16_mess119,Emilie,09:47:26,donc julie elle doit comprendre alors,bully,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv16_mess120,Julie,09:47:34,comprendre quoi ?,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv16_mess121,constance,09:47:45,que t'es magnifique,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv16_mess122,Elodie,09:47:53,on verra bien regretera quand tu sera a l hopital julie,bully_support,CAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv16_mess123,Emilie,09:47:54,pk mentir comme ca,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv16_mess124,Julie,09:48:01,et toi en prison,victim,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv16_mess125,Emilie,09:48:03,on va te defigurer,bully,OAG,victim,THR,AIN,ATK,NEG,1,1,1
+conv16_mess126,Julie,09:48:13,et ça va t'apporter quoi ?,victim,NAG,NULL,NULL,DFN,AIN,NEG,0,0,0
+conv16_mess127,Elodie,09:48:15,bien sur en prison ptdrrrrrr,bully_support,CAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv16_mess128,constance,09:48:20,tg tu va brule,victim_support,OAG,bully_support,THR,DFN,ATK,NEG,1,0,0
+conv16_mess129,Elodie,09:48:30,tres drole jamel de bouse,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv16_mess130,constance,09:48:37,tg,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv16_mess131,Elodie,09:48:41,ratio,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv16_mess132,Emilie,09:48:42,mdr marie qui mevoie d msg en privé mdmdmmdmr,bully,OAG,victim_support,OTH,ATK,NULL,NEG,1,1,1
+conv16_mess133,Anna,09:48:51,constance jv te niquer ta grand mere,bully_support,OAG,victim_support,THR,ATK,DFN,NEG,1,1,1
+conv16_mess134,Emilie,09:48:54,allez retournez à la niche,bully,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv16_mess135,marie,09:48:58,arrete de parler tu t'enfonce la emilie tg,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0

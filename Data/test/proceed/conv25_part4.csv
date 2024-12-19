@@ -1,0 +1,15 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv25_mess19,Theo,15:58:29,c'est une blague,bully_support,OAG,victim,OTH,AIN,AIN,NEG,1,1,1
+conv25_mess20,Theo,15:58:39,franchement trop drole,bully_support,CAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv25_mess22,NULL,15:58:53,j'assume mon phisique tte facon. 😯,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv25_mess23,NULL,15:58:58,😑 *,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv25_mess24,pierre,15:59:13,y'a quoi de drole  serieux ???,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv25_mess26,Theresa,15:59:33,Moi j'pense que pauline c pas tromper c'est juste ke francois est trop moche,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv25_mess27,Pauline,15:59:35,mais vous l'avez vu.. wsh c'est méchant pour les baleines la....,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv25_mess28,NULL,16:00:14,Theresa quitte a etre une baleine,victim,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv25_mess30,Lucas,16:00:38,Vous avez cru vous étiez qui wesh,victim_support,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv25_mess31,Theresa,16:00:40,C'est sur elles doivent êtres vexées d'avoir un gars aussi laid avec elles,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv25_mess35,Theresa,16:01:11,et francois reagrde toi d'ab,bully_support,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv25_mess36,pierre,16:01:17,mais c'est quoi votre probleme enfait ? ca vous amuse de critiquer les gens comme ca ?,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv25_mess37,NULL,16:01:21,jje t'emmerde.,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv25_mess39,pierre,16:01:43,bien dit francois !,victim_support,NAG,NULL,NULL,EMP,DFN,NEU,0,0,0

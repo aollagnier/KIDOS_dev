@@ -1,0 +1,17 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv22_mess104,Selena,10:41:05,"Julien, peut être pas gros mais pas très intelligent",victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess105,Julien,10:41:07,de tous les macdos ?,bully_support,OAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv22_mess106,Thibaut,10:41:23,t'es cringe avec ton macdo,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess107,justine,10:41:28,julien calme toi on sait que tu t'assume pas et que t juste une merde,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess109,Thibaut,10:41:35,es des arguments stp,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess110,Selena,10:41:39,brice toi tu devrais pas parler,victim_support,OAG,bully,OTH,DFN,NULL,NEG,1,0,0
+conv22_mess111,Julien,10:41:47,nah venez en vrai jvous envcule un par un bande de pedales,bully_support,OAG,victim/victim_support,OTH,ATK,NULL,NEG,1,1,1
+conv22_mess112,brice,10:41:48,messi meilleure que ronaldo et paul plus gros qu un sumo,bully,OAG,victim,DNG,ATK,NULL,NEG,1,1,1
+conv22_mess114,Thibaut,10:42:05,bah vasy on t'attend julien,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess115,justine,10:42:06,ta pas de bite julien tu peux pas,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv22_mess117,Julien,10:42:23,ta mere elle la uce justine sucé,bully_support,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv22_mess118,justine,10:42:36,parle fr stp,victim_support,CAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv22_mess119,brice,10:42:43,</3 >.< X) D: =$,bully,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv22_mess121,Paul,10:42:53,personne ne voudra plus être mon ami  à cause de toi batard brice,victim,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv22_mess122,Thibaut,10:43:00,mais il est gay avec ses emojis,victim_support,OAG,bully,NCG,EMP,DFN,NEG,1,0,0
+conv22_mess123,brice,10:43:10,messi c un monstre frero,bully,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1

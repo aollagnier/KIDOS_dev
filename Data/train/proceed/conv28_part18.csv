@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv28_mess103,Zoé,11:47:49,ouais et je le sais alors fou moi la paix,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv28_mess104,Marjorie,11:47:49,bah oui on est sincere nous,bully,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv28_mess105,Natacha,11:47:49,elle na qua fait une regime,bully_support,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv28_mess106,Marjorie,11:48:04,on est c'est aamis nous on dit la vérité,bully,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv28_mess107,Lucie,11:48:10," on fait pas les focus nous, hein michel",bully,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv28_mess108,Marjorie,11:48:17,ZOE EST GROSSE,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv28_mess110,Michel,11:48:18,si zoé = port bh lucie = chienne,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv28_mess111,Soan,11:48:19,je préfère avoir une philosophie a la con plutôt qu'être une bouffonne sans cervelle qui réfléchie meme pas au conséquence de ces paroles,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv28_mess112,Lucie,11:48:26,michel que il est derriere son cula zoe donc ftg,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv28_mess113,Natacha,11:48:35,oui on ne casse rien on lui dit la verite elle est grosse,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv28_mess114,Marjorie,11:48:37,c'est ta mere la chienne michel,bully,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv28_mess115,Natacha,11:48:58,:') :') :') :') :') un tour de la ville sa tirais pour que tu maigris,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv28_mess116,Michel,11:49:06,bh elle a suivi ton pere majorie c'est tout,victim_support,CAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv28_mess117,Lucie,11:49:10,michel tu vas finir plus bas que terre toiausssi,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv28_mess118,Marjorie,11:49:26,on va vous détruire,bully,OAG,victim_support,THR,ATK,DFN,NEG,1,1,1
+conv28_mess119,Lucie,11:49:27,av ton petit pors en guise d'animal de compagnie,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv28_mess120,Zoé,11:49:28,apprends à parler déjà grosse conne,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv28_mess121,Marjorie,11:49:30,détruire vos vies,bully,OAG,victim/victim_support,OTH,ATK,NULL,NEG,1,1,1
+conv28_mess122,Michel,11:49:43,eh vous vouler nous detruire avec quoi vous avez cru etre flic ou quoi,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv28_mess123,Natacha,11:50:01,ohhh lala sa chauffe,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1

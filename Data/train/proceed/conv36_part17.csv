@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv36_mess98,Leo,10:38:56,fatimah va bouffer du cochon avec tes doigts remplie de caca,bully_support,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv36_mess99,julie,10:39:01,c'est pas des gens logique c'est juste des gens qui ont pitié de toi,bully,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv36_mess100,kate,10:39:17,tu nous fauis de la peine,bully,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv36_mess101,Leo,10:39:17,faute de frappe mon reuf,bully_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv36_mess102,Fatimah,10:39:36,Ah oui le niveau ! tu as jamais vue de l'henné de ta vie ou quoi ?,victim,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv36_mess103,paul,10:39:46,Fatimah tgl stp,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess104,Pierre,10:39:59,j'ai baisé la mère de la soeur de vos cousine kate93 julie Leo68 \O/  chien tete en haut,victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv36_mess105,Leo,10:40:15,pierre chui pas gay donc garde ton doigts pour toi,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess106,paul,10:40:15,c pas du henne c de la merde sale chienne sale arabe,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess107,kate,10:40:16,et moi jbz ta grand mere la pute,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess108,Leo,10:40:36,oeeee paul il a tarpin raison,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv36_mess109,julie,10:40:39,t'a pas trouvé mieux pierre,bully,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess110,Coralie,10:40:46,Pierre47 t vraiment bizarre hein...,victim_support,NAG,NULL,NULL,OTH,DFN,NEG,0,0,0
+conv36_mess111,Fatimah,10:40:47,Ne te préoccupe pas de ce que je mange ou pas stp !  en quoi ça te concerne que je mange du cochon ?,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv36_mess112,Leo,10:40:47,tg coralie,bully_support,OAG,victim_support,OTH,ATK,OTH,NEG,1,1,1
+conv36_mess113,Pierre,10:41:07,Leo68 tu vois pas ta bite quand tu parle pisse excuse,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv36_mess115,Pierre,10:41:43,vas y Sandrine encule le,victim_support,OAG,bully_support,OTH,OTH,CNS,NEG,1,0,0
+conv36_mess116,paul,10:41:45,sandrine tgl,bully_support,OAG,conciliator,OTH,ATK,CNS,NEG,1,1,1
+conv36_mess117,Leo,10:41:47,"j,ai pas fait expres",bully_support,NAG,NULL,NULL,OTH,CNS,NEU,0,0,1

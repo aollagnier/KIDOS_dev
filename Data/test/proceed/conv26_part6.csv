@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv26_mess31,martine,16:46:19,ferme la,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv26_mess32,Fran,16:46:20,ho tu te calmes,victim,OAG,bully,NCG,DFN,ATK,NEU,1,0,0
+conv26_mess33,Fran,16:46:23,la pute,victim,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv26_mess34,Fran,16:46:39,Tu touches pas à ma pote ou je te mange ok?!,victim,OAG,bully,THR,DFN,ATK,NEG,1,0,0
+conv26_mess36,martine,16:46:46,c toi la pute et tu m parle pas comme ca,bully,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv26_mess37,jules,16:46:47,ferme ta gueule demande a ta mere il est pas si petit,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv26_mess38,Fatima,16:46:48,t raciste ou ca se passe comment en fait martine,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv26_mess40,Fran,16:47:19,ma mère elle suce pas les bébés,victim,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv26_mess41,martine,16:47:29,bah quoi? l'étrangère a un pb?,bully,CAG,conciliator,OTH,ATK,CR,NEG,1,1,1
+conv26_mess42,jules,16:47:31,ducoup elle me suce,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv26_mess43,jules,16:47:37,cette folle,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv26_mess44,martine,16:47:45,T'a raison ils voudraizetn pas d'elle,bully,OAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv26_mess45,Fran,16:47:47,parle pas sur ma mère,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv26_mess46,jules,16:47:50,GROSSE folle,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv26_mess47,Fran,16:47:54,toi aussi je te mange,victim,OAG,bully_support,THR,DFN,ATK,NEG,1,0,0
+conv26_mess48,jules,16:48:01,hahahahahahahahahahahahaha,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv26_mess49,jules,16:48:06,t une comique toi,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv26_mess50,martine,16:48:06,bah la mere d'une grosse moche doit etre grosse moche,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv26_mess51,Fatima,16:48:08,stop bande de fous,victim_support,OAG,bully/bully_support,NCG,DFN,NULL,NEG,1,0,0

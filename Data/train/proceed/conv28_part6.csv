@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv28_mess31,Zoé,11:39:32,et toi il te faut tes potes pour avoir de bonnes notes aux controles ????,victim,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv28_mess32,Michel,11:39:33,peut etre physiquement elle ne vous plaie pas mais moralement vous voulez tous etre comme elles,victim_support,NAG,NULL,NULL,CR,NULL,NEU,0,0,0
+conv28_mess33,Soan,11:39:35,ça t'apporte quoi de l'insulter tu mexplique parce que je voit juste deux bouffons parler d'une situation qui les concerne pas,victim_support,OAG,bully/bully_support,NCG,DFN,NULL,NEG,1,0,0
+conv28_mess34,Lucie,11:39:37,un petit porc,bully,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv28_mess35,Marjorie,11:39:49,un petit porc mdrrr bien trouver les deux bouffones elles t'emmerdent,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv28_mess37,Marjorie,11:40:12,On parle juste de ce qu'on voit,bully,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv28_mess38,Zoé,11:40:16,Les ptites connes on va se calmer parce qu'à part m'insulter sur mon physique vous savez rien faire,victim,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv28_mess39,Marjorie,11:40:16,on donne notre avis,bully,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv28_mess40,Lucie,11:40:19,mentalement elle est pas mieux tricher et sucer les profs pour avoir des bonnes notes,bully,OAG,victim,DNG,ATK,CR,NEG,1,1,1
+conv28_mess41,Michel,11:40:29,je ne comprend pas pourquoi sa vous préocuppe autant sopn physique,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv28_mess42,Natacha,11:40:34,mdrrr les salles de sport sont fermer mais faire un tpur de la ville je croi que cest mieux,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv28_mess43,Michel,11:40:38,en quoi sa vous dérange,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv28_mess45,Marjorie,11:40:48,ah sayer zoé tu as tes potes pour te defendrent tu te sens fraiche et t'ouvres ta gueule,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv28_mess46,Natacha,11:41:00,ohhh lala tes mechanty lucie,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv28_mess47,Zoé,11:41:07,et toi askip t'as besoin du soutien de ta pote pour m'insulter,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv28_mess48,Michel,11:41:19,bien dit zoé,victim_support,NAG,NULL,NULL,EMP,DFN,NEU,0,0,0
+conv28_mess49,Zoé,11:41:21,laisse-moi vivre ou je t'écrase,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv28_mess50,Natacha,11:41:32,XD XD,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv28_mess51,Marjorie,11:41:35,vous êtes des merdes à la défendre tous,bully,OAG,victim/victim_support/conciliator,NCG,ATK,NULL,NEG,1,1,1

@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv9_mess7,Adrien,15:43:55,tes parents doivent avoir honte de toi force,bully,OAG,victim,DNG,AIN,AIN,NEG,1,1,1
+conv9_mess8,diana,15:43:59,bahahah clairement,bully_support,NAG,NULL,NULL,AIN,AIN,NEG,0,1,1
+conv9_mess9,Soan,15:44:28,Silvia elle était même pas au courant que Lucas il a une meuf,victim_support,NAG,NULL,NULL,CNS,AIN,NEU,0,0,0
+conv9_mess10,diana,15:44:42,pttdr c pas logique adrien cest ses parents qui l'ont appeler sivia,bully_support,CAG,victim,OTH,AIN,AIN,NEG,1,1,1
+conv9_mess11,Theo,15:44:43,ca se voit qu'elle à pas était bien élevé pae ses parents cette pute elle assume même pas quel se cache quand on commence à parler de son cas,bully_support,OAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv9_mess12,diana,15:44:48,ENFINNNN t qune pute stp,bully_support,OAG,victim,NCG,AIN,ATK,NEG,1,1,1
+conv9_mess13,Silvia,15:44:57,je suis là et je ne suis pas une p...,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv9_mess14,Adrien,15:45:02,diana parle fr,bully,NAG,NULL,NULL,AIN,AIN,NEG,0,1,1
+conv9_mess15,diana,15:45:06,hahhahahahha trp drole,bully_support,CAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv9_mess16,Adrien,15:45:12,silvia je tbz ta mere,bully,OAG,victim,THR,ATK,CNS,NEG,1,1,1
+conv9_mess17,diana,15:45:16,wallah va te pendre fr,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv9_mess18,Adrien,15:45:17,ton pere ton fils je les bz sale pute,bully,OAG,victim,THR,ATK,CNS,NEG,1,1,1
+conv9_mess19,Silvia,15:45:31,arrêtez ça ne sert à rien de s'insulter comme ça,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv9_mess20,diana,15:45:32,prq tu vole les mecs des gens stp,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv9_mess21,Soan,15:45:34,Mais ferme là Adrien,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv9_mess22,Lucie,15:45:34,arrêtez d'insulter,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv9_mess23,Theo,15:45:47,"elle a encore une bite da,s la bouche c pour ca que l'on comprend pas",bully_support,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv9_mess24,Silvia,15:45:49,"je n'ai rien volé, lucas m'a dit que c t fini avec Sophie",victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv9_mess25,diana,15:45:50,nn mais la jparle  serieux enft,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv9_mess26,Soan,15:45:53,Oh elle savait même pas donc fermez là,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv9_mess27,diana,15:45:54,prq ta fait ca pttttdrr,bully_support,NAG,NULL,NULL,OTH,CNS,NEU,0,0,1

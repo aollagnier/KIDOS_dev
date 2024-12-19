@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv10_mess229,Sophie,16:18:28,dans ta chatte ya 3-4 gangs de mst questu parles,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv10_mess230,Lisa,16:18:36,pas besoin pour savoir que ta tt les mst de la tere,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv10_mess231,Silvia,16:18:37,toi tu peux déjà plus vu l'état de tes vieilles dents,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess232,Adrien,16:18:40,Je vais te defigurer,bully_support,OAG,victim,THR,ATK,OTH,NEG,1,1,1
+conv10_mess233,Silvia,16:18:53,hahahaha Mais sérieux Sophie tu as pas mieux?,victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess234,Lisa,16:18:54,c deja fait,bully_support,OAG,victim,THR,AIN,ATK,NEG,1,1,1
+conv10_mess235,Silvia,16:18:56,C'est du vu et revu,victim,CAG,bully,OTH,DFN,ATK,NEU,1,0,0
+conv10_mess237,Silvia,16:19:05,tu es pas capable d'inventer tes propres trucs?,victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess238,Sophie,16:19:12,jvais te peter les chevilles t'entends,bully,OAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv10_mess239,Silvia,16:19:14,Je résume:,victim,OAG,bully_support,OTH,DFN,NULL,NEU,1,0,0
+conv10_mess240,Silvia,16:19:19,Adrien veut se taper Sophiue,victim,OAG,bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv10_mess241,Silvia,16:19:25,Il raconte des mytho,victim,OAG,bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv10_mess242,Sophie,16:19:26,JE RESUME,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv10_mess243,Silvia,16:19:32,Sophie doit aller s'acheter un cerveau,victim,OAG,bully,DNG,DFN,NULL,NEG,1,0,0
+conv10_mess244,michel,16:19:35,ca on sait pas il est ptet gay,victim_support,OAG,bully_support,OTH,EMP,DFN,NEG,1,0,0
+conv10_mess245,Silvia,16:19:37,elle est pas très maligne,victim,OAG,bully,DNG,DFN,NULL,NEG,1,0,0
+conv10_mess246,Silvia,16:19:48,la grosse c'est toi,victim,OAG,bully,DNG,DFN,NULL,NEG,1,0,0
+conv10_mess247,Lisa,16:19:54,att ya tout le mode qui resume ce quils ont dans leur tete mdr cherche pa,bully_support,NAG,NULL,NULL,OTH,ATK,NEU,0,0,1
+conv10_mess248,michel,16:19:55,sophie tes toujours malade ca se voit,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess249,Adrien,16:19:56,Et toi Lucas tu as oublié,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1

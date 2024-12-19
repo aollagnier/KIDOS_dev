@@ -1,0 +1,18 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv7_mess116,Anton,15:47:05,retourne en afrique ma soeur,bully_support,OAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv7_mess118,Julie,15:47:25,a bas pauline,victim_support,NAG,NULL,NULL,OTH,NULL,NEG,0,0,0
+conv7_mess119,Anton,15:47:29,oui mais la on se fait envahuir par tte la terre,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv7_mess121,Pauline,15:47:53,Le droit à l’image on s’en fou,bully,OAG,victim_support,OTH,ATK,CNS,NEG,1,1,1
+conv7_mess122,Nicolas,15:47:57,Mieux que toi sarah si tu defends les arabes qui nous volent tous les jours,bully_support,OAG,victim/conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv7_mess123,Anton,15:47:58,elle a cas ps etre arabe elle aussi,bully_support,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv7_mess124,alice,15:47:59,je pense pas non,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv7_mess125,Pierre,15:48:00,surtout pour si peu,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv7_mess126,Julie,15:48:00,grave pas mdrr,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv7_mess127,teresa,15:48:09,Elle vous a rien demander,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv7_mess128,Pauline,15:48:21,toutes façons Fatima elle m’a agressé les yeux,bully,OAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv7_mess129,Julie,15:48:22,l'homogenité les gas merde,victim_support,NAG,NULL,NULL,CR,NULL,NEG,0,0,0
+conv7_mess130,Anton,15:48:33,si c une arrrrrrrrrrabbbbbbbbbbbbbbbbbbbbeeeeeeeeeeee,bully_support,OAG,victim,OTH,AIN,NULL,NEG,1,1,1
+conv7_mess131,Julie,15:48:34,t'es juste jalouse meuf,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv7_mess132,alice,15:48:37,pauline tu fera moins la maline avec 15k d'amende,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv7_mess133,Fatima,15:48:40,Donc pour résumé je vous ai rien fait. J'ai rien volé que dalle mais je suis juste arabe,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv7_mess135,Julie,15:48:43,grave mdrr,victim_support,NAG,NULL,NULL,EMP,DFN,NEU,0,0,0

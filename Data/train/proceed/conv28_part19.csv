@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv28_mess110,Michel,11:48:18,si zoé = port bh lucie = chienne,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv28_mess111,Soan,11:48:19,je préfère avoir une philosophie a la con plutôt qu'être une bouffonne sans cervelle qui réfléchie meme pas au conséquence de ces paroles,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv28_mess112,Lucie,11:48:26,michel que il est derriere son cula zoe donc ftg,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv28_mess113,Natacha,11:48:35,oui on ne casse rien on lui dit la verite elle est grosse,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv28_mess114,Marjorie,11:48:37,c'est ta mere la chienne michel,bully,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv28_mess115,Natacha,11:48:58,:') :') :') :') :') un tour de la ville sa tirais pour que tu maigris,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv28_mess116,Michel,11:49:06,bh elle a suivi ton pere majorie c'est tout,victim_support,CAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv28_mess117,Lucie,11:49:10,michel tu vas finir plus bas que terre toiausssi,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv28_mess118,Marjorie,11:49:26,on va vous détruire,bully,OAG,victim_support,THR,ATK,DFN,NEG,1,1,1
+conv28_mess119,Lucie,11:49:27,av ton petit pors en guise d'animal de compagnie,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv28_mess120,Zoé,11:49:28,apprends à parler déjà grosse conne,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv28_mess121,Marjorie,11:49:30,détruire vos vies,bully,OAG,victim/victim_support,OTH,ATK,NULL,NEG,1,1,1
+conv28_mess122,Michel,11:49:43,eh vous vouler nous detruire avec quoi vous avez cru etre flic ou quoi,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv28_mess123,Natacha,11:50:01,ohhh lala sa chauffe,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv28_mess124,Marjorie,11:50:08,zoé si elle a un animal de compagnie elle écrase sayer ya plus d'animal,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv28_mess125,Michel,11:50:15,toi ferme là garde t'es propo pr topi,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv28_mess126,Marjorie,11:50:15,on l'enterre,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv28_mess127,Zoé,11:50:19,tu vas faire quoi ? essayer de me pousser avec tes mini muscles ? essaie et je te roule dessus,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv28_mess128,Lucie,11:50:24,c pour ca qu'elle est seule,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv28_mess129,Michel,11:50:41,bien dit zoé rouller aplati le,victim_support,NAG,NULL,NULL,EMP,DFN,NEG,0,0,0

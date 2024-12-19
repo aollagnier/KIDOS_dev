@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv28_mess127,Zoé,11:50:19,tu vas faire quoi ? essayer de me pousser avec tes mini muscles ? essaie et je te roule dessus,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv28_mess128,Lucie,11:50:24,c pour ca qu'elle est seule,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv28_mess129,Michel,11:50:41,bien dit zoé rouller aplati le,victim_support,NAG,NULL,NULL,EMP,DFN,NEG,0,0,0
+conv28_mess131,Lucie,11:50:46,oh ptn elle vas me rouler dessus je vais câner,bully,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv28_mess132,Soan,11:50:55,bien dit zoé faut savoir mettre en avant ses atouts,victim_support,NAG,NULL,NULL,EMP,DFN,NEG,0,0,0
+conv28_mess133,Zoé,11:51:01,ouais bah cours si tu veux pas que ça t'arrive,victim,OAG,bully,THR,DFN,ATK,NEG,1,0,0
+conv28_mess134,Marjorie,11:51:04,Tu vois je me pose une question Zoé comment tu fais pour t'acceepter accepter d'être aussi grosse,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv28_mess135,Lucie,11:51:18,olala j'ai peur,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv28_mess136,Zoé,11:51:21,j'écoute pas ce que les connasses comme toi me disent c'est tout,victim,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv28_mess137,Michel,11:51:27,bh elle est juste mature et elle s'aime tels qu'elle est,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv28_mess138,Soan,11:51:27,elle a confiance en elle pas comme toi,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv28_mess139,Marjorie,11:51:33,ahhh sayer zoe ouvre sa gueuele ahahah,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv28_mess140,Lucie,11:51:35,mais c une réelle questions,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv28_mess141,Zoé,11:51:37,et je préfère avoir des formes qu'être plate comme une planche à pain point,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv28_mess142,Lucie,11:51:42,je ne comprends pas aussi,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv28_mess143,Marjorie,11:51:52,ah t'inquiete pas j'ai confiance en mi moi,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv28_mess144,Zoé,11:51:59,tant mieux pour toi moi aussi,victim,CAG,bully,OTH,DFN,AIN,NEG,1,0,0
+conv28_mess145,Michel,11:52:09,non sinon tu ne serais pas entrain de t'acharner sur les autres,victim_support,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv28_mess146,Lucie,11:52:09,on est ravi zoe,bully,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv28_mess147,Natacha,11:52:09,non les formes plste cest mieux que detre gropsse,bully_support,CAG,victim,DNG,ATK,DFN,NEG,1,1,1

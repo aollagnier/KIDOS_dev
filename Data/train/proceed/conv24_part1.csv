@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv24_mess1,David,14:32:41,Gros gordo,bully,OAG,NULL,DNG,ATK,NULL,NEG,1,1,1
+conv24_mess2,Brice,14:33:05,Bonjour David,victim,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv24_mess3,David,14:34:03,Slt gros port,bully,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv24_mess4,Brice,14:34:38,Qu'est ce que tu veux?,victim,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv24_mess5,David,14:34:47,Gros gordo,bully,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv24_mess6,Brice,14:34:55,Laisse moi tranquille,victim,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv24_mess7,David,14:35:05,va fair un régime sale port,bully,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv24_mess8,David,14:35:29,je te prend un abonement bacisfic,bully,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv24_mess9,David,14:35:29,gros port,bully,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv24_mess10,Brice,14:36:06,"Déjà c'est ""porc""",victim,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv24_mess11,Brice,14:36:06,apprend à écrire d'abord,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv24_mess12,David,14:36:57,Alors bouboule,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv24_mess13,Brice,14:37:30,quoi alors?,victim,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv24_mess14,David,14:38:05,Demain on va te traîner par ton gros ventre,bully,OAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv24_mess15,Brice,14:38:14,je veux la photo que tu as pris de moi,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv24_mess16,David,14:38:29,Non elle va finir sur télégramme,bully,CAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv24_mess17,David,14:39:11,Tout le monde va te voir,bully,CAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv24_mess18,David,14:39:24,Sale gros gordo,bully,OAG,victim,NCG,ATK,OTH,NEG,1,1,1
+conv24_mess19,yanis,14:39:29,David fais sa je te Bz ta mère sale chien,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv24_mess20,Brice,14:40:15,Je vais dire à la prof,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv24_mess21,David,14:40:16,Ba vien me le dir je te nike ta mere la grosse pute comme toi,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1

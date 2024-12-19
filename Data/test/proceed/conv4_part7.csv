@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv4_mess37,Nicolas,11:37:06,ta 12 ans tu fait la grande ta pote et a pooile sur la plage et se plaint apres,bully_support,OAG,victim,BLM,ATK,NULL,NEG,1,1,1
+conv4_mess38,Pierre,11:37:13,theo arrete de defendre vrm on dirait que t'es pas francais,bully_support,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv4_mess39,Pauline,11:37:13,appelez carla elle va faire la sorcellerie jai des contacts,bully,OAG,victim/victim_support,THR,ATK,NULL,NEG,1,1,1
+conv4_mess40,Fatima,11:37:17,mai a poil de koi,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv4_mess41,Teresa,11:37:19,mais oui il fait le beau parceque t'es une gadjis mais devant un mec il ferra rien,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv4_mess42,Pauline,11:37:34,tg toi,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv4_mess43,Fatima,11:37:36,la pauline on voyait son cul et elle vient m harceler apres la,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv4_mess44,Nicolas,11:37:40,apel plutot anaé,bully_support,OAG,victim/victim_support,OTH,AIN,ATK,NEG,1,1,1
+conv4_mess45,Pauline,11:37:51,j'en ai un moi au moins,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv4_mess46,Pierre,11:37:54,en attendant elle elle avait le droit,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv4_mess47,Nicolas,11:37:55,ily aura que elle qui va te repondre mdr,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv4_mess48,Teresa,11:38:00,oe ta raison c la plus grosse des pute,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv4_mess49,Pierre,11:38:02,parce qu'elle elle est dans son pays,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv4_mess50,Teresa,11:38:07,hein pauline,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv4_mess51,Pauline,11:38:18,teresa ftg va a l'eglise,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv4_mess52,Fatima,11:38:27,ba va y on y va ensemble,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv4_mess53,Pierre,11:38:30,ça t'éduqueras un peu,bully_support,CAG,victim_support,DNG,AIN,ATK,NEG,1,1,1
+conv4_mess54,Teresa,11:38:34,tu devrais faire pareil,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv4_mess55,Fatima,11:38:34,j sui sur t es jamais allé a leglise hypocrite,victim,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv4_mess56,Nicolas,11:38:44,on te brule toi a leglise,bully_support,OAG,victim,THR,ATK,DFN,NEG,1,1,1

@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv10_mess25,Sophie,16:00:26,mais cte folle elle a embrassé lucas pdt le voyazge,bully,OAG,victim,NCG,AIN,OTH,NEG,1,1,1
+conv10_mess26,Silvia,16:00:41,qui t'a dit ça?,victim,NAG,NULL,NULL,CNS,AIN,NEU,0,0,0
+conv10_mess27,Silvia,16:00:46,c'est mm pas vrai,victim,NAG,NULL,NULL,CNS,AIN,NEU,0,0,0
+conv10_mess28,Adrien,16:00:51,a ton avis,bully_support,NAG,NULL,NULL,GSL,CNS,NEU,0,1,1
+conv10_mess29,Silvia,16:01:02,un menteur?,victim,NAG,NULL,NULL,OTH,GSL,NEU,0,0,0
+conv10_mess30,Adrien,16:01:04,je t ai vu en faite,bully_support,NAG,NULL,NULL,OTH,CNS,NEU,0,0,1
+conv10_mess32,Sophie,16:01:17,en ft t'es une grosse pute c'est ça que je dois comprendre,bully,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv10_mess33,Silvia,16:01:18,faire quoi?,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv10_mess34,Silvia,16:01:39,à vazi dou tu m'insultes?,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv10_mess35,Lisa,16:01:41,en faite tes vraiment une salope silvia,bully_support,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv10_mess36,Adrien,16:01:43,embrasser lucas,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv10_mess37,Lisa,16:01:52,ta trompé ton mec,bully_support,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv10_mess38,Silvia,16:01:57,Mais d'où je l'ai embrassé?,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv10_mess39,Lisa,16:01:58,ca se fait grave pas,bully_support,NAG,NULL,NULL,OTH,NULL,NEG,0,0,1
+conv10_mess40,Silvia,16:02:01,Mais ta race toi putain,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess41,Adrien,16:02:09,TU TE CALME,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv10_mess42,Lisa,16:02:14,bah tes une salope en faite,bully_support,OAG,victim,DNG,GSL,DFN,NEG,1,1,1
+conv10_mess43,Sophie,16:02:16,MAIS BORDEL SILVIA,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv10_mess44,michel,16:02:18,sophie calmez vous,victim_support,NAG,NULL,NULL,CR,ATK,NEU,0,0,0
+conv10_mess45,Silvia,16:02:18,c'est toi qui insultes abruti va,victim,OAG,bully,NCG,DFN,ATK,NEG,1,0,0

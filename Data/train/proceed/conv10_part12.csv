@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv10_mess68,michel,16:03:53,putain mais calmez vous,victim_support,NAG,NULL,NULL,CR,NULL,NEU,0,0,0
+conv10_mess69,Lisa,16:03:56,jen profiterai pour te baiser,bully_support,OAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv10_mess70,michel,16:03:58,ca va pas ou quoi,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv10_mess71,Sophie,16:04:03,t'es plate comme une planche de surf et tu fais la folle avec moi,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv10_mess72,Lisa,16:04:03,mais jai peur le l'erpece,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv10_mess73,Silvia,16:04:05,Ah en plus t'es lesbienne?,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess74,Lisa,16:04:16,oui t homophobe ?,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv10_mess75,Adrien,16:04:29,Tu veux quoi SALOPE  en faite t es passer sur tout paname donc parle pas,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv10_mess76,Silvia,16:04:32,j'ai juste un pblm avec les putes de ton espèce et les mythos,victim,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv10_mess77,Lisa,16:04:32,t une salope et t homophobe ???,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv10_mess78,michel,16:04:35,sophie tetais pas la pendant genre une semaine tu reviens pour foutre la merde,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess79,Silvia,16:04:45,On vit sur la côte d'Azur espèce de teubé,victim,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv10_mess80,Silvia,16:04:53,tu t cru à st denis ou quoi?,victim,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess81,Adrien,16:05:07,non toi  sur les trottoir,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv10_mess82,Lisa,16:05:09,silvia franchement ca se fait pas ce que ta fait,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv10_mess83,Silvia,16:05:11,La vie de ma mère ferme bien ta gueule au lieu d'écarter les cuisses,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess84,michel,16:05:14,mais calmez vous,victim_support,NAG,NULL,NULL,CR,NULL,NEU,0,0,0
+conv10_mess85,michel,16:05:28,merde parle a lucas avant de hurler sur silvia$,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv10_mess86,Sophie,16:05:33,mais silvia t'es vraiment une grosse sous race en ft,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1

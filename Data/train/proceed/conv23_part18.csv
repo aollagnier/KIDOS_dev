@@ -1,0 +1,19 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv23_mess103,David,14:47:24,brice en francais ca donne quoi,bully,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv23_mess104,Amine,14:47:29,on mappel jamel debbouze dans le milieu,bully_support,OAG,victim,OTH,AIN,OTH,NEG,1,1,1
+conv23_mess105,Jim,14:47:43,jamel en sueur,bully_support,NAG,NULL,NULL,AIN,AIN,NEG,0,1,1
+conv23_mess106,Brice,14:47:54,t'enflame pas amine,victim,NAG,NULL,NULL,OTH,AIN,NEU,0,0,0
+conv23_mess107,Amine,14:48:20,le seul truc que jv enflammer c'est tes morts,bully_support,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv23_mess108,David,14:48:23,wsh tu parle pas comme ca je vais te dechire,bully,OAG,victim/victim_support,OTH,ATK,NULL,NEG,1,1,1
+conv23_mess109,Amine,14:49:07,tss tss la balaine,bully_support,OAG,victim/victim_support/conciliator,NCG,ATK,NULL,NEG,1,1,1
+conv23_mess110,David,14:49:07,mais jules t es changer wsh,bully,NAG,NULL,NULL,GSL,CR,NEG,0,1,1
+conv23_mess112,Brice,14:49:35,amine baleine*,victim,CAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv23_mess113,Jim,14:49:37,mais jules clochard gros cul de merde,bully_support,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv23_mess114,Brice,14:49:56,mais vazy va faire la manche Jim,victim,CAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv23_mess115,David,14:50:03,mais jules je vais te dechirer noublie pas je venu chez toi,bully,OAG,conciliator,THR,ATK,DFN,NEG,1,1,1
+conv23_mess117,David,14:50:10,je sais ou thabite fais  pas le maline brice ftg,bully,OAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv23_mess118,Moussa,14:50:21,:') :') :') :') :') :') :') :'),victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv23_mess119,Jim,14:50:27,mais ptdrrrr frr c normal ta mange tout carrefour jpeut  plus rrien achete,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv23_mess120,Yanis,14:50:27,tas pas de couilles,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv23_mess121,Amine,14:50:30,brice si taurai était aussi fort a lécole que dans la muscu tu ressemblerai pas a king kong,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv23_mess123,David,14:50:35,suce ma bite jules,bully,OAG,conciliator,DNG,ATK,DFN,NEG,1,1,1

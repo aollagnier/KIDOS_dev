@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv29_mess73,Lea,09:25:42,c'est celui qui dit qui l'est,victim_support,CAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv29_mess74,Leo,09:26:12,parole de bb,bully,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess75,Ana,09:26:19,des gamins,victim_support,CAG,bully/bully_support,DNG,DFN,NULL,NEG,1,0,0
+conv29_mess76,Lea,09:26:26,c'est toi le bebe cadum,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv29_mess77,Justine,09:26:36,t'es un bébé quand tu mets des photos en ligne du petit frère de quelqu'un,victim,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv29_mess78,Leo,09:26:47,et alors,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess79,Justine,09:26:48,ça montre que t'as 5 ans d'age mental,victim,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv29_mess80,Leo,09:26:53,ton ptit reuf la mskn,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess81,Lea,09:27:02,tu force léo,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv29_mess82,Justine,09:27:04,ouais et il t'a fait quoi mon frère,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv29_mess83,Lea,09:27:05,tu force mv,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv29_mess84,Leo,09:27:08,leo et lea,bully,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv29_mess85,Leo,09:27:14,vient on se voit,bully,OAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv29_mess86,Justine,09:27:21,laisse le vivre sa vie et va t'en acheter une toi,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv29_mess87,Leo,09:27:28,tg,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess88,Aurelie,09:27:30,non,bully_support,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv29_mess89,Leo,09:27:55,de tt facon ta photo elle est genante,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv29_mess90,Aurelie,09:28:03,il est pas bo,bully_support,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv29_mess91,Ana,09:28:07,ton gros crane leo,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv29_mess92,Justine,09:28:08,mais juste vire la si tu l'aime pas,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv29_mess93,Lea,09:28:11,c'est toi t'es genant tu fais que parler de ca,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0

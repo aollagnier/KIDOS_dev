@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv16_mess55,Julie,09:40:04,moi aussi jtm,victim,NAG,NULL,NULL,OTH,EMP,POS,0,0,0
+conv16_mess56,constance,09:40:05,anna je t'aime pas,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv16_mess57,Anna,09:40:11,burk,bully_support,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv16_mess58,marie,09:40:29,reparti de cp julie ca va ?,victim_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv16_mess59,Emilie,09:40:36,julie va bz ailleurs,bully,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv16_mess60,Elodie,09:40:37,toi personne t aime la julie,bully_support,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv16_mess61,Anna,09:40:44,nous sommes le rap des cp,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv16_mess62,Emilie,09:40:56,va faire un cuni ailleurs,bully,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv16_mess63,constance,09:40:56,si mo j'aime julie,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv16_mess64,Elodie,09:40:58,constance grosse folle,bully_support,OAG,victim_support,NCG,ATK,DFN,NEG,1,1,1
+conv16_mess65,constance,09:41:04,tg,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv16_mess66,Julie,09:41:06,vous êtes nulles de pas supporter les autres ce n'est pas parce que vous vivez d'une certaine façon que tout el monde doit faire pareil. ça vous fait peur que les autres montrent qu'on peut faire d'autres choix ?!,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv16_mess67,Elodie,09:41:15,tg,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv16_mess68,Anna,09:41:16,la paix dans le monde,bully_support,CAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv16_mess69,constance,09:41:17,tg,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv16_mess70,Elodie,09:41:17,ratio,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv16_mess71,Emilie,09:41:19,j'ai pas lu tlm c une merde,bully,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv16_mess72,constance,09:41:34,bah pq tu t'interresse a elle,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv16_mess73,Elodie,09:41:39,ratio,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv16_mess74,marie,09:41:46,franchement en quoi rependre votre haine va changer un truc au fait que julie sois lesbienne?,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv16_mess75,Elodie,09:41:48,grosse pute,bully_support,OAG,victim,NCG,ATK,NULL,NEG,1,1,1

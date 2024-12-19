@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv10_mess13,Sophie,15:59:00,MAIS bordel!,bully,NAG,NULL,NULL,OTH,OTH,NEG,0,0,1
+conv10_mess14,Silvia,15:59:13,qu'est ce qu'il t'arrive Sophie?,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv10_mess15,Silvia,15:59:15,:),victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv10_mess16,Silvia,15:59:27,tu es guérie?,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv10_mess17,Sophie,15:59:34,t'as embrassé Lucas?,bully,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv10_mess18,Silvia,15:59:36,c'est dommage que tu sois pas venue,victim,NAG,NULL,NULL,OTH,OTH,NEG,0,0,0
+conv10_mess19,Adrien,15:59:37,ça ce fait pas Silvia,bully_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv10_mess20,Silvia,15:59:46,on s'est super bien amusé :),victim,NAG,NULL,NULL,OTH,OTH,POS,0,0,0
+conv10_mess22,Silvia,16:00:12,oui,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv10_mess23,Silvia,16:00:18,Dommage que Sophie sois pas venue,victim,NAG,NULL,NULL,OTH,OTH,NEG,0,0,0
+conv10_mess24,michel,16:00:26,yo il se passe quoi la,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv10_mess25,Sophie,16:00:26,mais cte folle elle a embrassé lucas pdt le voyazge,bully,OAG,victim,NCG,AIN,OTH,NEG,1,1,1
+conv10_mess26,Silvia,16:00:41,qui t'a dit ça?,victim,NAG,NULL,NULL,CNS,AIN,NEU,0,0,0
+conv10_mess27,Silvia,16:00:46,c'est mm pas vrai,victim,NAG,NULL,NULL,CNS,AIN,NEU,0,0,0
+conv10_mess28,Adrien,16:00:51,a ton avis,bully_support,NAG,NULL,NULL,GSL,CNS,NEU,0,1,1
+conv10_mess29,Silvia,16:01:02,un menteur?,victim,NAG,NULL,NULL,OTH,GSL,NEU,0,0,0
+conv10_mess30,Adrien,16:01:04,je t ai vu en faite,bully_support,NAG,NULL,NULL,OTH,CNS,NEU,0,0,1
+conv10_mess32,Sophie,16:01:17,en ft t'es une grosse pute c'est ça que je dois comprendre,bully,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv10_mess33,Silvia,16:01:18,faire quoi?,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0

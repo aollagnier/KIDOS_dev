@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv10_mess1,Silvia,15:48:59,coucou les amis,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv10_mess2,Sophie,15:55:58,cc,bully,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv10_mess3,Silvia,15:56:37,ça va Sohpie?,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv10_mess4,Silvia,15:57:13,:),victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv10_mess5,Sophie,15:57:37,mais t'es sérieuse ou quoi??,bully,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv10_mess6,Silvia,15:57:43,de?,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv10_mess7,Adrien,15:57:51,ouai srx,bully_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv10_mess8,Silvia,15:58:06,mais oui sérieux les gars,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv10_mess9,Silvia,15:58:12,:),victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv10_mess10,Sophie,15:58:29,mais ptn tu le fais exprès en +,bully,NAG,NULL,NULL,OTH,OTH,NEG,0,0,1
+conv10_mess11,Silvia,15:58:41,mais de quoi Sophie?,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv10_mess12,Silvia,15:58:58,???,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv10_mess13,Sophie,15:59:00,MAIS bordel!,bully,NAG,NULL,NULL,OTH,OTH,NEG,0,0,1
+conv10_mess14,Silvia,15:59:13,qu'est ce qu'il t'arrive Sophie?,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv10_mess15,Silvia,15:59:15,:),victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv10_mess16,Silvia,15:59:27,tu es guérie?,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv10_mess17,Sophie,15:59:34,t'as embrassé Lucas?,bully,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv10_mess18,Silvia,15:59:36,c'est dommage que tu sois pas venue,victim,NAG,NULL,NULL,OTH,OTH,NEG,0,0,0
+conv10_mess19,Adrien,15:59:37,ça ce fait pas Silvia,bully_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv10_mess20,Silvia,15:59:46,on s'est super bien amusé :),victim,NAG,NULL,NULL,OTH,OTH,POS,0,0,0

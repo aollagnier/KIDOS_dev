@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv20_mess43,Ellian,10:26:32,nan jammais peur d un gay,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv20_mess44,Theo,10:26:33,Il t'as rien fait,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv20_mess45,Paul,10:26:37,alors pk dire tout ca,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv20_mess46,Ellian,10:26:59,theo ftg toi aussi t es gay ou quoi,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv20_mess47,Theo,10:27:06,oui et alors ?,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv20_mess48,Ellian,10:27:30,vous etes tous trop bizzard a etre gay,bully,OAG,victim/victim_support,DNG,ATK,NULL,NEG,1,1,1
+conv20_mess49,Theo,10:27:33,pourquoi ça t'interesse mon cochon ?,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv20_mess50,Ellian,10:27:36,vous etes pas naturel,bully,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv20_mess51,Theo,10:27:39,stv on peut s'arranger,victim_support,NAG,NULL,NULL,CR,ATK,NEU,0,0,0
+conv20_mess52,Camille,10:27:41,au pire case toi ellian avec insultes on s'en balle,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv20_mess53,Paul,10:27:45,tkt tu vas pas devenir gay c'est pa un virus,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv20_mess54,Ellian,10:27:50,je vais topus vouys eclate la geul un par un,bully,OAG,victim/victim_support,NCG,ATK,NULL,NEG,1,1,1
+conv20_mess55,Theo,10:27:53,mdrrr,victim_support,NAG,NULL,NULL,EMP,DFN,NEG,0,0,0
+conv20_mess56,Ellian,10:27:57,bande de tarlouzz,bully,OAG,victim/victim_support,NCG,ATK,NULL,NEG,1,1,1
+conv20_mess57,Camille,10:28:10,il fait chier personne il te demande pas de toucher son cul cul a se que je sache,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv20_mess58,lisa,10:28:13,ouuuuuuuuu attention o a peur,victim_support,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv20_mess59,Ellian,10:28:49,je vais tous vous enculer bande de fils de putes,bully,OAG,victim/victim_support,OTH,ATK,NULL,NEG,1,1,1
+conv20_mess60,Camille,10:28:59,oooooo,victim_support,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv20_mess61,Ellian,10:29:02,tous qautant que vous etes,bully,OAG,victim/victim_support,OTH,ATK,NULL,NEG,1,1,1
+conv20_mess62,Camille,10:29:04,on a peur,victim_support,CAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv20_mess63,lisa,10:29:10,nous on va faire des affiche avec ta grosse tete de sale refouler,victim_support,CAG,bully,OTH,DFN,ATK,NEG,1,0,0

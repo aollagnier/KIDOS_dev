@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv12_mess25,paul,14:43:35,Je ne suis plus un homme ?,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv12_mess26,Ellian,14:43:44,Oe,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv12_mess27,paul,14:43:56,Parce qu'un homme doit être viril et être hétéro ?,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv12_mess28,Camille,14:43:56,Il a pas coupé sa bite donc ses toujours un homme,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv12_mess29,paul,14:44:13,J'ai toujours ma GROSSE BITE,victim,OAG,bully,OTH,DFN,ATK,NEU,1,0,0
+conv12_mess30,paul,14:44:13,contrairement à toi!,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv12_mess31,Ellian,14:44:46,Va te faire enculer,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv12_mess32,Ellian,14:44:46,Et oe ta plus de bite salle merde,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv12_mess33,Camille,14:45:08,Il utilise sont engin comme il veut,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv12_mess34,paul,14:45:08,Avec plaisir !,victim,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv12_mess35,paul,14:45:08,:'),victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv12_mess37,paul,14:45:27,Merci jimmy,victim,NAG,NULL,NULL,DFN,ATK,POS,0,0,0
+conv12_mess38,paul,14:45:27,J'essaie de lui faire comprendre à Ellian,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv12_mess39,paul,14:45:27,qu'il n'y a aucun mal à être homo,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv12_mess40,paul,14:45:27,en plus sérieux ça me blesse tes insultes Ellian,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv12_mess41,paul,14:45:27,pourquoi tu fais ça ??,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv12_mess43,Ellian,14:46:29,Vous été tous des pédales à le défendre,bully,OAG,victim_support/conciliator,NCG,ATK,NULL,NEG,1,1,1
+conv12_mess44,paul,14:46:50,Non il n'y a aucun problème à être gay et ils l'ont compris !,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv12_mess45,Camille,14:46:53,En plus si il te drague pas ses pas ton problèmE,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0

@@ -1,0 +1,17 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv25_mess74,Pauline,16:06:25,regardes le un peu putain ouvre les yeux jenny,bully,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv25_mess75,NULL,16:06:35,la dignité partie au chiotte...,victim,OAG,bully/bully_support,DNG,DFN,NULL,NEG,1,0,0
+conv25_mess76,pierre,16:06:37,une photo meme postée ca s'efface nous prenez pas pour des cons 😤,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv25_mess79,Theo,16:06:52,meme en ouvrant les yeux,bully_support,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv25_mess80,Theresa,16:06:53,Désolé mais non,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv25_mess81,Theresa,16:07:03,oooooh,bully_support,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv25_mess82,NULL,16:07:10,bon allez supprimez moi ca,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv25_mess84,Theresa,16:07:29,une photo sur le net ca part pas mm si on voulait,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv25_mess85,NULL,16:07:30,vous voulez que je me jette d'un immeuble c'est cq?,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv25_mess86,pierre,16:07:37,pauline supprime ca t'apporte quoi serieux ?,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv25_mess87,NULL,16:07:39,ca*,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv25_mess88,Lucas,16:08:08,T'es tellement stupide Paupau,victim_support,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv25_mess89,Theresa,16:08:13,Bah non,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv25_mess90,Pauline,16:08:31,ce serai pas une grande perte,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv25_mess91,Lucas,16:08:33,Tg Thérèsa,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv25_mess93,pierre,16:08:40,mais bien sur que si 🙄puis tait toi theresa toi t'es juste un petit toutou derrière pauline qui se cache derrière son ordi,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0

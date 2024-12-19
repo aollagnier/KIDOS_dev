@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv22_mess7,Julien,10:26:54,ta bien mange?,bully_support,CAG,victim,DNG,AIN,NULL,NEG,1,1,1
+conv22_mess8,brice,10:27:06,raconte pas ta vie on s en blc,bully,OAG,victim_support,OTH,AIN,OTH,NEG,1,1,1
+conv22_mess9,justine,10:27:23,tranquile mec calme oit,victim_support,NAG,NULL,NULL,CR,AIN,NEU,0,0,0
+conv22_mess10,Julien,10:27:39,Bah alors paul faut pas ouvrir sa gueul que pour manger,bully_support,CAG,victim,DNG,AIN,NULL,NEG,1,1,1
+conv22_mess11,Paul,10:27:43,J'ai le droit de manger mon dessert,victim,NAG,NULL,NULL,CNS,AIN,NEG,0,0,0
+conv22_mess12,brice,10:28:06,bien vue julien t est un bon frero,bully,NAG,NULL,NULL,AIN,AIN,NEG,0,1,1
+conv22_mess13,justine,10:28:07,bas ouais c pas ouf ce que ta fais brice,victim_support,NAG,NULL,NULL,CNS,AIN,NEU,0,0,0
+conv22_mess14,Julien,10:28:12,mais ta pa le droit de faire trembler le sol,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv22_mess15,brice,10:28:18,il passe meme pas les portes ce zgeg,bully,OAG,victim,OTH,ATK,AIN,NEG,1,1,1
+conv22_mess16,justine,10:28:33,les gars c batard,victim_support,NAG,NULL,NULL,CR,NULL,NEG,0,0,0
+conv22_mess17,Thibaut,10:28:42,oe trop arretez,victim_support,NAG,NULL,NULL,CR,ATK,NEU,0,0,0
+conv22_mess18,justine,10:28:42,calmer vous,victim_support,NAG,NULL,NULL,CR,ATK,NEU,0,0,0
+conv22_mess19,Julien,10:28:52,on sen justine,bully_support,OAG,victim_support,OTH,ATK,CR,NEG,1,1,1
+conv22_mess20,Julien,10:29:00,blc,bully_support,OAG,victim_support,OTH,ATK,CR,NEG,1,1,1
+conv22_mess21,justine,10:29:20,ho tg et arrete,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess22,Julien,10:29:30,arrete de defendre lautre gros porc,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv22_mess23,justine,10:29:57,il a rien fait le pauvre c pas ouf ce que vous faite dans la cantine,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess24,brice,10:30:08,t as pas honte de manger autant,bully,OAG,victim,DNG,ATK,NULL,NEG,1,1,1
+conv22_mess25,Julien,10:30:24,mais si il fait que manger apres on a pas de rab,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv22_mess26,Selena,10:30:24,en quoi ca te dérange ?,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv22_mess27,brice,10:30:26,tu passe ta vie a mcdo,bully,CAG,victim,DNG,ATK,NULL,NEG,1,1,1

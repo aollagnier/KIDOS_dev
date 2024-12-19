@@ -1,0 +1,19 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv26_mess19,Fatima,16:44:40,dou elle etait dans ta douche,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv26_mess20,martine,16:44:43,hey quand y a une pute faut faire profiter!,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv26_mess21,martine,16:44:52,soit contente la grosse,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv26_mess22,Fran,16:45:06,je sais pas elle aime mon cul,victim,OAG,bully,OTH,OTH,OTH,NEG,1,0,0
+conv26_mess23,jules,16:45:19,sale grosse,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv26_mess24,martine,16:45:35,hey! slt Juju!,bully,NAG,NULL,NULL,OTH,ATK,NEU,0,0,1
+conv26_mess26,Fran,16:45:40,mais d'où tu parles le micropenis stp,victim,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv26_mess27,martine,16:45:56,et pour aimer ton cul faurdrait etre aveugle la grosse,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv26_mess28,Fatima,16:46:01,on se calmmmmmm,victim_support,NAG,NULL,NULL,CR,NULL,NEU,0,0,0
+conv26_mess29,Fran,16:46:12,pq tu me mattes sous la douche alors?,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv26_mess30,martine,16:46:13,hey la sirienne,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv26_mess31,martine,16:46:19,ferme la,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv26_mess32,Fran,16:46:20,ho tu te calmes,victim,OAG,bully,NCG,DFN,ATK,NEU,1,0,0
+conv26_mess33,Fran,16:46:23,la pute,victim,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv26_mess34,Fran,16:46:39,Tu touches pas à ma pote ou je te mange ok?!,victim,OAG,bully,THR,DFN,ATK,NEG,1,0,0
+conv26_mess36,martine,16:46:46,c toi la pute et tu m parle pas comme ca,bully,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv26_mess37,jules,16:46:47,ferme ta gueule demande a ta mere il est pas si petit,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv26_mess38,Fatima,16:46:48,t raciste ou ca se passe comment en fait martine,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0

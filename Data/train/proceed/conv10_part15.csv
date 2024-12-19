@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv10_mess85,michel,16:05:28,merde parle a lucas avant de hurler sur silvia$,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv10_mess86,Sophie,16:05:33,mais silvia t'es vraiment une grosse sous race en ft,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv10_mess88,Lisa,16:05:44,bah ecartons les cuisses enseble ! ta l'air d'aimer ca,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv10_mess89,Silvia,16:05:45,J'ai rien fait,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv10_mess90,michel,16:05:47,herbert ta gueule stp,victim_support,OAG,conciliator,OTH,OTH,OTH,NEG,1,0,0
+conv10_mess91,michel,16:05:51,deux secondes,victim_support,OAG,conciliator,OTH,OTH,OTH,NEG,1,0,0
+conv10_mess92,Sophie,16:05:51,mais michel ptn ya rien à savoir de plus,bully,OAG,victim_support,NCG,ATK,DFN,NEG,1,1,1
+conv10_mess93,Silvia,16:05:53,il mytho de ouf pcq il veut se taper sSophie,victim,OAG,NULL,OTH,OTH,OTH,NEG,1,0,0
+conv10_mess94,Silvia,16:06:11,pas vrai Adrien,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv10_mess95,Adrien,16:06:13,et toi lucas,bully_support,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv10_mess96,Silvia,16:06:26,mais Lucas il pue la merde sérieux,victim,OAG,NULL,DNG,DFN,ATK,NEG,1,0,0
+conv10_mess97,Silvia,16:06:32,c'est quoi cet acharnement,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv10_mess99,Silvia,16:06:38,keske je tai fait,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv10_mess100,Adrien,16:06:44,c est la vérite,bully_support,NAG,NULL,NULL,GSL,CNS,NEU,0,1,1
+conv10_mess101,Silvia,16:06:58,mais arrête ton mytho deux secondes,victim,NAG,NULL,NULL,DFN,GSL,NEG,0,0,0
+conv10_mess102,Lisa,16:07:03,en faite cherchez pas silvia elle veux SE FAIRE BAISER PAR TT LE MONDE,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv10_mess103,michel,16:07:10,il le saurait si il avait embrasse qqun nan,victim_support,NAG,NULL,NULL,CNS,GSL,NEU,0,0,0
+conv10_mess104,Lisa,16:07:20,ssale pute  tu vend meme pas ton corps taime ca,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv10_mess105,Sophie,16:07:21,Silvia t'es pire qu'une pute,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1

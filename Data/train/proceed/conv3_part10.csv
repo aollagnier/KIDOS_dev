@@ -1,0 +1,19 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv3_mess55,Adrien,09:22:15,silvia parle si t as des couille grognasse,bully,OAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv3_mess57,Adrien,09:23:03,arrete d essayer de calmer,bully,OAG,conciliator,THR,ATK,CR,NEG,1,1,1
+conv3_mess58,camille,09:23:03,ta bouche c'est un garage arrête de parler,bully_support,OAG,conciliator,OTH,ATK,CR,NEG,1,1,1
+conv3_mess59,Adrien,09:23:10,ou je vais t’attraper aussi,bully,OAG,conciliator,THR,ATK,CR,NEG,1,1,1
+conv3_mess60,Diana,09:23:15,hebert tu sers a rien,bully_support,OAG,conciliator,DNG,ATK,CR,NEG,1,1,1
+conv3_mess61,Soan,09:23:16,très peu stylé votre répartie... vous embrouillez pour rien,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv3_mess63,SilviaVictime,09:23:29," Og on c'est juste embrasser 1 fois, c'est quoi ce délire !",victim,OAG,bully/bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv3_mess64,Theo,09:23:30,tg petasse,bully_support,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv3_mess65,Adrien,09:23:58,ta bouche c un garage a teub,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv3_mess66,Theo,09:24:05,on va devoir te coudre la bouche,bully_support,OAG,victim,THR,AIN,ATK,NEG,1,1,1
+conv3_mess67,SilviaVictime,09:24:36," BOn, ta pas des arguments plutot que des insuste en boucle  Adrien ?",victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv3_mess68,Diana,09:24:42,et alors frr elle etait en cvouple et toi t'embrasse le mec de ta collegue,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv3_mess69,Soan,09:24:55,Lucas a fauté,victim_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv3_mess70,Theo,09:25:01,parle francais le s,bully_support,CAG,victim_support,DNG,ATK,OTH,NEG,1,1,1
+conv3_mess72,camille,09:25:11,et alors tu sais pas dire,bully_support,OAG,conciliator,OTH,ATK,CR,NEG,1,1,1
+conv3_mess73,Adrien,09:25:11,je comprend meme pas pq il t’as embrasse sophi est pas grosse au moins,bully,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv3_mess74,Soan,09:25:12,C'est pas la faute de Silvia Soyez logique,victim_support,NAG,NULL,NULL,CR,OTH,NEU,0,0,0
+conv3_mess75,SilviaVictime,09:25:20,C'est pas moi qui suis en couple et Lucas fait ce qu'il veut,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0

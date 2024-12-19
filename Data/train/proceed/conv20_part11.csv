@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv20_mess61,Ellian,10:29:02,tous qautant que vous etes,bully,OAG,victim/victim_support,OTH,ATK,NULL,NEG,1,1,1
+conv20_mess62,Camille,10:29:04,on a peur,victim_support,CAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv20_mess63,lisa,10:29:10,nous on va faire des affiche avec ta grosse tete de sale refouler,victim_support,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv20_mess64,Ellian,10:29:22,tg sale noir,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv20_mess65,Camille,10:29:26,ecoute achète toi une face meme pas je te touche avec un baton,victim_support,CAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv20_mess66,Theo,10:29:38,tu déverses ta haine car tu as peur d'assumer ton orientation sexuelle en raison du regard d'antant de la société qui était plutôt primitif et axé uniquement sur une haine pure et noire,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv20_mess67,Ellian,10:29:57,le baton qui seervais a te faire battre sa negro,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv20_mess68,lisa,10:30:07,theo je t'aime souleve moi,victim_support,NAG,NULL,NULL,OTH,DFN,POS,0,0,0
+conv20_mess69,Theo,10:30:13,vasi lisa prq p)as pas envoie ton snap bb,victim_support,NAG,NULL,NULL,OTH,OTH,POS,0,0,0
+conv20_mess70,Paul,10:30:27,c'est dommage  tu n'as jamais été comme ça Ellian,victim,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv20_mess71,Theo,10:30:30,mais juste Ellian tu vois,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv20_mess72,Ellian,10:30:32,grv envoir ton snap,bully,CAG,victim_support,OTH,ATK,OTH,NEG,1,1,1
+conv20_mess73,lisa,10:30:47,tkt apres theo ;),victim_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv20_mess74,Theo,10:30:52,Ellian le truc c'est qu'en forçant comme ça tu vas juste te faire ignorer de tout le monde on en a rien a foutre de ton avis que t'aime ou non les gays,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv20_mess75,Theo,10:31:24,en vrai meme arrete de parler sinon on va te bloquer l'orientation d'une personne ne te regarde pas,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv20_mess76,Ellian,10:31:42,theo sale arabe je t enclancher,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv20_mess77,Theo,10:31:55,Théo est un nom purement français abrutit ça signifie dieu,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv20_mess78,Arthur,10:32:13,Je suis d'accord avec ellian sale arabe,bully_support,OAG,victim_support,OTH,AIN,ATK,NEG,1,1,1
+conv20_mess79,Theo,10:32:17,donc un peu de respect ma grande,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv20_mess81,lisa,10:32:25,arthur et les minimoys la,victim_support,OAG,bully_support,OTH,DFN,AIN,NEG,1,0,0

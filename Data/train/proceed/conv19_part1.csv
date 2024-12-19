@@ -1,0 +1,18 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv19_mess1,Ellian,12:46:46,Paul il est en couple avec Brice,bully,OAG,victim/conciliator,OTH,AIN,NULL,NEG,1,1,1
+conv19_mess3,Nicola,12:46:55,bahahah couple de pd,bully_support,OAG,victim/conciliator,NCG,AIN,AIN,NEG,1,1,1
+conv19_mess4,Arthur,12:46:57,Déguelasse,bully_support,OAG,victim/conciliator,DNG,AIN,AIN,NEG,1,1,1
+conv19_mess5,Arthur,12:47:01,ça dégoute frr,bully_support,OAG,victim/conciliator,DNG,AIN,AIN,NEG,1,1,1
+conv19_mess6,Nicola,12:47:01,grosse merde assume brice,bully_support,OAG,conciliator,NCG,ATK,CNS,NEG,1,1,1
+conv19_mess7,Paul,12:47:07,mais n'importe quoi ...,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv19_mess8,Arthur,12:47:15,Brice tu l'as bien mis dans ta gorge hein?,bully_support,OAG,conciliator,DNG,ATK,CNS,NEG,1,1,1
+conv19_mess9,Nicola,12:47:15,paul et brice assumer wsh,bully_support,OAG,victim/conciliator,NCG,ATK,NULL,NEG,1,1,1
+conv19_mess11,Ellian,12:47:18,wlh c'est pas bien Paul,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv19_mess12,Nicola,12:47:19,bande de gay,bully_support,OAG,victim/conciliator,NCG,ATK,DFN,NEG,1,1,1
+conv19_mess15,LisaLaBoss,12:47:26,paul le goat !!!!,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv19_mess16,theo,12:47:26,Et mais au pire laisser le tranquille,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv19_mess17,Nicola,12:47:31,BLCCCC,bully_support,OAG,victim,NCG,ATK,CNS,NEG,1,1,1
+conv19_mess18,Arthur,12:47:34,toi dors Paul,bully_support,OAG,victim,OTH,AIN,NULL,NEU,1,1,1
+conv19_mess19,Ellian,12:47:34,Que des Pd dans le groupe,bully,OAG,victim/victim_support/conciliator,NCG,ATK,NULL,NEG,1,1,1
+conv19_mess20,Arthur,12:47:39,réel,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv19_mess21,theo,12:47:40,y fait ce qui veux,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0

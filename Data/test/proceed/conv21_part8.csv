@@ -1,0 +1,15 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv21_mess43,Thibaut,09:18:02,c sur que avec ton 4 de moyenne tu vas pas aller loin julien,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv21_mess44,Arthur,09:18:27,frr ta 2 de moyenne,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv21_mess45,julien,09:18:31,t expert en informatique pour savoir j ai combien de moyenne ?trouve autre chose stp au lieu de raconter de la merde,bully_support,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv21_mess46,brice,09:18:39,ah oe ça taille sur les notes tellement t'as r a dire,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv21_mess47,julien,09:19:01,grv bande d omellete,bully_support,OAG,victim/victim_support,NCG,AIN,ATK,NEG,1,1,1
+conv21_mess48,Thibaut,09:19:11,Je taille pas je dis juste se que je pense,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv21_mess50,julien,09:19:22,bah revois tes sources tdc,bully_support,OAG,victim_support,OTH,ATK,CNS,NEG,1,1,1
+conv21_mess53,julien,09:19:49,les gars on a brusque le daron du lycee,bully_support,CAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv21_mess54,Paul,09:19:52,Moi je demande que ça mais il faut d'abord qu'ils suppriment la vidéo,victim,NAG,NULL,NULL,OTH,DFN,NEU,0,0,0
+conv21_mess55,julien,09:20:07,flemme,bully_support,CAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv21_mess56,brice,09:20:11,faut le brusquer un peu le paul peut être ça lui fera commencer un régime mdr,bully,CAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv21_mess59,Thibaut,09:20:29,mais en quoi flemme frere ta 2 clique à faire,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv21_mess60,julien,09:20:29,enleve moi mon tel des mains si tu veux la supprime,bully_support,OAG,conciliator,THR,ATK,EMP,NEG,1,1,1
+conv21_mess62,Justine,09:20:37,mais juste supprime la vidéo et c'est terminé pourquoi tu cherche les problème,victim_support,CAG,bully_support,THR,DFN,ATK,NEG,1,0,0

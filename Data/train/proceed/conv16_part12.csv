@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv16_mess67,Elodie,09:41:15,tg,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv16_mess68,Anna,09:41:16,la paix dans le monde,bully_support,CAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv16_mess69,constance,09:41:17,tg,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv16_mess70,Elodie,09:41:17,ratio,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv16_mess71,Emilie,09:41:19,j'ai pas lu tlm c une merde,bully,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv16_mess72,constance,09:41:34,bah pq tu t'interresse a elle,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv16_mess73,Elodie,09:41:39,ratio,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv16_mess74,marie,09:41:46,franchement en quoi rependre votre haine va changer un truc au fait que julie sois lesbienne?,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv16_mess75,Elodie,09:41:48,grosse pute,bully_support,OAG,victim,NCG,ATK,NULL,NEG,1,1,1
+conv16_mess76,Julie,09:41:57,ça vous met en colère parce que peut-etre vous avez peur d'être pareilles ?,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv16_mess77,Emilie,09:42:06,oui elle nous fous la honte,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv16_mess78,marie,09:42:13,toi aussi *,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv16_mess79,Julie,09:42:21,c'est toi qui nous fait honte d'être aussi méchante,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv16_mess80,Elodie,09:42:26,Ftg toi,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv16_mess81,Julie,09:42:33,bel argument,victim,NAG,NULL,NULL,EMP,DFN,NEG,0,0,0
+conv16_mess82,Elodie,09:42:34,la ptn de lesbos,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv16_mess83,marie,09:42:37,elodie va te faire prendre par 8 renois,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv16_mess84,Emilie,09:42:38,mdr Julie allez dégage,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv16_mess85,Anna,09:42:38,bref julie retourne dans la chatte a ta meuf,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv16_mess86,marie,09:42:43,et julie aussi,victim_support,OAG,bully_support,DNG,DFN,ATK,NEU,1,0,0
+conv16_mess87,Julie,09:42:44,et la ptn d'héteros,victim,OAG,bully/bully_support,OTH,DFN,ATK,NEG,1,0,0

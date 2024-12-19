@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv2_mess13,Silvia,14:13:10,t'as un problème ?,victim,NAG,NULL,NULL,DFN,AIN,NEU,0,0,0
+conv2_mess14,Adrien,14:13:18,oui c toi,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv2_mess15,Silvia,14:13:30,et toi Diana avec ta gueule de macaque de quoi tu parles?,victim,OAG,bully_support,DNG,DFN,OTH,NEG,1,0,0
+conv2_mess16,Adrien,14:13:55,commence pas a parler d elle comme ca,bully,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv2_mess17,Soan,14:14:03,C pas de sa faute c Lucas,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv2_mess18,Silvia,14:14:08,c'est quoi ton fucking pblm,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv2_mess19,Amos,14:14:10,Tu t'es jamais vu au miroir? avant de parler,bully_support,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv2_mess20,Silvia,14:14:13,merci Soan,victim,NAG,NULL,NULL,EMP,CNS,POS,0,0,0
+conv2_mess21,Silvia,14:14:23,*dans le miroir,victim,CAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv2_mess22,Silvia,14:14:29,achète un bescherelle,victim,CAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv2_mess24,Silvia,14:14:45,de quoi on parle merde?,victim,NAG,NULL,NULL,OTH,NULL,NEG,0,0,0
+conv2_mess25,Amos,14:14:56,je suis espagnol pardon de ne pas tout savoir connasse,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv2_mess26,Silvia,14:15:11,de où je suis une connasse?,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv2_mess27,Diana,14:15:18,tu as embrasser Lucas alors que sophia est ta pote !,bully_support,OAG,victim,DNG,ATK,DFN,NEU,1,1,1
+conv2_mess28,Diana,14:15:27,tu as foutu la merde dans leurs couple,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv2_mess29,Diana,14:15:31,c'est dégeulasse,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv2_mess30,Amos,14:15:32,bravo. je te complimente,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv2_mess31,Silvia,14:15:37,c'est Lucas qui a mis sa langue dans ma bouche donc déjà tu redescends,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv2_mess32,Adrien,14:15:53,sylvia t vraiment la pire des grosses salope tu savait qu il été en couple est tu la embrassé ta aucun *e race,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv2_mess33,Amos,14:15:58,en plus tu dis que c'est sa faute,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1

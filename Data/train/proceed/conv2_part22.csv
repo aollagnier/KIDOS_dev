@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv2_mess127,Amos,14:28:40,Alors Silvia?,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv2_mess128,Silvia,14:28:44,déso j'avais plus de connexion,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv2_mess129,Silvia,14:28:46,merde,victim,NAG,NULL,NULL,OTH,NULL,NEG,0,0,0
+conv2_mess130,Silvia,14:28:51,donc on en était où?,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv2_mess131,Adrien,14:29:00,deja on est pas con soan,bully,NAG,NULL,NULL,OTH,EMP,NEU,0,0,1
+conv2_mess132,Silvia,14:29:02,ah oui,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv2_mess134,Silvia,14:29:04,Adrien,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv2_mess135,Amos,14:29:07,c'est ça ton excuse de merde?,bully_support,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv2_mess136,Adrien,14:29:29,ces ton pere qui la pomper comme toi avec les mecs!!!!!!!!!!!!!!!!,bully,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv2_mess137,Silvia,14:29:30,Je vais demander à ton père de me payer un vrai phone,victim,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv2_mess138,Silvia,14:29:43,mon père est mort fdp,victim,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv2_mess139,Silvia,14:30:20,mais vazi sens toi mieux mtnt,victim,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv2_mess140,Diana,14:30:27," c'est parce qu'il a eu une vrai leçon, lui aussi il piquer les meufs des autres ?",bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv2_mess141,Adrien,14:30:27,il pourras pas t acheter de tel,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv2_mess142,Silvia,14:30:35,le tien oui,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv2_mess143,Soan,14:30:36,respecter sa famille puatin,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv2_mess144,Adrien,14:30:48,sa fammille de pute,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv2_mess145,Diana,14:30:55,cest pas respectable,bully_support,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv2_mess146,Silvia,14:31:10,techniquement mon père était comptable,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv2_mess147,Silvia,14:31:14,mais si tu veux,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0

@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv5_mess49,leo,11:14:33,fatimah pas très francais,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv5_mess50,Paul,11:14:34,La géographie c'est pas ton fort,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv5_mess51,julie,11:14:43,tu peux pas les monter,bully,OAG,victim,OTH,GSL,CNS,NEG,1,1,1
+conv5_mess52,coralie,11:15:04,le niveau de vos blagues est eclaté les gars faite un effort,victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv5_mess53,leo,11:15:17,"fatimah son vagin il sens le cochon,",bully_support,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv5_mess54,Paul,11:15:24,retourne te faire enculer par un singe,bully_support,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv5_mess55,julie,11:15:30,tu sais nager fat ?,bully,CAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv5_mess56,FatimahVictime,11:15:38,C'est pas toi qui vas le sentir Leo !,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv5_mess57,leo,11:16:14,"tkt y a des photos qui tournent , pas très rasé tout ca",bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv5_mess58,Paul,11:16:32,you born fat,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv5_mess59,coralie,11:16:34,t'en a jamais vu en vrai donc ta de la chance,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv5_mess60,FatimahVictime,11:16:41,"Si tu fais ça, ... tu sais que je peux porter plainte?",victim,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv5_mess61,leo,11:16:48,j'ai vu le cul de ta soeur,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv5_mess62,coralie,11:16:57,t'en a pas vu non plus,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv5_mess63,julie,11:17:01,ça va etre fait tkt,bully,OAG,victim,THR,ATK,CNS,NEG,1,1,1
+conv5_mess64,leo,11:17:09,porte plainte grosse folle sa va te meler,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv5_mess65,coralie,11:17:12,ta jamais toucher personne,victim_support,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv5_mess66,FatimahVictime,11:17:14,"Et Leo, je vois pas comment tu pourrais avoir ce genre de photo..",victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv5_mess67,coralie,11:17:18,leo77,victim_support,OAG,bully_support,NCG,DFN,ATK,NEU,1,0,0
+conv5_mess68,leo,11:17:29,tout le monde a vu ton cul,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv5_mess69,coralie,11:17:30,bolosse,victim_support,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0

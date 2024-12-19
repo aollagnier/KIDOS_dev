@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv16_mess43,Emilie,09:39:28,non jprefere le tien mv,bully,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv16_mess44,constance,09:39:31,anna tg,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv16_mess45,Julie,09:39:38,Et vous vous gênez tout le monde avec vos insultes et votre intolérance,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv16_mess46,marie,09:39:45,il est pas zoophile,victim_support,CAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv16_mess47,Emilie,09:39:47,Julie tg tg tg,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv16_mess48,Anna,09:39:50,t'es encore la constance?,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv16_mess49,Emilie,09:39:50,tg,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv16_mess50,constance,09:39:52,julie je t'aime,victim_support,NAG,NULL,NULL,EMP,DFN,NEG,0,0,0
+conv16_mess51,Julie,09:39:55,ah le débat s'améliore...,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv16_mess52,Anna,09:39:57,on t'avais oublié,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv16_mess53,marie,09:40:01,ho plus de reparti??,victim_support,CAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv16_mess54,Elodie,09:40:02,constence je pine tout ton arbre genealogique,bully_support,OAG,victim_support,THR,ATK,EMP,NEG,1,1,1
+conv16_mess55,Julie,09:40:04,moi aussi jtm,victim,NAG,NULL,NULL,OTH,EMP,POS,0,0,0
+conv16_mess56,constance,09:40:05,anna je t'aime pas,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv16_mess57,Anna,09:40:11,burk,bully_support,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv16_mess58,marie,09:40:29,reparti de cp julie ca va ?,victim_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv16_mess59,Emilie,09:40:36,julie va bz ailleurs,bully,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv16_mess60,Elodie,09:40:37,toi personne t aime la julie,bully_support,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv16_mess61,Anna,09:40:44,nous sommes le rap des cp,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv16_mess62,Emilie,09:40:56,va faire un cuni ailleurs,bully,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv16_mess63,constance,09:40:56,si mo j'aime julie,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0

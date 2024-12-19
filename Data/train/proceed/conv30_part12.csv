@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv30_mess68,leo,10:45:37,oue retourne a jerusalem,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv30_mess69,Ana,10:45:44,va faire ta vie si t'en a une parce que j'ai des doutes,victim_support,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv30_mess70,Justine,10:46:00,"Mais tun'es  meme pas capable de répondre à ma question, ça vous fait quoi que je sois juive ?",victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv30_mess71,Ana,10:46:21,laisse tomber ila 0 reparti,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv30_mess72,Isabelle,10:46:45,ba ca nous dérange,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv30_mess73,Justine,10:46:55,et pourquoi ?,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv30_mess74,Isabelle,10:47:08,ba t'es pas comme nous,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv30_mess75,leo,10:47:09,on aime pas les juifs,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv30_mess76,Ana,10:47:14,bah on s'en balec que ca vs derange on vs demande pas votre avis,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv30_mess77,leo,10:47:48,alors poste pas sur internet si l'avis des gens te derange,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv30_mess78,Justine,10:47:52,"mais si je suis comme vous, rien ne change sauf pour mon mode de vie mais ça ne change rien à la vôtre, on vous laisse tranquille alors fichez nous la paix",victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv30_mess79,Ana,10:48:12,tu fais tiep leo,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv30_mess80,Lea,10:48:30,perso je préfère être différente que vous ressembler et être une bande de mouton a suivre une personne raciste,victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv30_mess81,Justine,10:48:33,on ne vous oblige pas à être juifs donc ...,victim,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv30_mess82,leo,10:48:46,\O/  : toi qui tient ta kipa,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv30_mess83,Justine,10:49:03,et alors qu'est-ce que ça peut te faire ? elle te gene en quoi la kipa ?,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv30_mess84,Ana,10:49:13,mdr t'es quoi toi leo chrétien?,victim_support,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv30_mess85,leo,10:49:30,nan athée,bully,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv30_mess86,Justine,10:49:50,"et alors on n'essaie pas de t'obliger à avoir une religion, pourquoi tu embêtes les autres ?",victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv30_mess87,Ana,10:49:59,ET C4EST QUOI TON PRBLM AVEC LES JUIFS,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0

@@ -1,0 +1,18 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv19_mess85,Nicola,12:51:55,on s'en fou de paul,bully_support,OAG,victim,OTH,ATK,CR,NEG,1,1,1
+conv19_mess86,Camikaz,12:51:59,c'est pas gentil d'etre mechant,victim_support,NAG,NULL,NULL,CR,NULL,NEU,0,0,0
+conv19_mess87,Nicola,12:52:02,qui creve,bully_support,OAG,victim,OTH,ATK,CR,NEG,1,1,1
+conv19_mess89,Nicola,12:52:09,cette sombre merde,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv19_mess90,Ellian,12:52:10,paul il mange 30km de queue,bully,OAG,victim,DNG,ATK,NULL,NEG,1,1,1
+conv19_mess91,Arthur,12:52:13,Paul meurs,bully_support,OAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv19_mess92,Ellian,12:52:16,c'est plus que ta daronne,bully,OAG,victim,DNG,ATK,NULL,NEG,1,1,1
+conv19_mess93,Paul,12:52:18,Je me sens franchement humilié ...,victim,NAG,NULL,NULL,OTH,ATK,NEG,0,0,0
+conv19_mess94,theo,12:52:24,C’est les gens fermés d’esprit comme vous qui mériteraient de crever,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv19_mess95,Ellian,12:52:24,bah degage,bully,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv19_mess97,Ellian,12:52:30,on veut pas de toi,bully,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv19_mess99,Arthur,12:52:33,Paul le drôle,bully_support,CAG,victim,NCG,ATK,OTH,NEG,1,1,1
+conv19_mess100,Nicola,12:52:37,brice va dead,bully_support,OAG,conciliator,THR,ATK,EMP,NEG,1,1,1
+conv19_mess101,Ellian,12:52:38,viens meme pas en cours,bully,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv19_mess103,theo,12:52:55,oh les sangs oh pire vivez votre vie de votre côté lui de la sienne et c’est tout,victim_support,NAG,NULL,NULL,CR,NULL,NEU,0,0,0
+conv19_mess104,Arthur,12:52:56,on t'attend à la sortie Paul (no homo),bully_support,OAG,victim,THR,ATK,OTH,NEG,1,1,1
+conv19_mess105,theo,12:53:11,vazy Arthur on t’attend aussi,victim_support,OAG,bully_support,THR,DFN,ATK,NEG,1,0,0

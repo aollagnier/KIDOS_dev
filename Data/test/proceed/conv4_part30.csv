@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv4_mess175,Nicolas,11:50:18,moi c mon pays o moinh,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv4_mess176,Pierre,11:50:23,et tout le monde devrait etre comme ça,bully_support,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv4_mess177,Nicolas,11:50:32,donc je me premer cque je veux par apport atoi,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv4_mess178,Teresa,11:50:36,ooo nicolas tg,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv4_mess179,Nicolas,11:50:43,bisoussssssssssssssssssssssssssss,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv4_mess180,Pauline,11:50:44,bon fatima on va te ntm tkt,bully,OAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv4_mess181,Fatima,11:50:58,ca veut rien dire ta phrase,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv4_mess182,Pierre,11:51:13,tu peux pas savoir fat fat,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv4_mess183,Teresa,11:51:20,bref bisous de nous les jaloux,victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv4_mess184,Pierre,11:51:22,meme ton soutien se casse t'es seule,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv4_mess185,Pauline,11:51:30,javoue tu sais pas tu parle meme pas francais,bully,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv4_mess187,Pierre,11:51:37,et nous on te démarre,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv4_mess189,Pierre,11:51:44,mdrrrrr theo qui abandonne,bully_support,OAG,conciliator,OTH,ATK,OTH,NEG,1,1,1
+conv4_mess190,Fatima,11:51:57,vas y ciao les ploucs,victim,OAG,bully/bully_support,NCG,DFN,NULL,NEG,1,0,0
+conv4_mess191,Pierre,11:51:57," tkt t'auras son cul quand meme vu comment elle l'expose ""les ploucs"" mdrrrrrrrrrrrrrrrr",bully_support,OAG,victim/conciliator,OTH,ATK,OTH,NEG,1,1,1
+conv4_mess192,Fatima,11:52:19,retournez dans votre ferme traire vos meres,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv4_mess193,Pauline,11:52:21,si l'unitilité etait une personne,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv4_mess194,Teresa,11:52:30,moi et fatima on n'a pas votre time dsl,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv4_mess195,Pierre,11:52:31,t'as cru t'as dead ça?,bully_support,NAG,NULL,NULL,GSL,DFN,NEG,0,1,1

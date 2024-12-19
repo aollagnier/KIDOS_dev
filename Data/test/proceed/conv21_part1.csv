@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv21_mess1,Thibaut,09:07:46,Ho pk vous insulter Paul ?,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv21_mess2,brice,09:09:19,parce qu'il est gros,bully,OAG,victim,DNG,AIN,OTH,NEG,1,1,1
+conv21_mess3,Thibaut,09:09:53,Mais frere t casiment aussi obèse que lui gros chien,victim_support,OAG,bully,NCG,DFN,AIN,NEG,1,0,0
+conv21_mess4,brice,09:10:29,bah alors on a les nerfs?,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv21_mess5,Thibaut,09:10:51,nn,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv21_mess6,Thibaut,09:10:55,mais c pas cool,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv21_mess7,brice,09:10:58,vous faites pitié,bully,OAG,victim_support,DNG,ATK,CNS,NEG,1,1,1
+conv21_mess8,Thibaut,09:11:02,pk ?,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv21_mess9,brice,09:11:44,tg,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv21_mess10,Arthur,09:12:00,Oe pk tu parles,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv21_mess11,Thibaut,09:12:17,aucune répartie mdr XD ça me fume,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv21_mess12,julien,09:12:34,oe moi aussi,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv21_mess13,brice,09:12:55,bon frerot raconte pas ta vie,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv21_mess14,julien,09:13:30,j'avoue,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv21_mess15,julien,09:14:12,mais on t'as meme pas parler a toi,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv21_mess16,Thibaut,09:14:28,mais frere t insulte Paul,victim_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv21_mess17,julien,09:14:37,psq il merite,bully_support,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv21_mess18,brice,09:14:42,en même temps vu comme il est gros,bully,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv21_mess19,julien,09:14:42,mskn il a pas d ami,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv21_mess20,Thibaut,09:14:43,Ah pk Si il ma moi,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv21_mess21,julien,09:15:03,t payé combien ?,bully_support,CAG,victim_support,OTH,ATK,CNS,NEG,1,1,1

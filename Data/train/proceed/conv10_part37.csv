@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv10_mess217,Silvia,16:17:24,en plus d'être en manque tu es un vampire?,victim,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess218,Lisa,16:17:27,bah avec le sida c sur tu va crever vite silvia ??,bully_support,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv10_mess219,Sophie,16:17:32,qestu parles grosse folle c'est toi l'obèse donc c'est toi qui roule,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv10_mess220,Silvia,16:17:35,Faut arrêter mon vieux Twilight c'est has been,victim,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess221,Lisa,16:17:41,bah avec le sida c sur tu va crever vite silvia ??,bully_support,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv10_mess222,Silvia,16:17:59,Techniquement le sac à MST c'est pas moi...,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv10_mess223,Sophie,16:18:07,mais lisa laisse tomber la meuf c'est SIDA ebola tétanos tt ce que tu veux,bully,OAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv10_mess224,Silvia,16:18:09,🤣,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv10_mess225,Lisa,16:18:16,carement,bully_support,NAG,NULL,NULL,AIN,AIN,NEG,0,1,1
+conv10_mess226,Silvia,16:18:18,tu vas faire médecine toi pas vrai?,victim,CAG,bully,OTH,DFN,AIN,NEG,1,0,0
+conv10_mess227,Silvia,16:18:23,tu en connais des maladies...,victim,CAG,bully,OTH,DFN,AIN,NEG,1,0,0
+conv10_mess228,Adrien,16:18:24,Rigole demain tu pourras plus,bully_support,OAG,victim,THR,ATK,OTH,NEG,1,1,1
+conv10_mess229,Sophie,16:18:28,dans ta chatte ya 3-4 gangs de mst questu parles,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv10_mess230,Lisa,16:18:36,pas besoin pour savoir que ta tt les mst de la tere,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv10_mess231,Silvia,16:18:37,toi tu peux déjà plus vu l'état de tes vieilles dents,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess232,Adrien,16:18:40,Je vais te defigurer,bully_support,OAG,victim,THR,ATK,OTH,NEG,1,1,1
+conv10_mess233,Silvia,16:18:53,hahahaha Mais sérieux Sophie tu as pas mieux?,victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess234,Lisa,16:18:54,c deja fait,bully_support,OAG,victim,THR,AIN,ATK,NEG,1,1,1
+conv10_mess235,Silvia,16:18:56,C'est du vu et revu,victim,CAG,bully,OTH,DFN,ATK,NEU,1,0,0
+conv10_mess237,Silvia,16:19:05,tu es pas capable d'inventer tes propres trucs?,victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0

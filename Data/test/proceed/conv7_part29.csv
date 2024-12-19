@@ -1,0 +1,18 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv7_mess169,Pauline,15:51:26,…,bully,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv7_mess170,Fatima,15:51:27,moi je veux juste qu'on s'explique pour savoir ce que j'ai fait MOI de mal,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv7_mess171,Pauline,15:51:31,j’avoue,bully,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv7_mess172,Anton,15:51:34,nn c juste que j'aime pas ca peau elle est moche elle vole la fr,bully_support,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv7_mess173,Pauline,15:51:36,Je suis jalouse,bully,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv7_mess175,teresa,15:51:41,t’a rien fais cnest l’autre là,victim_support,NAG,NULL,NULL,EMP,OTH,NEU,0,0,0
+conv7_mess176,Pierre,15:51:52,Bien sûr qu’elle est en tords,bully_support,OAG,victim,OTH,ATK,EMP,NEG,1,1,1
+conv7_mess178,alice,15:51:53,fatima t'as r fait c juste eux qui disent de la d,victim_support,OAG,bully/bully_support,OTH,EMP,OTH,NEG,1,0,0
+conv7_mess179,Pauline,15:51:55,prcs Fatima elle est trop belle lv jveux être comme elle,bully,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv7_mess181,Anton,15:51:56,nn pauline une soldat tombe ds la bataille chui ps jaloux,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv7_mess182,Pauline,15:52:15,😞,bully,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv7_mess184,Anton,15:52:21,chui juste pour le z,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv7_mess185,teresa,15:52:21,Enfin elle assume,victim_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv7_mess186,alice,15:52:26,anton65 toi t juste con,victim_support,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv7_mess187,Julie,15:52:29,d'accord avec Sarah,victim_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,0
+conv7_mess188,Pauline,15:52:30,C’est grâce à Sarah et theo que je m’en rends compte,bully,NAG,NULL,NULL,OTH,NULL,POS,0,0,1
+conv7_mess189,Nicolas,15:52:34,J'avoue je t'aime bien en fait Fatima mais je déteste toujours les arabes et les noirs,bully_support,NAG,NULL,NULL,OTH,CR,NEG,0,0,1

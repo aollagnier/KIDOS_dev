@@ -1,0 +1,18 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv23_mess37,Jim,14:35:31,kehba de bitch,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv23_mess38,Amine,14:35:34,suce moi,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv23_mess39,Jim,14:35:48,jules ftg toi,bully_support,OAG,conciliator,OTH,ATK,CNS,NEG,1,1,1
+conv23_mess41,Brice,14:36:18,grave c'est quoi vot probleme,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv23_mess42,Jim,14:36:20,ptdrrrr commee ta mere l'andicape,bully_support,OAG,conciliator,DNG,ATK,DFN,NEG,1,1,1
+conv23_mess43,David,14:36:23,mdrrr tu es de quelle coter wshhhhhhhh,bully,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv23_mess44,Brice,14:36:37," juste davidharceleur le mec fait lmalin, y prend des photos et après y crache",victim,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv23_mess45,Amine,14:36:38,jules vien dans notre camp sinon j'vais te peter le fion,bully_support,OAG,conciliator,THR,ATK,DFN,NEG,1,1,1
+conv23_mess46,Moussa,14:36:47,parlez bien avec vos bouches,victim_support,CAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv23_mess47,Jim,14:36:56,jvais te louvrir en deux,bully_support,OAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv23_mess48,David,14:37:16,brice suce ma bite,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv23_mess50,Yanis,14:37:38,vos bouche,victim_support,CAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv23_mess51,Jim,14:37:43,mais jvais serre bande de trdc,bully_support,OAG,victim/victim_support/conciliator,OTH,ATK,NULL,NEG,1,1,1
+conv23_mess52,Brice,14:37:45,merci les gars,victim,NAG,NULL,NULL,EMP,NULL,NEU,0,0,0
+conv23_mess53,Amine,14:38:02,TES TELLEMENT GROS QUE QUAND TU PASSE DEVANT LE SOLEIL TOUT LE MONDE CRIS ECLIPSE!!!!!!!!,bully_support,OAG,victim,DNG,ATK,EMP,NEG,1,1,1
+conv23_mess55,David,14:38:05,brice comment tu fais le malin,bully,OAG,victim,OTH,ATK,EMP,NEG,1,1,1
+conv23_mess57,Moussa,14:38:12,vous faites les fous a plusieurs seuls ca parle plus,victim_support,CAG,bully,OTH,DFN,ATK,NEG,1,0,0

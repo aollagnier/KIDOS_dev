@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv4_mess139,Nicolas,11:47:16,plus une troisieme teresa,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv4_mess140,Pierre,11:47:22,oyé tous repostez en story les photos de la negre,bully_support,OAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv4_mess141,Nicolas,11:47:22,+famtima 4,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv4_mess142,Teresa,11:47:24,et tu venira en prison,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv4_mess143,Pierre,11:47:32,on va bien se marrer,bully_support,CAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv4_mess144,Teresa,11:47:32,tu vas rien comprendre,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv4_mess145,Nicolas,11:47:56,parle pas de prison quand tu coco pas mdrrr,bully_support,OAG,victim_support,OTH,GSL,CNS,NEG,1,1,1
+conv4_mess146,Pierre,11:48:03,demain on imprime on affiche?,bully_support,OAG,victim,THR,ATK,NULL,NEG,1,1,1
+conv4_mess147,Pauline,11:48:06,fatima t une grosse pute a part envoyez des nudes tu f rien,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv4_mess148,Nicolas,11:48:06,si on a compris tkt,bully_support,CAG,victim_support,DNG,ATK,CNS,NEG,1,1,1
+conv4_mess149,Teresa,11:48:17,mais mdrr pauline elle a tourné dans toute la france,victim_support,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv4_mess150,Nicolas,11:48:31,mdrrr,bully_support,CAG,victim_support,DNG,ATK,CNS,NEG,1,1,1
+conv4_mess151,Pauline,11:48:42,normal j'suis une star,bully,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv4_mess152,Pierre,11:48:42,sa chatte aussi,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv4_mess154,Pierre,11:48:46,pour avoir les papiers,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv4_mess155,Teresa,11:48:47,et elle ose ouvrir sa bouche de suceuse,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv4_mess156,Pierre,11:48:50,sa mère aussi,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv4_mess157,Fatima,11:48:51,t trop jalouse qu aucun mec te trouves belle,victim,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv4_mess159,Nicolas,11:49:04,"c, mdrr elle t belle $*",bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1

@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv2_mess43,Silvia,14:16:51,Il a mis sa langue dans ma bouche j'ai rien fait pour la retirer mais faut te calmùer avec les insultes,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv2_mess44,Amos,14:16:52,soan,bully_support,NAG,NULL,NULL,OTH,CNS,NEU,0,0,1
+conv2_mess45,Silvia,14:16:54,c'est pas cool,victim,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv2_mess46,Diana,14:17:07,non sa arrive pas elle ne peux pas se trouver un mec sans foutre le couple des autres en l'air !,bully_support,OAG,victim,DNG,ATK,CR,NEG,1,1,1
+conv2_mess47,Amos,14:17:22,t'es sérieuse? en plus tu continue,bully_support,NAG,NULL,NULL,GSL,CNS,NEG,0,1,1
+conv2_mess48,Silvia,14:17:23,Si elle est mauvaise au pieu c'est pas de ma faute,victim,OAG,NULL,OTH,DFN,ATK,NEG,1,0,0
+conv2_mess49,Adrien,14:17:27,arrete de mentir,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv2_mess51,Silvia,14:17:38,merci Herbert,victim,NAG,NULL,NULL,OTH,EMP,NEU,0,0,0
+conv2_mess52,Amos,14:17:40,tu pouvais juste ne pas l'embrasser c'est ta faute boulette,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv2_mess53,Silvia,14:18:04,vaut mieux être un boulette baisable qu'un bâton frigide,victim,CAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv2_mess54,Silvia,14:18:54,plus rien à dire?,victim,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv2_mess55,Amos,14:18:54," oula,  t'attaques? ",bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv2_mess56,Diana,14:18:54,il voulait pas LUI!,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv2_mess57,Adrien,14:18:57,e a de queue un trans travelo,bully,OAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv2_mess58,Silvia,14:19:11,en fcs ça donne quoi Einstein?,victim,CAG,bully,OTH,DFN,AIN,NEG,1,0,0
+conv2_mess60,Silvia,14:19:28,je le pensais mais bon,victim,NAG,NULL,NULL,OTH,CR,NEU,0,0,0
+conv2_mess61,Diana,14:19:41,je suis pas potes avec des aguicheuse pareil ! je voudrait pas qu'on me pennes attentionner mon copain,bully_support,OAG,victim,DNG,ATK,CR,NEG,1,1,1
+conv2_mess62,Amos,14:19:49,tais-toi,bully_support,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv2_mess63,Adrien,14:19:50,apprend a lire avant de me parler,bully,CAG,victim,DNG,ATK,OTH,NEG,1,1,1

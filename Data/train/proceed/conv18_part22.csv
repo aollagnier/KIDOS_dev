@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv18_mess127,nicola,11:26:51,Ellian est gay aussi ?,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv18_mess128,Ellian,11:26:55,j'aime les nichons,bully,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv18_mess129,nicola,11:26:56,choqué dessus a ca me rassure,bully_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv18_mess130,Camille,11:27:16,t'aime les bites de noir fait pas genre,victim_support,OAG,bully,OTH,DFN,OTH,NEG,1,0,0
+conv18_mess131,Paul,11:27:20,Ellian  ah ba oui ! c'est évident,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv18_mess132,nicola,11:27:21,moi aussi Ellian tu as raison,bully_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv18_mess133,Arthur,11:27:24,tu vois Ellian a compris la vie contrairement a Paul,bully_support,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv18_mess134,Lisa,11:27:31,Ellian tu aime les tetons des hommes pas des femmes,victim_support,OAG,bully,OTH,DFN,OTH,NEG,1,0,0
+conv18_mess135,nicola,11:27:32,hitler a vise les mauvais,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess136,Ellian,11:27:56,Déjàa lisa ecrit dès le debut fr,bully,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv18_mess137,Camille,11:27:56,on vois les votes zemmour arriver,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv18_mess138,Lisa,11:28:10,apprend le français stp,victim_support,CAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv18_mess139,nicola,11:28:16,bah ouais,bully_support,CAG,victim_support,OTH,ATK,DFN,NEU,1,1,1
+conv18_mess140,Arthur,11:28:16,zemours !!!!,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv18_mess141,nicola,11:28:26,vive hitler et zemmours,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess142,Lisa,11:28:44,nicola ftg,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv18_mess143,Paul,11:28:46," je ne vois le rapport entre Hitler, Zemmour et la discussion ...",victim,CAG,bully_support,OTH,DFN,ATK,NEU,1,0,0
+conv18_mess144,Arthur,11:28:48,aucun gay ICI CA DEGAGE,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess145,nicola,11:28:53,toi,bully_support,OAG,victim,OTH,ATK,DFN,NEU,1,1,1
+conv18_mess146,Paul,11:28:57,mais bon venant de nicola ça ne me surprend pas !,victim,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv18_mess147,nicola,11:28:59,le gay,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1

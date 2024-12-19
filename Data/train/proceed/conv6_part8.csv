@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv6_mess44,Fatima,14:37:08,Ca fait à peine 1  semaine que je vous connais et c'est comme ça que vous m'accueillez ?,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv6_mess45,Nicolas,14:37:08,Réel,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv6_mess46,Pierre,14:37:13,Le rsa sa paye Oe oe oe,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv6_mess47,Nicolas,14:37:38,C lugubre,bully_support,OAG,victim,DNG,ATK,NULL,NEG,1,1,1
+conv6_mess48,Pauline,14:37:47,c macabre,bully,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv6_mess49,Fatima,14:37:48," Non mes parents gagnent bien leur vie, je ne vois pas le rapport !",victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv6_mess50,Teresa,14:37:50,Ci elle aime le nuttela il y’a quoi,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv6_mess51,Pauline,14:37:57,oui az au bois de boulogne,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv6_mess52,Pierre,14:38:06,Avec le rsa en restant chez soit,bully_support,CAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv6_mess53,Pauline,14:38:16,ton gros ventre la,bully,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv6_mess54,Fatima,14:38:38,...,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv6_mess55,Teresa,14:38:44,Elle grosse elle est inondée,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv6_mess56,Fatima,14:39:11," Pauline, nous avons exactement la même morphologie ...",victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv6_mess57,Pauline,14:39:30,Vive zemmour,bully,CAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv6_mess58,Nicolas,14:39:17,lvdm que c noir parte,bully_support,CAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv6_mess59,Pierre,14:39:51,La tajine,bully_support,CAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv6_mess60,Pauline,14:39:54,mon vier on a pas la mm morphologie,bully,CAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv6_mess61,Fatima,14:40:15," Tiens tiens le vier de Pauline, c'est nouveau ?",victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv6_mess63,Pauline,14:40:31,et we tks theo la vu et pierre,bully,CAG,conciliator,OTH,ATK,DFN,NEG,1,1,1

@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv29_mess115,Leo,09:31:37,le prochain qui parle sa mere c un pute,bully,OAG,victim/victim_support,NCG,ATK,NULL,NEG,1,1,1
+conv29_mess116,Justine,09:31:55,tu crois que ça va me faire peur,victim,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv29_mess117,Leo,09:32:01,ah,bully,NAG,NULL,NULL,OTH,CNS,NEU,0,0,1
+conv29_mess118,Aurelie,09:32:01,c une pute,bully_support,OAG,victim,NCG,AIN,ATK,NEG,1,1,1
+conv29_mess119,Justine,09:32:06,tes paroles valent rien,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv29_mess120,Ana,09:32:09,ta mere la pute aurelie,victim_support,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv29_mess121,Lea,09:32:10,c'est toi t'as parle,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv29_mess122,Leo,09:32:10,peur de quoi,bully,NAG,NULL,NULL,OTH,OTH,NEG,0,0,1
+conv29_mess123,Aurelie,09:32:21,feur,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess124,Justine,09:33:08,"je m'en fiche que tu m'insulte, tu sers à rien tu me fais chier juste parce que tu te fais chier dans ta vie",victim,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv29_mess125,Leo,09:33:17,et alors,bully,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv29_mess126,Lea,09:33:23,j'avoue,victim_support,NAG,NULL,NULL,EMP,DFN,NEG,0,0,0
+conv29_mess127,Leo,09:33:24,jmen blc,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess128,Leo,09:33:26,tu parle trop toi deja,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess129,Justine,09:33:34,alors c'est triste pour toi d'aller cracher sur mon petit frère,victim,CAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv29_mess130,Ana,09:33:36,vous cassez tous les couilesss bande de  putes,victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv29_mess131,Lea,09:33:44,je vais poucave,victim_support,OAG,bully,THR,DFN,ATK,NEG,1,0,0
+conv29_mess132,Aurelie,09:33:47,:(,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv29_mess134,Aurelie,09:34:05,sal balance,bully_support,OAG,victim_support,NCG,ATK,DFN,NEG,1,1,1
+conv29_mess135,Leo,09:34:09, vbn,bully,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1

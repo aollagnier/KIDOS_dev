@@ -1,0 +1,19 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv32_mess97,Guillaume,15:48:05,hitler je le suce,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv32_mess98,Lea,15:48:24,C'est vous qui vous vous affichez avec votre haine plus qu'autre chose,victim_support,CAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv32_mess99,Lea,15:48:39,Ayez honte.,victim_support,CAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv32_mess100,Guillaume,15:48:44,Justine ça te dit un date dans les chambres à gaz,bully,OAG,victim,DNG,ATK,NULL,NEG,1,1,1
+conv32_mess101,Justine,15:48:49,"ah non Guillome, les blagues sur Hitler je ne les supporte pas",victim,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv32_mess103,Justine,15:49:03,T’exager,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv32_mess104,Aurelie,15:49:13,trop fort guigui,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv32_mess105,Lea,15:49:13,Putain on a atteint le point Godwin 3 fois tellement vous recyclez vos insultes,victim_support,OAG,bully/bully_support,DNG,DFN,NULL,NEG,1,0,0
+conv32_mess106,Leo,15:49:14,PTDRRR t trop drole guillaume,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv32_mess107,Isabelle,15:49:14,justine c’est grave drole t’abuse,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv32_mess108,Lea,15:49:33,Là c'est abusé Isabelle,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv32_mess109,Guillaume,15:49:35,merci Leo,bully,NAG,NULL,NULL,AIN,AIN,NEG,0,1,1
+conv32_mess110,Isabelle,15:49:35,bah toi t pas meilleure que nous t’arrête pas de dire la mm chose salope ba,bully_support,OAG,victim_support,NCG,ATK,DFN,NEG,1,1,1
+conv32_mess111,Justine,15:49:40,En 2022 on parle encore de gaser les juifs c'est fou ca,victim,OAG,bully,OTH,DFN,AIN,NEG,1,0,0
+conv32_mess112,Guillaume,15:49:47,oui,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv32_mess113,Isabelle,15:49:54,c avec un z,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv32_mess115,Isabelle,15:49:57,gazer,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv32_mess116,Justine,15:49:57,Ca vous fait rire??,victim,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0

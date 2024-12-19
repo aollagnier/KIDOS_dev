@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv18_mess115,Paul,11:24:19,Ellian la mentalité ... Papa dans Maman et rien d'autre ne peut exister par définition c'est bien ça ?,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv18_mess116,Ellian,11:24:30,bah ouais,bully,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv18_mess117,Paul,11:24:57,...,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv18_mess118,Lisa,11:24:57,enfaite vous etes jaloux,victim_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv18_mess119,Camille,11:25:04,wow quell repartie Ellian,victim_support,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv18_mess120,Arthur,11:25:06,Paul t'as tout compris,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess121,Paul,11:25:10,Quel rageux,victim,OAG,bully,OTH,DFN,NULL,NEG,1,0,0
+conv18_mess122,Camille,11:25:58,ton fantasme c'est de baiser un mec t'en reve pourquoi tu nous fait le saint,victim_support,OAG,bully,OTH,DFN,OTH,NEG,1,0,0
+conv18_mess123,nicola,11:26:26,tu parle a Paul la ?,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess124,Ellian,11:26:28,non,bully,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv18_mess125,Camille,11:26:30,non a Ellian,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv18_mess126,Ellian,11:26:45,ptdrrr ah non tkt,bully,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv18_mess127,nicola,11:26:51,Ellian est gay aussi ?,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv18_mess128,Ellian,11:26:55,j'aime les nichons,bully,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv18_mess129,nicola,11:26:56,choqué dessus a ca me rassure,bully_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv18_mess130,Camille,11:27:16,t'aime les bites de noir fait pas genre,victim_support,OAG,bully,OTH,DFN,OTH,NEG,1,0,0
+conv18_mess131,Paul,11:27:20,Ellian  ah ba oui ! c'est évident,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv18_mess132,nicola,11:27:21,moi aussi Ellian tu as raison,bully_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv18_mess133,Arthur,11:27:24,tu vois Ellian a compris la vie contrairement a Paul,bully_support,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv18_mess134,Lisa,11:27:31,Ellian tu aime les tetons des hommes pas des femmes,victim_support,OAG,bully,OTH,DFN,OTH,NEG,1,0,0
+conv18_mess135,nicola,11:27:32,hitler a vise les mauvais,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1

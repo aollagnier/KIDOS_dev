@@ -1,0 +1,18 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv23_mess62,Jim,14:39:26,mdrrrr tg jules tu trahi la honda,bully_support,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv23_mess63,David,14:39:37,jamais brice le gros lard,bully,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv23_mess65,Brice,14:39:41,calme toi jim jules a rien fiat juste il est cool,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv23_mess66,David,14:39:54,tu dis calme a qui fatigeur,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv23_mess67,Amine,14:40:00,MOUSSA JE VAIS VENIR EN BAS DE CHEZ TOI TU VA VOIR QUI VA PLUS PARLER SALE MIGRANS DE MERDE,bully_support,OAG,victim_support,THR,ATK,DFN,NEG,1,1,1
+conv23_mess68,Jim,14:40:17,brice jvais te perce le ventre tu va voir ballons de bodruche ah,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv23_mess70,Moussa,14:40:41,amine je vais te niquer tout tes mort,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv23_mess71,Yanis,14:40:46,tg jim,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv23_mess72,Amine,14:41:03,BRICE montre nous tes fesses,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv23_mess73,David,14:41:11,brice vsi twerke,bully,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv23_mess74,Jim,14:41:20,du ventre,bully_support,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv23_mess75,Brice,14:41:28,ahah très rigolo,victim,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv23_mess76,David,14:41:31,twerke de la graisse,bully,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv23_mess77,Jim,14:41:44,ton vieux nombril,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv23_mess79,Yanis,14:42:27,laisser le,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv23_mess80,Amine,14:42:33,moussa dis nous tes qui toi aussi tes une baleine ? tu flotte dans l'eau,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv23_mess81,Brice,14:42:56," ouais, davidharceleur crache toujours sur tout le monde",victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0

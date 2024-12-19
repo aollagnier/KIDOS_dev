@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv15_mess127,Anna,15:53:33,des gamins,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv15_mess128,Julie,15:53:35,De quelle France parle-tu?,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv15_mess129,Elodie,15:53:38,:b,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv15_mess130,Emilie,15:53:48,T MRIER TOI A 14 ANS GROSSE PUTE,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv15_mess131,Constance,15:53:48,X),victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv15_mess132,Caroline,15:53:51,et bah pas de soucis,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv15_mess133,Emilie,15:53:54,T TROP MOCHE,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv15_mess134,Elodie,15:53:55,oui,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv15_mess135,Caroline,15:54:00,vas laver des sols pour un homme,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv15_mess136,Elodie,15:54:02,bande de gros,bully_support,OAG,victim/victim_support,NCG,ATK,NULL,NEG,1,1,1
+conv15_mess137,Constance,15:54:05,csc,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv15_mess138,Caroline,15:54:05,on s'en fout nous,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv15_mess139,Anna,15:54:09,tarpin moche,bully_support,OAG,victim/victim_support,DNG,AIN,ATK,NEG,1,1,1
+conv15_mess140,Elodie,15:54:14,vous coutez 40 elixirs en plus detre gays,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv15_mess141,Caroline,15:54:17,tu fais ta vie,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv15_mess142,Constance,15:54:32,tg t'es plus noire que dadju,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv15_mess143,Elodie,15:54:41,le racisme en 2022 c non.,bully_support,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv15_mess144,Marie,15:54:43,toi tg on te vois meme plus sous ton fond de tein orange,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv15_mess145,Elodie,15:54:47,soyez ouverts desprit un peu je reve,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv15_mess146,Constance,15:54:56,csc,victim_support,CAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv15_mess147,Julie,15:54:56,Vous devez trouver un autre cible je m',victim,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0

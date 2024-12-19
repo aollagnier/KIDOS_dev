@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv20_mess169,Ellian,10:43:21,ta mere le gay,bully,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv20_mess170,Arthur,10:43:22,theo redescend un peu t'es pd avec paul?,bully_support,OAG,victim/victim_support,OTH,ATK,NULL,NEG,1,1,1
+conv20_mess172,Paul,10:43:46,oui merci mais tu veux pas arreter en fait???,victim,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv20_mess173,Theo,10:43:58,Arthur demande à ta mere si je suis gay tu verras ce qu'elle va te repondre,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv20_mess174,Theo,10:44:04,et puis meme si je l'étais,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv20_mess175,Theo,10:44:08,ça ne regarde que moi,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv20_mess176,lisa,10:44:11,oui bon au pire elliiiiian degage,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv20_mess177,lisa,10:44:38,mais t'insulte pour rien dire,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv20_mess178,Paul,10:44:41,ellian tu veux pas passer à autre chose,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv20_mess179,Theo,10:44:41,Ellian jpense qu'il a pas besoin de se rémémorer ça,victim_support,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv20_mess180,lisa,10:44:50,ca fait 50 fois je te propose irl ta peur,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv20_mess181,Camille,10:44:54,non vocabulair est très riche je suis impressioné,victim_support,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv20_mess182,Theo,10:45:05,Ellian si t'as vécu sous la peur et les coups de ceinture de ton père tu peux nous en parler tu sais,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv20_mess183,Ellian,10:45:06,si ton pere me foudroi tout les samedis j ai sa,bully,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv20_mess184,Camille,10:45:50,va bz des chameaux ils ont le meme intellignce que toi,victim_support,CAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv20_mess185,lisa,10:45:51,"Ta mère est tellement bête qu'elle vient de s'apercevoir que son anniversaire tombait pile le jour de sa naissance, vraiment un drôle que coïncidence, non ?",victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv20_mess186,Theo,10:45:55,ellian t'aurais peut etre pas du parler,victim_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv20_mess188,lisa,10:46:14,"Ta mère est tellement énorme que partout où je regarde, elle est toujours là",victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv20_mess189,Paul,10:46:31,franchement tu n'as pas besoin de m'insulter devant les autres! c'est nul que tu réagisse comme ça. Je voulais juste t'en parler car je pensais qu'on était ami...,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0

@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv34_mess73,julie,11:17:59,ça surcule avec tous les mecs qui ton dé glingué,bully,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv34_mess74,FatimahVictime,11:18:02,"Leo et Paul, on vous a pas causé .",victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv34_mess75,coralie,11:18:03,leo77,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv34_mess76,Paul,11:18:30,sinon il recherche un acteur pour le prochain kirikou,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess77,leo,11:18:32,fatimah on va t'enfoncer ton voile dans le cul,bully_support,OAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv34_mess78,FatimahVictime,11:18:36,"Julie, tu as peur de moi ou quoi ? T'es moche Julie...",victim,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv34_mess79,julie,11:18:54,mais tg toi on est Fat igué,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess80,coralie,11:19:06,paul et leo vous etes vraiment fatiguant c'est aberrant avec vos tete de teub,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv34_mess81,FatimahVictime,11:19:16,S'il te plaît Julie !,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv34_mess82,leo,11:19:18,toi dans la tete dans des teub,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess83,FatimahVictime,11:19:22,Arrête tes blagues !,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv34_mess84,leo,11:19:24,ta la,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess85,FatimahVictime,11:19:25,Je suis pas grosse,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv34_mess86,leo,11:19:30,t'es obese,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv34_mess87,FatimahVictime,11:19:33,FAT = grosse,victim,NAG,NULL,NULL,OTH,ATK,NEG,0,0,0
+conv34_mess88,julie,11:19:36,tg avec ta tete d'immigré,bully,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv34_mess89,leo,11:19:40,ta manger trop de bite,bully_support,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv34_mess90,Paul,11:19:43,normal un singe ça bouffe des teub,bully_support,CAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv34_mess91,coralie,11:19:54,c'est toi le singe,victim_support,OAG,bully_support,NCG,DFN,AIN,NEG,1,0,0
+conv34_mess92,leo,11:19:56,faut doser sur le couscous,bully_support,CAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv34_mess93,coralie,11:20:03,t'es meme un chien,victim_support,OAG,bully_support,NCG,DFN,AIN,NEG,1,0,0

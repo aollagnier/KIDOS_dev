@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv2_mess79,Diana,14:21:35,tout sa parce que t'es jalouse de leurs amour connasse,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv2_mess80,Silvia,14:21:37,il a pas besoin d'aller au bar,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv2_mess81,Silvia,14:21:42,il leur paie des apparts privés,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv2_mess82,Adrien,14:21:43,apprend a écrire connasse,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv2_mess83,Amos,14:21:53,après c'est pas difficile savoir où t'es pendant la nuit,bully_support,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv2_mess84,Adrien,14:22:15,t conne,bully,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv2_mess85,Adrien,14:22:19,pute,bully,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv2_mess86,Adrien,14:22:22,salope,bully,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv2_mess87,Adrien,14:22:25,enculé,bully,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv2_mess89,Amos,14:22:31,alors plus rien à dire Silvia?,bully_support,CAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv2_mess90,Silvia,14:22:41,écoute si tu es frustré pcq tu en as une mini c'est pas de ma faute,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv2_mess91,Amos,14:22:49,T'as enfin fermé ta gueule?,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv2_mess92,Adrien,14:22:54,te mele pas de ca herbert,bully,NAG,NULL,NULL,OTH,CR,NEU,0,0,1
+conv2_mess93,Silvia,14:22:59,même une aveugle cul de jatte serait pas excitée par toi,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv2_mess94,Soan,14:23:01,On se calme arreter de l'attaquer tout le temps a la fin,victim_support,NAG,NULL,NULL,CR,NULL,NEU,0,0,0
+conv2_mess95,Silvia,14:23:18,Tkt Soan ils me font pitié,victim,NAG,NULL,NULL,OTH,CR,NEG,0,0,0
+conv2_mess96,Diana,14:23:22,tu prend tout ton temps pour embrasser des mecs en couple c'est sa ?,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv2_mess97,Diana,14:23:29,tu as trouver une nouvelle cible ?,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv2_mess98,Silvia,14:23:35,tu veux que j'essaie le tien?,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv2_mess99,Adrien,14:23:35,viens la voir et verrai quel fera plus mal que ce que tu crois,bully,OAG,victim,DNG,AIN,ATK,NEG,1,1,1

@@ -1,0 +1,17 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv30_mess13,Justine,10:32:28,et on s'en fout de savoir qui croit quoi,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv30_mess14,Lea,10:32:56,parce qu'elle etait fiere de lui vous postez bien des photos de votre vie et pourtant on s'en fou,victim_support,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv30_mess15,Ana,10:33:17,Vs êtes complexés ou quoi pour lui parler comme ca,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv30_mess16,Justine,10:33:49,"oui, je suis fière de mon petit frère tout comme vous vous l'êtes de votre famille",victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv30_mess17,Ana,10:33:53,Laisser la trkl nn vs avez pas une vie,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv30_mess18,leo,10:34:22,bah nan mais on s'en fou de sa vie ou de sa religion,bully,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv30_mess19,Lea,10:34:23,de ouf vivez votre vie on s'en tape de ce que vous pensez,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv30_mess20,Isabelle,10:34:56,grv on s'en fou,bully_support,OAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv30_mess22,Ana,10:34:58,bah oe bah elle elle s'en fou de ton avis alors tourne ta langue 7 fois avant de parler,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv30_mess24,Ana,10:35:25,bravo isabelle et paul les moutons ça avance en troupeau j'avais oublié,victim_support,OAG,bully/bully_support,NCG,DFN,NULL,NEG,1,0,0
+conv30_mess26,Isabelle,10:36:05,mais elle s'affiche donc faut pas s'étonner elle cherche,bully_support,OAG,victim,OTH,GSL,CR,NEG,1,1,1
+conv30_mess29,Ana,10:36:32,mais c'est une blague j'espère elle fait ce qu'elle veut ca vous regarde pas,victim_support,OAG,bully_support,OTH,DFN,GSL,NEG,1,0,0
+conv30_mess30,Justine,10:36:57,"je ne m'affiche pas, je poste juste une photo de mon petit frère, ça n'a rien d'anormal ni choquant, vous ne postez jamais des photos de votre famille ?",victim,NAG,NULL,NULL,CNS,GSL,NEU,0,0,0
+conv30_mess31,Ana,10:37:17,mais laisse tomber ils sont jaloux,victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv30_mess32,Guillaume,10:37:19,si me j suis pas juif,bully,CAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv30_mess33,leo,10:37:23,elle fait ce qu'elle veut ou pas je m'en fou mais la elle s'affiche juste on s'en fou de sa vie,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1

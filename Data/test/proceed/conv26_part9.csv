@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv26_mess49,jules,16:48:06,t une comique toi,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv26_mess50,martine,16:48:06,bah la mere d'une grosse moche doit etre grosse moche,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv26_mess51,Fatima,16:48:08,stop bande de fous,victim_support,OAG,bully/bully_support,NCG,DFN,NULL,NEG,1,0,0
+conv26_mess52,Fran,16:48:23,en attendant il a l'air de kiffer ma mère Jules...,victim,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv26_mess53,Fatima,16:48:24,kes tu dis,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv26_mess54,jules,16:48:27,jmange ta mere surtout,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv26_mess55,jules,16:48:42,cest elle qui me kiffe,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv26_mess56,martine,16:48:43,hey toi tut'la ferme l'étrazngère! retourne dans ton pays de merde,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv26_mess57,Fatima,16:48:46,on arrete de manger tt le mponde la,victim_support,NAG,NULL,NULL,CR,NULL,NEU,0,0,0
+conv26_mess58,Fran,16:48:57,Martine tu fermes ta bouche,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv26_mess59,martine,16:49:06,bah c sa mere qui se met a 4 pattes devant luji,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv26_mess60,Fatima,16:49:18,va crevrr,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv26_mess61,Fran,16:49:20,donc il kif les grosses moches,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv26_mess62,Fran,16:49:24,sympa pour ton pote,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv26_mess63,jules,16:49:31,oue ca doit etre ca,bully_support,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv26_mess64,jules,16:49:41,jore ton pere le chauve,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv26_mess65,Fran,16:49:43,tu voulais voir mon cul du coup Jules,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv26_mess66,martine,16:49:48,d'ou tu me parle? faudrait deja que tu perde 100 kg avant de me donner des ordres la grosse,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv26_mess67,Fran,16:50:05,Je te casse la bouche tu parleras plus jamais,victim,OAG,bully,THR,DFN,ATK,NEG,1,0,0
+conv26_mess68,martine,16:50:11,Juju est triop bien pour ton cul de vache!,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv26_mess69,Fatima,16:50:19,tinsulte pas mon pays connasse,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0

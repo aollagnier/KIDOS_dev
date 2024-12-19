@@ -1,0 +1,13 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv21_mess253,Paul,09:38:29,MAis je suis même pas muslim frr !,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv21_mess254,Arthur,09:38:32,mais tema sa gueule c sur il est muslim,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv21_mess255,Paul,09:38:36,T'es arriéré ou quoi !,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv21_mess256,julien,09:38:39,tjrs nous les muslim persecute on seras les juifs de demain ici !,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv21_mess259,Arthur,09:39:12,c important les religions,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv21_mess260,Selena,09:39:16,dieu est grand,victim_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,0
+conv21_mess262,julien,09:39:22,tres important,bully_support,CAG,victim_support/conciliator,OTH,ATK,NULL,NEG,1,1,1
+conv21_mess263,brice,09:39:27,j'avoue pas les religions revenont putôt a paul,bully ,OAG,victim,OTH,ATK,NULL,NEG,1,1,-1
+conv21_mess266,Thibaut,09:39:35,ferme ta gueule toi josiane c bon c eu qui casse les couilles,victim_support,OAG,conciliator,OTH,OTH,OTH,NEG,1,0,0
+conv21_mess268,julien,09:39:37,meme le careme il y arrive pas ce gros porc bagra,bully_support,OAG,victim,NCG,AIN,ATK,NEG,1,1,1
+conv21_mess270,julien,09:39:51,josi elle se rebelle,bully_support,OAG,victim_support,OTH,ATK,OTH,NEG,1,1,1
+conv21_mess272,brice,09:39:54,à part tg tu sais dire quoi pierre,bully,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1

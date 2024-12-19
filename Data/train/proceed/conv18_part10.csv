@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv18_mess55,Camille,11:15:25,tu veux quoi toi Ellian,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv18_mess56,nicola,11:15:41,tg Camille t'es une merde,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess57,Ellian,11:15:49,tu raconte nimp,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess58,Arthur,11:15:54,allez va dormir Camille,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess59,Camille,11:15:58,je suis pas noir donc non Camille,victim_support,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv18_mess60,Paul,11:16:00,nicola je ne souffre que lorsque des personnes comme vous se comporte comme des boomer,victim,OAG,bully_support,OTH,DFN,AIN,NEG,1,0,0
+conv18_mess61,Camille,11:16:13,Ellian,victim_support,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv18_mess62,Ellian,11:16:15,tu parles a toi bête grosse conne t tebe,bully,OAG,victim_support,NCG,ATK,CNS,NEG,1,1,1
+conv18_mess63,Paul,11:16:22,Oui Camille ?,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv18_mess64,nicola,11:16:25,Paul lui il aime les noir,bully_support,CAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv18_mess65,Ellian,11:16:43, nan mais boomer change de voc pd,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess66,Lisa,11:16:53,mais ojn s'en fout qu'il aime les noirs laisse le aimer qui il veut non ?,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv18_mess67,nicola,11:17:13,bah non  on baisse pas avec des animeaux,bully_support,CAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv18_mess68,Ellian,11:17:15,il aime surtout les grosse,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess69,Paul,11:17:18,Ellian Ok boomer ah ba oui evidemment Ellian c'est bien connu ça ...,victim,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv18_mess70,Ellian,11:17:53,bah ouais,bully,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv18_mess71,nicola,11:18:00,il y a plus d'espace,bully_support,CAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv18_mess72,Arthur,11:18:04,Lisa45  il aime se qui est a gros volume finalement,bully_support,OAG,victim_support,DNG,ATK,CNS,NEG,1,1,1
+conv18_mess73,Paul,11:18:17,tu manques pas de clichés ... c'est pathétique !,victim,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv18_mess74,Ellian,11:18:19,t'aime les mecs donc t'aime les grosse,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess75,Paul,11:18:38,Ellian c'est tout à fait logique,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0

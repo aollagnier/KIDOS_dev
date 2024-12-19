@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv34_mess25,coralie,11:12:10,enfaite les gars vous savez pas harceler,victim_support,OAG,bully/bully_support,DNG,DFN,NULL,NEG,1,0,0
+conv34_mess26,julie,11:12:12,trahisonnnnnnnnn,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv34_mess27,coralie,11:12:15,vous etees des breles,victim_support,OAG,bully/bully_support,DNG,DFN,NULL,NEG,1,0,0
+conv34_mess28,FatimahVictime,11:12:34,Ils sont nuls !,victim,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv34_mess29,coralie,11:12:41,grave,victim_support,NAG,NULL,NULL,EMP,DFN,NEG,0,0,0
+conv34_mess30,FatimahVictime,11:12:46,mdr,victim,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv34_mess31,leo,11:12:51,coralie ferme ta gueule toi aussi t'es une petasse,bully_support,OAG,victim_support,OTH,ATK,EMP,NEG,1,1,1
+conv34_mess32,julie,11:12:53,t'es Fatigué,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess33,Paul,11:12:54,ah parce que c'est un job maintenant,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess34,FatimahVictime,11:13:01,Bon Julie,victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv34_mess35,coralie,11:13:04,octogone quand tu veux leo77,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv34_mess36,FatimahVictime,11:13:13,tu peux me promettre que tu vas arrêter ?,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv34_mess37,coralie,11:13:14,avec ton corps tout frele,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv34_mess38,leo,11:13:21,coralie et fatimah c'est des salopes,bully_support,OAG,victim/victim_support,NCG,ATK,NULL,NEG,1,1,1
+conv34_mess39,FatimahVictime,11:13:28,ce sont *,victim,CAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv34_mess40,julie,11:13:33,mais oui mv,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess41,leo,11:13:36,m'en branle,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess42,coralie,11:13:37,leo77 n'a pas d'arguments,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv34_mess43,FatimahVictime,11:13:38,quand on parle bien français!!,victim,CAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv34_mess44,julie,11:13:51,tg rentre chez toi,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess45,FatimahVictime,11:13:53,... je suis française donc je suis chez moi,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0

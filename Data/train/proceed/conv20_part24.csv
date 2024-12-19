@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv20_mess139,Theo,10:38:43,un homme avec un petit calibre ne tire pas sur les bonnes personnes,victim_support,CAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv20_mess140,Ellian,10:38:45,ouai c est chaud 36 mm,bully,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv20_mess141,Arthur,10:38:55,theo t'as pas le droit de parler,bully_support,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv20_mess142,Theo,10:39:03,Arthur tu veux une preuve ?,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv20_mess143,Theo,10:39:16,Jsuis fier d'avoir une trompe comm e ça,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv20_mess144,lisa,10:39:18,je sais que tu voulais me pecho ellian mais avec ce que tu vient de faire,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv20_mess145,Theo,10:39:21,si tu complexes c pg t'as pas finis ta croissance,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv20_mess146,lisa,10:39:28,tu me la mettra jamais mdr,victim_support,CAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv20_mess147,Theo,10:39:42,Lisa moi jv te cartoucher tkp,victim_support,NAG,NULL,NULL,OTH,DFN,NEG,0,0,0
+conv20_mess148,Arthur,10:39:59,ellian vouloir pecho lisa mdr tu ressemble à mellisandre,bully_support,CAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv20_mess149,Camille,10:40:00,lisa elle a connu mieux elle va pas regressé,victim_support,NAG,NULL,NULL,OTH,DFN,NEG,0,0,0
+conv20_mess150,Theo,10:40:14,bref que vous soyez hétéro gays pan peut importe votre orientation on s'en blc,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv20_mess151,Theo,10:40:31,deja vous bz pas vous etes tous puceaux,victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv20_mess152,Ellian,10:40:37,wsh arthur parle pas mal de melissandre comme sa,bully,OAG,victim_support,OTH,AIN,ATK,NEG,1,1,1
+conv20_mess154,Theo,10:40:44,Ellian sinon quoi ? c toi la victime mtn ?,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv20_mess155,Ellian,10:40:51,elle est trop fraiche wsh,bully,OAG,victim_support,OTH,AIN,ATK,NEG,1,1,1
+conv20_mess156,Theo,10:41:01,Venez on ignore Ellian,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv20_mess157,Paul,10:41:04,Ellian si tu veux pas qu'on redevienne ami c'est pas grave mais toi et tes potes laissez moi tranquille je ne vous ai rien fait,victim,NAG,NULL,NULL,DFN,AIN,NEG,0,0,0
+conv20_mess158,Theo,10:41:08,comme ça il arrete ses betises Nan nan On ignore juste il changera pas,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv20_mess159,Theo,10:41:24,laissons le dans sa solitude éternelles sans s tomatis va me frapper,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0

@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv10_mess175,Adrien,16:13:00,On est deux en ft,bully_support,NAG,NULL,NULL,OTH,CNS,NEU,0,0,1
+conv10_mess176,Sophie,16:13:02,mais michel frere tas vu ton prénom pour commencé,bully,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv10_mess177,Adrien,16:13:05,Hein lisa,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv10_mess178,Silvia,16:13:08,Deux qui pauvre merde?,victim,OAG,bully_support,NCG,DFN,OTH,NEG,1,0,0
+conv10_mess179,Lisa,16:13:09,jai la preuvve !!!,bully_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv10_mess180,Silvia,16:13:18,Mais Lisa t'étais mm pas au voyage,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv10_mess181,michel,16:13:21,sophie saute des fiilees,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess182,Silvia,16:13:25,de où tu as la preuve?,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv10_mess183,Lisa,16:13:28,voila !!!,bully_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv10_mess184,Lisa,16:13:36,tu comprends sale pute,bully_support,OAG,victim,NCG,ATK,OTH,NEG,1,1,1
+conv10_mess185,Silvia,16:13:40,Je suis mm pas rousse putain,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv10_mess186,Silvia,16:13:44,tu ml'as photoshopée,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv10_mess187,Lisa,16:13:46,on ta pris en photo,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv10_mess188,Silvia,16:14:38,Et ton mec il dit quoi de ça?,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv10_mess189,michel,16:14:40,quel photoshop de fou,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv10_mess190,Silvia,16:14:50,il a de l'avenir,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv10_mess191,Adrien,16:15:08,plus que toi en tant que pute,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv10_mess192,Sophie,16:15:13,jvais te soulever,bully,OAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv10_mess193,Silvia,16:15:16,plus que toi en tant que chien de Sophie,victim,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv10_mess194,Sophie,16:15:17,continue comme ça,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv10_mess195,michel,16:15:20,javoue lisa ty a pense cest meiux que sucer nempeche ca paye pas bien,victim_support,CAG,bully_support,DNG,DFN,OTH,NEG,1,0,0

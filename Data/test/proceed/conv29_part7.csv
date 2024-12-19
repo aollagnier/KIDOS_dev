@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv29_mess37,Lea,09:20:50,tout doux le loup,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv29_mess38,Leo,09:21:34,tout doux ton père,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess39,Justine,09:21:35,Maintenant leo vire la photo de mon frère tout de suite,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv29_mess40,Leo,09:21:40,non sinon quoi,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess41,Aurelie,09:21:45,non on la garde,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess42,Ana,09:21:54,y a pas de on la garde en fait,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv29_mess43,Justine,09:22:01,je vais aller voir les prof et leur montrer la merde que tu dis,victim,OAG,bully/bully_support,THR,DFN,NULL,NEG,1,0,0
+conv29_mess44,Ana,09:22:03,tu l'enleves c tout,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv29_mess45,Leo,09:22:16,non ntm,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess46,Aurelie,09:22:19,vay va le voir on lui presenetra ton frr vzy*,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess47,Ana,09:22:28,le karma poto sa tourne vite fais attention mec,victim_support,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv29_mess48,Leo,09:22:41,sa tourne comme justine dans les caves,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv29_mess49,Justine,09:22:47,oula mais calme toi,victim,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv29_mess50,Ana,09:23:02,et ta mere aussi,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv29_mess51,Leo,09:23:02,c toi tu parle,bully,CAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv29_mess53,Justine,09:23:13,t'insulte mon frère puis moi,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv29_mess54,Lea,09:23:25,tu te calme leo tu te calme,victim_support,NAG,NULL,NULL,CR,ATK,NEU,0,0,0
+conv29_mess55,Leo,09:23:27,ta famille en general ta kipa la,bully,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv29_mess56,Aurelie,09:23:48,ta grosse kipa,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv29_mess57,Leo,09:24:07,kipa r a la chasse perd sa place,bully,CAG,victim,OTH,AIN,ATK,NEG,1,1,1

@@ -1,0 +1,16 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv21_mess235,Selena,09:37:11,qui soirée samedi soir?,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv21_mess237,julien,09:37:17,pk tu parle de ton frrr pierre ?,bully_support,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv21_mess238,brice,09:37:19,venant de toi selena j'oserai pas dire ça,bully,CAG,victim_support,OTH,ATK,OTH,NEG,1,1,1
+conv21_mess241,Selena,09:37:41,tg brice de nice,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv21_mess242,Arthur,09:37:42,Chuis sûr paul à pas respecter le ramadan juste pour son gros ventre,bully_support,OAG,victim,DNG,ATK,NULL,NEG,1,1,1
+conv21_mess244,julien,09:37:57,qui aime les muffin sinon ?,bully_support,CAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv21_mess245,Thibaut,09:38:00,t as tellement de bonne répartie Julien mdr:') :') :'),victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv21_mess246,Selena,09:38:01,t jaloux de paul frr,victim_support,NAG,NULL,NULL,OTH,NULL,POS,0,0,0
+conv21_mess248,Selena,09:38:17,parce que ton daron est parti acheté du lait,victim_support,CAG,bully_support,OTH,DFN,AIN,NEG,1,0,0
+conv21_mess249,julien,09:38:21,qu est t en sais,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv21_mess250,brice,09:38:23,bon mtn vos gueules tous,bully,OAG,victim/victim_support,OTH,ATK,NULL,NEG,1,1,1
+conv21_mess251,julien,09:38:27,ca peut etre un muslim cahe,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv21_mess253,Paul,09:38:29,MAis je suis même pas muslim frr !,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv21_mess254,Arthur,09:38:32,mais tema sa gueule c sur il est muslim,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv21_mess255,Paul,09:38:36,T'es arriéré ou quoi !,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0

@@ -1,0 +1,14 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv21_mess152,Thibaut,09:29:24,je te jure je vais te casser la gueule,victim_support,OAG,bully_support,THR,DFN,AIN,NEG,1,0,0
+conv21_mess155,julien,09:29:30,le muslim 2.0 se reveill eouhh attention !!,bully_support,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv21_mess156,Selena,09:29:34,vous etes tous inferieur a nous enfaite,victim_support,OAG,bully/bully_support,DNG,DFN,NULL,NEG,1,0,0
+conv21_mess157,julien,09:29:38,ca va chauffer,bully_support,OAG,victim_support,THR,ATK,DFN,NEG,1,1,1
+conv21_mess160,julien,09:30:02,mais on parle pas de religion,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv21_mess161,brice,09:30:06,non mais pourquoi vouloir défendre ce gros porc de paul le mec voit que par sa bouffe mdr,bully,OAG,victim,OTH,ATK,CR,NEG,1,1,1
+conv21_mess163,Arthur,09:30:19,J'avoue brice,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv21_mess165,julien,09:30:22,de ouf,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv21_mess167,julien,09:30:32,pierre tu me casse les couilles,bully_support,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv21_mess168,Selena,09:30:34,brice nique t'as mere,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv21_mess169,Arthur,09:30:40,mais c la vérité pierre83,bully_support,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv21_mess170,julien,09:30:48,tu ferais bien l imam de serice,bully_support,CAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv21_mess171,brice,09:30:54,tqt selena je nique deja la tienne,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1

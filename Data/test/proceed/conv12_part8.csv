@@ -1,0 +1,19 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv12_mess43,Ellian,14:46:29,Vous été tous des pédales à le défendre,bully,OAG,victim_support/conciliator,NCG,ATK,NULL,NEG,1,1,1
+conv12_mess44,paul,14:46:50,Non il n'y a aucun problème à être gay et ils l'ont compris !,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv12_mess45,Camille,14:46:53,En plus si il te drague pas ses pas ton problèmE,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv12_mess46,Ellian,14:46:58,Bande de suceurs,bully,OAG,victim/victim_support/conciliator,NCG,ATK,NULL,NEG,1,1,1
+conv12_mess47,paul,14:47:05,Je sais pas pourquoi Ellian   tu refuses d'accepter qu'on peut être different ?,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv12_mess49,Ellian,14:47:53,Oe mais dieu n’a pas créé la vie comme sa,bully,NAG,NULL,NULL,OTH,CNS,NEU,0,0,1
+conv12_mess50,Camille,14:48:01,Même si il aime les grosse bite noir laisse le tranquillE,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv12_mess51,Ellian,14:48:12," Je m’en bas les couilles, c’est plus mon ami",bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv12_mess52,paul,14:48:15,Pourquoi l'homosexualité se retrouve-t-elle aussi dans la nature ?,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv12_mess53,Ellian,14:48:16,se gros pb,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv12_mess54,Camille,14:48:50,Et alors au moins lui il assume qui il est,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv12_mess55,paul,14:49:02,Mon canard aimait s'accoupler avec les canards du même sexe... morts,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv12_mess56,Ellian,14:49:53,A oe une vrai pedale,bully,OAG,victim,NCG,ATK,OTH,NEG,1,1,1
+conv12_mess58,paul,14:50:56," Ellian, dis moi seulement ce qui te fait autant haïr ma sexualité ?",victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv12_mess59,paul,14:50:56,Pourquoi tu fais ça??,victim,CAG,bully,OTH,DFN,ATK,NEU,1,0,0
+conv12_mess60,paul,14:50:56,J'essaie juste de comprendre ?,victim,CAG,bully,OTH,DFN,ATK,NEU,1,0,0
+conv12_mess61,paul,14:50:56,T'as peur de devenir homosexuel ?,victim,CAG,bully,OTH,DFN,ATK,NEU,1,0,0
+conv12_mess62,paul,14:50:56,ou tu l'es déjà peut être ?,victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0

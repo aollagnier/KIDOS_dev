@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv8_mess31,Camille,09:31:54,aya silvia l'allumeuse,bully_support,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv8_mess32,Adrien,09:31:59,Vous faites chauffer c'est Silvia qui est en tord,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv8_mess33,Silvia,09:31:59,j'assume et je reste là tu veux que je parte où,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv8_mess34,Soan,09:32:13,Theo toi tu vas te chopper quand un peu d'éducation ????????,victim_support,CAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv8_mess35,Lucie,09:32:13,reste ls affronte jsuis avec toi,victim_support,NAG,NULL,NULL,EMP,CNS,POS,0,0,0
+conv8_mess37,Diana,09:32:27,voila au moins t'assume espece de chaudasse,bully_support,OAG,victim,NCG,ATK,CNS,NEG,1,1,1
+conv8_mess38,Lucie,09:32:36,tg la pick me,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv8_mess39,Silvia,09:32:48,c'est Lucas le chaud il vient il m'embrasse,victim,OAG,NULL,OTH,DFN,ATK,NEG,1,0,0
+conv8_mess40,Soan,09:32:57,Adrien et sa bande de racistes FERMEZ VOS GUEULES,victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv8_mess41,Lucie,09:33:04,oe ce gros fou,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv8_mess42,Camille,09:33:08,ta mis les dents silvia ?,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv8_mess43,Lucie,09:33:15,charo de rien du tt,victim_support,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv8_mess44,Adrien,09:33:15,Silvia c'est une salope,bully,OAG,victim,NCG,ATK,NULL,NEG,1,1,1
+conv8_mess45,Diana,09:33:22,lucie au début tu connaissait meme pas l'histoires donc ferme bien ta geule,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv8_mess46,Lucie,09:33:24,il a pas dignité ftg toi,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv8_mess47,Theo,09:33:32,Soan va en cours,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv8_mess48,Soan,09:33:32,Adrien t'est un raciste,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv8_mess49,Silvia,09:33:36,et toi le cul?,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv8_mess50,Lucie,09:33:37,jte monte en l'air,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv8_mess51,Theo,09:33:38,tu comprend r,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1

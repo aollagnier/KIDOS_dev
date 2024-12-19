@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv36_mess205,Leo,10:53:13,elle est aussi utile que mes poils de uc fatimah,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv36_mess206,kate,10:53:15,pauline ftg arrete de la defendre t'es une grosse' merde,bully,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess207,Pierre,10:53:18,ils sont pd c'est pour çca,victim_support,OAG,bully/bully_support,NCG,DFN,NULL,NEG,1,0,0
+conv36_mess208,Fatimah,10:53:24,Qu'es ce que ça change as votre vie ? rien !,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv36_mess209,Leo,10:53:46,si. on verra plus ta geule sale fatimata,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv36_mess210,kate,10:53:55,fatimah t'es une grosse salope donc bouge et yaura plus de prbl,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess211,Coralie,10:54:04,bah si vous l'aimez pas ne pensez plus à elle,victim_support,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv36_mess212,julie,10:54:05,c'est quand que tu pars de nos vies vraiment,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess213,kate,10:54:13,oue sucide toi,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess214,Leo,10:54:16,pierre il souleve un gros porc meur,bully_support,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv36_mess215,Pierre,10:54:53,vos daronne elles on toute le sida a force de sucé des pangolin,victim_support,OAG,bully/bully_support,DNG,DFN,NULL,NEG,1,0,0
+conv36_mess216,kate,10:55:06,euh pierre t'es genant,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess217,Pierre,10:55:11,Retourner vous chiez dessus en ephad,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv36_mess218,Leo,10:55:20,fatima vu tes ancetres je pense que tu devrai copuler avec des porcs et mourir après,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess219,Leo,10:55:28,pierre tg,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess220,Pierre,10:55:31,ou en schimio selon préferance,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv36_mess222,Fatimah,10:55:44,Se suis importante pour toi ˘julie pour que tu te fixe autant sur moi ??,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv36_mess223,Pierre,10:55:49,Je pisse sur tout vos ancetres bande de fdp,victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv36_mess224,paul,10:55:55,pierre tu parle toi ta la gorge tellement profonde mon frr a force de sucer tout ton quartier,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1

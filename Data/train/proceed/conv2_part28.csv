@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv2_mess163,Silvia,14:33:09,personne te la suce la tienne,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv2_mess164,Diana,14:33:13,comme une autruche tu met ta tete dans des trou ?,bully_support,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv2_mess165,Soan,14:33:18,Ca commence a etre lourd la,victim_support,NAG,NULL,NULL,OTH,NULL,NEG,0,0,0
+conv2_mess166,Adrien,14:33:35,parce que elle est trop grosse pour rentrer dans ta boche,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv2_mess167,Silvia,14:33:37,ton père plein de mst il met autre chose dans des trous,victim,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv2_mess168,Diana,14:33:41,met ta tete entre tes cuisses a la place de prendre les mecs des autres,bully_support,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv2_mess169,Adrien,14:33:42,boucje,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv2_mess170,Silvia,14:33:57,dans ma boche... Voilà qu'on devient raciste,victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv2_mess171,Silvia,14:33:58,bravo,victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv2_mess172,Adrien,14:34:07,ls trous de ta mere,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv2_mess173,Silvia,14:34:33,les trous de la tienne sont plus larges vu les mecs qu'elle s'enfile,victim,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv2_mess174,Adrien,14:34:54,ta mere la brochettes,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv2_mess175,Diana,14:35:04,au moins mon pere est pas mort,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv2_mess177,Silvia,14:35:20,au moins j'arrive à me faire embrasse Diana,victim,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv2_mess178,Soan,14:35:27,Fermez vos geule à la fin laiisser la tranquille,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv2_mess179,Silvia,14:35:31,embrasser*,victim,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv2_mess180,Diana,14:35:49,jai pas besoin d'embrasser un mec en le forcant moi :),bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv2_mess181,Silvia,14:36:02,c'est ton père qui te forçait,victim,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv2_mess182,Amos,14:36:04,bien ouej,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv2_mess183,Silvia,14:36:17,c'est pour ça que tu marches pas droit,victim,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0

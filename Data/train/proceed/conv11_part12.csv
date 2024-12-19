@@ -1,0 +1,17 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv11_mess67,Silvia,12:48:37,je suis dans mon pays !,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv11_mess68,camille,12:48:41,bon les gars sylvia elle fait que sucer les profs,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv11_mess69,lucie,12:49:01,oh theo tu pete juste le seum prsk t’as pas réussi à pecho silvie c’est tout,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv11_mess70,Silvia,12:49:07,Camille t'es nul,victim,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv11_mess72,theo,12:49:19,meme pas tu respecte son prenom,bully_support,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv11_mess73,lucie,12:49:21,c’est pas prks ton pote a réussi que tu dois peter ton seum comme ça,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv11_mess74,Silvia,12:49:27,c'est trop facile d'insulter les autres surtout quand on est devant son écran,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv11_mess75,camille,12:49:34,euh fgtg,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv11_mess76,theo,12:49:37,tu veux on t’insulte en face ?,bully_support,OAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv11_mess77,lucie,12:49:45,oh donc ça te touche que je respecte pas son prénom,victim_support,CAG,bully_support,OTH,DFN,OTH,NEG,1,0,0
+conv11_mess79,lucie,12:49:50,prsk tu l’aime trop c’est ça,victim_support,CAG,bully_support,OTH,DFN,OTH,NEG,1,0,0
+conv11_mess80,Silvia,12:49:52,grave !,victim,NAG,NULL,NULL,EMP,DFN,NEU,0,0,0
+conv11_mess81,lucie,12:49:52,trop fan d’elle,victim_support,CAG,bully_support,OTH,DFN,OTH,NEG,1,0,0
+conv11_mess82,camille,12:49:54,dou je suis nul moi tas grand mere,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv11_mess84,theo,12:50:05,trop fan ouais ma bestie,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv11_mess86,lucie,12:50:22,oui tu fais copain copine avec silvia,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0

@@ -1,0 +1,18 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv4_mess55,Fatima,11:38:34,j sui sur t es jamais allé a leglise hypocrite,victim,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv4_mess56,Nicolas,11:38:44,on te brule toi a leglise,bully_support,OAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv4_mess58,Teresa,11:38:47,oe grave tu parles,victim_support,CAG,bully_support,OTH,DFN,AIN,NEG,1,0,0
+conv4_mess59,Pauline,11:38:54,theo tu sers a rien,bully,OAG,conciliator,DNG,ATK,CR,NEG,1,1,1
+conv4_mess60,Pierre,11:38:58,fatima arrete la mascarade on sait que toi t'es un autre delire toi tu fais la manche devant frr,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv4_mess61,Fatima,11:39:19,j prefere faire la manche que la pute comme ta mere,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv4_mess62,Teresa,11:39:21,c a eux d'arreter d'harceler les gens,victim_support,NAG,NULL,NULL,CR,NULL,NEU,0,0,0
+conv4_mess64,Nicolas,11:39:29,la prochaine fois tu mettra un voile comme t es parents au lieu de nous faire cvhier,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv4_mess65,Pierre,11:39:47,fatima arrete de faire la folle tu vas vrm le payer,bully_support,OAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv4_mess66,Nicolas,11:39:54,sa sort des cour sa mes le voile mais a la plage sa montre son cu ptdrrrrrr,bully_support,OAG,victim,DNG,ATK,NULL,NEG,1,1,1
+conv4_mess67,Pauline,11:40:08,mddddddr,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv4_mess68,Pierre,11:40:09,on va faire des montages tu as te retrouver à poil sur internet ptddrrrr,bully_support,OAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv4_mess70,Fatima,11:40:27,tkt tu vas retrouver en prison,victim,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv4_mess71,Pauline,11:40:28,theo ftg,bully,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv4_mess72,Teresa,11:40:35,faites de toute facon on n'a toute les preuves,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv4_mess73,Pierre,11:40:35,rooohh theo c'est toi la,bully_support,CAG,conciliator,OTH,GSL,DFN,NEG,1,1,1
+conv4_mess74,Teresa,11:40:42,elle va porter plainte,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0

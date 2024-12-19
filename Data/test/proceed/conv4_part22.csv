@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv4_mess127,Pauline,11:45:54,avec vos habits du bled la cassez vous,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv4_mess128,Nicolas,11:45:59,mdrr c clair l odeur infecte,bully_support,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv4_mess129,Teresa,11:46:04,oo tg pierre me fais pas chier jmen blc de ta vie franchement,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv4_mess130,Pauline,11:46:21,teresa parle bien ftg,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv4_mess131,Pierre,11:46:27,teresa fais comme fatima ferme la,bully_support,OAG,victim/victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv4_mess132,Nicolas,11:46:39,alors pk tu lui envoy un message si tu ten fou bien dit,bully_support,NAG,NULL,NULL,GSL,DFN,NEG,0,1,1
+conv4_mess133,Teresa,11:46:55,pauline et pierre 2 grosses merdes qui parlent,victim_support,OAG,bully/bully_support,DNG,DFN,NULL,NEG,1,0,0
+conv4_mess134,Nicolas,11:46:59,bon la phto va etres poster,bully_support,OAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv4_mess135,Pauline,11:47:00,grv teresa t autant inutile que Mbendib,bully,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv4_mess136,Nicolas,11:47:01,quand,bully_support,OAG,victim,THR,ATK,DFN,NEU,1,1,1
+conv4_mess137,Fatima,11:47:13,quand tu fermeras ta gueule,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv4_mess138,Teresa,11:47:15,poste la,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv4_mess139,Nicolas,11:47:16,plus une troisieme teresa,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv4_mess140,Pierre,11:47:22,oyé tous repostez en story les photos de la negre,bully_support,OAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv4_mess141,Nicolas,11:47:22,+famtima 4,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv4_mess142,Teresa,11:47:24,et tu venira en prison,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv4_mess143,Pierre,11:47:32,on va bien se marrer,bully_support,CAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv4_mess144,Teresa,11:47:32,tu vas rien comprendre,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv4_mess145,Nicolas,11:47:56,parle pas de prison quand tu coco pas mdrrr,bully_support,OAG,victim_support,OTH,GSL,CNS,NEG,1,1,1
+conv4_mess146,Pierre,11:48:03,demain on imprime on affiche?,bully_support,OAG,victim,THR,ATK,NULL,NEG,1,1,1
+conv4_mess147,Pauline,11:48:06,fatima t une grosse pute a part envoyez des nudes tu f rien,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1

@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv15_mess103,Caroline,15:50:19,vous venez peter les couilles donc assumez,victim_support,OAG,bully,OTH,DFN,OTH,NEG,1,0,0
+conv15_mess104,Marie,15:50:26,moi aussi,victim_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv15_mess105,Constance,15:50:27,bref en conclusion frmez vos petites bouches et laissez les autres vivre leur vie car CA NE VOUS CONCERNE PAS PTN,victim_support,OAG,bully/bully_support,NCG,DFN,NULL,NEG,1,0,0
+conv15_mess106,Caroline,15:50:29,la salle a cote,victim_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv15_mess107,Elodie,15:51:50,"je suis hetero et fiere! jaime pas les zoulettes comme julie et lea, elles se cachent meme pas detre des grosses pedales franchement ca me degoute.La france davant me manque",bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv15_mess108,Elodie,15:52:14,(,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv15_mess109,Julie,15:52:16,La France de Moyen-Age Elodie?,victim,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv15_mess110,Elodie,15:52:19,oui,bully_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv15_mess111,Emilie,15:52:19,BON JULIE TG FRRR,bully,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv15_mess112,Constance,15:52:28,moi aussi la frnce d'avant me manque parce que t'etais pas née elodie,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv15_mess113,Elodie,15:52:29,sur certains sujet cetait bcp mieux,bully_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv15_mess114,Anna,15:52:31,ca parle de la france maintenant,bully_support,CAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv15_mess115,Caroline,15:52:31,"LA FRANCE EST LE PAYS OU IL Y AVAIT LE PLUS DE GAYS AU MOYEN AGE LA CULTURE TU CONNAIS,",victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv15_mess116,Emilie,15:52:46,IL ETAIT HABATUE FRR,bully,CAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv15_mess118,Elodie,15:52:48,les hommes etaient des vrais hommes,bully_support,CAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv15_mess119,Anna,15:52:57,mais mdr,bully_support,NAG,NULL,NULL,AIN,AIN,NEG,0,1,1
+conv15_mess120,Marie,15:52:58,bien venus en 2022 bande de con,victim_support,OAG,bully/bully_support,NCG,DFN,NULL,NEG,1,0,0
+conv15_mess121,Elodie,15:52:59,et les femmes lavaient et fermaient leur gueules,bully_support,CAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv15_mess122,Caroline,15:53:08,LES HOMMES ETAIENT TOUS OU QUASI TOUS GAYS,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv15_mess123,Elodie,15:53:09,LES GAYS AU BUCHER !!!!!!,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1

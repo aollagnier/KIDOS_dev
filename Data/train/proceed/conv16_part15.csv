@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv16_mess85,Anna,09:42:38,bref julie retourne dans la chatte a ta meuf,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv16_mess86,marie,09:42:43,et julie aussi,victim_support,OAG,bully_support,DNG,DFN,ATK,NEU,1,0,0
+conv16_mess87,Julie,09:42:44,et la ptn d'héteros,victim,OAG,bully/bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv16_mess88,marie,09:42:45,merde nn emilie,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv16_mess89,Emilie,09:43:01,marie tu parle tout le monde connais ton trou t une multiprise,bully,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv16_mess90,constance,09:43:14,maiis elle est payée,victim_support,CAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv16_mess91,marie,09:43:16,dit celle qui est plus trouer qu'une passoire,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv16_mess92,Emilie,09:43:34,plus que celle de ta mère aussi?,bully,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv16_mess93,Elodie,09:43:36,marie fait pas la meuf sainte tu te faie prendre par des daron different tous les soir,bully_support,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv16_mess94,Emilie,09:43:45,mm le sien MDRR,bully,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv16_mess95,Elodie,09:43:50,ptdrrrrr,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv16_mess96,Julie,09:44:00,et vous n'avez pas d'autre sujet que votre trou du c ?,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv16_mess97,marie,09:44:01,pas les mamans deja ta mere a fait l'erreur de te mettre au monde,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv16_mess98,constance,09:44:02,elodie je t'aime pas,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv16_mess99,Emilie,09:44:12,tu radooooteeess,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv16_mess100,Anna,09:44:13,ok mec,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv16_mess101,marie,09:44:21,non,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv16_mess102,Emilie,09:44:29,bril,bully,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv16_mess103,constance,09:44:30,tu veux pas aller bruler en enfer,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv16_mess104,Elodie,09:44:36,je ratio marie la grosse catin,bully_support,OAG,victim_support,NCG,ATK,DFN,NEG,1,1,1
+conv16_mess105,marie,09:44:38,tu sais juste pas quoi dire tlm ta bouche sort plus de merde que ton cul,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0

@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv7_mess13,Anton,15:38:19,c un vrai probleme la peau les enfant,bully_support,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv7_mess14,Julie,15:38:20,t'es raciste ou quoi ?,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv7_mess15,Pierre,15:38:28,Ça se comprend,bully_support,OAG,victim,OTH,GSL,DFN,NEG,1,1,1
+conv7_mess16,Pauline,15:38:35,mdrrrrr,bully,NAG,NULL,NULL,AIN,AIN,NEG,0,1,1
+conv7_mess18,Fatima,15:38:42,en quoi ça se comprend pierre ?,victim,NAG,NULL,NULL,DFN,GSL,NEU,0,0,0
+conv7_mess19,alice,15:38:50,pierre mon reuf viens pas faire chier,victim_support,NAG,NULL,NULL,DFN,GSL,NEG,0,0,0
+conv7_mess20,Julie,15:38:50,commence pas a mal parler des gens comme ca a cause de leur peau frr,victim_support,NAG,NULL,NULL,CNS,GSL,NEU,0,0,0
+conv7_mess21,Anton,15:38:55,ben les etrangé ts dehors,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv7_mess22,Nicolas,15:39:03,A mort les arabes,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv7_mess23,Pauline,15:39:05,MDRRRRR,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv7_mess24,Nicolas,15:39:07,C'est tout,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv7_mess25,Pauline,15:39:14,WSH MDRRR,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv7_mess26,Pierre,15:39:16,Ils ont dit les thermes,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv7_mess27,Fatima,15:39:20,Anton je suis française au cas où tu le saurais pas,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv7_mess28,Julie,15:39:21,Allez dehors vous aussi si vous etes pas contentye,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv7_mess29,alice,15:39:25,mais vous etes malade,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv7_mess30,Julie,15:39:28,content*,victim_support,OAG,bully_support,OTH,DFN,ATK,NEU,1,0,0
+conv7_mess31,Pauline,15:39:30,bah pourquoi t’es mate alors?,bully,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv7_mess32,Anton,15:39:41,oui tres clairement t'a raison ts dehors la france au francais,bully_support,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv7_mess33,Julie,15:39:43,c'est de sa faute tu crois ? ptdrrr,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0

@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv13_mess49,Elodie,14:45:56,burk bande de chienne,bully_support,OAG,victim/victim_support,NCG,ATK,NULL,NEG,1,1,1
+conv13_mess51,Julie,14:46:10,ça se voit vous êtes pas des potes si ça vous est jamais de réconforter votre pote,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv13_mess52,Elodie,14:46:18,on sen blkkkkk mais fort,bully_support,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv13_mess53,Anna,14:46:30,mais ftg,bully_support,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv13_mess54,Julie,14:46:37,bah alors tais-toi et laisse-nous vivre,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv13_mess55,Anna,14:46:37,assume que t gouine c tout grosse pute va,bully_support,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv13_mess56,Elodie,14:46:46,faut assumer frr,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv13_mess57,Emilie,14:46:46,mais c'est pas notre pote  deja,bully,OAG,victim,OTH,ATK,CR,NEG,1,1,1
+conv13_mess58,Anna,14:46:56,lvdm assume saliope,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv13_mess59,Julie,14:46:57,c'est quoi le rapport entre être gouine et être une pute ?,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv13_mess60,Anna,14:46:57,salope,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv13_mess61,Elodie,14:47:05,pute et gouine cla meme,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv13_mess62,Julie,14:47:05,ça te dérange si c'était le cas ?,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv13_mess63,Anna,14:47:08,ftg,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv13_mess64,Elodie,14:47:08,oui les garcons avec les filles pas filleet fille c degeulasse,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv13_mess65,Anna,14:47:24,grave vous me degouter,bully_support,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv13_mess66,Julie,14:47:37,t'as un problème va te faire soigner sale homophobe,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv13_mess67,Emilie,14:47:42,exactement stv on te fait un cour crasseuse,bully,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv13_mess68,Anna,14:47:53,c toi ta un problème grosse pute,bully_support,OAG,victim,NCG,GSL,DFN,NEG,1,1,1

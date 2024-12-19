@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv4_mess1,Pierre,11:34:40,ça lui fera de l'argent pour une fois qu'elle en aura,bully_support,CAG,victim,OTH,AIN,NULL,NEG,1,1,1
+conv4_mess2,Fatima,11:34:47,bande de jaloux,victim,OAG,bully_support,NCG,DFN,AIN,NEG,1,0,0
+conv4_mess3,Nicolas,11:34:52,tu montre ton cu tassume,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv4_mess4,Teresa,11:34:54,bh elle va aller porter plainte,victim_support,NAG,NULL,NULL,CNS,AIN,NEU,0,0,0
+conv4_mess5,Fatima,11:34:55,tkt jai pas besoin de ton argent,victim,NAG,NULL,NULL,CNS,AIN,NEU,0,0,0
+conv4_mess6,Pierre,11:34:58,c'est pas dans son pays qu'elle en aura :') :'),bully_support,CAG,victim,DNG,AIN,AIN,NEG,1,1,1
+conv4_mess7,Pauline,11:34:59,c dieu qui donne mon bebew,bully,CAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv4_mess8,Pierre,11:35:09,elle ira pas porter plainte,bully_support,OAG,victim,THR,ATK,CNS,NEG,1,1,1
+conv4_mess9,Fatima,11:35:16,cmt tu sais ?,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv4_mess10,Nicolas,11:35:17,ben va porter plainte,bully_support,CAG,victim,THR,ATK,CNS,NEU,1,1,1
+conv4_mess11,Teresa,11:35:17,exactement,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv4_mess12,Nicolas,11:35:22,on verra a la sorti,bully_support,CAG,victim,THR,ATK,CNS,NEG,1,1,1
+conv4_mess13,Teresa,11:35:26,mdr,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv4_mess14,Nicolas,11:35:27,kestu crois,bully_support,CAG,victim,THR,ATK,CNS,NEG,1,1,1
+conv4_mess15,Teresa,11:35:28,lol,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv4_mess16,Pierre,11:35:30,tkt je l'attendrais devant chez elle,bully_support,CAG,victim,THR,AIN,ATK,NEG,1,1,1
+conv4_mess17,Teresa,11:35:34,tu vas faire quoi,victim_support,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv4_mess19,Pierre,11:35:46,je vais bien continuier avce pauline pour diffuser,bully_support,NAG,NULL,NULL,AIN,CR,NEG,0,1,1
+conv4_mess20,Nicolas,11:35:46,interogatoir 2 heures et glaces a la plages apres,bully_support,CAG,victim,THR,ATK,OTH,NEG,1,1,1
+conv4_mess21,Fatima,11:35:47,ils saven que parlé,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0

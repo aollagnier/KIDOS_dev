@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv20_mess127,Theo,10:37:20,"Ellian au pire ce que tu peux faire c'est aller sur amazon commander une corde et un tabouret puis te pendre, peut etre qu'apres ton ame sera apaisée car aujourd'hui la société à un regarde de plus en plus gentil sur les LGBT",victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv20_mess128,Arthur,10:37:20,bah frr etre gay c'est une maladie,bully_support,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv20_mess129,Ellian,10:37:32,bin si tu va lui sauter dessu vu que t es gay,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv20_mess130,Arthur,10:37:33,donc va voir un psy,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv20_mess131,lisa,10:37:43,OOOO LES REFOULER VOS GUEULE,victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv20_mess132,Theo,10:37:43,peut etre que mort t'iras mieux psychologiquement,victim_support,CAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv20_mess133,Ellian,10:38:03,lisa tg t es adopter noir juive at arabe,bully,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv20_mess134,Theo,10:38:13,petit blanc bec riche moche et avec un pti zizi,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv20_mess135,Ellian,10:38:27,ouai je complex sur mon zizi,bully,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv20_mess136,Theo,10:38:33,je savais,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv20_mess137,lisa,10:38:36,vous etes raciste sexiste et homophobe rien de pire,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv20_mess138,Camille,10:38:38,oe de ouf tu as baisé une meuf de 5 ans o moins ca rentre,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv20_mess139,Theo,10:38:43,un homme avec un petit calibre ne tire pas sur les bonnes personnes,victim_support,CAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv20_mess140,Ellian,10:38:45,ouai c est chaud 36 mm,bully,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv20_mess141,Arthur,10:38:55,theo t'as pas le droit de parler,bully_support,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv20_mess142,Theo,10:39:03,Arthur tu veux une preuve ?,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv20_mess143,Theo,10:39:16,Jsuis fier d'avoir une trompe comm e ça,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv20_mess144,lisa,10:39:18,je sais que tu voulais me pecho ellian mais avec ce que tu vient de faire,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv20_mess145,Theo,10:39:21,si tu complexes c pg t'as pas finis ta croissance,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv20_mess146,lisa,10:39:28,tu me la mettra jamais mdr,victim_support,CAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv20_mess147,Theo,10:39:42,Lisa moi jv te cartoucher tkp,victim_support,NAG,NULL,NULL,OTH,DFN,NEG,0,0,0

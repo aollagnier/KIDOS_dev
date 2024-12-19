@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv4_mess73,Pierre,11:40:35,rooohh theo c'est toi la,bully_support,CAG,conciliator,OTH,GSL,DFN,NEG,1,1,1
+conv4_mess74,Teresa,11:40:42,elle va porter plainte,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv4_mess76,Teresa,11:40:48,tampis pour vous,victim_support,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv4_mess77,Nicolas,11:40:52,tg theo la veriter blaisse tu te sens mal,bully_support,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv4_mess78,Pauline,11:40:52,tg toi,bully,OAG,victim_support,OTH,ATK,CNS,NEG,1,1,1
+conv4_mess79,Fatima,11:40:55,on a les screen,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv4_mess80,Pierre,11:40:57,teresa les preuves disparaissent comme fatima va disparaitre,bully_support,CAG,victim,THR,ATK,CNS,NEG,1,1,1
+conv4_mess81,Teresa,11:41:05,t'es entrain de parler cave,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv4_mess82,Pauline,11:41:07,nous aussi les screen quan tu montre ton cu,bully,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv4_mess83,Teresa,11:41:17,depuis talleur tu l'insulte tu parle de montage,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv4_mess84,Nicolas,11:41:25,mes les toi ou je pense tes screen,bully_support,OAG,victim_support,OTH,ATK,CNS,NEG,1,1,1
+conv4_mess85,Pierre,11:41:31,et alors? je peux tjrs nier,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv4_mess86,Teresa,11:41:46,oui tktt chez la police,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv4_mess87,Pierre,11:41:50, rien prouve que c'est moi ;D,bully_support,NAG,NULL,NULL,OTH,CNS,NEU,0,0,1
+conv4_mess88,Fatima,11:41:57,tu crois ils vont te croire,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv4_mess89,Teresa,11:41:59,continuer de faire les malins,victim_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv4_mess90,Fatima,11:42:02,y a ton nom,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv4_mess91,Teresa,11:42:05,si si,victim_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv4_mess92,Nicolas,11:42:06,va chez la police on tenmene meme si tu veux,bully_support,CAG,victim_support,THR,ATK,OTH,NEG,1,1,1
+conv4_mess93,Pierre,11:42:09,teresa je vais pas le répeter tu n'y iras pas chez la police,bully_support,OAG,victim_support,THR,ATK,OTH,NEG,1,1,1

@@ -1,0 +1,18 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv19_mess109,Nicola,12:53:24,BAHAHAHA DE FOU,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv19_mess111,Arthur,12:53:26,tu sers a rien,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv19_mess112,theo,12:53:28,c’est tout ce que t’as à dire,victim_support,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv19_mess113,Nicola,12:53:29,lisa tg,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv19_mess114,Arthur,12:53:30,cuisine,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv19_mess115,LisaLaBoss,12:53:35,RENTRE DANS TON PAYS ARTHUR,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv19_mess117,theo,12:53:44,allez frère toi tu fais pitié Arthur,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv19_mess118,Ellian,12:53:46,faut qu'il se suicide c'est le mieux pour l'humanite,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv19_mess119,Paul,12:53:48,mais Arthur est francais,victim,NAG,NULL,NULL,OTH,DFN,NEU,0,0,0
+conv19_mess120,Arthur,12:53:54,le culot théo,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv19_mess121,LisaLaBoss,12:53:56,dis lui les thermes theo,victim_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,0
+conv19_mess123,Arthur,12:54:00,Théo 72 frr,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv19_mess124,Paul,12:54:05,bref Ellian je pense que tu me dois des excuses ...,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv19_mess125,LisaLaBoss,12:54:06,arthur c'est camerounais,victim_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv19_mess126,Nicola,12:54:10,non paul,bully_support,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv19_mess127,Ellian,12:54:15,mdr dans tes reves,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv19_mess128,Nicola,12:54:17,t pd t pd assume,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1

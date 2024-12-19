@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv14_mess109,JulieVictime,11:28:26,juste vous êtes jalouse parce que personne vous regarde et puis juste on rigole bien,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv14_mess110,elodie,11:28:38,vous etes les regetté de ce monde et vous continuez vous comprenez pas que vous etes bizzard,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv14_mess111,Anna,11:28:44,allez faire une anne frank et cachez vous de notre existence dans une cave stp,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv14_mess112,JulieVictime,11:29:28,non on assume d'être nous,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv14_mess113,elodie,11:29:34,les gens qui soutiennent les gays vous etes bizzare,bully_support,OAG,victim/conciliator,OTH,ATK,NULL,NEG,1,1,1
+conv14_mess114,JulieVictime,11:29:41,et juste faut accepter que les gens soit différent,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv14_mess115,elodie,11:29:46,pk nous on assume pas ?,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv14_mess116,JulieVictime,11:29:46,sinon ba on vi dans sa famille pis on vois personne d'autre ba oui j'ai l'impression parce que generalement les gens qui ont problème avec ce genre de chose c'est qu'il aimerait mais qu'ils peuvent pas,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv14_mess118,elodie,11:30:43,juste que vous vous sentez obligé de revandiquer le fait que vous etes lesbiennes cest genant,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv14_mess119,JulieVictime,11:30:45,alors CQFD c'est vous les gays et puis si vous l'étiez ça me dérangerai pas parce que je suis une nazi tu va voir quand la maitresse apprendra que vous êtes nazi et la police,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv14_mess120,elodie,11:31:35,aller tg,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv14_mess121,Emilie,11:31:44,baiser vous bande de putes,bully,OAG,victim/conciliator,NCG,ATK,NULL,NEG,1,1,1
+conv14_mess122,JulieVictime,11:31:50,super cool,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv14_mess124,elodie,11:31:56,salope,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv14_mess125,JulieVictime,11:32:01,vous êtes des filles cachés d'Eric Zemmour,victim,CAG,bully/bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv14_mess126,elodie,11:32:10,trop bien au moins plus de pedale d'ici 1 mois vive zemmour!!!,bully_support,CAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv14_mess127,JulieVictime,11:32:50,super ton modèle de france,victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv14_mess128,JulieVictime,11:32:54,que des gens pareils et que des nazi,victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv14_mess129,JulieVictime,11:33:03,bravo,victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0

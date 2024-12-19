@@ -1,0 +1,19 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv8_mess152,Soan,09:44:22,Camille EXCUSE TOI T'EST RACISTE ET CONNE,victim_support,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv8_mess153,Diana,09:44:24,retourne dans ton pays sale voleuse de merde,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv8_mess154,Lucie,09:44:42,cheh hebert,victim_support,CAG,conciliator,OTH,DFN,OTH,NEG,1,0,0
+conv8_mess155,Soan,09:44:55,DIANA EXCUSE TOI T'EST RACISTES ET CONNE AUSSI,victim_support,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv8_mess157,Diana,09:45:14,mais surtout raciste,bully_support,OAG,victim_support,NCG,ATK,DFN,NEG,1,1,1
+conv8_mess158,Camille,09:45:17,SOAN ON TA RIEN DEMANDER,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv8_mess159,Diana,09:45:23,de fou,bully_support,OAG,victim_support,NCG,ATK,DFN,NEG,1,1,1
+conv8_mess160,Lucie,09:45:25,diana t'es pas dans le theme,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv8_mess161,Diana,09:45:28,ftg soan,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv8_mess163,Lucie,09:45:38,on veut juste que lucas s'excuse,victim_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv8_mess164,Soan,09:45:41,Camille on t'as pas demander non plus d'etre conne,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv8_mess165,Lucie,09:45:44,il a tromper sa meuf,victim_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv8_mess166,Adrien,09:45:56,Arrete avec raciste il y a aucun rapport,bully,OAG,conciliator,OTH,ATK,OTH,NEG,1,1,1
+conv8_mess167,Camille,09:46:02,SOAN TG. TU APRLKE TROPP LA,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv8_mess168,Soan,09:46:05,Diana t'as pas honte sale pick me,victim_support,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv8_mess169,Lucie,09:46:17,oe grosse folle,victim_support,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv8_mess170,Silvia,09:46:30,quoi il n'y a pas de rapport avec le racisme,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv8_mess171,Soan,09:46:40,VOUS VOUS EXCUSEREZ EN ENFER ALORS,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0

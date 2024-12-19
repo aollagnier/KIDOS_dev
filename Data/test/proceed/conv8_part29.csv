@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv8_mess169,Lucie,09:46:17,oe grosse folle,victim_support,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv8_mess170,Silvia,09:46:30,quoi il n'y a pas de rapport avec le racisme,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv8_mess171,Soan,09:46:40,VOUS VOUS EXCUSEREZ EN ENFER ALORS,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv8_mess172,Adrien,09:47:01,Silvia c'est la grosse folle dans l'histoire est personne parle d'elle,bully,OAG,victim,NCG,ATK,NULL,NEG,1,1,1
+conv8_mess173,Diana,09:47:11,voila bien dit,bully_support,OAG,victim,NCG,AIN,ATK,NEG,1,1,1
+conv8_mess175,Diana,09:47:19,silvia au buché,bully_support,OAG,victim,NCG,AIN,ATK,NEG,1,1,1
+conv8_mess176,Camille,09:47:21,silvia assume tu la pepon un peu nan,bully_support,NAG,NULL,NULL,GSL,CNS,NEG,0,1,1
+conv8_mess177,Lucie,09:47:21,bah normal elle a rien fait,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv8_mess178,Silvia,09:47:22,pourquoi ca t'intéresse,victim,NAG,NULL,NULL,DFN,GSL,NEG,0,0,0
+conv8_mess179,Lucie,09:47:29,elle etait as en couple ELLE,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv8_mess180,Soan,09:47:30,adrien c'est le gros racistes harceleur on parle de toi,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv8_mess181,Lucie,09:47:45,adrien gros suceur a lucas,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv8_mess182,Adrien,09:47:51,soan apprend l'histoire mdr,bully,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv8_mess183,Silvia,09:47:52,folle voleuse ca va on aura tout entendu de la part de racistes!!!,victim,OAG,bully/bully_support,NCG,DFN,GSL,NEG,1,0,0
+conv8_mess184,Soan,09:47:54,Lucie as raison,victim_support,NAG,NULL,NULL,EMP,DFN,NEG,0,0,0
+conv8_mess186,Theo,09:48:16,c pas raciste!,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv8_mess187,Adrien,09:48:19,pk raciste,bully,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv8_mess188,Lucie,09:48:24,cest surtt pas le theme,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv8_mess189,Camille,09:48:28,je prefere etre celib qu'en couple avec un fdp perso hein,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1

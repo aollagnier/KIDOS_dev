@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv24_mess19,yanis,14:39:29,David fais sa je te Bz ta mère sale chien,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv24_mess20,Brice,14:40:15,Je vais dire à la prof,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv24_mess21,David,14:40:16,Ba vien me le dir je te nike ta mere la grosse pute comme toi,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv24_mess22,David,14:40:54,Gros port t’a photo va finir sur télégramme,bully,OAG,victim,THR,ATK,OTH,NEG,1,1,1
+conv24_mess23,Brice,14:41:04,Tu n'as pas le droit,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv24_mess24,Brice,14:41:04,tu viens de dépasser les limites,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv24_mess25,Brice,14:41:04,je suis tout nu!,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv24_mess26,David,14:41:17,Tkas sla gros va,bully,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv24_mess27,moussa,14:41:32,Vous êtes malades,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv24_mess28,David,14:41:41,Pti bite tu la voit pas ta bite,bully,OAG,victim_support,DNG,ATK,OTH,NEG,1,1,1
+conv24_mess29,yanis,14:41:42,Ferme ta geule David avec t grosse chienne d’amine et jim,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv24_mess30,David,14:42:02,Ba vien c toi qui est gros port de merde,bully,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv24_mess31,David,14:43:09,Sl port,bully,OAG,victim,NCG,ATK,OTH,NEG,1,1,1
+conv24_mess32,yanis,14:43:11,Ta guele David c toi t complexé de ta petite bite,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv24_mess33,David,14:43:33,Sale port on va te fair hella demian,bully,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv24_mess34,moussa,14:44:04,Tu va rien faire,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv24_mess35,David,14:44:07,On la baise tout en gang bang,bully,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv24_mess36,David,14:44:12,Brice alors on mange bien a la cantine,bully,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv24_mess37,moussa,14:44:17,🖕,victim_support,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv24_mess38,David,14:44:27,🤦🏽‍♂️🤦🏽‍♂️🤦🏽‍♂️,bully,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv24_mess39,moussa,14:44:28,Arrête toi,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0

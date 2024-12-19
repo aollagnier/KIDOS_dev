@@ -1,0 +1,17 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv7_mess163,teresa,15:51:05,mais cnest toi qui l’harcèle,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv7_mess164,alice,15:51:08,tu ds de la d depuis tt a l'huere,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv7_mess165,Pierre,15:51:09,Le nôtre reste supérieur,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv7_mess167,Fatima,15:51:13,Non mais Stop ! Personne veut harceler personne à la base ! En plus c'est moi qui ai tout pris pour commencer,victim,NAG,NULL,NULL,OTH,NULL,NEG,0,0,0
+conv7_mess168,teresa,15:51:19,Fait pas la victime Pauline,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv7_mess169,Pauline,15:51:26,…,bully,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv7_mess170,Fatima,15:51:27,moi je veux juste qu'on s'explique pour savoir ce que j'ai fait MOI de mal,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv7_mess171,Pauline,15:51:31,j’avoue,bully,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv7_mess172,Anton,15:51:34,nn c juste que j'aime pas ca peau elle est moche elle vole la fr,bully_support,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv7_mess173,Pauline,15:51:36,Je suis jalouse,bully,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv7_mess175,teresa,15:51:41,t’a rien fais cnest l’autre là,victim_support,NAG,NULL,NULL,EMP,OTH,NEU,0,0,0
+conv7_mess176,Pierre,15:51:52,Bien sûr qu’elle est en tords,bully_support,OAG,victim,OTH,ATK,EMP,NEG,1,1,1
+conv7_mess178,alice,15:51:53,fatima t'as r fait c juste eux qui disent de la d,victim_support,OAG,bully/bully_support,OTH,EMP,OTH,NEG,1,0,0
+conv7_mess179,Pauline,15:51:55,prcs Fatima elle est trop belle lv jveux être comme elle,bully,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv7_mess181,Anton,15:51:56,nn pauline une soldat tombe ds la bataille chui ps jaloux,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv7_mess182,Pauline,15:52:15,😞,bully,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1

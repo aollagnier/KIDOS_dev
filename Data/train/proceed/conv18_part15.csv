@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv18_mess85,nicola,11:20:26,comme Paul il s'en blc,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess86,Ellian,11:20:29,rentre chez toi tu sers a r vrmt degage,bully,OAG,victim_support,DNG,ATK,OTH,NEG,1,1,1
+conv18_mess87,Arthur,11:20:44,jsuis chez moi perso,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv18_mess88,Paul,11:20:47,Heureusement que là nicola ...,victim,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv18_mess89,Camille,11:20:54,c'est toi rentre dans ton pays d'homophobes Ellian,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv18_mess90,Lisa,11:20:55,mais vous la bouclez jamais,victim_support,OAG,bully_support,OTH,DFN,AIN,NEG,1,0,0
+conv18_mess91,Paul,11:21:04,pour nous partager tes remarques pertinentes,victim,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv18_mess92,Ellian,11:21:05,je suis dans mon pays femme homme homme femme,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess93,Camille,11:21:16,visiblement non,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv18_mess94,Ellian,11:21:19,PAS HOMME HOMME,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess95,Arthur,11:21:20,Lisa45 toi aussi finalement *,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess96,Paul,11:21:32,Ellian c'est HomFameCity ?,victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv18_mess97,Ellian,11:21:34,c'est pas dans la nature bah ouais,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess98,Lisa,11:21:55,Arthur tu vas t'en prendre une,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv18_mess99,Ellian,11:21:59,donc va te faire soigner et vite,bully,OAG,victim,OTH,GSL,DFN,NEG,1,1,1
+conv18_mess100,Camille,11:22:01,deux une de ma part aussi,victim_support,NAG,NULL,NULL,EMP,DFN,NEG,0,0,0
+conv18_mess101,nicola,11:22:10,Paul aussi il s'en prend une,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess102,Arthur,11:22:11,allez trois meme,bully_support,OAG,victim_support,OTH,ATK,EMP,NEG,1,1,1
+conv18_mess103,Paul,11:22:19,Ellian et donc tu me conseilles quoi comme traitement ?,victim,NAG,NULL,NULL,DFN,GSL,NEU,0,0,0
+conv18_mess104,Lisa,11:22:28,pourquoi pas quatre,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv18_mess105,Ellian,11:22:46,vas dans un asile !!!,bully,CAG,victim,DNG,ATK,DFN,NEG,1,1,1

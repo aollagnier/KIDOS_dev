@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv18_mess73,Paul,11:18:17,tu manques pas de clichés ... c'est pathétique !,victim,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv18_mess74,Ellian,11:18:19,t'aime les mecs donc t'aime les grosse,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess75,Paul,11:18:38,Ellian c'est tout à fait logique,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv18_mess76,Lisa,11:18:44,arthur t'es pas productif tu parles pour dire que de la merde,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv18_mess77,Arthur,11:19:04,merci Lisa45,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess78,Lisa,11:19:18,t'insulte pour rien dire t'as pas d'arguments,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv18_mess79,Arthur,11:19:27,et toi tu parles dans le vent,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess80,Camille,11:19:29,Ellian la merde ca sort du cul pas de la bouche,victim_support,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv18_mess81,Ellian,11:20:11,wow t'as de la repartit,bully,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess82,Ellian,11:20:17,Camille,bully,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv18_mess83,Camille,11:20:22,Ellian ?,victim_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv18_mess84,Ellian,11:20:26,t'es nul enfaite,bully,OAG,victim_support,DNG,ATK,OTH,NEG,1,1,1
+conv18_mess85,nicola,11:20:26,comme Paul il s'en blc,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess86,Ellian,11:20:29,rentre chez toi tu sers a r vrmt degage,bully,OAG,victim_support,DNG,ATK,OTH,NEG,1,1,1
+conv18_mess87,Arthur,11:20:44,jsuis chez moi perso,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv18_mess88,Paul,11:20:47,Heureusement que là nicola ...,victim,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv18_mess89,Camille,11:20:54,c'est toi rentre dans ton pays d'homophobes Ellian,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv18_mess90,Lisa,11:20:55,mais vous la bouclez jamais,victim_support,OAG,bully_support,OTH,DFN,AIN,NEG,1,0,0
+conv18_mess91,Paul,11:21:04,pour nous partager tes remarques pertinentes,victim,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv18_mess92,Ellian,11:21:05,je suis dans mon pays femme homme homme femme,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess93,Camille,11:21:16,visiblement non,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0

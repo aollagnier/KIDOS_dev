@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv22_mess13,justine,10:28:07,bas ouais c pas ouf ce que ta fais brice,victim_support,NAG,NULL,NULL,CNS,AIN,NEU,0,0,0
+conv22_mess14,Julien,10:28:12,mais ta pa le droit de faire trembler le sol,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv22_mess15,brice,10:28:18,il passe meme pas les portes ce zgeg,bully,OAG,victim,OTH,ATK,AIN,NEG,1,1,1
+conv22_mess16,justine,10:28:33,les gars c batard,victim_support,NAG,NULL,NULL,CR,NULL,NEG,0,0,0
+conv22_mess17,Thibaut,10:28:42,oe trop arretez,victim_support,NAG,NULL,NULL,CR,ATK,NEU,0,0,0
+conv22_mess18,justine,10:28:42,calmer vous,victim_support,NAG,NULL,NULL,CR,ATK,NEU,0,0,0
+conv22_mess19,Julien,10:28:52,on sen justine,bully_support,OAG,victim_support,OTH,ATK,CR,NEG,1,1,1
+conv22_mess20,Julien,10:29:00,blc,bully_support,OAG,victim_support,OTH,ATK,CR,NEG,1,1,1
+conv22_mess21,justine,10:29:20,ho tg et arrete,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess22,Julien,10:29:30,arrete de defendre lautre gros porc,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv22_mess23,justine,10:29:57,il a rien fait le pauvre c pas ouf ce que vous faite dans la cantine,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess24,brice,10:30:08,t as pas honte de manger autant,bully,OAG,victim,DNG,ATK,NULL,NEG,1,1,1
+conv22_mess25,Julien,10:30:24,mais si il fait que manger apres on a pas de rab,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv22_mess26,Selena,10:30:24,en quoi ca te dérange ?,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv22_mess27,brice,10:30:26,tu passe ta vie a mcdo,bully,CAG,victim,DNG,ATK,NULL,NEG,1,1,1
+conv22_mess28,Julien,10:30:26,cet encule,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv22_mess29,Thibaut,10:30:46,frere ftp il fait se quil veut,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess30,justine,10:30:48,mec c pas de sa faute si il a pas le meme organisme que nous,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv22_mess31,Selena,10:30:53,au pire il fait ce qu'il veut,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv22_mess32,Julien,10:30:55,il est Né gros,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv22_mess33,justine,10:31:05,et alors,victim_support,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0

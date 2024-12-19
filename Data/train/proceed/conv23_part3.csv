@@ -1,0 +1,17 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv23_mess14,Amine,14:31:41,ta mere la reine des putes,bully_support,OAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv23_mess16,Jim,14:32:16,merci au  client fidele,bully_support,CAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv23_mess17,David,14:32:32,aller les gros,bully,OAG,victim,DNG,ATK,NULL,NEG,1,1,1
+conv23_mess18,Jim,14:32:36,alllez les gros,bully_support,OAG,victim,DNG,ATK,NULL,NEG,1,1,1
+conv23_mess19,Amine,14:32:54,ton  corps il contient 90% de tartiflette sale chien,bully_support,OAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv23_mess21,Brice,14:33:23,ça va ça va c'est quoi l'probleme,victim,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv23_mess22,Amine,14:33:38,jules toi aussi tu pue la merde,bully_support,OAG,conciliator,DNG,ATK,DFN,NEG,1,1,1
+conv23_mess24,David,14:33:59," brice ecoute moi,  cours",bully,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv23_mess25,Jim,14:34:01," oh commence pas fatigue,  cours",bully_support,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv23_mess27,Amine,14:34:19,brique de lait va baiser tes morts,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv23_mess28,Brice,14:34:25,“cours” et pourquoi ça?,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv23_mess29,David,14:34:32,tg,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv23_mess30,Jim,14:34:35,tg,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv23_mess31,Brice,14:34:44,dou j'ai pas ldroit parlé,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv23_mess32,Amine,14:35:09,tg tahan de merde,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv23_mess33,Jim,14:35:12,prl pas trdc,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1

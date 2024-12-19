@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv10_mess55,Silvia,16:03:01,Tu pues la merde,victim,OAG,bully_support,DNG,DFN,OTH,NEG,1,0,0
+conv10_mess56,michel,16:03:06,et sijnon licas il veurt peut etre casser avec toiu,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv10_mess57,Sophie,16:03:15,mais bordel tg herbert tu vois pas je lui parle,bully,OAG,conciliator,OTH,ATK,CR,NEG,1,1,1
+conv10_mess58,Silvia,16:03:16,Le mec i mytho de ouf pcq il veut foutre sonb cornichon dans la Sophie,victim,OAG,bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv10_mess59,michel,16:03:21,genre il va te le dire,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv10_mess60,Silvia,16:03:29,Mais arrête de mytho stp,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv10_mess61,Lisa,16:03:33,pour de vrai c'est une salope,bully_support,OAG,victim,DNG,GSL,DFN,NEG,1,1,1
+conv10_mess62,Silvia,16:03:34,tu mfais dla peine,victim,NAG,NULL,NULL,OTH,ATK,NEG,0,0,0
+conv10_mess63,Silvia,16:03:39,tg toi,victim,OAG,bully_support,OTH,DFN,GSL,NEG,1,0,0
+conv10_mess64,Sophie,16:03:40,tu veux que je t'explose ta gueule ou quoi?,bully,OAG,victim,THR,ATK,OTH,NEG,1,1,1
+conv10_mess65,Silvia,16:03:47,Mais ferme ta gueule,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess66,Lisa,16:03:48,vasi essaie,bully_support,OAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv10_mess68,michel,16:03:53,putain mais calmez vous,victim_support,NAG,NULL,NULL,CR,NULL,NEU,0,0,0
+conv10_mess69,Lisa,16:03:56,jen profiterai pour te baiser,bully_support,OAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv10_mess70,michel,16:03:58,ca va pas ou quoi,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv10_mess71,Sophie,16:04:03,t'es plate comme une planche de surf et tu fais la folle avec moi,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv10_mess72,Lisa,16:04:03,mais jai peur le l'erpece,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv10_mess73,Silvia,16:04:05,Ah en plus t'es lesbienne?,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess74,Lisa,16:04:16,oui t homophobe ?,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv10_mess75,Adrien,16:04:29,Tu veux quoi SALOPE  en faite t es passer sur tout paname donc parle pas,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1

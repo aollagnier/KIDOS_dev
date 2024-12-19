@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv22_mess121,Paul,10:42:53,personne ne voudra plus être mon ami  à cause de toi batard brice,victim,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv22_mess122,Thibaut,10:43:00,mais il est gay avec ses emojis,victim_support,OAG,bully,NCG,EMP,DFN,NEG,1,0,0
+conv22_mess123,brice,10:43:10,messi c un monstre frero,bully,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv22_mess124,Julien,10:43:11,pas de soucis demain au lycee jtencule thibault,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv22_mess125,Thibaut,10:43:13,tkt Paul,victim_support,NAG,NULL,NULL,EMP,DFN,NEU,0,0,0
+conv22_mess126,Julien,10:43:16,jte nik tes morts,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv22_mess127,justine,10:43:34,julien le dieu des gays,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess128,Thibaut,10:43:37,ftg gros chien,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess129,brice,10:43:37,pierre t fou sale nicois de merde,bully,OAG,conciliator,OTH,ATK,OTH,NEG,1,1,1
+conv22_mess130,Selena,10:43:41,"Julien Arthur vous vous la fermez un peu, laissez le tranquille",victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess131,Julien,10:43:53,justine la reines des putes,bully_support,OAG,victim_support,NCG,ATK,DFN,NEG,1,1,1
+conv22_mess132,Selena,10:44:00,tu crois que toi on va te tacler sur tes peties imperfections,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess134,justine,10:44:28,:'),victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv22_mess135,Julien,10:44:33,andy delort il te nik tes morts,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv22_mess136,brice,10:44:34,ta soeur la chauve qui prend des 3a0,bully,OAG,conciliator,DNG,ATK,DFN,NEG,1,1,1
+conv22_mess137,justine,10:44:36,tu parle de oiq,victim_support,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess138,brice,10:44:45,de foot mon reuf,bully,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv22_mess139,justine,10:44:51,ok,victim_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv22_mess140,Julien,10:44:58,la chatte a justine c'est la cage a costil,bully_support,OAG,victim_support,OTH,ATK,OTH,NEG,1,1,1
+conv22_mess141,justine,10:44:59,bas tg alors julein je te fait bouffer ma big bite,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0

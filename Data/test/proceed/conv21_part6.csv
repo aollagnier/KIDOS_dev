@@ -1,0 +1,17 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv21_mess31,julien,09:16:30,je l'enleve contre un truc,bully_support,OAG,victim,THR,ATK,OTH,NEG,1,1,1
+conv21_mess32,Thibaut,09:16:36,vous etes des gamins,victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv21_mess34,Thibaut,09:16:49,et on en parle plus,victim_support,NAG,NULL,NULL,EMP,DFN,NEU,0,0,0
+conv21_mess35,brice,09:16:55,pierre personne t'as demandé ton avis,bully,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv21_mess37,julien,09:17:04,seulement si tu accepte de faire mes devoirs jusqu'a la fin de l annee ou sinon tout le lycée la verra,bully_support,OAG,victim,THR,ATK,OTH,NEG,1,1,1
+conv21_mess39,Paul,09:17:30,non mais je vais pas faire tes devoirs ! T'es malade toi !,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv21_mess40,brice,09:17:31,ouhh ça insulte,bully,NAG,NULL,NULL,GSL,DFN,NEG,0,1,1
+conv21_mess41,Arthur,09:17:39,arrête de l'insulter toi,bully_support,NAG,NULL,NULL,AIN,GSL,NEG,0,1,1
+conv21_mess42,julien,09:17:48,mais il veut quoi pierre ca le suce ou quoi,bully_support,OAG,victim/conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv21_mess43,Thibaut,09:18:02,c sur que avec ton 4 de moyenne tu vas pas aller loin julien,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv21_mess44,Arthur,09:18:27,frr ta 2 de moyenne,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv21_mess45,julien,09:18:31,t expert en informatique pour savoir j ai combien de moyenne ?trouve autre chose stp au lieu de raconter de la merde,bully_support,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv21_mess46,brice,09:18:39,ah oe ça taille sur les notes tellement t'as r a dire,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv21_mess47,julien,09:19:01,grv bande d omellete,bully_support,OAG,victim/victim_support,NCG,AIN,ATK,NEG,1,1,1
+conv21_mess48,Thibaut,09:19:11,Je taille pas je dis juste se que je pense,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv21_mess50,julien,09:19:22,bah revois tes sources tdc,bully_support,OAG,victim_support,OTH,ATK,CNS,NEG,1,1,1

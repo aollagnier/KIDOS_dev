@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv32_mess55,Guillaume,15:43:55,la paix je connais pas,bully,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv32_mess57,Isabelle,15:44:02,amine wsh??,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv32_mess58,Guillaume,15:44:06,je suis ukrainien,bully,CAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv32_mess59,Justine,15:44:12,Tu dois te calmer Guillaume Je m'en fiche,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv32_mess60,Isabelle,15:44:28,bah ukrainien c pas une religion,bully_support,NAG,NULL,NULL,OTH,ATK,NEU,0,0,1
+conv32_mess61,Lea,15:44:31,@Justine je suis avec toi quoi qu'ils disent,victim_support,NAG,NULL,NULL,EMP,DFN,NEU,0,0,0
+conv32_mess62,Leo,15:44:38,lea la suceuse,bully,OAG,victim_support,DNG,ATK,EMP,NEG,1,1,1
+conv32_mess63,Isabelle,15:44:40,waaa solidarité alv alm sayer,bully_support,NAG,NULL,NULL,OTH,ATK,NEG,0,0,1
+conv32_mess64,Guillaume,15:44:41,ouais balek,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv32_mess65,Lea,15:44:41,Ces remarques ne sont aucunement tolérables,victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv32_mess66,Isabelle,15:44:49,on est pas dans les bisounours,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv32_mess67,Aurelie,15:44:54,tg va manger du porc,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv32_mess69,Guillaume,15:45:06,dans la photo de Justine il y a Zemmour,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv32_mess70,Lea,15:45:10,Mdrrr au moins j'ai des rapports sexuels connard,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv32_mess71,Isabelle,15:45:20,oulaaa,bully_support,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv32_mess72,Leo,15:45:25,sale pute,bully,OAG,victim_support,NCG,ATK,DFN,NEG,1,1,1
+conv32_mess73,Isabelle,15:45:26,on part sur des sujets explicites je suis pas dans ça ici y’a des oukhty,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv32_mess74,Lea,15:45:37,C'est bon vos conneries me saoulent,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv32_mess75,Guillaume,15:45:38,le porc c toi AUR2LIE,bully,OAG,bully_support,OTH,OTH,ATK,NEG,1,0,1

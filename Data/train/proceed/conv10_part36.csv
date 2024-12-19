@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv10_mess211,Sophie,16:16:55,regarde par la fenêtre ya adrien,bully,OAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv10_mess212,Silvia,16:16:55,que tu arrives à m'attraper,victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess213,Silvia,16:17:01,et qu'ensuite tu me tues,victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess214,Silvia,16:17:11,il y a pas de fenêtre là où je suis,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv10_mess215,Adrien,16:17:12,JE VAIS TE BRISER TES OS BOIRE TON SANG SALOPE,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv10_mess216,michel,16:17:21,adrien c est pas grave on est tous passe par la maiis si tu mytho cest un vrai coup de  pute,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess217,Silvia,16:17:24,en plus d'être en manque tu es un vampire?,victim,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess218,Lisa,16:17:27,bah avec le sida c sur tu va crever vite silvia ??,bully_support,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv10_mess219,Sophie,16:17:32,qestu parles grosse folle c'est toi l'obèse donc c'est toi qui roule,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv10_mess220,Silvia,16:17:35,Faut arrêter mon vieux Twilight c'est has been,victim,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess221,Lisa,16:17:41,bah avec le sida c sur tu va crever vite silvia ??,bully_support,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv10_mess222,Silvia,16:17:59,Techniquement le sac à MST c'est pas moi...,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv10_mess223,Sophie,16:18:07,mais lisa laisse tomber la meuf c'est SIDA ebola tétanos tt ce que tu veux,bully,OAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv10_mess224,Silvia,16:18:09,🤣,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv10_mess225,Lisa,16:18:16,carement,bully_support,NAG,NULL,NULL,AIN,AIN,NEG,0,1,1
+conv10_mess226,Silvia,16:18:18,tu vas faire médecine toi pas vrai?,victim,CAG,bully,OTH,DFN,AIN,NEG,1,0,0
+conv10_mess227,Silvia,16:18:23,tu en connais des maladies...,victim,CAG,bully,OTH,DFN,AIN,NEG,1,0,0
+conv10_mess228,Adrien,16:18:24,Rigole demain tu pourras plus,bully_support,OAG,victim,THR,ATK,OTH,NEG,1,1,1
+conv10_mess229,Sophie,16:18:28,dans ta chatte ya 3-4 gangs de mst questu parles,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv10_mess230,Lisa,16:18:36,pas besoin pour savoir que ta tt les mst de la tere,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv10_mess231,Silvia,16:18:37,toi tu peux déjà plus vu l'état de tes vieilles dents,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0

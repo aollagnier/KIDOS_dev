@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv29_mess151,Ana,09:35:07,j vais te niker ta race toi la,victim_support,OAG,bully_support,THR,DFN,ATK,NEG,1,0,0
+conv29_mess152,Lea,09:35:09,tu te prend pour qui,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv29_mess153,Leo,09:35:21,justine si tu me donne 200 euro je l'enleve la photo,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess154,Lea,09:35:27,tg,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv29_mess155,Lea,09:35:32,tu vas l'enlever,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv29_mess156,Aurelie,09:35:34,800 euro pour moi,bully_support,CAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv29_mess157,Ana,09:35:38,tu fais du chantage en pklus ?,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv29_mess158,Leo,09:35:42,oui,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess159,Leo,09:35:43,ya koi,bully,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv29_mess160,Aurelie,09:35:43,oui,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess162,Aurelie,09:35:48,ya ouaq,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv29_mess163,Lea,09:35:52,t'empire ton cas fr,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv29_mess164,Leo,09:35:54,5eu,bully,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv29_mess165,Lea,09:35:55,tu fais pitie,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv29_mess166,Justine,09:36:00,800e pour que je porte plainte surtout,victim,OAG,bully_support,THR,DFN,ATK,NEG,1,0,0
+conv29_mess168,Justine,09:37:02,jamais de la vie je vous donne un centime,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv29_mess169,Aurelie,09:37:14,10 euro,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess170,Aurelie,09:37:16,le rat,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv29_mess171,Lea,09:37:25,ca va trop loin la venez juste vous fermez vos gueules,victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0

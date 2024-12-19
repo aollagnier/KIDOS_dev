@@ -1,0 +1,19 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv2_mess103,Adrien,14:24:21,cette pute la marrave,bully,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv2_mess105,Adrien,14:24:38,herbert arrete,bully,OAG,conciliator,OTH,ATK,CR,NEG,1,1,1
+conv2_mess106,Amos,14:24:51,t'es venu au nom de dieu Herbert?,bully_support,OAG,conciliator,OTH,ATK,CR,NEG,1,1,1
+conv2_mess107,Adrien,14:24:53,alors on ferme sa gueule,bully,OAG,conciliator,OTH,ATK,CR,NEG,1,1,1
+conv2_mess108,Diana,14:24:55,bien ouej adri,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv2_mess109,Amos,14:24:57,ne te mele pas plus,bully_support,OAG,conciliator,OTH,ATK,CR,NEG,1,1,1
+conv2_mess110,Diana,14:25:46,tu veux quoi herbert qu'elle t'embrasse aussi ?,bully_support,OAG,victim/conciliator,OTH,ATK,CR,NEG,1,1,1
+conv2_mess111,Adrien,14:25:54,pédale des qu on est triste on va pleuré chez papa pendant qu il se branle,bully,OAG,victim,OTH,AIN,NULL,NEG,1,1,1
+conv2_mess112,Diana,14:25:58,tu la kiffe cette pétasse ?,bully_support,OAG,victim,NCG,ATK,CR,NEG,1,1,1
+conv2_mess113,Amos,14:26:36,allé un nouveau client pour toi Silvia,bully_support,CAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv2_mess115,Amos,14:26:40,félicitations,bully_support,CAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv2_mess116,Amos,14:26:51,c'est toi qui se mele,bully_support,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv2_mess118,Diana,14:27:12,tu es de son côté alors qu'elle traine son cul sale partout ou ya des mecs,bully_support,OAG,victim/conciliator,OTH,ATK,CR,NEG,1,1,1
+conv2_mess119,Adrien,14:27:15,c vrai herbert il est nien il a pas pécho le mec de sophie luii!!!!!!,bully,OAG,victim,DNG,ATK,CR,NEG,1,1,1
+conv2_mess120,Diana,14:27:15,tu dois kiffer,bully_support,OAG,victim/conciliator,OTH,ATK,CR,NEG,1,1,1
+conv2_mess121,Amos,14:27:22,bah c'est pas toi qui va y réussir Einstein,bully_support,OAG,conciliator,OTH,ATK,CR,NEG,1,1,1
+conv2_mess122,Adrien,14:27:52,ban t ou sylvia on t entend plus,bully,OAG,victim/conciliator,OTH,ATK,CR,NEG,1,1,1
+conv2_mess123,Soan,14:27:58,tkt pas Silvia ce sont que des cons,victim_support,OAG,bully/bully_support,NCG,EMP,NULL,NEG,1,0,0

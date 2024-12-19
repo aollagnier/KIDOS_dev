@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv5_mess121,julie,11:25:12,t'as cas crever,bully,OAG,victim,THR,AIN,ATK,NEG,1,1,1
+conv5_mess122,coralie,11:25:22,biienn suuur,victim_support,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv5_mess123,Paul,11:25:28,au pire tu veux pas rentrer chez toi et cassez les couilles a ta famille,bully_support,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv5_mess124,FatimahVictime,11:25:35,Je me sens pas bien quand vous faîtes ça..,victim,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv5_mess125,leo,11:25:37,coralie sa se voit c un modo discord,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv5_mess126,coralie,11:25:47,leo77 t'es un squellette frerot tu vas rien faire c'est quoi ca ? modo ?,victim_support,CAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv5_mess127,Paul,11:26:10,si il te soulève il est fort,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv5_mess128,coralie,11:26:14,non,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv5_mess129,leo,11:26:18,bahaha va faire du sport,bully_support,CAG,victim_support,OTH,ATK,CNS,NEG,1,1,1
+conv5_mess130,coralie,11:26:20,il touche personne,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv5_mess131,leo,11:26:32,coralie elle a le sida,bully_support,OAG,victim_support,OTH,ATK,CNS,NEG,1,1,1
+conv5_mess132,julie,11:26:33,fatima ça fait quoi de pas pouvoir rentrer chez soi ??,bully,CAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv5_mess133,coralie,11:26:41,leo77 ?? c'est quoi ces argument aclater,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv5_mess134,FatimahVictime,11:26:55,"STOP PAUL ! STOP LEO ! ET JULIE, on va régler ça en FACE2FACE j'en peux PLUS !",victim,OAG,bully/bully_support,THR,DFN,NULL,NEG,1,0,0
+conv5_mess135,leo,11:27:04,viens en sorrt,bully_support,OAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv5_mess136,Paul,11:27:14,Hitler il était pas si mauvais il s'est juste tromper de cible,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv5_mess137,FatimahVictime,11:27:30,C'EST HORRIBLE C'QUE TU DIS PAUL!,victim,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv5_mess138,Paul,11:27:34,les arabes,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv5_mess139,coralie,11:27:36,qu'est ce qui raconte lui,victim_support,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv5_mess140,julie,11:27:36,non c'est fatima qui a le sida a force de se faire pin,bully,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv5_mess141,leo,11:27:41,nique les bougnoules,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1

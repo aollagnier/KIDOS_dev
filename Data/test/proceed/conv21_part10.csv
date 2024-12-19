@@ -1,0 +1,15 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv21_mess55,julien,09:20:07,flemme,bully_support,CAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv21_mess56,brice,09:20:11,faut le brusquer un peu le paul peut être ça lui fera commencer un régime mdr,bully,CAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv21_mess59,Thibaut,09:20:29,mais en quoi flemme frere ta 2 clique à faire,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv21_mess60,julien,09:20:29,enleve moi mon tel des mains si tu veux la supprime,bully_support,OAG,conciliator,THR,ATK,EMP,NEG,1,1,1
+conv21_mess62,Justine,09:20:37,mais juste supprime la vidéo et c'est terminé pourquoi tu cherche les problème,victim_support,CAG,bully_support,THR,DFN,ATK,NEG,1,0,0
+conv21_mess64,Arthur,09:20:51,mais tema le gueule de paul c trop drole,bully_support,OAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv21_mess66,Thibaut,09:20:55,tu l'aurais déjà fais si tu fermé ta gueule,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv21_mess68,julien,09:20:56,mais ferme la pierre etles autres la,bully_support,OAG,victim/victim_support/conciliator,OTH,ATK,NULL,NEG,1,1,1
+conv21_mess69,brice,09:21:01,a croire c'est moi j'ai lancé la viedo,bully,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv21_mess70,julien,09:21:08,vous avez autant pas de vie pour vous melez de la sienne,bully_support,OAG,conciliator,OTH,ATK,EMP,NEG,1,1,1
+conv21_mess71,Thibaut,09:21:13,bah oui gros con,victim_support,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv21_mess72,Paul,09:21:20,Mais putain vous vous foutez de ma gueule devant tout le monde ! C'est pas drole Arthur !,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv21_mess74,brice,09:21:26,si t'es bien gras paul,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv21_mess75,julien,09:21:39,tres gras moi,bully_support,OAG,victim,DNG,AIN,ATK,NEG,1,1,1

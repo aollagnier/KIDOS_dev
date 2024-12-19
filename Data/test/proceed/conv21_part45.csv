@@ -1,0 +1,13 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv21_mess266,Thibaut,09:39:35,ferme ta gueule toi josiane c bon c eu qui casse les couilles,victim_support,OAG,conciliator,OTH,OTH,OTH,NEG,1,0,0
+conv21_mess268,julien,09:39:37,meme le careme il y arrive pas ce gros porc bagra,bully_support,OAG,victim,NCG,AIN,ATK,NEG,1,1,1
+conv21_mess270,julien,09:39:51,josi elle se rebelle,bully_support,OAG,victim_support,OTH,ATK,OTH,NEG,1,1,1
+conv21_mess272,brice,09:39:54,à part tg tu sais dire quoi pierre,bully,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv21_mess274,Selena,09:40:01,1 2 3 le roi du silence commence,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv21_mess275,Thibaut,09:40:31,1 25 3 tu ferme ta gueule,victim_support,OAG,bully,OTH,OTH,ATK,NEU,1,0,0
+conv21_mess276,Selena,09:40:35,perdu,victim_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv21_mess279,julien,09:40:45,selena t pas drole mv,bully_support,OAG,victim_support,OTH,ATK,OTH,NEG,1,1,1
+conv21_mess280,brice,09:40:50,selena tu fais honte un peu là,bully,OAG,victim_support,OTH,ATK,OTH,NEG,1,1,1
+conv21_mess282,Justine,09:41:02,1 2 3 le premier qui parle il baise sa mere,victim_support,OAG,NULL,OTH,OTH,NULL,NEG,1,0,0
+conv21_mess284,Selena,09:41:10,dehja fait,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv21_mess285,julien,09:41:11,pierre sale clochard bouge tu pollue l air,bully_support,OAG,conciliator,DNG,ATK,OTH,NEG,1,1,1

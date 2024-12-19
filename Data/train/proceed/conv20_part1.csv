@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv20_mess1,lisa,10:21:44,salut Ellian je voulais te dire que ce que tu fait a Paul est vraiment nul,victim_support,NAG,NULL,NULL,OTH,NULL,NEG,0,0,0
+conv20_mess2,Ellian,10:21:56,je m'en fou Paul t es gay de tout facon tout le monde le dit sal gay,bully,OAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv20_mess3,Camille,10:22:25,chacun est comme il est,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv20_mess4,Paul,10:22:25,c'est pas de ma faute ellian je pensais que tu étais mon ami...  ;(,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv20_mess5,Ellian,10:22:41,si c est de ta faute,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv20_mess6,lisa,10:22:42,mais toi t'est qu'un gay refouler Ellian,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv20_mess7,Ellian,10:22:54,nan j aime pas les pd,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv20_mess8,Paul,10:23:13,pourtant avant que je te le dise tu étais bien mon ami,victim,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv20_mess9,Ellian,10:23:15,toi me parle pas la pute,bully,OAG,victim_support,NCG,ATK,DFN,NEG,1,1,1
+conv20_mess10,Camille,10:23:22,mais o pire laisse le trkl et fait ta vie sans faire chier personne,victim_support,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv20_mess11,lisa,10:23:29,mdr tu veut proteger ton image  d'hetero,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv20_mess12,Ellian,10:23:30,ouai mais sa a changer,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv20_mess13,lisa,10:23:40,mais on le sait que tu fait ca pour te cacher,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv20_mess14,Ellian,10:23:43,mtn je t aime plus,bully,CAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv20_mess15,Paul,10:23:44,en quoi ca a cahnger je suis toujours pareil,victim,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv20_mess16,Ellian,10:23:51,on est plus potes,bully,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv20_mess17,Camille,10:24:02,cool ta vie,victim_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv20_mess18,Ellian,10:24:10,tg toi,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv20_mess19,Camille,10:24:20,rentres chez toi,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv20_mess20,Ellian,10:24:27,t es adopter et en plus t es noir,bully,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv20_mess21,Camille,10:24:29,tu as aucune confiance en toi,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0

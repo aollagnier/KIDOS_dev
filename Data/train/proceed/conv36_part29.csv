@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv36_mess169,Pierre,10:49:01,dit ça a ta mère,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv36_mess170,paul,10:49:06,elle est moche frr qui la gere elle je la touche meme pas avec un javelot,bully_support,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv36_mess171,Leo,10:49:09,pierre tg,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess172,kate,10:49:09,leo t'as raison,bully,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv36_mess173,paul,10:49:28,craseuse,bully_support,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv36_mess174,Leo,10:49:31,bahahha t'es trop drole mon reuf,bully_support,NAG,NULL,NULL,AIN,AIN,NEG,0,1,1
+conv36_mess175,kate,10:49:32,elle restera celibataire toute sa vie la pauvre,bully,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv36_mess176,Leo,10:49:52,meskinaaaa,bully_support,OAG,victim,DNG,AIN,AIN,NEG,1,1,1
+conv36_mess177,Pierre,10:49:53,comme ta pute de soeur,victim_support,OAG,bully_support,OTH,DFN,AIN,NEG,1,0,0
+conv36_mess178,paul,10:49:53,pierre t'aime bien les gorge profonde a se que je voit,bully_support,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv36_mess179,Fatimah,10:50:06,Attention Julie je respire aussi ! je te vole ton O2 MDR,victim,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv36_mess180,Pierre,10:50:07,surtout celle de tamère,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv36_mess181,Coralie,10:50:07,Leo68 surveille un peu ce que tu dis...,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv36_mess182,paul,10:50:23,ne compare pas une sale arabe a ma soeur pd suceur,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess183,Leo,10:50:39,coralie l'invisible tg.,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess184,Fatimah,10:50:41,kate93 ça y est tu ramène Le pen ta référente Facho ?,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv36_mess185,julie,10:50:56,t'a pas trouvé mieux fatimah vraiment,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess186,Leo,10:50:59,fatimah les cochons ils parlent pas donc tg,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess187,Pierre,10:51:11,obliger de mettre un sac poubelle sur sa sale geule tellement elle est scheum quand elle suce,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv36_mess188,kate,10:51:15,elle a juste raison les arabes dans leur pays on veut pas de vous,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv36_mess189,julie,10:51:22,sincere ferme la leo a raison,bully,OAG,victim_support,OTH,AIN,ATK,NEG,1,1,1

@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv12_mess13,paul,14:41:35,Je pensais que t'étais mon ami à la base,victim,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv12_mess14,Camille,14:41:50,Mai stop,victim_support,NAG,NULL,NULL,CR,ATK,NEU,0,0,0
+conv12_mess15,Ellian,14:41:56,Oe mais plus maintenant,bully,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv12_mess16,paul,14:42:06,mais en fait t'es une belle enflure !,victim,OAG,bully,NCG,DFN,OTH,NEG,1,0,0
+conv12_mess17,paul,14:42:21," On ne peut pas en discuter en face, en homme.",victim,OAG,bully,NCG,DFN,OTH,NEU,1,0,0
+conv12_mess18,paul,14:42:21,Tu préfères m'insulter,victim,OAG,bully,NCG,DFN,OTH,NEG,1,0,0
+conv12_mess19,paul,14:42:33,comme si t'avais peur d'un truc,victim,OAG,bully,NCG,DFN,OTH,NEU,1,0,0
+conv12_mess20,paul,14:42:33,Peut-être t'es GAY toi aussi ?,victim,OAG,bully,NCG,DFN,OTH,NEG,1,0,0
+conv12_mess21,paul,14:42:33,T'es dans le déni !,victim,OAG,bully,NCG,DFN,OTH,NEG,1,0,0
+conv12_mess22,Ellian,14:42:49,Si mais le problème c’est que toi t’es plus un homme t’es une tarlouse,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv12_mess23,paul,14:43:11,Et c'est quoi le problème ?,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv12_mess24,Camille,14:43:13,Oui mai ses sa le truc il rigole sur les réseaux et assume après en face,victim_support,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv12_mess25,paul,14:43:35,Je ne suis plus un homme ?,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv12_mess26,Ellian,14:43:44,Oe,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv12_mess27,paul,14:43:56,Parce qu'un homme doit être viril et être hétéro ?,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv12_mess28,Camille,14:43:56,Il a pas coupé sa bite donc ses toujours un homme,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv12_mess29,paul,14:44:13,J'ai toujours ma GROSSE BITE,victim,OAG,bully,OTH,DFN,ATK,NEU,1,0,0
+conv12_mess30,paul,14:44:13,contrairement à toi!,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv12_mess31,Ellian,14:44:46,Va te faire enculer,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv12_mess32,Ellian,14:44:46,Et oe ta plus de bite salle merde,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv12_mess33,Camille,14:45:08,Il utilise sont engin comme il veut,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0

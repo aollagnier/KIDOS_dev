@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv10_mess139,michel,16:10:14,bah allez sophie,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv10_mess140,michel,16:10:19,appelle le pour voir,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv10_mess141,Sophie,16:10:23,tu vas voir quand tu sortiras des vestiaires,bully,OAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv10_mess142,Silvia,16:10:27,Mais putain tu fais plus confiance à Adri qu'à ton mec?,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess143,Silvia,16:10:32,tu fais pitié sérieux,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess144,Sophie,16:10:33,habille toi vite grosse p***,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv10_mess145,Silvia,16:10:43,moi j'en ai rien à foutre de ton débile de gros laid,victim,OAG,NULL,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess146,Sophie,16:10:51,ah mais nan c'est vrai t'aimes te faire péter le cul j'avais oublié,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv10_mess147,Silvia,16:10:55,putain je peux me faire dix mille fois mieux que lui,victim,OAG,NULL,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess148,Lisa,16:10:56,ouais mais cherche pas a comprendre pk ca se fait pas,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv10_mess149,Adrien,16:10:57,Alors pk tu le suce tous les soir,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv10_mess151,Silvia,16:11:17,Mais putain Adrien mythonne,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv10_mess152,Silvia,16:11:21,🤣,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv10_mess153,Silvia,16:11:28,Sophie tu me fais pitié,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess154,Sophie,16:11:29,mdrr tu l'aurais pas embrassé si c'était qu'un débile,bully,NAG,NULL,NULL,GSL,DFN,NEG,0,1,1
+conv10_mess155,michel,16:11:33,taimerai biezn etre suce hein adri tes bien seul,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv10_mess156,Adrien,16:11:37,Tu trouve ca drole en plus,bully_support,NAG,NULL,NULL,AIN,GSL,NEG,0,1,1
+conv10_mess157,Silvia,16:11:58,Je l'ai pas embrassé,victim,NAG,NULL,NULL,CNS,GSL,NEU,0,0,0
+conv10_mess158,Silvia,16:12:01,putain t vmt conne,victim,OAG,bully_support,NCG,DFN,AIN,NEG,1,0,0
+conv10_mess159,Lisa,16:12:04,mais oui biensur,bully_support,NAG,NULL,NULL,OTH,CNS,NEU,0,0,1

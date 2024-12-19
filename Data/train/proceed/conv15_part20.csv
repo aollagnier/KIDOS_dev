@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv15_mess115,Caroline,15:52:31,"LA FRANCE EST LE PAYS OU IL Y AVAIT LE PLUS DE GAYS AU MOYEN AGE LA CULTURE TU CONNAIS,",victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv15_mess116,Emilie,15:52:46,IL ETAIT HABATUE FRR,bully,CAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv15_mess118,Elodie,15:52:48,les hommes etaient des vrais hommes,bully_support,CAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv15_mess119,Anna,15:52:57,mais mdr,bully_support,NAG,NULL,NULL,AIN,AIN,NEG,0,1,1
+conv15_mess120,Marie,15:52:58,bien venus en 2022 bande de con,victim_support,OAG,bully/bully_support,NCG,DFN,NULL,NEG,1,0,0
+conv15_mess121,Elodie,15:52:59,et les femmes lavaient et fermaient leur gueules,bully_support,CAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv15_mess122,Caroline,15:53:08,LES HOMMES ETAIENT TOUS OU QUASI TOUS GAYS,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv15_mess123,Elodie,15:53:09,LES GAYS AU BUCHER !!!!!!,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv15_mess124,Constance,15:53:10,t'es une femme t'es bete ou quoi feur,victim_support,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv15_mess125,Caroline,15:53:27,oui et?,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv15_mess126,Elodie,15:53:30,"oui, bah je prefere laver et fermer ma gueule pour mon mari plutot que baiser des meufs",bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv15_mess127,Anna,15:53:33,des gamins,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv15_mess128,Julie,15:53:35,De quelle France parle-tu?,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv15_mess129,Elodie,15:53:38,:b,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv15_mess130,Emilie,15:53:48,T MRIER TOI A 14 ANS GROSSE PUTE,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv15_mess131,Constance,15:53:48,X),victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv15_mess132,Caroline,15:53:51,et bah pas de soucis,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv15_mess133,Emilie,15:53:54,T TROP MOCHE,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv15_mess134,Elodie,15:53:55,oui,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv15_mess135,Caroline,15:54:00,vas laver des sols pour un homme,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0

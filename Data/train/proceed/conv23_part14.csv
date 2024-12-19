@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv23_mess79,Yanis,14:42:27,laisser le,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv23_mess80,Amine,14:42:33,moussa dis nous tes qui toi aussi tes une baleine ? tu flotte dans l'eau,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv23_mess81,Brice,14:42:56," ouais, davidharceleur crache toujours sur tout le monde",victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv23_mess82,Jim,14:42:57,non y coulle,bully_support,CAG,victim_support,OTH,AIN,ATK,NEG,1,1,1
+conv23_mess83,Brice,14:43:17,jimsoutiendharce la graisse ça flotte mec!,victim,OAG,bully_support,OTH,DFN,AIN,NEG,1,0,0
+conv23_mess84,David,14:43:18,je te crache dessus connard,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv23_mess85,Brice,14:43:23,retourne en cours de physique ouèch,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv23_mess86,Jim,14:43:39,mais tg enft clochard et wsh pas ouèch,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv23_mess87,David,14:43:51,toi retourne en cours de sport,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv23_mess88,Amine,14:43:59,suicide toi brice et fais nous un tuto quand tu va te pendre,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv23_mess90,Jim,14:44:24,amine ....,bully_support,NAG,NULL,NULL,OTH,ATK,NEU,0,0,1
+conv23_mess91,Amine,14:44:30,tahiaaa lmaghreb,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv23_mess92,David,14:44:40,wsh amine,bully,NAG,NULL,NULL,OTH,ATK,NEU,0,0,1
+conv23_mess93,Amine,14:44:50,weeee le sancho,bully_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv23_mess95,Yanis,14:45:21,calmer vous,victim_support,NAG,NULL,NULL,CR,NULL,NEU,0,0,0
+conv23_mess96,Amine,14:45:28,j'vais briser ton cul  comme ca </3,bully_support,OAG,conciliator,THR,ATK,CR,NEG,1,1,1
+conv23_mess97,Amine,14:46:31,brice on fais la paix? mais stp me mange pas,bully_support,OAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv23_mess98,Jim,14:46:50,ah jsuis morte ptn,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv23_mess99,Brice,14:47:00,mais t'es un sacré comique,victim,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0

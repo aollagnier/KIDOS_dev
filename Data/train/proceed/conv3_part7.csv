@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv3_mess37,Diana,09:19:55,Je defend mon pote tout simplement,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv3_mess39,SilviaVictime,09:20:02," Adrien94  Tu n'as rie nd'autre a faire que de venir foutre la merde ici, tu as pas d'amis pour t'occuper ?",victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv3_mess40,Adrien,09:20:04,bien dit Diana ! tg,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv3_mess41,Theo,09:20:10,pourquoi tu te mets à la place de la victime alors que c'est toi la tapin,bully_support,OAG,victim,BLM,ATK,DFN,NEG,1,1,1
+conv3_mess42,Adrien,09:20:13,parle pas,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv3_mess43,Soan,09:20:32,Vous bouffez votre seum parce que votre pote à pécho Silvia parce qu'elle est bien plus belle que Sophie,victim_support,NAG,NULL,NULL,DFN,ATK,POS,0,0,0
+conv3_mess44,Adrien,09:20:43,toi t’ez un thon trop vilaine et elle parle,bully,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv3_mess45,Diana,09:21:01," mais gros elle est dans sa classe allo elle a pas de respect pour elle, va sur les trottoirs c'est pareil",bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv3_mess46,SilviaVictime,09:21:16,Diana si tu as un minimum de cerveau tu ne suis pas les connerie d'adrien,victim,OAG,bully/bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv3_mess47,Soan,09:21:22,T'es super vilain Adrien,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv3_mess48,camille,09:21:24,mdr quel seum t'es juste un bouche trou crois pas des bonne,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv3_mess49,Adrien,09:21:24,silvia t’as chatte toute degeulasse,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv3_mess50,Theo,09:21:25,tg Soan t'es au meme niveau que ta pote crasseuse,bully_support,OAG,victim/victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv3_mess51,Soan,09:21:36,Les conneries d'Adrien sont aussi grosses que lui,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv3_mess52,Adrien,09:21:48,Soan t’es panini,bully,OAG,victim_support,NCG,ATK,DFN,NEG,1,1,1
+conv3_mess53,Soan,09:22:00,le rapport ???????????? T'es très peu futé,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv3_mess54,Diana,09:22:12,silvia me parle pas sachant que tu fais la sainte nitouche alors que t'a bz 1000 mecs,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv3_mess55,Adrien,09:22:15,silvia parle si t as des couille grognasse,bully,OAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv3_mess57,Adrien,09:23:03,arrete d essayer de calmer,bully,OAG,conciliator,THR,ATK,CR,NEG,1,1,1

@@ -1,0 +1,17 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv11_mess37,theo,12:44:46,une pute reste une pute,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv11_mess39,Silvia,12:45:00,"Theo t'es ouf, j'ai rien fait",victim,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv11_mess40,camille,12:45:11,elle la chauffe ?,bully_support,OAG,victim,DNG,ATK,NULL,NEG,1,1,1
+conv11_mess41,theo,12:45:16,sale serbe,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv11_mess42,Silvia,12:45:24,mais t'es raciste ?,victim,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv11_mess43,theo,12:45:28,elle lui a sauter dessus oui?,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv11_mess44,Silvia,12:45:36,ben non,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv11_mess46,lucie,12:46:23,le mec il t’a sauté dessus pourtant il a une copine c’est  bien lui le problème,victim_support,OAG,NULL,OTH,DFN,ATK,NEG,1,0,0
+conv11_mess47,lucie,12:46:34,t’as rien à te reprocher meuf,victim_support,OAG,NULL,OTH,DFN,ATK,NEU,1,0,0
+conv11_mess49,Silvia,12:46:44,"si c'est moi et je me défends, comme je vous l'ai dit, je n'ai rien fait et je ne savais pour Sophie",victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv11_mess50,theo,12:46:45,et alors elle vas pleurer 💔😢💔😢💔😢,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv11_mess51,camille,12:46:49,cest bon frere elle la chauffe et tout et,bully_support,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv11_mess52,theo,12:47:11,tu savais pas pour sophie ???,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv11_mess55,theo,12:47:14,bah bien sûr,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv11_mess56,lucie,12:47:18,bah alors y’a aucun problème mtn à part lucas qui sait pas garder sa bite dans son caleçon,victim_support,OAG,NULL,DNG,OTH,NULL,NEG,1,0,0
+conv11_mess57,theo,12:47:18,on va tous y croire,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1

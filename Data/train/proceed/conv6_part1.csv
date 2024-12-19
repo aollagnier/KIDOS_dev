@@ -1,0 +1,19 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv6_mess1,Pauline,14:26:26,weee fatima,bully,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv6_mess2,Fatima,14:28:25,Hey Pauline !,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv6_mess3,Pauline,14:28:28,fatima!!,bully,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv6_mess4,Fatima,14:28:35,Pauline !!,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv6_mess5,Pauline,14:28:39,oui,bully,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv6_mess6,Pauline,14:29:29,ct bien t vacances ?,bully,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv6_mess7,Fatima,14:29:59,Oui c'était cool !,victim,NAG,NULL,NULL,OTH,OTH,POS,0,0,0
+conv6_mess8,Pauline,14:30:35,oui jme souviens,bully,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv6_mess9,Pauline,14:31:31,ta bien noirssis grossse folleee,bully,OAG,victim,OTH,AIN,OTH,NEG,1,1,1
+conv6_mess10,Fatima,14:31:53,je te demande pardon ?! :O,victim,NAG,NULL,NULL,OTH,AIN,NEU,0,0,0
+conv6_mess11,Teresa,14:32:22,Je trouve qu’elle a bien bronzé,victim_support,NAG,NULL,NULL,CNS,AIN,NEU,0,0,0
+conv6_mess13,Pauline,14:32:30,ta vu,bully,NAG,NULL,NULL,OTH,CNS,NEU,0,0,1
+conv6_mess14,Pierre,14:32:40,Bien bien noir,bully_support,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv6_mess16,Pauline,14:32:54,oui tres,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv6_mess17,Fatima,14:33:07,très noir ? comment ça ?,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv6_mess18,Pierre,14:33:20,Ta cuit ou quoi?,bully_support,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv6_mess19,Pauline,14:33:21,eh wee,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv6_mess20,Teresa,14:33:40,J’aimerais bronzé comme toi 😗,victim_support,NAG,NULL,NULL,EMP,DFN,POS,0,0,0

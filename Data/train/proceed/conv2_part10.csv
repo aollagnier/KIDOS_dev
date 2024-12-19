@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv2_mess55,Amos,14:18:54," oula,  t'attaques? ",bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv2_mess56,Diana,14:18:54,il voulait pas LUI!,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv2_mess57,Adrien,14:18:57,e a de queue un trans travelo,bully,OAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv2_mess58,Silvia,14:19:11,en fcs ça donne quoi Einstein?,victim,CAG,bully,OTH,DFN,AIN,NEG,1,0,0
+conv2_mess60,Silvia,14:19:28,je le pensais mais bon,victim,NAG,NULL,NULL,OTH,CR,NEU,0,0,0
+conv2_mess61,Diana,14:19:41,je suis pas potes avec des aguicheuse pareil ! je voudrait pas qu'on me pennes attentionner mon copain,bully_support,OAG,victim,DNG,ATK,CR,NEG,1,1,1
+conv2_mess62,Amos,14:19:49,tais-toi,bully_support,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv2_mess63,Adrien,14:19:50,apprend a lire avant de me parler,bully,CAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv2_mess64,Diana,14:20:08,attentionnellement*,bully_support,OAG,victim,DNG,ATK,CR,NEG,1,1,1
+conv2_mess65,Silvia,14:20:09,je pique les mecs moi apparement,victim,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv2_mess66,Silvia,14:20:14,j'ai pas besoin de savoir lire,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv2_mess67,Diana,14:20:17,ouais,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv2_mess68,Amos,14:20:28,ohhh ca part bien,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv2_mess69,Adrien,14:20:32,parceque t une pute qui les chauffe et qui les paie,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv2_mess70,Diana,14:20:38,t'es une pute qui n'arrive pas a trouver de mec,bully_support,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv2_mess71,Silvia,14:20:43,c'est ton père qui les paie,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv2_mess72,Adrien,14:20:44,et apres tu leur donne des MST,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv2_mess73,Amos,14:20:44,si tu veux être une pute personne t'oblige a lire,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv2_mess74,Silvia,14:21:02,personne oblige ta soeur à savoir lire non plus,victim,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv2_mess75,Adrien,14:21:08,le mien il a de l argent au moins,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1

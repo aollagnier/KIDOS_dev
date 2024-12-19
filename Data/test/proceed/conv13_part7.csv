@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv13_mess37,Elodie,14:44:43,marie tg,bully_support,OAG,victim_support,OTH,ATK,CNS,NEG,1,1,1
+conv13_mess38,Anna,14:44:50,grosse pute va,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv13_mess39,Elodie,14:44:55,saloperie,bully_support,OAG,victim,NCG,AIN,ATK,NEG,1,1,1
+conv13_mess40,Anna,14:45:10,on dit que la vérité grosse pute,bully_support,OAG,victim,NCG,GSL,DFN,NEG,1,1,1
+conv13_mess41,Elodie,14:45:12,chienne que tes ont aimes pas les lesbienne ici,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv13_mess42,Emilie,14:45:13,bref venais on les vire de la classe c'est grosse crasseuse,bully,OAG,victim/victim_support,OTH,ATK,NULL,NEG,1,1,1
+conv13_mess43,Elodie,14:45:23,qui les supp du groupe la,bully_support,OAG,victim/victim_support,OTH,AIN,ATK,NEG,1,1,1
+conv13_mess44,Anna,14:45:38,je vais les supprimer,bully_support,OAG,victim/victim_support,OTH,AIN,ATK,NEG,1,1,1
+conv13_mess45,Elodie,14:45:38,on veut pas de sa ici,bully_support,OAG,victim/victim_support,OTH,AIN,ATK,NEG,1,1,1
+conv13_mess46,Anna,14:45:45,grave pas de crasseuse,bully_support,OAG,victim/victim_support,OTH,AIN,AIN,NEG,1,1,1
+conv13_mess47,Elodie,14:45:47,enfiiin,bully_support,OAG,victim/victim_support,OTH,AIN,ATK,NEG,1,1,1
+conv13_mess48,Anna,14:45:53,me degoute,bully_support,OAG,victim/victim_support,OTH,AIN,AIN,NEG,1,1,1
+conv13_mess49,Elodie,14:45:56,burk bande de chienne,bully_support,OAG,victim/victim_support,NCG,ATK,NULL,NEG,1,1,1
+conv13_mess51,Julie,14:46:10,ça se voit vous êtes pas des potes si ça vous est jamais de réconforter votre pote,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv13_mess52,Elodie,14:46:18,on sen blkkkkk mais fort,bully_support,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv13_mess53,Anna,14:46:30,mais ftg,bully_support,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv13_mess54,Julie,14:46:37,bah alors tais-toi et laisse-nous vivre,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv13_mess55,Anna,14:46:37,assume que t gouine c tout grosse pute va,bully_support,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv13_mess56,Elodie,14:46:46,faut assumer frr,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv13_mess57,Emilie,14:46:46,mais c'est pas notre pote  deja,bully,OAG,victim,OTH,ATK,CR,NEG,1,1,1

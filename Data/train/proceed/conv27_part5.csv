@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv27_mess25,Zoé,14:43:27,je te roule dessus natacha,victim,OAG,bully_support,THR,DFN,ATK,NEG,1,0,0
+conv27_mess26,Natacha,14:43:29,svpppp!!!!,bully_support,NAG,NULL,NULL,OTH,CNS,NEG,0,0,1
+conv27_mess27,Lucie,14:43:35,euuuuh y a pas mieux que nous en fait,bully,NAG,NULL,NULL,AIN,AIN,NEG,0,1,1
+conv27_mess28,Zoé,14:44:06,pfff vous faites trop les meufs,victim,OAG,bully,NCG,DFN,AIN,NEG,1,0,0
+conv27_mess29,Soan,14:44:11,mais ferme la ta  vu ta gueule,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv27_mess30,Marjorie,14:44:14,Tu fait ta victime tu sais pas te defendre seul,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv27_mess31,Lucie,14:44:16,natacha elle va mourir si tu lui roulle dessus t'as t'es 3 ptit klebs,bully,CAG,victim/victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv27_mess32,Natacha,14:44:55,:') :') :') :') :'),bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv27_mess33,Soan,14:45:01,"Ne les écoutes pas Zoé,  le physique ne compte pas tu es très bien comme tu es. Le principale c'est que tu te sentes bien dans ton coeur",victim_support,NAG,NULL,NULL,EMP,DFN,POS,0,0,0
+conv27_mess34,Natacha,14:45:02,sa y est jsuis morte deja,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv27_mess35,Zoé,14:45:30,merci de me dire ça,victim,NAG,NULL,NULL,EMP,EMP,POS,0,0,0
+conv27_mess36,Marjorie,14:45:30,tant mieu,bully,NAG,NULL,NULL,OTH,EMP,NEU,0,0,1
+conv27_mess37,Soan,14:45:34,"Elles sont juste immature de faire ca,  preuve que c'est des gamines",victim_support,OAG,bully/bully_support,OTH,EMP,DFN,NEG,1,0,0
+conv27_mess38,Marjorie,14:45:49,tg elisa,bully,OAG,NULL,OTH,ATK,NULL,NEG,1,1,1
+conv27_mess39,Soan,14:45:54,zoé tu vaux mieux que sa,victim_support,NAG,NULL,NULL,EMP,EMP,NEU,0,0,0
+conv27_mess40,Natacha,14:46:00,c elle qui est venue nous dm donc on lui dit ce quon pense merdeee,bully_support,OAG,victim,OTH,ATK,EMP,NEG,1,1,1
+conv27_mess41,Zoé,14:46:15,bah normal vous avez envoyé des photos a tout le monde je prends pas des photos de vous dans les vestiaires moi,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv27_mess42,Soan,14:46:38,elle au moin  elle respect les gens,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv27_mess43,Lucie,14:46:45,ouais maint tkt on te vois pas derrire tes bourllet,bully,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv27_mess44,Soan,14:46:48,Tu as le droit de porter plainte tu sais,victim_support,NAG,NULL,NULL,EMP,CNS,NEU,0,0,0
+conv27_mess45,Marjorie,14:46:52,beh oui elle est venu nous parler elle cherche la merde cette grosse,bully,OAG,victim,OTH,ATK,EMP,NEG,1,1,1

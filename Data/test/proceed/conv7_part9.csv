@@ -1,0 +1,19 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv7_mess49,Pauline,15:41:05,toi même,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv7_mess50,Julie,15:41:09,genes*,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv7_mess51,Anton,15:41:15,nn juste des gens qui pense normalemenbt,bully_support,OAG,victim,OTH,GSL,DFN,NEG,1,1,1
+conv7_mess52,Pauline,15:41:40,Dis les termes anton,bully,NAG,NULL,NULL,AIN,GSL,NEG,0,1,1
+conv7_mess53,Fatima,15:41:46," Mais depuis quand dire ""t mate t pas française"" c'est normal ?",victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv7_mess54,Anton,15:41:55,ben oui,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv7_mess55,alice,15:41:56,les termes c que vous dites de la merde,victim_support,OAG,bully_support,OTH,DFN,GSL,NEG,1,0,0
+conv7_mess57,Anton,15:41:58,logique,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv7_mess58,Julie,15:42:00,les cons : pauline anton nicolas et pierre jpp,victim_support,OAG,bully/bully_support,NCG,DFN,NULL,NEG,1,0,0
+conv7_mess60,Pauline,15:42:19,lv que nan,bully,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv7_mess61,Nicolas,15:42:24,Bah les arabes c'est pas en France svp on veut pas de vous ici,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv7_mess62,Pierre,15:42:28," infériorité*, même écrire les arabes ne savent pas faire",bully_support,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv7_mess63,Pauline,15:42:30,Jsuis pas jalouse de Fatima moi😹 MDMRMRR,bully,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv7_mess64,Julie,15:42:41,pouaaa,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv7_mess65,alice,15:42:42,opsk tu croit t 100% fr,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv7_mess66,Julie,15:42:48,2 de qi j'ai juré,victim_support,OAG,bully/bully_support,DNG,DFN,NULL,NEG,1,0,0
+conv7_mess67,alice,15:42:55,les origines ça existe du con,victim_support,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv7_mess69,Fatima,15:43:05,Mais genre je t'ai rien fait meuf ! Pourquoi tu me déglingue comme ça ? Dans mon dos en + !,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0

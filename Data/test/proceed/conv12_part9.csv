@@ -1,0 +1,19 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv12_mess49,Ellian,14:47:53,Oe mais dieu n’a pas créé la vie comme sa,bully,NAG,NULL,NULL,OTH,CNS,NEU,0,0,1
+conv12_mess50,Camille,14:48:01,Même si il aime les grosse bite noir laisse le tranquillE,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv12_mess51,Ellian,14:48:12," Je m’en bas les couilles, c’est plus mon ami",bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv12_mess52,paul,14:48:15,Pourquoi l'homosexualité se retrouve-t-elle aussi dans la nature ?,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv12_mess53,Ellian,14:48:16,se gros pb,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv12_mess54,Camille,14:48:50,Et alors au moins lui il assume qui il est,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv12_mess55,paul,14:49:02,Mon canard aimait s'accoupler avec les canards du même sexe... morts,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv12_mess56,Ellian,14:49:53,A oe une vrai pedale,bully,OAG,victim,NCG,ATK,OTH,NEG,1,1,1
+conv12_mess58,paul,14:50:56," Ellian, dis moi seulement ce qui te fait autant haïr ma sexualité ?",victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv12_mess59,paul,14:50:56,Pourquoi tu fais ça??,victim,CAG,bully,OTH,DFN,ATK,NEU,1,0,0
+conv12_mess60,paul,14:50:56,J'essaie juste de comprendre ?,victim,CAG,bully,OTH,DFN,ATK,NEU,1,0,0
+conv12_mess61,paul,14:50:56,T'as peur de devenir homosexuel ?,victim,CAG,bully,OTH,DFN,ATK,NEU,1,0,0
+conv12_mess62,paul,14:50:56,ou tu l'es déjà peut être ?,victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv12_mess64,Ellian,14:52:16,Nn c’est juste que j’accepte pas que « mon pote » soit un pd,bully,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv12_mess65,paul,14:52:27,Pourquoi?,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv12_mess66,paul,14:52:27,Je suis pas amoureux de toi de toute façon,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv12_mess67,paul,14:52:27,je voulais juste te partager ce secret entre nous,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv12_mess69,paul,14:52:59,je pensais pas que t'aurais pu le partager avec tout le monde,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0

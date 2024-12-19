@@ -1,0 +1,13 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv21_mess356,Selena,09:47:41,qui a vue le dernier spider man sinon?,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv21_mess358,Selena,09:48:06,pardon,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv21_mess362,Selena,09:48:13,de nice,victim_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv21_mess364,brice,09:48:30,oui papa tqt j'arreterai pas,bully,CAG,conciliator,OTH,ATK,OTH,NEG,1,1,1
+conv21_mess365,Thibaut,09:48:44,d abord supprime la vidéo,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv21_mess367,julien,09:49:00,pour tous se rejoindre au jennah faison la paix,bully_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv21_mess369,Arthur,09:49:13,Selena tg,bully_support,OAG,victim_support,OTH,ATK,OTH,NEG,1,1,1
+conv21_mess370,Paul,09:49:23,Supprimes la vidéo Julien !,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv21_mess371,Selena,09:49:32,Suprimmeeeeeeeeeeeeeeeee,victim_support,NAG,NULL,NULL,EMP,DFN,NEU,0,0,0
+conv21_mess372,brice,09:49:56,vas y supprime julien c bon,bully,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv21_mess373,Thibaut,09:49:56,mais vos gueules,victim_support,CAG,bully,OTH,OTH,OTH,NEU,1,0,0
+conv21_mess374,julien,09:50:00,vsi brice on trouvera un autre moment ou ils seront pas la pour nous faire chier,bully_support,NAG,NULL,NULL,OTH,OTH,NEG,0,0,1

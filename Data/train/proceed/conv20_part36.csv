@@ -1,0 +1,19 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv20_mess211,Paul,10:49:31,oui merci ellian,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv20_mess212,Paul,10:49:42,tu vois quand tu ty mets,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv20_mess214,lisa,10:50:13,"Tu est comme un nuage, dès que tu disparais, ça devient une belle journée kiss Elian",victim_support,CAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv20_mess215,Camille,10:50:23,ellian tu ne sais plus quoi dire allors occupe toi de ton chibre et d'essayer de le faire grandir au lieu de nous soulé,victim_support,CAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv20_mess216,Ellian,10:50:27,;(,bully,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv20_mess217,Theo,10:50:35,Ellian t'es fier de toi ?,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv20_mess218,Theo,10:50:43,D'harceler comme ça ?,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv20_mess219,Theo,10:50:50,tu devrais avoir honte,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv20_mess220,Theo,10:50:59,ta mere elle a du t'élever a la dure,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv20_mess221,Arthur,10:51:40,elllian t'as perdu tes couilles ou quoi,bully_support,NAG,NULL,NULL,AIN,OTH,NEG,0,1,1
+conv20_mess222,Ellian,10:51:41,bon je vous nique tout bande de noir jufes arabes terroristes boffeur de queu d ours,bully,OAG,victim/victim_support,OTH,ATK,NULL,NEG,1,1,1
+conv20_mess223,Paul,10:51:58,arrete de réagir comme ca ellian,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv20_mess225,Arthur,10:52:05,lisa tu parles bcp pour une femme,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv20_mess227,Paul,10:52:08,ca sert à rien,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv20_mess228,Paul,10:52:26,et tu insultes tout le monde alors que tu n'es pas comme ca,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv20_mess229,lisa,10:52:30,BON ON PEUT LES BL0QUER LES FOU LA,victim_support,OAG,bully/bully_support,NCG,DFN,NULL,NEG,1,0,0
+conv20_mess230,Camille,10:52:30,o pire chacun s'occupe de son trou ne vous parler plus ellian tu manquera a personne gros karma sur ta gueule j'èspère,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv20_mess231,lisa,10:52:38,CASSE COUILLE,victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0

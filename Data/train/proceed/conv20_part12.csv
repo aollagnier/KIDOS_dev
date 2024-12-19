@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv20_mess67,Ellian,10:29:57,le baton qui seervais a te faire battre sa negro,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv20_mess68,lisa,10:30:07,theo je t'aime souleve moi,victim_support,NAG,NULL,NULL,OTH,DFN,POS,0,0,0
+conv20_mess69,Theo,10:30:13,vasi lisa prq p)as pas envoie ton snap bb,victim_support,NAG,NULL,NULL,OTH,OTH,POS,0,0,0
+conv20_mess70,Paul,10:30:27,c'est dommage  tu n'as jamais été comme ça Ellian,victim,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv20_mess71,Theo,10:30:30,mais juste Ellian tu vois,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv20_mess72,Ellian,10:30:32,grv envoir ton snap,bully,CAG,victim_support,OTH,ATK,OTH,NEG,1,1,1
+conv20_mess73,lisa,10:30:47,tkt apres theo ;),victim_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv20_mess74,Theo,10:30:52,Ellian le truc c'est qu'en forçant comme ça tu vas juste te faire ignorer de tout le monde on en a rien a foutre de ton avis que t'aime ou non les gays,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv20_mess75,Theo,10:31:24,en vrai meme arrete de parler sinon on va te bloquer l'orientation d'une personne ne te regarde pas,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv20_mess76,Ellian,10:31:42,theo sale arabe je t enclancher,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv20_mess77,Theo,10:31:55,Théo est un nom purement français abrutit ça signifie dieu,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv20_mess78,Arthur,10:32:13,Je suis d'accord avec ellian sale arabe,bully_support,OAG,victim_support,OTH,AIN,ATK,NEG,1,1,1
+conv20_mess79,Theo,10:32:17,donc un peu de respect ma grande,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv20_mess81,lisa,10:32:25,arthur et les minimoys la,victim_support,OAG,bully_support,OTH,DFN,AIN,NEG,1,0,0
+conv20_mess82,Ellian,10:32:34,tg t es avec moi toi,bully,OAG,conciliator,OTH,ATK,CNS,NEG,1,1,1
+conv20_mess83,lisa,10:32:38,on va t'enclencher,victim_support,OAG,bully_support,OTH,DFN,AIN,NEG,1,0,0
+conv20_mess84,Arthur,10:32:40,ta gueule,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv20_mess86,Camille,10:32:43,tu es raciste de mieux en mieux,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv20_mess87,Paul,10:32:50,c'est clair,victim,NAG,NULL,NULL,OTH,DFN,NEU,0,0,0

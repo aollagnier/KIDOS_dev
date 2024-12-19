@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv15_mess139,Anna,15:54:09,tarpin moche,bully_support,OAG,victim/victim_support,DNG,AIN,ATK,NEG,1,1,1
+conv15_mess140,Elodie,15:54:14,vous coutez 40 elixirs en plus detre gays,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv15_mess141,Caroline,15:54:17,tu fais ta vie,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv15_mess142,Constance,15:54:32,tg t'es plus noire que dadju,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv15_mess143,Elodie,15:54:41,le racisme en 2022 c non.,bully_support,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv15_mess144,Marie,15:54:43,toi tg on te vois meme plus sous ton fond de tein orange,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv15_mess145,Elodie,15:54:47,soyez ouverts desprit un peu je reve,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv15_mess146,Constance,15:54:56,csc,victim_support,CAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv15_mess147,Julie,15:54:56,Vous devez trouver un autre cible je m',victim,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv15_mess148,Marie,15:55:01,c toi qui parle,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv15_mess149,Elodie,15:55:04,tu m',bully_support,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv15_mess150,Caroline,15:55:05,mais au pire restez hetero tout le monde s'en fout de votre vie,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv15_mess151,Julie,15:55:06,en fou de vos insultes,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv15_mess152,Emilie,15:55:07,SNIFFFF,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv15_mess153,Emilie,15:55:09,SALOPE DE MERDE VA CREVR,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv15_mess154,Elodie,15:55:15,bah on va continuer si tu ten fous,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv15_mess155,Caroline,15:55:17,ok mec,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv15_mess156,Elodie,15:55:18,grosse pedale,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv15_mess157,Elodie,15:55:21,mdrr tas pas honte,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv15_mess158,Emilie,15:55:23,SALE CHIENNE,bully,OAG,victim,NCG,ATK,NULL,NEG,1,1,1
+conv15_mess159,Caroline,15:55:24,:),victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0

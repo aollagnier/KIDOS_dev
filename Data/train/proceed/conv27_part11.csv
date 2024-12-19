@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv27_mess61,Natacha,14:48:50,jte fou un coup avec mes seins tu verras,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv27_mess62,Marjorie,14:48:50,va retourner manger macdo avec tes 3 menu signature,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv27_mess63,Lucie,14:49:02,ma pauvre moi je casse pas la balance,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv27_mess64,Marjorie,14:49:19,cest pas des forme c de la graisse,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv27_mess65,Soan,14:49:30,Mais en tout cas tu casses autre chose LUcie...,victim_support,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv27_mess66,Lucie,14:49:31,c'est clair,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv27_mess67,Natacha,14:49:33,ayaaaa sa tire a balle reel iciiiii,bully_support,CAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv27_mess68,Zoé,14:49:42,je prefere casser la balance,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv27_mess69,Soan,14:49:44,ferme la marjorie t'es  qu'une poufiasse sans cervelle,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv27_mess70,Axelle,14:49:46,bah au moins elle est pas plate comme vous bande de conne,victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv27_mess71,Lucie,14:49:59,ah ben ca elle a que de la graisse en meme temps,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv27_mess72,Natacha,14:50:15,ON EST TRES BIEN FORMER,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv27_mess73,Lucie,14:50:25,ca fait des montagne de cellulite,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv27_mess74,Marjorie,14:50:29,toi tu ressemble a un anus perimé,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv27_mess75,Natacha,14:50:34,C JUSTE ON EST PAS GROSEE PETASSE,bully_support,CAG,victim,NCG,AIN,ATK,NEG,1,1,1
+conv27_mess76,Zoé,14:50:39,mon physique est peut etre pas parfait mais au moins je suis pas une connasse comme vous,victim,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv27_mess77,Soan,14:50:50,bien ditt C'est beaucoup plus beau une fille avec des formes et des kilos en trop qu'une personne plate qui ressemble a une planche a pain bande de pute,victim_support,OAG,bully,NCG,EMP,DFN,NEG,1,0,0
+conv27_mess78,Lucie,14:51:09,je suis fiere d'etre une connassse,bully,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv27_mess79,Soan,14:51:14,totalement raison Zoé,victim_support,NAG,NULL,NULL,EMP,DFN,NEU,0,0,0
+conv27_mess80,Axelle,14:51:16,au moins elle reussira sa vie plutot qu'etre conne comme vous,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv27_mess81,Soan,14:51:24,ben  tu fera pas long feu dans ta viie,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0

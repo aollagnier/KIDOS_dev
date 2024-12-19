@@ -1,0 +1,17 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv7_mess205,Nicolas,15:53:39,Bien dit Anton,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv7_mess206,alice,15:53:40,pierre vrmnt tg quoi,victim_support,OAG,bully_support,OTH,DFN,AIN,NEG,1,0,0
+conv7_mess207,Pauline,15:53:42,oui je vais enlever la photo excusez moi,bully,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv7_mess209,Fatima,15:53:52,Cimer <3,victim,NAG,NULL,NULL,OTH,OTH,POS,0,0,0
+conv7_mess210,teresa,15:53:53,Y’aura tjrs de arabe et ça va rester comme ça,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv7_mess211,Julie,15:53:56,ptdrrr anton tg,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv7_mess213,teresa,15:54:01,Sans en on est rien,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv7_mess214,Julie,15:54:01,t'es cringe,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv7_mess215,Pauline,15:54:11,c’est bon Pierre Nicolas et Anton arrêtez,bully,NAG,NULL,NULL,CR,NULL,NEU,0,0,1
+conv7_mess216,Pierre,15:54:17,Sans on est meilleur,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv7_mess217,Anton,15:54:31,moi par contre je l'aime tjrs pas elle est arabes elle va ns voler,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv7_mess219,Pauline,15:54:44,Ouii… excusez moi,bully,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv7_mess220,Nicolas,15:54:47,Tg tu t'es allié aux ennemis pauline toi tu partira dans le même bateau pneumatique,bully_support,OAG,bully,OTH,AIN,OTH,NEG,1,1,1
+conv7_mess222,Julie,15:54:49," Meme paulie vous dis d'arretez , vous forcez et en plus vous etes genant",victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv7_mess224,Pauline,15:54:55,Au revoir mvs vous êtes drôles,bully,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv7_mess225,Anton,15:54:57,aller bonne journees et vivie le z,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1

@@ -1,0 +1,18 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv25_mess169,Theresa,16:17:00,En fait jai changé d'avis.,bully_support,NAG,NULL,NULL,OTH,ATK,NEU,0,0,1
+conv25_mess170,Theresa,16:17:07,Je suis désolé,bully_support,NAG,NULL,NULL,OTH,ATK,NEU,0,0,1
+conv25_mess171,Theo,16:17:09,c'est plus une blague que du harcelement,bully_support,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv25_mess173,Lucas,16:17:11,CA VOUS PLAIT DE FAIRE SOUFFRIR DES PERSONNES,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv25_mess175,Theo,16:17:15,vous abusez,bully_support,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv25_mess176,pierre,16:17:19,tkt pauline tu vas avoir ce que tu merites,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv25_mess177,Theresa,16:17:21,TU PEUX SAUTER FRANCOIS FAIS TOI PLAISIR,bully_support,OAG,victim,DNG,ATK,NULL,NEG,1,1,1
+conv25_mess178,NULL,16:17:30,:(,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv25_mess179,Pauline,16:17:34,mdrrrr,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv25_mess180,Lucas,16:17:37,ta blague tu te la fous ou je pense Theo,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv25_mess181,Pauline,16:17:40,bien dit theresa,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv25_mess183,Theo,16:17:56,ça va etre dangereux à son atterrissage,bully_support,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv25_mess184,Lucas,16:18:14,Theresa et Pauline vous allez avoir des problemes,victim_support,OAG,bully/bully_support,THR,DFN,NULL,NEG,1,0,0
+conv25_mess185,Pauline,16:18:17,oui mdrr faut pas qui tu des gens en bas,bully,CAG,victim,DNG,AIN,AIN,NEG,1,1,1
+conv25_mess187,NULL,16:18:19,theo: fais gaffe a ton cul,victim,OAG,bully_support,OTH,DFN,AIN,NEG,1,0,0
+conv25_mess188,Lucas,16:18:27,avec moi et avec des adultes,victim_support,NAG,NULL,NULL,OTH,DFN,NEG,0,0,0
+conv25_mess189,NULL,16:18:30,je peux très tomber sur toi s'il faut tocard,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0

@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv15_mess1,Elodie,15:39:55,jaccepte tout,bully_support,CAG,victim,OTH,AIN,NULL,NEU,1,1,1
+conv15_mess2,Julie,15:39:58,Merci Constance Mais Emilie ne comprend pas,victim,NAG,NULL,NULL,OTH,NULL,POS,0,0,0
+conv15_mess3,Elodie,15:40:10,en vrai je trouve que ya casi aucune difference entre les gays et les gens normaux,bully_support,CAG,victim,OTH,AIN,NULL,NEG,1,1,1
+conv15_mess4,Emilie,15:40:11,on choisi qui on bz par contre,bully,NAG,NULL,NULL,OTH,OTH,NEG,0,0,1
+conv15_mess5,Marie,15:40:11,Bas visiblement être conne c ta fierté Elodie,victim_support,OAG,bully_support,NCG,DFN,AIN,NEG,1,0,0
+conv15_mess7,Julie,15:40:13,Elle souhaite juste nous insulter,victim,NAG,NULL,NULL,EMP,DFN,NEG,0,0,0
+conv15_mess8,Elodie,15:40:16,juste ne vous affichez pas,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv15_mess9,Julie,15:40:21,Au moins elle aura quelques choses a faire,victim,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv15_mess10,Elodie,15:40:29,mioi je suuis hetero donc je suuis normale et jen suuis fiere,bully_support,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv15_mess11,Constance,15:40:29,oui elle a un complexe d'infériorité,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv15_mess12,Julie,15:40:32,si non elle s’ennuie,victim,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv15_mess13,Anna,15:40:33,exactement,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv15_mess14,Elodie,15:40:44,mais c pas une fierte qu'un garcon suce des zizi,bully_support,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv15_mess15,Constance,15:40:52,en quoi c'est normal d'etre une gamine irrespectueuse homophobe ?,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv15_mess16,Emilie,15:40:59,nis dune chatte,bully,OAG,victim,NCG,AIN,ATK,NEG,1,1,1
+conv15_mess17,Marie,15:41:04,tg,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv15_mess18,Anna,15:41:08,ah d'accord de pire en pire,bully_support,NAG,NULL,NULL,OTH,NULL,NEG,0,0,1
+conv15_mess19,Elodie,15:41:15,caroline t conne ou quoi,bully_support,OAG,victim_support,NCG,ATK,NULL,NEG,1,1,1
+conv15_mess20,Caroline,15:41:20,non ah oui mais non,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv15_mess21,Constance,15:41:38,bref julie viens on quitte le groupe,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0

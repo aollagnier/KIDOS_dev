@@ -1,0 +1,18 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv19_mess19,Ellian,12:47:34,Que des Pd dans le groupe,bully,OAG,victim/victim_support/conciliator,NCG,ATK,NULL,NEG,1,1,1
+conv19_mess20,Arthur,12:47:39,réel,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv19_mess21,theo,12:47:40,y fait ce qui veux,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv19_mess22,Nicola,12:47:43,paul la tehon,bully_support,OAG,victim,NCG,ATK,NULL,NEG,1,1,1
+conv19_mess23,Ellian,12:47:44,Paul assume,bully,OAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv19_mess25,theo,12:47:49,Y fait de mal à personne,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv19_mess26,theo,12:48:22,Assume tout simplement que vous aussi vous êtes gay ptdr,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv19_mess27,theo,12:48:33,y’a pas a autant refoulé,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv19_mess28,Ellian,12:48:33,Paul degage y a personne pour toi ici,bully,OAG,victim,OTH,GSL,NULL,NEG,1,1,1
+conv19_mess30,Ellian,12:48:40,tu nous degoutes tous pd pd pd,bully,OAG,victim,OTH,GSL,NULL,NEG,1,1,1
+conv19_mess32,Paul,12:49:00,j'assume totalement et je suis révolté par vos attitudes de l'ancien temps,victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv19_mess33,LisaLaBoss,12:49:03,homophobe,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv19_mess34,LisaLaBoss,12:49:05,homophobe homophobe,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv19_mess35,Nicola,12:49:07,paul frr vrm tu me degoute,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv19_mess37,Nicola,12:49:15,je te vois je vomis sur toi,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv19_mess38,Nicola,12:49:20,sal pd,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv19_mess39,Arthur,12:49:21,gay,bully_support,OAG,victim,OTH,AIN,ATK,NEG,1,1,1

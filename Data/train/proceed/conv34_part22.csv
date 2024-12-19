@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv34_mess127,Paul,11:26:10,si il te soulève il est fort,bully_support,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv34_mess128,coralie,11:26:14,non,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv34_mess129,leo,11:26:18,bahaha va faire du sport,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess130,coralie,11:26:20,il touche personne,victim_support,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv34_mess131,leo,11:26:32,coralie elle a le sida,bully_support,OAG,victim_support,OTH,ATK,CNS,NEG,1,1,1
+conv34_mess132,julie,11:26:33,fatima ça fait quoi de pas pouvoir rentrer chez soi ??,bully,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv34_mess133,coralie,11:26:41,leo77 ?? c'est quoi ces argument aclater,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv34_mess134,FatimahVictime,11:26:55,"STOP PAUL ! STOP LEO ! ET JULIE, on va régler ça en FACE2FACE j'en peux PLUS !",victim,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv34_mess135,leo,11:27:04,viens en sorrt,bully_support,OAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv34_mess136,Paul,11:27:14,Hitler il était pas si mauvais il s'est juste tromper de cible,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess137,FatimahVictime,11:27:30,C'EST HORRIBLE C'QUE TU DIS PAUL!,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv34_mess138,Paul,11:27:34,les arabes,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess139,coralie,11:27:36,qu'est ce qui raconte lui,victim_support,NAG,NULL,NULL,OTH,ATK,NEG,0,0,0
+conv34_mess140,julie,11:27:36,non c'est fatima qui a le sida a force de se faire pin,bully,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv34_mess141,leo,11:27:41,nique les bougnoules,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess142,FatimahVictime,11:27:44,IL AURAIT DU T'EXTERMINER !,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv34_mess143,Paul,11:27:47,les boukak les melons,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv34_mess144,leo,11:27:53,les singes,bully_support,OAG,victim/victim_support,NCG,ATK,NULL,NEG,1,1,1
+conv34_mess145,Paul,11:28:00,c'est ciao,bully_support,NAG,NULL,NULL,OTH,NULL,NEG,0,0,1
+conv34_mess146,julie,11:28:09,good by,bully,NAG,NULL,NULL,OTH,NULL,NEG,0,0,1
+conv34_mess147,leo,11:28:29,tu t'es suicidé,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1

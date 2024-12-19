@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv29_mess55,Leo,09:23:27,ta famille en general ta kipa la,bully,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv29_mess56,Aurelie,09:23:48,ta grosse kipa,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv29_mess57,Leo,09:24:07,kipa r a la chasse perd sa place,bully,CAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv29_mess58,Justine,09:24:13,aurelie et leo je vais aller voir les prof puis ils iront voir vos parents si vous enlevez pas la photo,victim,OAG,bully/bully_support,THR,DFN,ATK,NEG,1,0,0
+conv29_mess59,Leo,09:24:19,blc c des tarlouz eux,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess60,Aurelie,09:24:35,jai pas de parents,bully_support,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv29_mess61,Ana,09:24:43,il vont l'enlevez,victim_support,NAG,NULL,NULL,OTH,NULL,NEG,0,0,0
+conv29_mess62,Aurelie,09:24:45,je viens a la cinagoge,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv29_mess63,Lea,09:24:54,elle porte plainte tu  peux avoir des soucis,victim_support,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv29_mess64,Ana,09:24:54,je vais t'attraper a la sortie tu vas voir,victim_support,OAG,bully_support,THR,DFN,ATK,NEG,1,0,0
+conv29_mess65,Leo,09:25:02,tu va faire quoi sale pute,bully,OAG,victim_support,NCG,ATK,DFN,NEG,1,1,1
+conv29_mess66,Ana,09:25:08,a faire des trucs comme  ca,victim_support,OAG,bully_support,THR,DFN,ATK,NEG,1,0,0
+conv29_mess67,Aurelie,09:25:09,portons plainte,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess68,Ana,09:25:11,des gosses,victim_support,CAG,bully/bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv29_mess69,Leo,09:25:20,une grosses,bully,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess70,Aurelie,09:25:35,paul tg,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess72,Ana,09:25:41,c est toi la grosses,victim_support,CAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv29_mess73,Lea,09:25:42,c'est celui qui dit qui l'est,victim_support,CAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv29_mess74,Leo,09:26:12,parole de bb,bully,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess75,Ana,09:26:19,des gamins,victim_support,CAG,bully/bully_support,DNG,DFN,NULL,NEG,1,0,0

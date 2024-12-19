@@ -1,0 +1,19 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv23_mess25,Jim,14:34:01," oh commence pas fatigue,  cours",bully_support,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv23_mess27,Amine,14:34:19,brique de lait va baiser tes morts,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv23_mess28,Brice,14:34:25,“cours” et pourquoi ça?,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv23_mess29,David,14:34:32,tg,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv23_mess30,Jim,14:34:35,tg,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv23_mess31,Brice,14:34:44,dou j'ai pas ldroit parlé,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv23_mess32,Amine,14:35:09,tg tahan de merde,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv23_mess33,Jim,14:35:12,prl pas trdc,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv23_mess34,Amine,14:35:23,kehba de merde,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv23_mess36,Amine,14:35:30,tes une petite pute toi,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv23_mess37,Jim,14:35:31,kehba de bitch,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv23_mess38,Amine,14:35:34,suce moi,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv23_mess39,Jim,14:35:48,jules ftg toi,bully_support,OAG,conciliator,OTH,ATK,CNS,NEG,1,1,1
+conv23_mess41,Brice,14:36:18,grave c'est quoi vot probleme,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv23_mess42,Jim,14:36:20,ptdrrrr commee ta mere l'andicape,bully_support,OAG,conciliator,DNG,ATK,DFN,NEG,1,1,1
+conv23_mess43,David,14:36:23,mdrrr tu es de quelle coter wshhhhhhhh,bully,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv23_mess44,Brice,14:36:37," juste davidharceleur le mec fait lmalin, y prend des photos et après y crache",victim,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv23_mess45,Amine,14:36:38,jules vien dans notre camp sinon j'vais te peter le fion,bully_support,OAG,conciliator,THR,ATK,DFN,NEG,1,1,1

@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv29_mess7,Ana,09:14:12,parle bien leo,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv29_mess8,Aurelie,09:14:16,NOn la juive,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess9,Leo,09:14:42,ntm un peu laisse nous parler,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess10,Justine,09:14:54,Pourquoi vous vous moquez de moi ?,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv29_mess11,Leo,09:15:03,pourquoi pas,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess12,Ana,09:15:05,parle bien de ta bouche fdp,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv29_mess13,Lea,09:15:31,ca se fait pas les gars,victim_support,NAG,NULL,NULL,DFN,NULL,NEG,0,0,0
+conv29_mess14,Aurelie,09:15:34,ton petit frère va bien?,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess15,Justine,09:15:48,bien sur qu'il va bien avant que vous moquiez de lui,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv29_mess16,Leo,09:16:02,c sur qu'avec tout votre argent,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess17,Lea,09:16:26,frere c'est un gosse vous etes vilains,victim_support,OAG,bully/bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv29_mess18,Leo,09:16:41,c le gosse qui est vilaint tema ca gueule,bully,OAG,victim/victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess19,Justine,09:16:58,qu'est ce que tu dis de mon frère il est très bien retourne chez ta mère,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv29_mess20,Aurelie,09:17:08,il est pas bo,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess21,Leo,09:17:10,rabi jacob 8),bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess22,Lea,09:17:41,laisse les justine,victim_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,0
+conv29_mess23,Justine,09:17:47,t'es juste deg que tu puisses pas avoir une fête aussi stylée que lui,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv29_mess24,Aurelie,09:17:48,tes ancetres vont bien? ils sont encore au camp?,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess25,Leo,09:18:01,"Aurélie n'a que 16 ans et elle attend un enfant Ses amies et ses parents lui conseillent l'avortement Elle n'est pas d'accord elle voit les choses autrement Elle dit qu'elle se sent prête pour qu'on l'appelle ""maman"" Celui-ci c'est pour toutes les Aurélie Celles qui ont donné la vie Pour toutes les Aurélie c pas leurs faute lsl avaient pas le shoah",bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess26,Justine,09:18:44,t'abuse de parler de shoa,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv29_mess27,Leo,09:18:47,juju fitjuive,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1

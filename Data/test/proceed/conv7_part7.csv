@@ -1,0 +1,19 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv7_mess37,Pauline,15:40:00,c’est bizarre,bully,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv7_mess38,Fatima,15:40:05,J'en sais rien wesh ! c'est ma famille elle est comme ça!  moi je suis née en france et je suis jamais allé dans un autre pays !,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv7_mess39,Nicolas,15:40:10,Mais c'est une arabe y a pas à discuter elle va exploser comme ses frères au bataclan,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv7_mess40,Julie,15:40:20,au tg avcec tes reflexions la,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv7_mess42,Pauline,15:40:32,merci Nicolas,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv7_mess43,Anton,15:40:50,fait gaffe il va tout faire peter,bully_support,OAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv7_mess44,Pierre,15:40:52,Anomalie 👎🏻👎🏻,bully_support,OAG,victim,DNG,ATK,NULL,NEG,1,1,1
+conv7_mess46,Pauline,15:40:55,HAHAHHA,bully,NAG,NULL,NULL,AIN,AIN,NEG,0,1,1
+conv7_mess47,alice,15:40:59,whaaa y a vrmnt des cons sur terre,victim_support,OAG,bully/bully_support,NCG,DFN,NULL,NEG,1,0,0
+conv7_mess48,Julie,15:41:00,Nicolas t'es cringe tu genbes mon reuf,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv7_mess49,Pauline,15:41:05,toi même,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv7_mess50,Julie,15:41:09,genes*,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv7_mess51,Anton,15:41:15,nn juste des gens qui pense normalemenbt,bully_support,OAG,victim,OTH,GSL,DFN,NEG,1,1,1
+conv7_mess52,Pauline,15:41:40,Dis les termes anton,bully,NAG,NULL,NULL,AIN,GSL,NEG,0,1,1
+conv7_mess53,Fatima,15:41:46," Mais depuis quand dire ""t mate t pas française"" c'est normal ?",victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv7_mess54,Anton,15:41:55,ben oui,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv7_mess55,alice,15:41:56,les termes c que vous dites de la merde,victim_support,OAG,bully_support,OTH,DFN,GSL,NEG,1,0,0
+conv7_mess57,Anton,15:41:58,logique,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1

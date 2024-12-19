@@ -1,0 +1,17 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv30_mess19,Lea,10:34:23,de ouf vivez votre vie on s'en tape de ce que vous pensez,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv30_mess20,Isabelle,10:34:56,grv on s'en fou,bully_support,OAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv30_mess22,Ana,10:34:58,bah oe bah elle elle s'en fou de ton avis alors tourne ta langue 7 fois avant de parler,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv30_mess24,Ana,10:35:25,bravo isabelle et paul les moutons ça avance en troupeau j'avais oublié,victim_support,OAG,bully/bully_support,NCG,DFN,NULL,NEG,1,0,0
+conv30_mess26,Isabelle,10:36:05,mais elle s'affiche donc faut pas s'étonner elle cherche,bully_support,OAG,victim,OTH,GSL,CR,NEG,1,1,1
+conv30_mess29,Ana,10:36:32,mais c'est une blague j'espère elle fait ce qu'elle veut ca vous regarde pas,victim_support,OAG,bully_support,OTH,DFN,GSL,NEG,1,0,0
+conv30_mess30,Justine,10:36:57,"je ne m'affiche pas, je poste juste une photo de mon petit frère, ça n'a rien d'anormal ni choquant, vous ne postez jamais des photos de votre famille ?",victim,NAG,NULL,NULL,CNS,GSL,NEU,0,0,0
+conv30_mess31,Ana,10:37:17,mais laisse tomber ils sont jaloux,victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv30_mess32,Guillaume,10:37:19,si me j suis pas juif,bully,CAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv30_mess33,leo,10:37:23,elle fait ce qu'elle veut ou pas je m'en fou mais la elle s'affiche juste on s'en fou de sa vie,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv30_mess34,Isabelle,10:37:31,jaloux de quoi même,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv30_mess35,Justine,10:37:35,et alors ? ça change quoi la religion à laquelle tu appartiens ? ca reste toujours mon petit frère,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv30_mess36,Ana,10:38:16,"mais ftg on t,as deja dit qu'on s'en foutais de ton avis trop tu parles",victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv30_mess37,Justine,10:38:23,"et toi ta religion ? on ne t'embête pas pour savoir ce en quoi tu crois, si ?",victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv30_mess38,Justine,10:38:46,ce n'est pas la peine qu'on s'insulte pour ça,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv30_mess39,Guillaume,10:39:00,juif!,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1

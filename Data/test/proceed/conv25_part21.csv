@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv25_mess121,pierre,16:12:06,mais va te faire voir pauline,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv25_mess122,NULL,16:12:09,tu peux bien aller te faire foutre,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv25_mess123,Theresa,16:12:13,Vas-y continue Francois,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv25_mess124,Theo,16:12:32,de notre point de vue c'est quand meme vachement drole,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv25_mess125,Theresa,16:12:33,Le mal est fait mon pote,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv25_mess126,Lucas,16:12:40,et meme n importe qui d autre qui parle mal de Francois,victim_support,OAG,bully/bully_support,THR,DFN,NULL,NEG,1,0,0
+conv25_mess127,Pauline,16:12:47,et ouais les gars,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv25_mess128,pierre,16:12:56,ok alors explique moi 2 secondes ce qu'il y a de drole ??!,victim_support,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv25_mess129,Lucas,16:12:57,Mon poing dans ta gueule va etre tout aussi drole Théo,victim_support,OAG,bully_support,THR,DFN,ATK,NEG,1,0,0
+conv25_mess130,NULL,16:13:01,de toute facon vous 2 je vous reglerais votre compte,victim,OAG,bully/bully_support,THR,DFN,NULL,NEG,1,0,0
+conv25_mess131,Lucas,16:13:14,francois reste calme,victim_support,NAG,NULL,NULL,CR,DFN,NEU,0,0,0
+conv25_mess132,Theresa,16:13:15,Et comment tu vas t'y prendre l'obèse ?,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv25_mess134,Lucas,16:13:23,oh,victim_support,OAG,bully_support,OTH,DFN,ATK,NEU,1,0,0
+conv25_mess135,Lucas,16:13:28,fermez la srx,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv25_mess136,pierre,16:13:30,mais fermez la !!!,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv25_mess137,Theo,16:13:30,tu peux pas courir 2 secs sans etre essoufle,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv25_mess139,Pauline,16:13:36,mdrr tu vas regler rie,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv25_mess140,Theo,16:13:55,si il sait manger,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv25_mess141,Theresa,16:14:01,Si pauline,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1

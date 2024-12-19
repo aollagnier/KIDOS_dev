@@ -1,0 +1,18 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv32_mess67,Aurelie,15:44:54,tg va manger du porc,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv32_mess69,Guillaume,15:45:06,dans la photo de Justine il y a Zemmour,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv32_mess70,Lea,15:45:10,Mdrrr au moins j'ai des rapports sexuels connard,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv32_mess71,Isabelle,15:45:20,oulaaa,bully_support,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv32_mess72,Leo,15:45:25,sale pute,bully,OAG,victim_support,NCG,ATK,DFN,NEG,1,1,1
+conv32_mess73,Isabelle,15:45:26,on part sur des sujets explicites je suis pas dans ça ici y’a des oukhty,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv32_mess74,Lea,15:45:37,C'est bon vos conneries me saoulent,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv32_mess75,Guillaume,15:45:38,le porc c toi AUR2LIE,bully,OAG,bully_support,OTH,OTH,ATK,NEG,1,0,1
+conv32_mess76,Aurelie,15:45:56,sal cochone,bully_support,OAG,bully,NCG,ATK,OTH,NEG,1,1,1
+conv32_mess78,Isabelle,15:46:09,c pas psq t’as des rapports séxuels que faut s’en vanter,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv32_mess79,Guillaume,15:46:12,on dit une truie,bully,OAG,bully_support,NCG,AIN,ATK,NEG,1,1,1
+conv32_mess80,Lea,15:46:13,"Vos blagues montrent un cruel manque de finesse et de raisonnement logique. Suceuse ou bon, vous devriez arrêter vos comportements puérils.",victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv32_mess81,Justine,15:46:14,Il n'y a pas Zeimmour,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv32_mess82,Justine,15:46:35,J'ai juste posté une photo c'est tout c'est une discussion complètement inutile,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv32_mess83,Lea,15:46:53,Justine a le droit de faire une photo de sa Bar-Mitzvah non ? Exactement.,victim_support,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv32_mess85,Leo,15:47:00,evites on s en blc de ton truc de feuj jvais appeller hitler,bully,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv32_mess86,Aurelie,15:47:06,c toi t inutile,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1

@@ -1,0 +1,14 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv21_mess205,brice,09:34:24,pcq c'est drôle de vous voir vous casser la tête pour ce mec alors q'il a que ce qu'il mérite,bully,OAG,victim/victim_support/conciliator,OTH,ATK,NULL,NEG,1,1,1
+conv21_mess206,Thibaut,09:34:31,Arthur calme toi frere ta juste volé un gateau,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv21_mess207,Selena,09:34:35,paul va prv mv,victim_support,NAG,NULL,NULL,EMP,DFN,POS,0,0,0
+conv21_mess208,Paul,09:34:42,Mais je t'ai rien fait putain brice ! Je mérite rien du tout !,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv21_mess209,julien,09:34:49,aller prier aussi,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv21_mess211,julien,09:34:58,hier ct la salar de laid en plus,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv21_mess212,brice,09:35:03,si paul tu mérite un régime ;),bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv21_mess213,julien,09:35:07,salat,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv21_mess215,julien,09:35:12,pas encore on attend le magrib,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv21_mess217,Arthur,09:35:27,s'il nous bloque on le retrouve à la sortie,bully_support,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv21_mess218,julien,09:35:30,mais elle veut quoi josianne la honte tu t appel comme ca deja,bully_support,OAG,conciliator,OTH,ATK,OTH,NEG,1,1,1
+conv21_mess222,julien,09:36:04,et tu va faire quoi pierreon t a deja dit que ta religion menacer c pas bien et ca veut faire l imam avec nous,bully_support,OAG,conciliator,OTH,ATK,OTH,NEG,1,1,1
+conv21_mess225,Paul,09:36:16,Mais il vous faut quoi pour vous faire comprendre que j'ai pas choisi d'être comme ça !,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0

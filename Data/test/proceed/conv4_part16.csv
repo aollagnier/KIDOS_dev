@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv4_mess91,Teresa,11:42:05,si si,victim_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv4_mess92,Nicolas,11:42:06,va chez la police on tenmene meme si tu veux,bully_support,CAG,victim_support,THR,ATK,OTH,NEG,1,1,1
+conv4_mess93,Pierre,11:42:09,teresa je vais pas le répeter tu n'y iras pas chez la police,bully_support,OAG,victim_support,THR,ATK,OTH,NEG,1,1,1
+conv4_mess94,Pauline,11:42:11,on t'accompagne porter plainte stuveu,bully,CAG,victim_support,THR,ATK,OTH,NEG,1,1,1
+conv4_mess95,Teresa,11:42:14,pas de soucis viens,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv4_mess96,Nicolas,11:42:20,pour 3 messages qui represente la veriter,bully_support,NAG,NULL,NULL,GSL,OTH,NEU,0,1,1
+conv4_mess97,Teresa,11:42:25,sa sera plus rapide,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv4_mess98,Nicolas,11:42:27,a notre age une amande *et cest regles,bully_support,NAG,NULL,NULL,OTH,CNS,NEU,0,0,1
+conv4_mess99,Teresa,11:42:35,alors nn,victim_support,NAG,NULL,NULL,CNS,OTH,NEU,0,0,0
+conv4_mess101,Nicolas,11:42:41,donc chute merci,bully_support,OAG,victim_support,OTH,ATK,CNS,NEG,1,1,1
+conv4_mess102,Teresa,11:42:44,sa a bcp evolué depuis,victim_support,NAG,NULL,NULL,CNS,OTH,NEU,0,0,0
+conv4_mess103,Nicolas,11:42:55,ah et tu croit quoi,bully_support,NAG,NULL,NULL,GSL,CNS,NEG,0,1,1
+conv4_mess104,Pierre,11:42:55,on va s'en sortir triomphant on va expulser tous les arabes comme toi,bully_support,OAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv4_mess106,Nicolas,11:43:05,c la prison pour 4 message,bully_support,NAG,NULL,NULL,GSL,CNS,NEG,0,1,1
+conv4_mess107,Pauline,11:43:06,bon fatima retournes chez tamr pleurer,bully,OAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv4_mess108,Pierre,11:43:10,theo ftg vrm tu sers à r,bully_support,OAG,conciliator,OTH,ATK,CR,NEG,1,1,1
+conv4_mess109,Teresa,11:43:12,t tellement peu cultiver que t meme pas au courant des consequences de sque tu fais,victim_support,OAG,bully,DNG,DFN,AIN,NEG,1,0,0
+conv4_mess110,Nicolas,11:43:13,quand t es meme pas majeurs*,bully_support,NAG,NULL,NULL,GSL,CNS,NEG,0,1,1
+conv4_mess111,Pauline,11:43:22,avec ton accent la,bully,OAG,victim,OTH,AIN,ATK,NEG,1,1,1

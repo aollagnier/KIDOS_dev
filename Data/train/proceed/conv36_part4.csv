@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv36_mess19,Coralie,10:29:29,pk vous dites des trucs racistes,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv36_mess20,Pierre,10:29:33,calme toi Leo,victim_support,NAG,NULL,NULL,CR,ATK,NEU,0,0,0
+conv36_mess21,Leo,10:29:47,"toi la djiadiste on t,as pas parlé donc ta geule",bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess22,Leo,10:30:00,avec tes doigts sale là,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess23,kate,10:30:01,vous etes tous des merdes,bully,OAG,victim/victim_support,DNG,ATK,NULL,NEG,1,1,1
+conv36_mess24,julie,10:30:02,j'avoue qu'elle retourne dans son pays qu'elle nous fasse pas chier,bully,OAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv36_mess25,Pierre,10:30:26,elle vas faire pt t'es mort tu vas voir remake des tours jumelles dans ton bat,victim_support,OAG,bully_support,THR,DFN,ATK,NEG,1,0,0
+conv36_mess26,Fatimah,10:30:35,"aller c'est partie, pour toi tous les musulman sont des djiadiste ? le niveau quoi",victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv36_mess28,Leo,10:30:46,grave mdrr elle est tellement sale que même les algériens ils veulent pas d'elle,bully_support,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv36_mess29,julie,10:31:02,et fatimah arrete de trainer avec les gars qu'est qui trouve de beau chez toi serieux,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv36_mess30,Leo,10:31:13,bah oui t'es une bombe à retardement :'),bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess31,Fatimah,10:31:20,julie tu est juste jalouse ! tu pas mieux a faire dans ta vie ?,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv36_mess32,Pierre,10:31:26,tg c'est toi qui pue leo tu joue a lol frère me parle pas de douche,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv36_mess33,Leo,10:31:28,j'avoue elle est cheum,bully_support,OAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv36_mess35,julie,10:32:04,nan mais fatimah t juste une conne et une voleuse de petits amis,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess36,paul,10:32:08,julie elle est pas jalouse frr tu met de la merde sur t doit tu crois elle vas te jalousé,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess37,julie,10:32:10,tout le monde le sais,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess38,Leo,10:32:12,j'aimerai que tu la fermes,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess39,Pierre,10:32:13,ta la coupe a Many dans l'age de glace parle pas,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0

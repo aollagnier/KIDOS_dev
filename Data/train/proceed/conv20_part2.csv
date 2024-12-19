@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv20_mess7,Ellian,10:22:54,nan j aime pas les pd,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv20_mess8,Paul,10:23:13,pourtant avant que je te le dise tu étais bien mon ami,victim,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv20_mess9,Ellian,10:23:15,toi me parle pas la pute,bully,OAG,victim_support,NCG,ATK,DFN,NEG,1,1,1
+conv20_mess10,Camille,10:23:22,mais o pire laisse le trkl et fait ta vie sans faire chier personne,victim_support,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv20_mess11,lisa,10:23:29,mdr tu veut proteger ton image  d'hetero,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv20_mess12,Ellian,10:23:30,ouai mais sa a changer,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv20_mess13,lisa,10:23:40,mais on le sait que tu fait ca pour te cacher,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv20_mess14,Ellian,10:23:43,mtn je t aime plus,bully,CAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv20_mess15,Paul,10:23:44,en quoi ca a cahnger je suis toujours pareil,victim,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv20_mess16,Ellian,10:23:51,on est plus potes,bully,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv20_mess17,Camille,10:24:02,cool ta vie,victim_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv20_mess18,Ellian,10:24:10,tg toi,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv20_mess19,Camille,10:24:20,rentres chez toi,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv20_mess20,Ellian,10:24:27,t es adopter et en plus t es noir,bully,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv20_mess21,Camille,10:24:29,tu as aucune confiance en toi,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv20_mess22,lisa,10:24:33,vous etes nul les mec serieux,victim_support,OAG,bully/bully_support,DNG,DFN,NULL,NEG,1,0,0
+conv20_mess23,Ellian,10:24:34,tg,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv20_mess24,Camille,10:24:38,tu te cache derrière des excuses,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv20_mess25,Ellian,10:24:41,sale pute,bully,OAG,victim_support,NCG,ATK,DFN,NEG,1,1,1
+conv20_mess26,Camille,10:24:50,woah quelle repartie,victim_support,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv20_mess27,Ellian,10:25:07,va manger tes morts,bully,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1

@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv17_mess13,Nicola,14:38:33,c pas normale ton truc fdp,bully_support,OAG,victim,NCG,GSL,DFN,NEG,1,1,1
+conv17_mess14,Paul,14:38:37,et toi ta grande g,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv17_mess15,Arthur,14:38:45,vasy tg jvai te faire manger le sol,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv17_mess16,Paul,14:38:59,c quoi normal  tringler toutes les meufs ?,victim,CAG,bully_support,OTH,DFN,GSL,NEG,1,0,0
+conv17_mess17,Nicola,14:39:07,vasi vvien a la lib on va voire,bully_support,CAG,victim,THR,AIN,ATK,NEG,1,1,1
+conv17_mess18,Ellian,14:39:15,va la ba vien on ce mange un tete,bully,OAG,victim,THR,AIN,ATK,NEG,1,1,1
+conv17_mess19,Paul,14:39:24,tg  gros  ouf,victim,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv17_mess20,Ellian,14:39:29,wallah vien la lib grosse tapette,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv17_mess21,Paul,14:39:37,et petit con,victim,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv17_mess22,Nicola,14:39:49,on lui faire sucer des bite,bully_support,OAG,victim,THR,AIN,ATK,NEG,1,1,1
+conv17_mess23,Ellian,14:39:57,gros ouf il ma dit et va niker tes mort aussi,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv17_mess24,Nicola,14:40:12,c un ouf lui on va le def,bully_support,OAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv17_mess25,Paul,14:40:26,wallah et toi t frustré,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv17_mess26,Arthur,14:40:26,la con de tes motrs,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv17_mess27,Paul,14:40:51," j'ai le droit ""être ce que je suis  je  ne te demande rien",victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv17_mess28,Ellian,14:40:55,ké fustré et retourne chez tra grande tante la grosse pute,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv17_mess29,Paul,14:41:09,et ta mère !,victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv17_mess30,Ellian,14:41:35,parle bien de la daronne gros fdp,bully,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv17_mess31,Paul,14:42:07,t'as qu'à pas traiter  ma  tante,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv17_mess32,Arthur,14:42:58,TRD PERDU WLH ATT QUE JTE VOIE,bully_support,OAG,victim,THR,ATK,CNS,NEG,1,1,1
+conv17_mess33,Ellian,14:43:09,et wallah ta 10 ans zebiiii,bully,OAG,victim,NCG,ATK,CNS,NEG,1,1,1

@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv24_mess13,Brice,14:37:30,quoi alors?,victim,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv24_mess14,David,14:38:05,Demain on va te traîner par ton gros ventre,bully,OAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv24_mess15,Brice,14:38:14,je veux la photo que tu as pris de moi,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv24_mess16,David,14:38:29,Non elle va finir sur télégramme,bully,CAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv24_mess17,David,14:39:11,Tout le monde va te voir,bully,CAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv24_mess18,David,14:39:24,Sale gros gordo,bully,OAG,victim,NCG,ATK,OTH,NEG,1,1,1
+conv24_mess19,yanis,14:39:29,David fais sa je te Bz ta mère sale chien,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv24_mess20,Brice,14:40:15,Je vais dire à la prof,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv24_mess21,David,14:40:16,Ba vien me le dir je te nike ta mere la grosse pute comme toi,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv24_mess22,David,14:40:54,Gros port t’a photo va finir sur télégramme,bully,OAG,victim,THR,ATK,OTH,NEG,1,1,1
+conv24_mess23,Brice,14:41:04,Tu n'as pas le droit,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv24_mess24,Brice,14:41:04,tu viens de dépasser les limites,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv24_mess25,Brice,14:41:04,je suis tout nu!,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv24_mess26,David,14:41:17,Tkas sla gros va,bully,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv24_mess27,moussa,14:41:32,Vous êtes malades,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv24_mess28,David,14:41:41,Pti bite tu la voit pas ta bite,bully,OAG,victim_support,DNG,ATK,OTH,NEG,1,1,1
+conv24_mess29,yanis,14:41:42,Ferme ta geule David avec t grosse chienne d’amine et jim,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv24_mess30,David,14:42:02,Ba vien c toi qui est gros port de merde,bully,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv24_mess31,David,14:43:09,Sl port,bully,OAG,victim,NCG,ATK,OTH,NEG,1,1,1
+conv24_mess32,yanis,14:43:11,Ta guele David c toi t complexé de ta petite bite,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv24_mess33,David,14:43:33,Sale port on va te fair hella demian,bully,OAG,victim,OTH,ATK,OTH,NEG,1,1,1

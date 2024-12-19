@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv34_mess1,leo,11:08:43,façon j'veux ps d'une crasseuse comme toi,bully_support,OAG,NULL,DNG,AIN,NULL,NEG,1,1,1
+conv34_mess2,Paul,11:08:44,Claire c'est pas le mot,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv34_mess3,FatimahVictime,11:08:48,Je voudrais qu'on arrête de se moquer de moi et ma culture,victim,NAG,NULL,NULL,CNS,AIN,NEU,0,0,0
+conv34_mess4,FatimahVictime,11:09:30,Salut Julie c'est avec toi que je voulais parler,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv34_mess5,julie,11:09:39,la vie t'es fat ima,bully,CAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv34_mess6,coralie,11:09:48,bizzarement ils insultent moins la,victim_support,NAG,NULL,NULL,OTH,OTH,NEG,0,0,0
+conv34_mess7,FatimahVictime,11:09:56,arrête tes commentaires et de m'insulter dans mon dos tu crois que j'ai pas vu ton petit jeu... Et tes insinuations...,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv34_mess8,leo,11:10:09,c'est une clocharde en meme temps,bully_support,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv34_mess9,FatimahVictime,11:10:15,S'il te paît arrête.,victim,NAG,NULL,NULL,DFN,AIN,NEG,0,0,0
+conv34_mess10,coralie,11:10:15,ils ont meme pas d'interet a t'insulter,victim_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,0
+conv34_mess11,julie,11:10:26,c pas dans ton dos chuis en face,bully,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv34_mess12,leo,11:10:30,bah on va voir en vrai si on va rien faire,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess13,coralie,11:10:36,mais regarde les ils peuvent que insulter vous pouvez argumenter ?,victim_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,0
+conv34_mess14,FatimahVictime,11:10:46,FAT IMA .. tu as un humour incroyable !,victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv34_mess15,julie,11:10:59,oe je sais,bully,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv34_mess16,FatimahVictime,11:11:01,"La dernière fois qu'on m'a fait cette blague, j'étais en maternelle.",victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv34_mess17,coralie,11:11:21,c'est clair,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv34_mess18,leo,11:11:27,bon tg tu parles trop,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess19,FatimahVictime,11:11:35,Leo..,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv34_mess20,julie,11:11:41,tu casse les couilles,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess21,FatimahVictime,11:11:42,Tu n'as rien à faire ici..,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0

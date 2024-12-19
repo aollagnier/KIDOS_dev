@@ -1,0 +1,18 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv6_mess80,Nicolas,14:42:56,🤣🤣🤣,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv6_mess81,Pauline,14:42:56,tg,bully,OAG,conciliator,OTH,ATK,CR,NEG,1,1,1
+conv6_mess82,Fatima,14:43:04,que dans les préjugés ... alors que vous ne me connaissez même pas !,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv6_mess83,Teresa,14:43:12,Hooooooo les gros mot on ce calme,victim_support,NAG,NULL,NULL,CR,NULL,NEU,0,0,0
+conv6_mess84,Pauline,14:43:12,tg on fais hella la,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv6_mess85,Teresa,14:43:40,🦄,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv6_mess87,Pauline,14:44:11,ooooo theo ca vas te choper,bully,OAG,conciliator,THR,ATK,CR,NEG,1,1,1
+conv6_mess88,Pierre,14:44:31,Retourne au bled,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv6_mess90,Nicolas,14:44:42,Theo suceur,bully_support,OAG,conciliator,DNG,ATK,DFN,NEG,1,1,1
+conv6_mess91,Pauline,14:44:46,voilaaaa nico,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv6_mess93,Fatima,14:45:05,J'aimerais des excuses ... on ne peut pas rester sur ça enfin !,victim,NAG,NULL,NULL,OTH,NULL,NEG,0,0,0
+conv6_mess94,Pauline,14:45:11,ok,bully,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv6_mess95,Pierre,14:45:12,Si,bully_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv6_mess96,Fatima,14:45:14,il reste toute l'année scolaire !,victim,NAG,NULL,NULL,OTH,NULL,NEG,0,0,0
+conv6_mess97,Pauline,14:45:14," dsl fatima et voilaaa, dans ta mere jrgl",bully,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv6_mess98,Nicolas,14:45:22,Y’a r Théo art ça va t’attraper toi et Fatima,bully_support,OAG,victim/conciliator,THR,ATK,DFN,NEG,1,1,1
+conv6_mess99,Pauline,14:45:24,casse toi,bully,OAG,victim,OTH,ATK,OTH,NEG,1,1,1

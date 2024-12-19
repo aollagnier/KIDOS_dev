@@ -1,0 +1,15 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv21_mess284,Selena,09:41:10,dehja fait,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv21_mess285,julien,09:41:11,pierre sale clochard bouge tu pollue l air,bully_support,OAG,conciliator,DNG,ATK,OTH,NEG,1,1,1
+conv21_mess286,brice,09:41:13,on se moque pas on est réaliste c tout,bully,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv21_mess289,Arthur,09:41:40,"pierre il pu, il pète, il polue la planète",bully_support,OAG,conciliator,DNG,AIN,ATK,NEG,1,1,1
+conv21_mess291,Paul,09:41:52,Réaliste mais t'es pas foutu de voir que vous êtes que 3 à rire bande de mongol,victim,OAG,bully/bully_support,NCG,DFN,NULL,NEG,1,0,0
+conv21_mess292,julien,09:41:58,pierre tu veux le mettre dans ton lit paul ou quoi ?,bully_support,OAG,victim/conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv21_mess293,Selena,09:42:07,moi je veut bien,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv21_mess294,Thibaut,09:42:09,julien ta petite sour j irais la chercher à la maternelle,victim_support,OAG,bully_support,THR,DFN,ATK,NEG,1,0,0
+conv21_mess296,julien,09:42:20,allah ou akbar amin,bully_support,CAG,victim_support,OTH,ATK,CNS,NEG,1,1,1
+conv21_mess297,Arthur,09:42:38,bien dit julien:'),bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv21_mess298,Thibaut,09:42:57,bande gay,victim_support,OAG,bully_support,NCG,DFN,NULL,NEG,1,0,0
+conv21_mess299,julien,09:43:05,homophooooooobe,bully_support,OAG,victim_support,NCG,ATK,DFN,NEG,1,1,1
+conv21_mess301,Selena,09:43:09,brice il parle plus la,victim_support,OAG,bully,OTH,DFN,OTH,NEG,1,0,0
+conv21_mess302,brice,09:43:13,tu sais paul tu te sentiras bcp mieux si tu acceptes que t'es obése,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1

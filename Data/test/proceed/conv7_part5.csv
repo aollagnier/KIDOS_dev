@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv7_mess25,Pauline,15:39:14,WSH MDRRR,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv7_mess26,Pierre,15:39:16,Ils ont dit les thermes,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv7_mess27,Fatima,15:39:20,Anton je suis française au cas où tu le saurais pas,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv7_mess28,Julie,15:39:21,Allez dehors vous aussi si vous etes pas contentye,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv7_mess29,alice,15:39:25,mais vous etes malade,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv7_mess30,Julie,15:39:28,content*,victim_support,OAG,bully_support,OTH,DFN,ATK,NEU,1,0,0
+conv7_mess31,Pauline,15:39:30,bah pourquoi t’es mate alors?,bully,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv7_mess32,Anton,15:39:41,oui tres clairement t'a raison ts dehors la france au francais,bully_support,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv7_mess33,Julie,15:39:43,c'est de sa faute tu crois ? ptdrrr,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv7_mess34,alice,15:39:49,mais vas en cour toi,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv7_mess35,Julie,15:39:52,c'est hyper beau,victim_support,NAG,NULL,NULL,CNS,ATK,POS,0,0,0
+conv7_mess36,Pierre,15:39:54,Un peu du coup,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv7_mess37,Pauline,15:40:00,c’est bizarre,bully,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv7_mess38,Fatima,15:40:05,J'en sais rien wesh ! c'est ma famille elle est comme ça!  moi je suis née en france et je suis jamais allé dans un autre pays !,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv7_mess39,Nicolas,15:40:10,Mais c'est une arabe y a pas à discuter elle va exploser comme ses frères au bataclan,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv7_mess40,Julie,15:40:20,au tg avcec tes reflexions la,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv7_mess42,Pauline,15:40:32,merci Nicolas,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv7_mess43,Anton,15:40:50,fait gaffe il va tout faire peter,bully_support,OAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv7_mess44,Pierre,15:40:52,Anomalie 👎🏻👎🏻,bully_support,OAG,victim,DNG,ATK,NULL,NEG,1,1,1

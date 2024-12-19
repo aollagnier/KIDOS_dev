@@ -1,0 +1,17 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv22_mess97,Selena,10:39:53,faut pas que quelqu'un de ta famille subisse pareil ! tu vas rien comprendre,victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv22_mess98,Julien,10:40:22,ils subiront rien ils sot pas gros,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv22_mess99,brice,10:40:25,je cherche une meuf voila mon snap: paullegros,bully,CAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv22_mess101,Thibaut,10:40:43,parle fr stp,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess102,Selena,10:40:43,Julien t'es juste jaloux,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess104,Selena,10:41:05,"Julien, peut être pas gros mais pas très intelligent",victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess105,Julien,10:41:07,de tous les macdos ?,bully_support,OAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv22_mess106,Thibaut,10:41:23,t'es cringe avec ton macdo,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess107,justine,10:41:28,julien calme toi on sait que tu t'assume pas et que t juste une merde,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess109,Thibaut,10:41:35,es des arguments stp,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess110,Selena,10:41:39,brice toi tu devrais pas parler,victim_support,OAG,bully,OTH,DFN,NULL,NEG,1,0,0
+conv22_mess111,Julien,10:41:47,nah venez en vrai jvous envcule un par un bande de pedales,bully_support,OAG,victim/victim_support,OTH,ATK,NULL,NEG,1,1,1
+conv22_mess112,brice,10:41:48,messi meilleure que ronaldo et paul plus gros qu un sumo,bully,OAG,victim,DNG,ATK,NULL,NEG,1,1,1
+conv22_mess114,Thibaut,10:42:05,bah vasy on t'attend julien,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess115,justine,10:42:06,ta pas de bite julien tu peux pas,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv22_mess117,Julien,10:42:23,ta mere elle la uce justine sucé,bully_support,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1

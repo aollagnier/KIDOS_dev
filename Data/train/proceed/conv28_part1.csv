@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv28_mess1,Marjorie,11:35:33," Salut la grosse,  j'espere que la photo t'as plu",bully,OAG,victim,DNG,AIN,NULL,NEG,1,1,1
+conv28_mess2,Natacha,11:36:01,allez vous faure foutre,bully_support,OAG,NULL,DNG,ATK,NULL,NEG,1,1,1
+conv28_mess3,Zoé,11:36:04," Tu parles j'ai adoré mdr,  t'es jalouse d emes résultats c'est tout",victim,OAG,bully,OTH,DFN,AIN,NEG,1,0,0
+conv28_mess4,Marjorie,11:36:08,Tu devrais faire un gros régime Zoé Si tu veux je t'aide :),bully,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv28_mess5,Michel,11:36:25,salut majorie la jalouse tu vas bien,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv28_mess7,Natacha,11:36:29,ohh lala vous etes mechante,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv28_mess8,Zoé,11:36:31,laissez-moi tranquille je vous ai rien demandé,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv28_mess9,Marjorie,11:36:33,oui moi jalouse mdr jalouse de toi en plus,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv28_mess10,Lucie,11:36:47,on vas faire du sport et evite de tous faire sortir,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv28_mess11,Soan,11:36:55,zoé fait pas attention à ceux quelle dit,victim_support,NAG,NULL,NULL,EMP,DFN,NEU,0,0,0
+conv28_mess12,Marjorie,11:36:58,fermez vos gueules un peu,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv28_mess13,Michel,11:36:59,evidemment que tu est jalouse de zoé et moi nous somme plus fortes que toi,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv28_mess14,Natacha,11:37:14,allez diminue vos grossse bite cest mieux,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv28_mess16,Michel,11:37:43,tu n'a pas le droit de dire ce que les autre doivent faire,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv28_mess17,Lucie,11:37:49,sale boufonne parle mieux,bully,OAG,victim_support,NCG,ATK,DFN,NEG,1,1,1
+conv28_mess18,Marjorie,11:37:53,michel tg,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv28_mess19,Michel,11:37:58,tous a fait d'accord avec julien,victim_support,NAG,NULL,NULL,EMP,CNS,NEU,0,0,0
+conv28_mess20,Zoé,11:38:00,c'est toi qui insultes là calme-toi un peu,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv28_mess21,Michel,11:38:19,ta geul toi meme majorie la *****,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0

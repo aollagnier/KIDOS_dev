@@ -1,0 +1,19 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv22_mess73,Julien,10:37:14,bah un peu ducoup,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv22_mess74,Arthur,10:37:23,pas qu'un peu,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv22_mess75,Julien,10:37:25,il ressemble ronflex ce tdc,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv22_mess76,Selena,10:37:27,"prends pas un gramme, on va pas te louper",victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess77,brice,10:37:28,nn vzy chuit dessoler,bully,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv22_mess78,justine,10:37:45,c maintenant que tu texcuse,victim_support,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv22_mess79,brice,10:38:02,y as toujours un bon moment,bully,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv22_mess80,justine,10:38:05,julien suce ma bite,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess82,justine,10:38:22,encore,victim_support,CAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv22_mess83,Selena,10:38:31,"tu t'es prise pour qui, laissez Paul tranquille et puis basta",victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess84,Julien,10:38:39,paul quand il va prendre une corde et un tabouret la corde elle va lacher,bully_support,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv22_mess85,brice,10:38:43,meme si sa mere elle mange tout le temp a mcdo,bully,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv22_mess86,Arthur,10:38:55,ohh ça va on peut un peu rigoler,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv22_mess87,Selena,10:38:56,elle a qu'une vie,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv22_mess89,Paul,10:39:16,Si tu étais comme moi brice tu aimerais que les gens se moquent de toi ?,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv22_mess90,Thibaut,10:39:17,juste excuse toi et c'est bon,victim_support,NAG,NULL,NULL,CR,ATK,NEU,0,0,0
+conv22_mess91,Selena,10:39:29,"la honte d'avoir des enfants comme Julien, Arthur et ceux qui sont des deux côtes",victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv22_mess93,brice,10:39:30,pierre ta soeur la chauve souris et toi qi ressemble a un rongeur,bully,OAG,conciliator,OTH,ATK,OTH,NEG,1,1,1

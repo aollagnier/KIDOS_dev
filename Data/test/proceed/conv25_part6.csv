@@ -1,0 +1,17 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv25_mess31,Theresa,16:00:40,C'est sur elles doivent êtres vexées d'avoir un gars aussi laid avec elles,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv25_mess35,Theresa,16:01:11,et francois reagrde toi d'ab,bully_support,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv25_mess36,pierre,16:01:17,mais c'est quoi votre probleme enfait ? ca vous amuse de critiquer les gens comme ca ?,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv25_mess37,NULL,16:01:21,jje t'emmerde.,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv25_mess39,pierre,16:01:43,bien dit francois !,victim_support,NAG,NULL,NULL,EMP,DFN,NEU,0,0,0
+conv25_mess40,Theo,16:01:48,il peut pas se voir en entier,bully_support,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv25_mess41,Theresa,16:01:57,mwa aussi francois😘🤣,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv25_mess42,Lucas,16:02:00,Deja apprenez à écrire et après vous pourrez peut- etre vous permettre de parler,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv25_mess44,NULL,16:02:19,Wsh  je vous écrase tous en un coup.,victim,OAG,bully/bully_support,THR,DFN,NULL,NEG,1,0,0
+conv25_mess45,Lucas,16:02:23,C'est horrible de dire ca,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv25_mess46,pierre,16:02:26,je comprend poas comment vous piuvez défendre des gens qui disent et font des choses pareils 😤,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv25_mess47,Lucas,16:02:43,J'avoue,victim_support,NAG,NULL,NULL,EMP,DFN,NEU,0,0,0
+conv25_mess48,Theresa,16:02:44,c'est quoi cette punchline XD,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv25_mess49,Theresa,16:03:04,tu peux pas nous atteindre avec tes 250 kg,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv25_mess50,Theo,16:03:05,si rire est un crime on est mal barré,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv25_mess51,NULL,16:03:06,theresa,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0

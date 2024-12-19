@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv14_mess31,Anna,11:09:11,on leur commence un only fans,bully_support,OAG,victim/victim_support,OTH,ATK,NULL,NEG,1,1,1
+conv14_mess32,JulieVictime,11:09:17,c'est pas comme ça qu'on se fait des vraiment amis,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv14_mess33,elodie,11:09:23,mdrrrr adam et eve vous connaissez ?,bully_support,CAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv14_mess34,JulieVictime,11:09:31,c'est quoi only fan ?,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv14_mess35,Emilie,11:09:33,la daronne a anna je lui fait un boulot,bully,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv14_mess36,JulieVictime,11:10:07,Quel rapport avec la maman de Anna,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv14_mess37,elodie,11:10:29,pas mal l'education en mode ciseaux,bully_support,CAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv14_mess38,JulieVictime,11:10:32,franchement vous êtes trop des haters,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv14_mess39,elodie,11:10:57,quesque haters,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv14_mess41,Anna,11:11:32,Arthur sur ces genoux pour le plan a 3,bully_support,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv14_mess42,elodie,11:11:35,allez faire des manifestations ca va faire avancer la science,bully_support,CAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv14_mess43,JulieVictime,11:11:50,les haters c'est les gens qui sont frustré qui subissent leurs vies et qui du coup essaie de s'en faire une en se défoulant sur internet désolé si vous êtes déjà plus animé par la vie,victim,CAG,bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv14_mess44,elodie,11:13:19,on est tellement triste qu'on est normal donc ferme la,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv14_mess46,JulieVictime,11:13:46,en vrai je suis sur qu'on pourrait être pote c'est juste que vous êtes jalouses,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv14_mess47,elodie,11:14:13,nn je suis pas pote avec les lesbiennes,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv14_mess48,JulieVictime,11:14:34,t'es vraiment dans le péjugé,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv14_mess49,Emilie,11:15:14,bon toutes les meuf qui se suce entre eux vivement la peine de mort pour vous,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv14_mess50,JulieVictime,11:15:23,on est pas lesbienne et même si on l'était je crois pas que se soit une maladie,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv14_mess51,elodie,11:15:29,grave je suis d'accord direction les camps de concentration,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1

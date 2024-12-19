@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv34_mess139,coralie,11:27:36,qu'est ce qui raconte lui,victim_support,NAG,NULL,NULL,OTH,ATK,NEG,0,0,0
+conv34_mess140,julie,11:27:36,non c'est fatima qui a le sida a force de se faire pin,bully,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv34_mess141,leo,11:27:41,nique les bougnoules,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess142,FatimahVictime,11:27:44,IL AURAIT DU T'EXTERMINER !,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv34_mess143,Paul,11:27:47,les boukak les melons,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv34_mess144,leo,11:27:53,les singes,bully_support,OAG,victim/victim_support,NCG,ATK,NULL,NEG,1,1,1
+conv34_mess145,Paul,11:28:00,c'est ciao,bully_support,NAG,NULL,NULL,OTH,NULL,NEG,0,0,1
+conv34_mess146,julie,11:28:09,good by,bully,NAG,NULL,NULL,OTH,NULL,NEG,0,0,1
+conv34_mess147,leo,11:28:29,tu t'es suicidé,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess148,leo,11:28:34,j'espere en tout cas,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess149,julie,11:28:50,ça fera de la place,bully,OAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv34_mess150,FatimahVictime,11:28:54,"Sincèrement, je peux plus dormir la nuit avec vos horreurs !",victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv34_mess151,Paul,11:29:02,tu sais ce qui separe les animaux des humains ? la mer méditerranné,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess152,FatimahVictime,11:29:08,Vous n'avez aucune pitié ça m'affecte beaucoup,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv34_mess153,julie,11:29:19,ba rentre chez toi,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess154,julie,11:29:24,a la nage,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess155,coralie,11:29:57,Paul72 tu fais trop de bruit on les entends moins les bolosses,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv34_mess156,FatimahVictime,11:30:52,"Heureusement que je sais nager Julie, contrairement à toi....",victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv34_mess157,coralie,11:30:58,et bim,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv34_mess158,leo,11:31:07,ferme ta gueule jvais te faire bouffer ma bite,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess159,coralie,11:31:13,oui,victim_support,NAG,NULL,NULL,OTH,NULL,NEG,0,0,0

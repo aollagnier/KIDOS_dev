@@ -1,0 +1,17 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv6_mess110,Teresa,14:47:17,Vien nicola,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv6_mess111,Pauline,14:47:27,avec un s,bully,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv6_mess112,Nicolas,14:47:28,Vsy,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv6_mess114,Fatima,14:47:29,Pauline et Pierre ... c'est une catastrophe !,victim,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv6_mess115,Pauline,14:47:30,nicolas,bully,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv6_mess116,Pierre,14:47:30,Nan parce que elle est noir et grosse,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv6_mess117,Fatima,14:47:34,Je suis si déçue,victim,NAG,NULL,NULL,OTH,NULL,NEG,0,0,0
+conv6_mess119,Pierre,14:48:07,Tu mange bien fatima a la cantina avec ta corpulence,bully_support,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv6_mess120,Pauline,14:48:15,ya plus de rab apres toi,bully,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv6_mess121,Pierre,14:48:49,espèce de grosse,bully_support,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv6_mess123,Fatima,14:49:21,Je mange normalement ! Et moins que toi d'ailleurs,victim,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv6_mess124,Nicolas,14:49:27,On peut pas ignorer ça poto c chaud,bully_support,OAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv6_mess125,Pierre,14:49:58,Fatima inscris toi a basic fit sa te ferais du bien vu ton gros bid plein de selulites la,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv6_mess126,Teresa,14:50:00,Ok n ce calme,victim_support,NAG,NULL,NULL,CR,NULL,NEU,0,0,0
+conv6_mess127,Pierre,14:50:22,Jv bv nicolas,bully_support,NAG,NULL,NULL,OTH,AIN,NEU,0,0,1
+conv6_mess129,Fatima,14:51:00,je pense que tu es un peu jalouse Pauline !,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0

@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv20_mess115,Camille,10:35:48,tkt il faut les faire obeir ses gros chien,victim_support,OAG,bully/bully_support,NCG,DFN,NULL,NEG,1,0,0
+conv20_mess117,Theo,10:36:09,bon,victim_support,NAG,NULL,NULL,EMP,DFN,NEU,0,0,0
+conv20_mess118,Ellian,10:36:13,paul arrête de parler et va te reprendre des queu dans le cul,bully,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv20_mess119,Arthur,10:36:15,calme toi camille reste à ta place de femme,bully_support,CAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv20_mess120,Ellian,10:36:19,sale gay,bully,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv20_mess121,Ellian,10:36:50,merci athur,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv20_mess122,Paul,10:37:01,serieu c'est rien d'être gay! tu es hétéro je suis gay et puis voila,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv20_mess123,lisa,10:37:06,mais vous etes des sale matcho,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv20_mess124,Paul,10:37:10,tkt pas je vais pas te sauter dessus,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv20_mess126,Camille,10:37:19,et toi t koi fere t meme pas un homme tu viens de l'antiquité et tu aprle avec moi,victim_support,CAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv20_mess127,Theo,10:37:20,"Ellian au pire ce que tu peux faire c'est aller sur amazon commander une corde et un tabouret puis te pendre, peut etre qu'apres ton ame sera apaisée car aujourd'hui la société à un regarde de plus en plus gentil sur les LGBT",victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv20_mess128,Arthur,10:37:20,bah frr etre gay c'est une maladie,bully_support,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv20_mess129,Ellian,10:37:32,bin si tu va lui sauter dessu vu que t es gay,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv20_mess130,Arthur,10:37:33,donc va voir un psy,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv20_mess131,lisa,10:37:43,OOOO LES REFOULER VOS GUEULE,victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv20_mess132,Theo,10:37:43,peut etre que mort t'iras mieux psychologiquement,victim_support,CAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv20_mess133,Ellian,10:38:03,lisa tg t es adopter noir juive at arabe,bully,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv20_mess134,Theo,10:38:13,petit blanc bec riche moche et avec un pti zizi,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv20_mess135,Ellian,10:38:27,ouai je complex sur mon zizi,bully,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1

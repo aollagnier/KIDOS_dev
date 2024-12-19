@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv28_mess19,Michel,11:37:58,tous a fait d'accord avec julien,victim_support,NAG,NULL,NULL,EMP,CNS,NEU,0,0,0
+conv28_mess20,Zoé,11:38:00,c'est toi qui insultes là calme-toi un peu,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv28_mess21,Michel,11:38:19,ta geul toi meme majorie la *****,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv28_mess22,Natacha,11:38:25,je ne vais pas me calme vous etes des viperes,bully_support,OAG,victim/victim_support/conciliator,NCG,ATK,NULL,NEG,1,1,1
+conv28_mess23,Marjorie,11:38:26,lucie on va leur montrez comment perdre du poids ca va etre marrant,bully,CAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv28_mess24,Lucie,11:38:43,perdre du poid quelle ironie,bully,OAG,victim,DNG,ATK,AIN,NEG,1,1,1
+conv28_mess25,Natacha,11:38:46,haha cest pas drole du touyt,bully_support,NAG,NULL,NULL,AIN,AIN,NEG,0,1,1
+conv28_mess26,Michel,11:38:52,hahaha ce qui est marrant c'est de te voir nous envier,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv28_mess27,Lucie,11:38:57,a peine marcher elle a du mal,bully,OAG,victim,DNG,ATK,AIN,NEG,1,1,1
+conv28_mess28,Zoé,11:39:07,mais allez vous faire voir et commencer par essayer d'avoir de meilleures notes que moi et on verra après pour parler,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv28_mess29,Lucie,11:39:13,il lui faut cess deux béquilles natasha et pauline,bully,OAG,victim,DNG,ATK,AIN,NEG,1,1,1
+conv28_mess30,Marjorie,11:39:20,Zoé t'es qu'une merde et  tu resteras toujours une merde une grosse une boulette,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv28_mess31,Zoé,11:39:32,et toi il te faut tes potes pour avoir de bonnes notes aux controles ????,victim,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv28_mess32,Michel,11:39:33,peut etre physiquement elle ne vous plaie pas mais moralement vous voulez tous etre comme elles,victim_support,NAG,NULL,NULL,CR,NULL,NEU,0,0,0
+conv28_mess33,Soan,11:39:35,ça t'apporte quoi de l'insulter tu mexplique parce que je voit juste deux bouffons parler d'une situation qui les concerne pas,victim_support,OAG,bully/bully_support,NCG,DFN,NULL,NEG,1,0,0
+conv28_mess34,Lucie,11:39:37,un petit porc,bully,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv28_mess35,Marjorie,11:39:49,un petit porc mdrrr bien trouver les deux bouffones elles t'emmerdent,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv28_mess37,Marjorie,11:40:12,On parle juste de ce qu'on voit,bully,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv28_mess38,Zoé,11:40:16,Les ptites connes on va se calmer parce qu'à part m'insulter sur mon physique vous savez rien faire,victim,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv28_mess39,Marjorie,11:40:16,on donne notre avis,bully,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1

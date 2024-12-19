@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv16_mess7,Julie,09:34:48,"bon, la vie des uns et des autres, c'est leur vie pas la nôtre alors on pourrait passer à autre chose, non ?",victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv16_mess8,Elodie,09:34:55,toi y a personne qui voudra de toi ma pauvre,bully_support,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv16_mess9,Emilie,09:35:00,non barrez vous du groupe,bully,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv16_mess10,constance,09:35:10,toi va te faire foutre,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv16_mess11,Julie,09:35:13,"Elodie, arrête tu sais que c bête",victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv16_mess12,marie,09:35:15,bref votre vie mes egale je suis superieur a vous bande de ptite merde mtn aller voir ailleur si vous avez une vie,victim_support,OAG,bully/bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv16_mess13,Elodie,09:35:22,meme avec une dotte gratuite personne veut de toi,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv16_mess14,Julie,09:36:12,"Emilie, si le groupe ne te convient pas à toi parce qu'il y a des différences qui ne te conviennent pas, c'est à toi d'aller chercher ailleurs",victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv16_mess15,Elodie,09:36:26,tg julie,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv16_mess16,Emilie,09:36:32,Non c'est mon groupe wsh,bully,NAG,NULL,NULL,OTH,CNS,NEU,0,0,1
+conv16_mess17,marie,09:36:42,oui ba elodie si elle continue je vais la pousser sur la route et une voiture telecommander suffira a lui faire mal,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv16_mess18,Julie,09:36:46,ton groupe que tu critiques et insulte,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv16_mess19,Emilie,09:36:56,je serais derrière pour te pousser marie tktp,bully,OAG,victim_support,THR,ATK,DFN,NEG,1,1,1
+conv16_mess20,marie,09:37:20,de base c toi qui te fait prendre par derriere ma belle,victim_support,CAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv16_mess21,Elodie,09:37:20,t juste pueril je te suis,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv16_mess22,Anna,09:37:29,...,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv16_mess23,marie,09:37:33,anna t pire,victim_support,OAG,bully_support,DNG,DFN,AIN,NEG,1,0,0
+conv16_mess24,Julie,09:37:34,woah c'est nul,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv16_mess25,Emilie,09:37:41,me confond pas avec toi et julie marie tg julie,bully,OAG,victim/victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv16_mess26,Julie,09:37:47,arrêtez de vous gueuler après c'est nul,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv16_mess27,Emilie,09:37:51,parle pas ct bien comme ca,bully,OAG,victim/victim_support,OTH,ATK,DFN,NEG,1,1,1

@@ -1,0 +1,19 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv25_mess139,Pauline,16:13:36,mdrr tu vas regler rie,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv25_mess140,Theo,16:13:55,si il sait manger,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv25_mess141,Theresa,16:14:01,Si pauline,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv25_mess142,Lucas,16:14:02,Et ta mere elle peut courir 2sec aussi sans etre essoufles?,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv25_mess144,Lucas,16:14:30,j'avoue,victim_support,NAG,NULL,NULL,EMP,DFN,NEU,0,0,0
+conv25_mess145,Theresa,16:14:30," Qui dit ""karma"" ?? Loolllllllll",bully_support,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv25_mess146,Pauline,16:14:39,lol,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv25_mess147,Pauline,16:14:40,lol,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv25_mess148,Pauline,16:14:41,lol,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv25_mess149,Pauline,16:14:43,lol,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv25_mess150,Theresa,16:14:46,Lol,bully_support,NAG,NULL,NULL,AIN,AIN,NEG,0,1,1
+conv25_mess151,Theo,16:14:47,il va carrément rebondir sur lui,bully_support,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv25_mess152,Pauline,16:14:49,lol,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv25_mess153,NULL,16:14:53,tkt la police saura etre plus efficace que moi,victim,OAG,bully,THR,DFN,ATK,NEG,1,0,0
+conv25_mess155,Lucas,16:15:13,bien dit,victim_support,NAG,NULL,NULL,EMP,DFN,NEU,0,0,0
+conv25_mess156,Theresa,16:15:19,Vas- y essaye toujours,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv25_mess157,Theo,16:15:31,meme la police va rigoler à ce niveau la,bully_support,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv25_mess158,Pauline,16:15:34,bon francois.... jai pas eu ta reponse pour l'imeuble mdrrrrr,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1

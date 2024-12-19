@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv14_mess19,Marie,11:06:19,Sa se fait pas Je suce son père donc stop,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv14_mess21,JulieVictime,11:07:08,et puis Marie tu n'as jamais de vue sur tes snap c'est la première fois que tout le monde share ton truc,victim,NAG,NULL,NULL,OTH,DFN,NEU,0,0,0
+conv14_mess22,Marie,11:07:21,Et alors elle fait ce qu’elle veut,victim_support,NAG,NULL,NULL,OTH,OTH,NEG,0,0,0
+conv14_mess23,JulieVictime,11:07:28,tout ça pour devenir populaire,victim,NAG,NULL,NULL,OTH,OTH,NEG,0,0,0
+conv14_mess25,Marie,11:07:51,Si le savoir est une arme et bas bz ta mère,victim_support,OAG,conciliator,OTH,ATK,EMP,NEG,1,1,0
+conv14_mess26,Emilie,11:07:53,qui veut les nudes de Elodie,bully,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv14_mess27,JulieVictime,11:08:03,mais arretez ! c'est pas comme ça qu'on se fait des followers on peux aussi être vertueux,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv14_mess28,Marie,11:08:49,C’est pas comme ça qu’on imagine la vie,victim_support,OAG,bully,OTH,OTH,OTH,NEU,1,0,0
+conv14_mess29,JulieVictime,11:08:52,pas dans la haine tout le temps,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv14_mess30,Marie,11:09:07,Va baiser ta mère sale fils de pute,victim_support,OAG,bully,OTH,OTH,OTH,NEG,1,0,0
+conv14_mess31,Anna,11:09:11,on leur commence un only fans,bully_support,OAG,victim/victim_support,OTH,ATK,NULL,NEG,1,1,1
+conv14_mess32,JulieVictime,11:09:17,c'est pas comme ça qu'on se fait des vraiment amis,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv14_mess33,elodie,11:09:23,mdrrrr adam et eve vous connaissez ?,bully_support,CAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv14_mess34,JulieVictime,11:09:31,c'est quoi only fan ?,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv14_mess35,Emilie,11:09:33,la daronne a anna je lui fait un boulot,bully,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv14_mess36,JulieVictime,11:10:07,Quel rapport avec la maman de Anna,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv14_mess37,elodie,11:10:29,pas mal l'education en mode ciseaux,bully_support,CAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv14_mess38,JulieVictime,11:10:32,franchement vous êtes trop des haters,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv14_mess39,elodie,11:10:57,quesque haters,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1

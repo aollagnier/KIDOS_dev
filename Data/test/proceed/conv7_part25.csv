@@ -1,0 +1,18 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv7_mess145,Julie,15:49:14,oui,victim_support,NAG,NULL,NULL,EMP,CR,NEU,0,0,0
+conv7_mess146,Pauline,15:49:22,ton maillot de bain serait + beau sur moi,bully,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv7_mess147,Pierre,15:49:32," teresa pas de différences, juste une infériorité",bully_support,OAG,victim,DNG,ATK,CR,NEG,1,1,1
+conv7_mess148,Julie,15:49:32,mdrrr tu veux l'essayer elle un plu beau corps que toi meuf,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv7_mess149,Fatima,15:49:58,Pauline donc enfaite c'est bien de la jalousie !,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv7_mess150,Pauline,15:50:00,donne moi ton maillot Fatima👹👹👹👹,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv7_mess153,Pauline,15:50:21,Julie tu me body shame???? #HARCELEMENT,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv7_mess155,teresa,15:50:24,Il sont juste jaloux,victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv7_mess156,Anton,15:50:31,ds tout les cas ou va le monde ya 200 an on pouvait avir un petrit noir pour r,bully_support,OAG,victim,DNG,ATK,NULL,NEG,1,1,1
+conv7_mess157,Nicolas,15:50:35," N'importe quoi les arabes c'est des sales merdes, nous on reprend le pays en main, vous avez aucun argument pour défendre les nègres et les shitskins",bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv7_mess158,Anton,15:50:36,et ct mieux,bully_support,OAG,victim,DNG,ATK,NULL,NEG,1,1,1
+conv7_mess159,Julie,15:50:37,n'ayez pas le seum,victim_support,CAG,bully,OTH,DFN,ATK,NEU,1,0,0
+conv7_mess160,Pauline,15:50:39,Julie elle m’hracele défendez moi,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv7_mess161,alice,15:50:57,deja tg,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv7_mess163,teresa,15:51:05,mais cnest toi qui l’harcèle,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv7_mess164,alice,15:51:08,tu ds de la d depuis tt a l'huere,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv7_mess165,Pierre,15:51:09,Le nôtre reste supérieur,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1

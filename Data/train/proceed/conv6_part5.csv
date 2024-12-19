@@ -1,0 +1,19 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv6_mess25,Pauline,14:34:26," albatrd fatima, a quand un maffer ?",bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv6_mess26,Teresa,14:35:08,Arrêtez miskina,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv6_mess28,Pierre,14:35:15,Sale arabe,bully_support,OAG,victim,DNG,ATK,NULL,NEG,1,1,1
+conv6_mess29,Pauline,14:35:21,voleur,bully,OAG,victim,NCG,AIN,ATK,NEG,1,1,1
+conv6_mess30,Pierre,14:35:34,Armar,bully_support,OAG,victim,NCG,ATK,NULL,NEG,1,1,1
+conv6_mess32,Fatima,14:35:43,franchement vous n'avez pas honte !,victim,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv6_mess33,Pierre,14:35:52,Retourne dans ton pays,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv6_mess34,Pauline,14:36:00,non fatima =$,bully,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv6_mess35,Nicolas,14:36:00,Clairement,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv6_mess36,Pauline,14:36:03, =*,bully,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv6_mess37,Teresa,14:36:27,C’est pas fini la pauvre,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv6_mess38,Pierre,14:36:32,Non,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv6_mess39,Pauline,14:36:43,pars contre faus doser sur le nutella archem,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv6_mess40,Pierre,14:36:49,Retourne au bled,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv6_mess41,Pauline,14:36:56,casse toi de la,bully,OAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv6_mess42,Pierre,14:37:00,Tes parents ils touchent la caf,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv6_mess44,Fatima,14:37:08,Ca fait à peine 1  semaine que je vous connais et c'est comme ça que vous m'accueillez ?,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv6_mess45,Nicolas,14:37:08,Réel,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1

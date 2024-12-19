@@ -1,0 +1,17 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv25_mess55,Theresa,16:03:20,merci ca me touche,bully_support,CAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv25_mess56,NULL,16:03:46,non mais pas grave il existe le clan des jaloux en somme 🙄,victim,OAG,bully/bully_support,NCG,DFN,NULL,NEG,1,0,0
+conv25_mess57,Lucas,16:03:52,Vous avez pas honte?,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv25_mess58,Pauline,16:03:58,nan mais francois tu nous dira ce que ca fait d'etre une petite merde comme ca hein,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv25_mess60,NULL,16:04:19,toi pauline je te retiens. comment j'ai pu te kiffer en vrai?,victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv25_mess61,Lucas,16:04:21,Tu as totalement raison Francounet,victim_support,NAG,NULL,NULL,EMP,DFN,NEU,0,0,0
+conv25_mess63,Theresa,16:05:00,mdrrrr ouais comment t'as pu la kiffer tu la mérites pas en vrai,bully_support,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv25_mess64,Pauline,16:05:01,haaa  c'est beau de rever jenny,bully,CAG,conciliator,OTH,ATK,CR,NEG,1,1,1
+conv25_mess66,pierre,16:05:21,fface la photo Pauline !😡,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv25_mess67,Theresa,16:05:23,de tt facon c'est tro tard elle est postée,bully_support,OAG,conciliator,OTH,ATK,CR,NEG,1,1,1
+conv25_mess68,pierre,16:05:29,efface*,victim_support,OAG,bully,OTH,DFN,ATK,NEU,1,0,0
+conv25_mess70,NULL,16:05:56,theresa  avoue :),victim,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv25_mess71,Lucas,16:06:17,Efface ou j'irais encourager Francois à aller porter plainte pour non droit à l'image et atteinte à la vie privée,victim_support,OAG,bully/bully_support,THR,DFN,NULL,NEG,1,0,0
+conv25_mess72,Theresa,16:06:19,Au moins on me respecte,bully_support,NAG,NULL,NULL,OTH,OTH,NEG,0,0,1
+conv25_mess74,Pauline,16:06:25,regardes le un peu putain ouvre les yeux jenny,bully,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv25_mess75,NULL,16:06:35,la dignité partie au chiotte...,victim,OAG,bully/bully_support,DNG,DFN,NULL,NEG,1,0,0

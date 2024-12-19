@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv5_mess7,FatimahVictime,11:09:56,arrête tes commentaires et de m'insulter dans mon dos tu crois que j'ai pas vu ton petit jeu... Et tes insinuations...,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv5_mess8,leo,11:10:09,c'est une clocharde en meme temps,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv5_mess9,FatimahVictime,11:10:15,S'il te paît arrête.,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv5_mess10,coralie,11:10:15,ils ont meme pas d'interet a t'insulter,victim_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,0
+conv5_mess11,julie,11:10:26,c pas dans ton dos chuis en face,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv5_mess12,leo,11:10:30,bah on va voir en vrai si on va rien faire,bully_support,CAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv5_mess13,coralie,11:10:36,mais regarde les ils peuvent que insulter vous pouvez argumenter ?,victim_support,NAG,NULL,NULL,EMP,DFN,NEU,0,0,0
+conv5_mess14,FatimahVictime,11:10:46,FAT IMA .. tu as un humour incroyable !,victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv5_mess15,julie,11:10:59,oe je sais,bully,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv5_mess16,FatimahVictime,11:11:01,"La dernière fois qu'on m'a fait cette blague, j'étais en maternelle.",victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv5_mess17,coralie,11:11:21,c'est clair,victim_support,NAG,NULL,NULL,EMP,DFN,NEU,0,0,0
+conv5_mess18,leo,11:11:27,bon tg tu parles trop,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv5_mess19,FatimahVictime,11:11:35,Leo..,victim,OAG,bully_support,OTH,DFN,ATK,NEU,1,0,0
+conv5_mess20,julie,11:11:41,tu casse les couilles,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv5_mess21,FatimahVictime,11:11:42,Tu n'as rien à faire ici..,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv5_mess22,Paul,11:11:44,manges du couscous,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv5_mess23,FatimahVictime,11:11:49,C'est entre moi et julie !,victim,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv5_mess24,leo,11:11:58,on va te faire manger du saucisson,bully_support,CAG,victim,THR,ATK,OTH,NEG,1,1,1
+conv5_mess25,coralie,11:12:10,enfaite les gars vous savez pas harceler,victim_support,CAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv5_mess26,julie,11:12:12,trahisonnnnnnnnn,bully,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv5_mess27,coralie,11:12:15,vous etees des breles,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0

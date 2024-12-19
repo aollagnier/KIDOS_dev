@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv29_mess211,Lea,09:42:59,leo suppreime stp mv,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv29_mess212,Leo,09:43:06,ta la chatte c une puits wsh tg,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess213,Justine,09:43:22,aurélie et leo savent qu'insulter,victim,CAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv29_mess214,Justine,09:43:34,ils ont rien dans la tete,victim,CAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv29_mess215,Leo,09:43:43,ta tout dans le trou du cul toi,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess216,Lea,09:44:20,sois vous supprimez et on arrete,victim_support,NAG,NULL,NULL,CR,ATK,NEU,0,0,0
+conv29_mess217,Leo,09:44:25,elle dors sur des grosse queue de noire justine,bully,CAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv29_mess218,Lea,09:44:28,soit je poucave a ma maman,victim_support,OAG,bully,THR,DFN,ATK,NEG,1,0,0
+conv29_mess219,Ana,09:44:34,SOIS J VOUS PREND TOUS LTN,victim_support,OAG,bully/bully_support,THR,DFN,NULL,NEG,1,0,0
+conv29_mess220,Ana,09:44:37,MTN,victim_support,OAG,bully/bully_support,THR,DFN,NULL,NEU,1,0,0
+conv29_mess221,Leo,09:45:12,tu n'est qun etre sans profondeur t'aurais mieux fais de t'inspirer de la groge de ta soeur,bully,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess223,Lea,09:45:33,zola en sueur,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv29_mess224,Justine,09:45:47,écoutez ana et lea,victim,NAG,NULL,NULL,CR,ATK,NEU,0,0,0
+conv29_mess225,Justine,09:45:49,et arrêtez,victim,NAG,NULL,NULL,CR,ATK,NEU,0,0,0
+conv29_mess226,Justine,09:46:08,on en revient a des insultes de merde,victim,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv29_mess227,Leo,09:46:18,卐,bully,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv29_mess228,Leo,09:46:38,c bon on arrete,bully,NAG,NULL,NULL,OTH,CR,NEU,0,0,1
+conv29_mess229,Ana,09:46:43,OK,victim_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv29_mess230,Ana,09:46:46,PARFAIT,victim_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv29_mess231,Ana,09:46:48,MTN CHUT,victim_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0

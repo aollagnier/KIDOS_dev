@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv12_mess1,paul,14:34:01," Salut, Ellian, il fait quoi ?",victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv12_mess2,Ellian,14:38:53,Paul est homo se pd,bully,OAG,victim,OTH,AIN,OTH,NEG,1,1,1
+conv12_mess3,paul,14:39:27,Je voulais à la base qu'on parle de mon message et j'aurais souhaité que t'arrêtes de m'insulter en publique.,victim,OAG,bully,OTH,DFN,AIN,NEU,1,0,0
+conv12_mess4,paul,14:39:27,Si t'as un problème on peut le règler en face à face.,victim,OAG,bully,OTH,DFN,AIN,NEU,1,0,0
+conv12_mess5,paul,14:39:50,on verra qui c'est le pd,victim,OAG,bully,OTH,DFN,AIN,NEG,1,0,0
+conv12_mess6,paul,14:39:50,Injure publique,victim,OAG,bully,OTH,DFN,AIN,NEG,1,0,0
+conv12_mess7,paul,14:39:50,La peine encourue est de 1 an d'emprisonnement et de 45 000 € d'amende.,victim,OAG,bully,OTH,DFN,AIN,NEU,1,0,0
+conv12_mess8,Camille,14:40:21,Nn mai arrête de dire ses son choix laissé le ses son corps pas le votre,victim_support,NAG,NULL,NULL,DFN,AIN,NEU,0,0,0
+conv12_mess9,Ellian,14:40:57,Mais t’es pas un frais un homme,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv12_mess10,paul,14:41:19,Y a des choses qu'on ne décide pas Ellian   et ça a été déjà difficile pour moi à la base de reconnaître ma sexualité,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv12_mess11,Ellian,14:41:19,Sale pd,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv12_mess12,Ellian,14:41:19,Casse toi,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv12_mess13,paul,14:41:35,Je pensais que t'étais mon ami à la base,victim,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv12_mess14,Camille,14:41:50,Mai stop,victim_support,NAG,NULL,NULL,CR,ATK,NEU,0,0,0
+conv12_mess15,Ellian,14:41:56,Oe mais plus maintenant,bully,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv12_mess16,paul,14:42:06,mais en fait t'es une belle enflure !,victim,OAG,bully,NCG,DFN,OTH,NEG,1,0,0
+conv12_mess17,paul,14:42:21," On ne peut pas en discuter en face, en homme.",victim,OAG,bully,NCG,DFN,OTH,NEU,1,0,0
+conv12_mess18,paul,14:42:21,Tu préfères m'insulter,victim,OAG,bully,NCG,DFN,OTH,NEG,1,0,0
+conv12_mess19,paul,14:42:33,comme si t'avais peur d'un truc,victim,OAG,bully,NCG,DFN,OTH,NEU,1,0,0
+conv12_mess20,paul,14:42:33,Peut-être t'es GAY toi aussi ?,victim,OAG,bully,NCG,DFN,OTH,NEG,1,0,0
+conv12_mess21,paul,14:42:33,T'es dans le déni !,victim,OAG,bully,NCG,DFN,OTH,NEG,1,0,0

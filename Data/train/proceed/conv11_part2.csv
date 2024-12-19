@@ -1,0 +1,18 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv11_mess7,lucie,12:42:02,qui t’as adressé la parole toi?,victim_support,NAG,NULL,NULL,OTH,AIN,NEU,0,0,0
+conv11_mess8,camille,12:42:13,jsp mais sylvia sa mere la.....,bully_support,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv11_mess9,Silvia,12:42:14,"moi j'ai rien demandé, je ne savais pas qu'il sortait encore avec Sophie",victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv11_mess10,theo,12:42:20,MDR tu savais pas ?,bully_support,CAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv11_mess11,theo,12:42:30,bah mntn tu sais,bully_support,CAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv11_mess13,Silvia,12:42:50,"ah ben vous êtes dégueu, j'ai rien fait moi",victim,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv11_mess14,lucie,12:42:53,et Lucas c’est la pire des sous races de ce monde,victim_support,OAG,NULL,DNG,DFN,ATK,NEG,1,0,0
+conv11_mess15,lucie,12:43:00,il avait qu’à pas tromper sa meuf,victim_support,OAG,NULL,DNG,DFN,ATK,NEG,1,0,0
+conv11_mess16,theo,12:43:12,la sous race ici c’est silivia,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv11_mess17,lucie,12:43:13,même un chien est fidèle,victim_support,OAG,NULL,DNG,DFN,ATK,NEU,1,0,0
+conv11_mess18,Silvia,12:43:17,ben on est morts de rire mais en tout cas moi je ne savais pas pour Sophie,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv11_mess19,theo,12:43:22,en plus elle est serbe c’est quoi ça même,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv11_mess21,Silvia,12:43:38,et alors ça fait quoi d'être Serbe ?,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv11_mess23,Silvia,12:43:46,Merci Hebert,victim,NAG,NULL,NULL,OTH,CR,POS,0,0,0
+conv11_mess25,theo,12:44:09,hebert littéralement tg tu sers rien,bully_support,OAG,conciliator,OTH,ATK,CR,NEG,1,1,1
+conv11_mess26,theo,12:44:15,t’es vraiment inutile,bully_support,OAG,conciliator,OTH,ATK,CR,NEG,1,1,1
+conv11_mess27,lucie,12:44:17,bah y’a même pas de soucis en sah juste un batard qui a trompé sa copine et les gens s’acharnent sur la meuf avec qui il a trompé,victim_support,OAG,NULL,NCG,DFN,NULL,NEG,1,0,0

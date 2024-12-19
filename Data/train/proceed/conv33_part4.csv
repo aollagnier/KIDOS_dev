@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv33_mess19,Pierre,11:32:55,a quelle moment c'est drole d'insulte les gens,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv33_mess20,Fatimah,11:32:58,"ah ouais,  toi on insulte,  et tut trouves ça marrant",victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv33_mess21,Coralie,11:33:02,clairement,victim_support,NAG,NULL,NULL,EMP,DFN,NEG,0,0,0
+conv33_mess23,Coralie,11:33:13,vous croyez vous etes droles ?,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv33_mess24,Julie,11:33:28,oooooooh fatima retourne faire ton  ramadan a la con ça te fera pas de mal,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv33_mess25,Léo,11:33:35,Oof,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv33_mess26,Julie,11:33:41,ça te menera peut être a la mort,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv33_mess27,Coralie,11:34:00,julie nva sucer tes grans mort,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv33_mess28,Fatimah,11:34:00,"aaaaaaaaaaaaaaaaaaaa ok,  c'est ça ton problème mais ptete que si toi aussi tu arreter de manger du porc tu serais moi aggressive!",victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv33_mess29,Julie,11:34:44,coralie je commence par les tiens,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv33_mess30,Coralie,11:34:45,krkrkr bien dit,victim_support,NAG,NULL,NULL,EMP,DFN,NEG,0,0,0
+conv33_mess32,Léo,11:34:58,Allez du fight là mdrrrr,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv33_mess33,Fatimah,11:35:01,mais laisse les morts de Coralie-soutiend tranquil,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv33_mess34,Coralie,11:35:18,c'est mes morts qui te sucent julie,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv33_mess35,Fatimah,11:35:21,"chépa,  la meuf se lache,  elle sait rien et elle crache vasi",victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv33_mess36,Coralie,11:35:41,clairment,victim_support,NAG,NULL,NULL,EMP,DFN,NEG,0,0,0
+conv33_mess37,Fatimah,11:36:04,et clairement LeoSoutienduharc vaut pas mieux,victim,NAG,NULL,NULL,DFN,AIN,NEG,0,0,0
+conv33_mess38,Pierre,11:36:16,oui grave,victim_support,NAG,NULL,NULL,EMP,DFN,NEU,0,0,0
+conv33_mess39,Coralie,11:36:17,j'espere un jour c'est les porcs qui te chieront dessus,victim_support,OAG,bully_support,DNG,DFN,AIN,NEG,1,0,0

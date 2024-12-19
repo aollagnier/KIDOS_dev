@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv34_mess157,coralie,11:30:58,et bim,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv34_mess158,leo,11:31:07,ferme ta gueule jvais te faire bouffer ma bite,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess159,coralie,11:31:13,oui,victim_support,NAG,NULL,NULL,OTH,NULL,NEG,0,0,0
+conv34_mess160,Paul,11:31:15,ferme ton fiac on arrive pas a s'entendre,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess161,coralie,11:31:15,comme d'hab,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv34_mess162,FatimahVictime,11:31:24,C'était tellement drôle de voir dans l'eau au dernier cours de natation !,victim,CAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv34_mess163,leo,11:31:29,coralie c'est une obese qui baise,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess164,FatimahVictime,11:31:31,Donc viens pas me chercher sur ce terrain !,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv34_mess165,julie,11:31:32,ces les singes qui savent pas nager,bully,OAG,victim/victim_support,NCG,ATK,NULL,NEG,1,1,1
+conv34_mess166,coralie,11:31:51, la merde ca sort par le cul et pas par la bouche leo77 et Paul72 ;P,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv34_mess167,Paul,11:32:10,t'as déjà vu un noir d'en l'eau il coule,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv34_mess168,leo,11:32:23,coralie j vais tellement t'neculer qu'on va retrouver du petrole dans ton cul enculer,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess169,FatimahVictime,11:32:32,"Leo et Paul, vous n'êtes que des diarrhées verbales !",victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv34_mess170,julie,11:32:32,C fat quand elle nage,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv34_mess171,FatimahVictime,11:32:48,Julie stp stop,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv34_mess172,coralie,11:32:53,leo77 tu pourra pas me toucher avec ton chbrax de 2cm,victim_support,CAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv34_mess173,leo,11:32:54,tgg,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess174,julie,11:33:01,et toi juste une diarrhé,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv34_mess175,leo,11:33:12,"j ai une ak 47 dans le caleco,",bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess176,coralie,11:33:15,aller c'est ciao les noobs jme tire,victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv34_mess177,FatimahVictime,11:33:23,Julie stp arrête maintenant !,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0

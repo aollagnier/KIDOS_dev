@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv15_mess55,Constance,15:46:33,LES GARS JE VAIS VOUS DENONCER A LA POLICE SI VOUS CONTINUEZ LES PROPOS HOMOPHOBES,victim_support,NAG,NULL,NULL,CNS,NULL,NEU,0,0,0
+conv15_mess56,Elodie,15:46:38,sois gay dans ton coin ca me degoute,bully_support,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv15_mess57,Constance,15:46:39,CA CLC OK JE VAIS PORTER PLAINTE,victim_support,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv15_mess58,Emilie,15:46:52,VASI OSE SALE FOLLE,bully,OAG,victim_support,OTH,ATK,CNS,NEG,1,1,1
+conv15_mess59,Constance,15:46:59,JVAIS PARLER A UN ADULTE OUI JE VAIS OSER,victim_support,OAG,bully,NCG,DFN,ATK,NEU,1,0,0
+conv15_mess60,Marie,15:47:07,grv,victim_support,NAG,NULL,NULL,EMP,DFN,NEU,0,0,0
+conv15_mess61,Caroline,15:47:12,ma folle preferee,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv15_mess62,Elodie,15:47:14,julie tu tiens la main a ta pote et tu crois quon va vous laissez? on veut pas de pd comme ca dfans notre ecole,bully_support,OAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv15_mess63,Emilie,15:47:17,TA TROP LA BOUCHE,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv15_mess64,Constance,15:47:18,VOUS AVEZ BESOIN D EDUCATION,victim_support,CAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv15_mess65,Elodie,15:47:25,cest toi eduque toi,bully_support,CAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv15_mess66,Julie,15:47:38,"Constance, laisse tomber c'est inutile, ils sont des ignorants",victim,OAG,bully/bully_support,OTH,OTH,DFN,NEG,1,0,0
+conv15_mess67,Anna,15:47:43,vous avez trop la rage,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv15_mess68,Constance,15:47:46,bref les screens sont pris mes chéries,victim_support,NAG,NULL,NULL,CNS,NULL,NEG,0,0,0
+conv15_mess69,Elodie,15:47:47,lhomosexualite cest pas normal!!! remettez vous dans le droit chemin je dis ca pour votre bien,bully_support,NAG,NULL,NULL,GSL,OTH,NEG,0,1,1
+conv15_mess70,Marie,15:47:50,tg,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv15_mess71,Constance,15:48:02,la prochaine innsullte ca part au commissariat,victim_support,NAG,NULL,NULL,CNS,GSL,NEG,0,0,0
+conv15_mess72,Julie,15:48:03,C'est le moyen-âge,victim,NAG,NULL,NULL,DFN,GSL,NEG,0,0,0
+conv15_mess73,Emilie,15:48:06,PRENDS MAIS TQT PROFITE AVANT,bully,CAG,victim_support,OTH,ATK,CNS,NEG,1,1,1
+conv15_mess74,Caroline,15:48:10,bah au pire tg et rentres chez toi arrete de souler tout le monde laissez nous faire notre vie nan,victim_support,OAG,bully_support,OTH,DFN,GSL,NEG,1,0,0
+conv15_mess75,Elodie,15:48:14,jaimerai bien,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1

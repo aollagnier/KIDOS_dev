@@ -1,0 +1,17 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv11_mess79,lucie,12:49:50,prsk tu l’aime trop c’est ça,victim_support,CAG,bully_support,OTH,DFN,OTH,NEG,1,0,0
+conv11_mess80,Silvia,12:49:52,grave !,victim,NAG,NULL,NULL,EMP,DFN,NEU,0,0,0
+conv11_mess81,lucie,12:49:52,trop fan d’elle,victim_support,CAG,bully_support,OTH,DFN,OTH,NEG,1,0,0
+conv11_mess82,camille,12:49:54,dou je suis nul moi tas grand mere,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv11_mess84,theo,12:50:05,trop fan ouais ma bestie,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv11_mess86,lucie,12:50:22,oui tu fais copain copine avec silvia,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv11_mess88,camille,12:50:29,jer fais ce qe je veux,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv11_mess89,lucie,12:50:29,copain copine et si y’a moyen on pine,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv11_mess90,lucie,12:50:39,donc le seul problème ici c’est que t’es trop fan de silvia,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv11_mess91,camille,12:51:02,sylvia arrete de parlertu sers a rien,bully_support,OAG,victim,DNG,ATK,EMP,NEG,1,1,1
+conv11_mess92,Silvia,12:51:14,j'ai le droit de dire ce que je veux,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv11_mess93,camille,12:51:34,nn tg,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv11_mess94,lucie,12:51:37,oh silvia j’essaye de te défendre mais tu pare vraiment comme une victime ai un peu plus de charisme cousine,victim_support,NAG,NULL,NULL,EMP,CNS,POS,0,0,0
+conv11_mess95,camille,12:51:46,voilaaaaaaa,bully_support,CAG,victim_support,OTH,ATK,EMP,NEG,1,1,1
+conv11_mess96,Silvia,12:51:53,je fais ce que je peux sont trop nuls,victim,OAG,bully/bully_support,OTH,OTH,EMP,NEG,1,0,0
+conv11_mess98,camille,12:52:30,tg vannessa ton prenom rime avec caca,bully_support,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1

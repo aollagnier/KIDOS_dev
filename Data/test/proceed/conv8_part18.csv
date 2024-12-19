@@ -1,0 +1,16 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv8_mess104,Silvia,09:38:57,j'aassume qu'il est venu m'embrasser,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv8_mess105,Adrien,09:39:00,c'est un homme un vrai,bully,NAG,NULL,NULL,OTH,DFN,POS,0,0,1
+conv8_mess106,Soan,09:39:04,Diana #pick me,victim_support,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv8_mess107,Lucie,09:39:08,oui,victim_support,NAG,NULL,NULL,EMP,DFN,NEG,0,0,0
+conv8_mess109,Lucie,09:39:22,diana tu veux te taper adrien sale chienne en chaleur,victim_support,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv8_mess110,Diana,09:39:24,c'est ta mere la pick me,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv8_mess112,Adrien,09:39:32,ntm Silvia arrête de rejeter la faute sur Lucas,bully,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv8_mess113,Soan,09:39:40,Adrien est amoureux de Silvia,victim_support,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv8_mess114,Lucie,09:39:40,elle a raison,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv8_mess115,Camille,09:39:44,on a dit on parle pas des daroones,bully_support,NAG,NULL,NULL,OTH,ATK,NEU,0,0,1
+conv8_mess116,Adrien,09:39:58,mdr elle est claqué au sol Silvia,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv8_mess117,Diana,09:39:58,je veux te taper toi lucie espece de grosses salope en sueur,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv8_mess119,Theo,09:40:32,tg soan,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv8_mess120,Lucie,09:40:45,lucas a meme pas les couille de regler ses probleme tt seul,victim_support,OAG,NULL,OTH,EMP,OTH,NEG,1,0,0
+conv8_mess121,Theo,09:40:46,neo et soan,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1

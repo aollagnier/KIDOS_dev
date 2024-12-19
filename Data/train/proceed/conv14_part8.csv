@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv14_mess43,JulieVictime,11:11:50,les haters c'est les gens qui sont frustré qui subissent leurs vies et qui du coup essaie de s'en faire une en se défoulant sur internet désolé si vous êtes déjà plus animé par la vie,victim,CAG,bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv14_mess44,elodie,11:13:19,on est tellement triste qu'on est normal donc ferme la,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv14_mess46,JulieVictime,11:13:46,en vrai je suis sur qu'on pourrait être pote c'est juste que vous êtes jalouses,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv14_mess47,elodie,11:14:13,nn je suis pas pote avec les lesbiennes,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv14_mess48,JulieVictime,11:14:34,t'es vraiment dans le péjugé,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv14_mess49,Emilie,11:15:14,bon toutes les meuf qui se suce entre eux vivement la peine de mort pour vous,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv14_mess50,JulieVictime,11:15:23,on est pas lesbienne et même si on l'était je crois pas que se soit une maladie,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv14_mess51,elodie,11:15:29,grave je suis d'accord direction les camps de concentration,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv14_mess52,JulieVictime,11:15:42,ah oui vraiment ? tu sais que Hitler il a fait ça,victim,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv14_mess53,elodie,11:15:56,hitler c'est trompé de communauté,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv14_mess54,JulieVictime,11:16:01,tu trouve ça cool toi les nazi ?,victim,OAG,bully_support,OTH,DFN,AIN,NEG,1,0,0
+conv14_mess55,Anna,11:16:22,oe,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv14_mess57,Emilie,11:16:50,oue oue ca va les pds,bully,OAG,victim/conciliator,NCG,ATK,NULL,NEG,1,1,1
+conv14_mess58,Anna,11:17:03,si polognais,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv14_mess59,JulieVictime,11:17:07,waaa mais franchement j'allucine vous vous rende compte de ce que vous dites ?,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv14_mess60,elodie,11:17:31,vraiment vous degoutez les 2 personnes vous a appris la normalité,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv14_mess61,JulieVictime,11:17:36,la en fait je crois pas qu'on pourai devenir ami vous êtes en fait homophobes et nazi,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv14_mess62,elodie,11:17:59,personne veut etre ami avec toi tqt elle va vouloir nous pecho la collg,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv14_mess63,JulieVictime,11:18:12,je trouve que c'est vachement plus la honte que d'être lesbienne,victim,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0

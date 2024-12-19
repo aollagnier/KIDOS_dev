@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv15_mess43,Caroline,15:44:47,le français par conte madame,victim_support,CAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv15_mess44,Julie,15:44:51,"Elodie, reste tranquille, nous ne sommes pas malades",victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv15_mess45,Elodie,15:44:52,allez a lhopital bande de malades mentaux,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv15_mess46,Julie,15:44:56,Nous sommes juste deux amies,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv15_mess47,Marie,15:45:02,Tu parle encore de ma pote comme ça je te choppe dans la cour et je te devonce,victim_support,OAG,bully_support,THR,DFN,ATK,NEG,1,0,0
+conv15_mess48,Julie,15:45:05,>.<,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv15_mess49,Elodie,15:45:12,deux amies qui se tiennt la main en cours,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv15_mess50,Elodie,15:45:15,ca fait pitié julie bouge avec ta vieille pote la,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv15_mess51,Elodie,15:45:27,vous faites pitié,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv15_mess52,Anna,15:45:36,aberrant,bully_support,OAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv15_mess53,Elodie,15:45:55,arretez putain,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv15_mess54,Emilie,15:45:56,julie tg jarrive te prendre en leuleu,bully,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv15_mess55,Constance,15:46:33,LES GARS JE VAIS VOUS DENONCER A LA POLICE SI VOUS CONTINUEZ LES PROPOS HOMOPHOBES,victim_support,NAG,NULL,NULL,CNS,NULL,NEU,0,0,0
+conv15_mess56,Elodie,15:46:38,sois gay dans ton coin ca me degoute,bully_support,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv15_mess57,Constance,15:46:39,CA CLC OK JE VAIS PORTER PLAINTE,victim_support,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv15_mess58,Emilie,15:46:52,VASI OSE SALE FOLLE,bully,OAG,victim_support,OTH,ATK,CNS,NEG,1,1,1
+conv15_mess59,Constance,15:46:59,JVAIS PARLER A UN ADULTE OUI JE VAIS OSER,victim_support,OAG,bully,NCG,DFN,ATK,NEU,1,0,0
+conv15_mess60,Marie,15:47:07,grv,victim_support,NAG,NULL,NULL,EMP,DFN,NEU,0,0,0
+conv15_mess61,Caroline,15:47:12,ma folle preferee,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv15_mess62,Elodie,15:47:14,julie tu tiens la main a ta pote et tu crois quon va vous laissez? on veut pas de pd comme ca dfans notre ecole,bully_support,OAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv15_mess63,Emilie,15:47:17,TA TROP LA BOUCHE,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1

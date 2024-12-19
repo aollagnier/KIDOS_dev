@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv28_mess151,Marjorie,11:52:33,mdrr tqt pas moi je peux faire du sport prendre la ou il faut toi meme en faisant du sport pendant 5ans t'arriverais pas,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv28_mess152,Zoé,11:52:38,je te signale que TU as commencé alors range-toi,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv28_mess153,Marjorie,11:52:44,a perdre 3kilos,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv28_mess154,Natacha,11:52:44,:') :') :') :') faut mieux que tu maigrix,bully_support,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv28_mess155,Lucie,11:52:45,il faut que tu t'entraine a sucer les profs pour rammener les bonnes notes,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv28_mess156,Zoé,11:53:05,et alors ? au moins j'ai de bonnes notes moi,victim,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv28_mess157,Michel,11:53:06,c'est quoi qui est drole natacha,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv28_mess158,Marjorie,11:53:09,elle le fait deja ça sucer les profs,bully,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv28_mess159,Zoé,11:53:19,(natacha t'es supposée me soutenir),victim,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv28_mess160,Marjorie,11:53:20,passer sous le bureeau,bully,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv28_mess161,Natacha,11:53:40,biensur cest drole ta pas vu son taille,bully_support,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv28_mess162,Lucie,11:53:45,bah mais elle faut qu'elle s'entraine,bully,CAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv28_mess163,Marjorie,11:54:00,mdrr natacha elle me soutient,bully,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv28_mess164,Lucie,11:54:02,sinon c'est ces notes qui vont maigrir,bully,CAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv28_mess165,Michel,11:54:06,bh lucie vue que tu est pros dans le domene montre lui comment faire,victim_support,CAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv28_mess166,Marjorie,11:54:07,ahhhh de fou,bully,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv28_mess167,Lucie,11:54:09,elle toujours pas evidemment,bully,CAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv28_mess168,Natacha,11:54:11,non je soutien harceleur,bully_support,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv28_mess169,Marjorie,11:54:20,elle a appris grace a ta mere,bully,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv28_mess171,Michel,11:54:43,bh me mere tien sa de ton pere,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0

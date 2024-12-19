@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv16_mess97,marie,09:44:01,pas les mamans deja ta mere a fait l'erreur de te mettre au monde,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv16_mess98,constance,09:44:02,elodie je t'aime pas,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv16_mess99,Emilie,09:44:12,tu radooooteeess,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv16_mess100,Anna,09:44:13,ok mec,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv16_mess101,marie,09:44:21,non,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv16_mess102,Emilie,09:44:29,bril,bully,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv16_mess103,constance,09:44:30,tu veux pas aller bruler en enfer,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv16_mess104,Elodie,09:44:36,je ratio marie la grosse catin,bully_support,OAG,victim_support,NCG,ATK,DFN,NEG,1,1,1
+conv16_mess105,marie,09:44:38,tu sais juste pas quoi dire tlm ta bouche sort plus de merde que ton cul,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv16_mess106,Julie,09:45:54,a ben on va finir sur ça alors et après quand on se retrouve au lycée on fait comment ? tout le monde s'insulte ?,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv16_mess107,constance,09:46:11,tg tg tg tg,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv16_mess108,Emilie,09:46:19,nn julie on te pète la gl octogone,bully,OAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv16_mess109,Julie,09:46:27,"eh va falloir diversifier, tg c'est vraiment banal",victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv16_mess110,Elodie,09:46:34,au lycee je baise ta race toi et tes pote,bully_support,OAG,victim/victim_support,THR,ATK,DFN,NEG,1,1,1
+conv16_mess111,constance,09:46:38,anna complexe d'inferioriter qui me disait qu'elle etaitr jalouse de moi,victim_support,OAG,bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv16_mess112,Julie,09:46:48,ah oui et ça  va t'apporte quoi de me pèter la gl ?,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv16_mess113,Emilie,09:46:55,TA MOOORT,bully,OAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv16_mess114,constance,09:46:57,elodie je t'attend au toilette,victim_support,CAG,bully_support,THR,DFN,ATK,NEG,1,0,0
+conv16_mess115,marie,09:46:58,je comprend pas quans vous parler je parle pas la langue des pute,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv16_mess116,Elodie,09:47:00,bcp de plaisir,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv16_mess117,Julie,09:47:07,"arrête, tu vas regretter après",victim,OAG,bully,THR,DFN,ATK,NEG,1,0,0

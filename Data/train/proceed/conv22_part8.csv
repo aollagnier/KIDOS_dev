@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv22_mess43,brice,10:32:50,tg selena il se defoule en mangeant lui ce zgeg,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv22_mess44,Arthur,10:32:55,Il va exploser après,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv22_mess45,Thibaut,10:32:55,mais frerot tu es cringe,victim_support,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv22_mess46,Paul,10:33:06,"brice tg, ce n'est pas vrai que je mange beaucoup, je suis né comme ça, j'ai juste de gros os",victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess47,justine,10:33:12,ho no cringe,victim_support,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv22_mess49,Julien,10:33:26,c'est sque jdis t ne gros,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv22_mess50,Thibaut,10:33:51,bah voila c pas sa faute,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv22_mess51,justine,10:33:57,voila,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv22_mess52,Julien,10:34:01,jmen blc,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv22_mess53,brice,10:34:07,pierre ta soeur la chauve qui sort avk un aksel,bully,OAG,conciliator,OTH,ATK,OTH,NEG,1,1,1
+conv22_mess54,justine,10:34:18,?,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv22_mess55,Selena,10:34:23,c'est quoi ton problème ? Qu'est ce que tu veux pour arrêter,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess56,justine,10:34:24,wtf bro,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess57,brice,10:34:40,ta mere pour arrettez,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv22_mess58,justine,10:34:44,-_-,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv22_mess59,Julien,10:34:54,la mere de paul elle a mange bk pendant laccouchement,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv22_mess60,justine,10:35:09,t vraiment pas possible,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess61,brice,10:35:15,il a raison,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv22_mess62,justine,10:35:30,ho tg toi,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess63,Selena,10:35:40,Vous êtes vraiement bête,victim_support,OAG,bully_support,NCG,DFN,AIN,NEG,1,0,0

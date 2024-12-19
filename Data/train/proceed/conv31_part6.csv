@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv31_mess31,gillom,11:36:28,tavais qua pas la partager,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv31_mess32,Ana,11:36:34,mais pk juste soit logique dans ton raisonnement? Gillom ?,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv31_mess33,gillom,11:36:35,konass,bully,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv31_mess34,Aurelie,11:36:42,t'as qu'a pas la partager toi meme,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv31_mess35,Isabelle,11:36:46,bah c pour ca l'expose pas et t'aura pas de commantaire,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv31_mess36,lea,11:36:49,il faut la respecter,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv31_mess37,gillom,11:37:06,bv,bully,OAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv31_mess38,gillom,11:37:13,nn on respect pa waich,bully,OAG,victim,OTH,ATK,EMP,NEG,1,1,1
+conv31_mess39,Justine,11:37:13,Merci Lea!,victim,NAG,NULL,NULL,OTH,EMP,NEU,0,0,0
+conv31_mess40,gillom,11:37:17,tg lea,bully,OAG,victim_support,OTH,ATK,EMP,NEG,1,1,1
+conv31_mess41,Justine,11:37:19,Vous etes des intollerants!,victim,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv31_mess42,gillom,11:37:34,sale juif,bully,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv31_mess43,lea,11:37:36,elle voulait seulement montrer un bon moment qu'elle a passer,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv31_mess44,Justine,11:37:40,Fais-toi une vie Guillaume et laisse-moi tranquille !,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv31_mess45,Isabelle,11:37:51,mais on s'en blc,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv31_mess46,Isabelle,11:37:54,de sa vie,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv31_mess47,Aurelie,11:37:55,on est dans un pays laique donc vos gueules et partagez pas votre religion,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv31_mess48,Ana,11:38:00,Je vois pas en quoi Justine te dérange laisse la tranquille,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv31_mess49,lea,11:38:02,oui,victim_support,NAG,NULL,NULL,EMP,DFN,NEG,0,0,0
+conv31_mess50,Isabelle,11:38:07,alors elle se plaint pas d'avoir des commantaires,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv31_mess51,Justine,                                        ,"Je ne voulais pas vous convecre, c'estait juste une photo!!!!",victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0

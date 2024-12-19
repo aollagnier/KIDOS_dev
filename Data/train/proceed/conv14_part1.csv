@@ -1,0 +1,19 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv14_mess1,JulieVictime,11:00:05,Franchement ça se fait pas ce que vous avez fait !,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv14_mess2,Emilie,11:02:24,retourne sucer des bite,bully,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv14_mess3,Marie,11:02:36,Cherrrr,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv14_mess4,Anna,11:02:51,allez suce em,bully_support,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv14_mess5,JulieVictime,11:02:58,rien à voir Emilie tu es vraiment pas intelligente,victim,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv14_mess6,Anna,11:03:21,suck ur mum,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv14_mess7,Marie,11:03:35,Et ça gaz,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv14_mess9,elodie,11:04:04,mettez vous aux hommes c'est mieux,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv14_mess10,JulieVictime,11:04:12,Avec Léa on comprend vraiment pas votre démarche,victim,NAG,NULL,NULL,DFN,NULL,NEU,0,0,0
+conv14_mess11,Marie,11:04:31,J’ai la démarche d’umtiti pour ça,victim_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,0
+conv14_mess12,Emilie,11:04:33,elodie et anna vous etes vraiment gay a faire des baille dans la salle de classe quand ya personne,bully,CAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv14_mess13,Marie,11:04:53,Oue vous fêtes le ciseaux,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv14_mess14,JulieVictime,11:05:30,C'est pas parce que vous êtes en avance sur votre age que tout le monde doit faire des trucs avec les zizi des garçon,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv14_mess16,JulieVictime,11:05:36,chaque chose en son temps et vous êtes juste jalouse parce que vous avez pas de relation amicale aussi cool que la notre,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv14_mess17,elodie,11:06:06,elles ont cas pas s'afficher devant tout le monde c'est deguelasse,bully_support,OAG,victim,DNG,ATK,CR,NEG,1,1,1
+conv14_mess18,Emilie,11:06:15,askip Anna elle fait des baille avec son pere,bully,CAG,victim,DNG,ATK,CR,NEG,1,1,1
+conv14_mess19,Marie,11:06:19,Sa se fait pas Je suce son père donc stop,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv14_mess21,JulieVictime,11:07:08,et puis Marie tu n'as jamais de vue sur tes snap c'est la première fois que tout le monde share ton truc,victim,NAG,NULL,NULL,OTH,DFN,NEU,0,0,0

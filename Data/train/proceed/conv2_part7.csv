@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv2_mess37,Diana,14:16:16,En plus d'etre une  aguicheusse de merde tu es une menteuse,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv2_mess38,Amos,14:16:19,sa faute*,bully_support,NAG,NULL,NULL,AIN,ATK,NEU,0,1,1
+conv2_mess39,Soan,14:16:24,Arreter laisser la tranquille elle a rien fait,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv2_mess41,Amos,14:16:45,San tas rien fait et ne fait rien mnt,bully_support,NAG,NULL,NULL,OTH,CNS,NEG,0,0,1
+conv2_mess42,Adrien,14:16:49,toi ta mere c satan,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv2_mess43,Silvia,14:16:51,Il a mis sa langue dans ma bouche j'ai rien fait pour la retirer mais faut te calmùer avec les insultes,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv2_mess44,Amos,14:16:52,soan,bully_support,NAG,NULL,NULL,OTH,CNS,NEU,0,0,1
+conv2_mess45,Silvia,14:16:54,c'est pas cool,victim,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv2_mess46,Diana,14:17:07,non sa arrive pas elle ne peux pas se trouver un mec sans foutre le couple des autres en l'air !,bully_support,OAG,victim,DNG,ATK,CR,NEG,1,1,1
+conv2_mess47,Amos,14:17:22,t'es sérieuse? en plus tu continue,bully_support,NAG,NULL,NULL,GSL,CNS,NEG,0,1,1
+conv2_mess48,Silvia,14:17:23,Si elle est mauvaise au pieu c'est pas de ma faute,victim,OAG,NULL,OTH,DFN,ATK,NEG,1,0,0
+conv2_mess49,Adrien,14:17:27,arrete de mentir,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv2_mess51,Silvia,14:17:38,merci Herbert,victim,NAG,NULL,NULL,OTH,EMP,NEU,0,0,0
+conv2_mess52,Amos,14:17:40,tu pouvais juste ne pas l'embrasser c'est ta faute boulette,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv2_mess53,Silvia,14:18:04,vaut mieux être un boulette baisable qu'un bâton frigide,victim,CAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv2_mess54,Silvia,14:18:54,plus rien à dire?,victim,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv2_mess55,Amos,14:18:54," oula,  t'attaques? ",bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv2_mess56,Diana,14:18:54,il voulait pas LUI!,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv2_mess57,Adrien,14:18:57,e a de queue un trans travelo,bully,OAG,victim,OTH,AIN,ATK,NEG,1,1,1

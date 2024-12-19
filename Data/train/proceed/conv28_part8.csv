@@ -1,0 +1,19 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv28_mess43,Michel,11:40:38,en quoi sa vous dérange,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv28_mess45,Marjorie,11:40:48,ah sayer zoé tu as tes potes pour te defendrent tu te sens fraiche et t'ouvres ta gueule,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv28_mess46,Natacha,11:41:00,ohhh lala tes mechanty lucie,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv28_mess47,Zoé,11:41:07,et toi askip t'as besoin du soutien de ta pote pour m'insulter,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv28_mess48,Michel,11:41:19,bien dit zoé,victim_support,NAG,NULL,NULL,EMP,DFN,NEU,0,0,0
+conv28_mess49,Zoé,11:41:21,laisse-moi vivre ou je t'écrase,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv28_mess50,Natacha,11:41:32,XD XD,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv28_mess51,Marjorie,11:41:35,vous êtes des merdes à la défendre tous,bully,OAG,victim/victim_support/conciliator,NCG,ATK,NULL,NEG,1,1,1
+conv28_mess52,Michel,11:41:37,je te soutien a fooonnnnnnd zoé,victim_support,NAG,NULL,NULL,EMP,DFN,NEU,0,0,0
+conv28_mess53,Marjorie,11:41:40,AHHHHH JPP,bully,OAG,victim/victim_support/conciliator,NCG,ATK,NULL,NEG,1,1,1
+conv28_mess54,Michel,11:41:44,elles ne valent pas bien que toi,victim_support,NAG,NULL,NULL,EMP,DFN,NEU,0,0,0
+conv28_mess55,Lucie,11:42:02,c sur que ecraser des personnes ca doit etre facile pour toi vue que yu pese 1 tonne,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv28_mess57,Natacha,11:42:10,on dit que la verite elle na qua faire du sport,bully_support,CAG,victim,DNG,ATK,EMP,NEG,1,1,1
+conv28_mess58,Michel,11:42:14,nous au moins on est du coté des gentilles et non des mechant marjorie,victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv28_mess59,Marjorie,11:42:15,ta raison Lucie,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv28_mess60,Soan,11:42:18,comme tout le monde donne son avis je me permet je pense que vous êtes juste complexé par vos propres physique et vous vous sentez tellement dans votre peaux que vous êtes obliger de dénigré les autre,victim_support,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv28_mess61,Natacha,11:42:32,meme dans les bus on narrive pas a respire a cause d’elle,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv28_mess62,Marjorie,11:42:44,je me sens tres bien dans ma peau je te rassure,bully,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1

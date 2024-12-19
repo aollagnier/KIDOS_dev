@@ -1,0 +1,15 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv19_mess43,Nicola,12:49:34,PAUL DOIT MOURIR,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv19_mess45,Camikaz,12:49:38,paullivesmatter,victim_support,NAG,NULL,NULL,EMP,DFN,NEU,0,0,0
+conv19_mess48,Ellian,12:49:42,il vas sur Pornhub Gay ce fils de pute,bully,OAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv19_mess49,Nicola,12:49:46,brice aussi tu merite la mort wsh,bully_support,OAG,conciliator,DNG,ATK,DFN,NEG,1,1,1
+conv19_mess50,Paul,12:49:55,Oui c'est condamnable !!!,victim,NAG,NULL,NULL,EMP,CR,NEU,0,0,0
+conv19_mess51,theo,12:49:56,oe,victim_support,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv19_mess53,Nicola,12:50:05,ellian ta trop raison,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv19_mess55,Nicola,12:50:23,brice tu sert a r donc tg,bully_support,OAG,conciliator,OTH,ATK,CNS,NEG,1,1,1
+conv19_mess56,theo,12:50:23,mais laisse y fait ce qui veux,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv19_mess57,Nicola,12:50:26,non,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv19_mess59,Arthur,12:50:30,Théo Brice Plan a 4 les reufs? no homo,bully_support,OAG,victim/victim_support/conciliator,OTH,ATK,NULL,NEG,1,1,1
+conv19_mess61,theo,12:50:38,t’es personne pour définir ce que les gens doivent aimer,victim_support,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv19_mess62,Ellian,12:50:41,theo le soutient pas,bully,NAG,NULL,NULL,OTH,CNS,NEG,0,0,1
+conv19_mess63,Nicola,12:50:44,si,bully_support,NAG,NULL,NULL,OTH,OTH,NEG,0,0,1

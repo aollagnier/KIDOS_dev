@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv4_mess109,Teresa,11:43:12,t tellement peu cultiver que t meme pas au courant des consequences de sque tu fais,victim_support,OAG,bully,DNG,DFN,AIN,NEG,1,0,0
+conv4_mess110,Nicolas,11:43:13,quand t es meme pas majeurs*,bully_support,NAG,NULL,NULL,GSL,CNS,NEG,0,1,1
+conv4_mess111,Pauline,11:43:22,avec ton accent la,bully,OAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv4_mess112,Pierre,11:43:31,la vie t'es explosé la tu peux gérer degun,bully_support,OAG,conciliator,DNG,ATK,CR,NEG,1,1,1
+conv4_mess113,Fatima,11:43:36,jvais me suicider tu vas voir si vous allez rien avoir,victim,NAG,NULL,NULL,OTH,AIN,NEG,0,0,0
+conv4_mess114,Pauline,11:43:40,enfin,bully,CAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv4_mess115,Nicolas,11:43:51,ecrit francais et tu viendra me parler culture' mdrr,bully_support,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv4_mess116,Pierre,11:43:53,teresa tu parles de culture mais chez toi y'a même pas accès à l'eau alors à l'ecole........ et ça se fait ressentir,bully_support,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv4_mess117,Nicolas,11:44:03,voila sucide toi donc teresa ta bien ouvert ta guele pour rien,bully_support,OAG,victim/victim_support,OTH,ATK,NULL,NEG,1,1,1
+conv4_mess118,Pierre,11:44:18,crève,bully_support,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv4_mess119,Fatima,11:44:37,vous irez en efer enfer*,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv4_mess120,Pierre,11:44:49,les blancs vont pas en enfer,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv4_mess122,Pierre,11:44:54,on est purs nous,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv4_mess123,Teresa,11:45:12,oe pure merde,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv4_mess124,Pierre,11:45:28,de la même couleur ça vous fait un point commun,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv4_mess125,Nicolas,11:45:39,wouah le niveauxxxxxxx,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv4_mess126,Pierre,11:45:43,y'a l'odeur aussi,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv4_mess127,Pauline,11:45:54,avec vos habits du bled la cassez vous,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv4_mess128,Nicolas,11:45:59,mdrr c clair l odeur infecte,bully_support,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv4_mess129,Teresa,11:46:04,oo tg pierre me fais pas chier jmen blc de ta vie franchement,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0

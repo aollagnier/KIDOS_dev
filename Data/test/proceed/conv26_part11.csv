@@ -1,0 +1,19 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv26_mess61,Fran,16:49:20,donc il kif les grosses moches,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv26_mess62,Fran,16:49:24,sympa pour ton pote,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv26_mess63,jules,16:49:31,oue ca doit etre ca,bully_support,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv26_mess64,jules,16:49:41,jore ton pere le chauve,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv26_mess65,Fran,16:49:43,tu voulais voir mon cul du coup Jules,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv26_mess66,martine,16:49:48,d'ou tu me parle? faudrait deja que tu perde 100 kg avant de me donner des ordres la grosse,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv26_mess67,Fran,16:50:05,Je te casse la bouche tu parleras plus jamais,victim,OAG,bully,THR,DFN,ATK,NEG,1,0,0
+conv26_mess68,martine,16:50:11,Juju est triop bien pour ton cul de vache!,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv26_mess69,Fatima,16:50:19,tinsulte pas mon pays connasse,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv26_mess70,martine,16:50:21,ouais c ca la pute,bully,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv26_mess72,martine,16:50:28,les pute,bully,OAG,victim/victim_support,NCG,ATK,NULL,NEG,1,1,1
+conv26_mess73,Fran,16:50:29,MARTINE,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv26_mess75,martine,16:50:44,et on s'en fout de toi Jenny! retourne dormir,bully,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv26_mess76,Fatima,16:50:44,putain je pars la,victim_support,NAG,NULL,NULL,OTH,ATK,NEG,0,0,0
+conv26_mess78,Fatima,16:50:53,jen ai mar de vous,victim_support,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv26_mess79,martine,16:51:01,ouais c ca fuyiez les putes,bully,OAG,victim/victim_support,NCG,ATK,NULL,NEG,1,1,1
+conv26_mess80,Fran,16:51:01,Martine tu me fais gerber,victim,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv26_mess81,Fatima,16:51:07,martine la connasse,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0

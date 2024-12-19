@@ -1,0 +1,17 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv22_mess85,brice,10:38:43,meme si sa mere elle mange tout le temp a mcdo,bully,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv22_mess86,Arthur,10:38:55,ohh ça va on peut un peu rigoler,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv22_mess87,Selena,10:38:56,elle a qu'une vie,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv22_mess89,Paul,10:39:16,Si tu étais comme moi brice tu aimerais que les gens se moquent de toi ?,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv22_mess90,Thibaut,10:39:17,juste excuse toi et c'est bon,victim_support,NAG,NULL,NULL,CR,ATK,NEU,0,0,0
+conv22_mess91,Selena,10:39:29,"la honte d'avoir des enfants comme Julien, Arthur et ceux qui sont des deux côtes",victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv22_mess93,brice,10:39:30,pierre ta soeur la chauve souris et toi qi ressemble a un rongeur,bully,OAG,conciliator,OTH,ATK,OTH,NEG,1,1,1
+conv22_mess94,Julien,10:39:38,paul il voit meme pas sa teub de 2mm avec son gros ventre,bully_support,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv22_mess95,justine,10:39:39,après julien on sait que ta était adopter pas besoin de te défouler sur paul,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess97,Selena,10:39:53,faut pas que quelqu'un de ta famille subisse pareil ! tu vas rien comprendre,victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv22_mess98,Julien,10:40:22,ils subiront rien ils sot pas gros,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv22_mess99,brice,10:40:25,je cherche une meuf voila mon snap: paullegros,bully,CAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv22_mess101,Thibaut,10:40:43,parle fr stp,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess102,Selena,10:40:43,Julien t'es juste jaloux,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess104,Selena,10:41:05,"Julien, peut être pas gros mais pas très intelligent",victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess105,Julien,10:41:07,de tous les macdos ?,bully_support,OAG,victim,OTH,ATK,NULL,NEG,1,1,1

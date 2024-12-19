@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv36_mess157,paul,10:47:18,fatimah retourne en algerie avec t parent les immigres,bully_support,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv36_mess158,kate,10:47:32,c'est pas intelligent mais elle merite que ca elle merite de mourrir carrement,bully,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv36_mess159,Pierre,10:47:47,je chie sur t'es ancetre julie sache tu descend surement des chiennes Leo68 a du t'ouvrir ton gros cul,victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv36_mess160,kate,10:47:55,cette grosse arabe de mort c marine le pen ici,bully,OAG,victim,DNG,ATK,NULL,NEG,1,1,1
+conv36_mess161,Fatimah,10:48:05,paul83 tous le monde as des ancêtre immigrés,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv36_mess162,paul,10:48:14,tgl,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess163,Leo,10:48:17,cette bombe a retardement,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv36_mess164,julie,10:48:22,je l'insulterai pas si elle ne voler pas les petits copains des autres,bully,NAG,NULL,NULL,OTH,ATK,NEG,0,0,1
+conv36_mess165,paul,10:48:27,pierre doucement sur les chibre,bully_support,CAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv36_mess166,Fatimah,10:48:47,Tous ce que je fait pour toi c'est du vol de toute façon julie,victim,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv36_mess167,julie,10:48:47,pierre waw de mieux en mieux,bully,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess168,Leo,10:48:56,fatimah tu comprend pas que tu dois creuver ?????  tu salie le sol fr avec tes doigts sale,bully_support,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv36_mess169,Pierre,10:49:01,dit ça a ta mère,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv36_mess170,paul,10:49:06,elle est moche frr qui la gere elle je la touche meme pas avec un javelot,bully_support,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv36_mess171,Leo,10:49:09,pierre tg,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess172,kate,10:49:09,leo t'as raison,bully,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv36_mess173,paul,10:49:28,craseuse,bully_support,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv36_mess174,Leo,10:49:31,bahahha t'es trop drole mon reuf,bully_support,NAG,NULL,NULL,AIN,AIN,NEG,0,1,1
+conv36_mess175,kate,10:49:32,elle restera celibataire toute sa vie la pauvre,bully,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv36_mess176,Leo,10:49:52,meskinaaaa,bully_support,OAG,victim,DNG,AIN,AIN,NEG,1,1,1
+conv36_mess177,Pierre,10:49:53,comme ta pute de soeur,victim_support,OAG,bully_support,OTH,DFN,AIN,NEG,1,0,0

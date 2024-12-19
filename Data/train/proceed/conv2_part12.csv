@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv2_mess67,Diana,14:20:17,ouais,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv2_mess68,Amos,14:20:28,ohhh ca part bien,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv2_mess69,Adrien,14:20:32,parceque t une pute qui les chauffe et qui les paie,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv2_mess70,Diana,14:20:38,t'es une pute qui n'arrive pas a trouver de mec,bully_support,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv2_mess71,Silvia,14:20:43,c'est ton père qui les paie,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv2_mess72,Adrien,14:20:44,et apres tu leur donne des MST,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv2_mess73,Amos,14:20:44,si tu veux être une pute personne t'oblige a lire,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv2_mess74,Silvia,14:21:02,personne oblige ta soeur à savoir lire non plus,victim,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv2_mess75,Adrien,14:21:08,le mien il a de l argent au moins,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv2_mess76,Silvia,14:21:15,et il apie,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv2_mess77,Silvia,14:21:17,paie,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv2_mess78,Adrien,14:21:25,il m envoie pas au bar a pute comme toi,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv2_mess79,Diana,14:21:35,tout sa parce que t'es jalouse de leurs amour connasse,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv2_mess80,Silvia,14:21:37,il a pas besoin d'aller au bar,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv2_mess81,Silvia,14:21:42,il leur paie des apparts privés,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv2_mess82,Adrien,14:21:43,apprend a écrire connasse,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv2_mess83,Amos,14:21:53,après c'est pas difficile savoir où t'es pendant la nuit,bully_support,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv2_mess84,Adrien,14:22:15,t conne,bully,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv2_mess85,Adrien,14:22:19,pute,bully,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv2_mess86,Adrien,14:22:22,salope,bully,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv2_mess87,Adrien,14:22:25,enculé,bully,OAG,victim,NCG,ATK,DFN,NEG,1,1,1

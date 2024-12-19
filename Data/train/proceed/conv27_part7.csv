@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv27_mess37,Soan,14:45:34,"Elles sont juste immature de faire ca,  preuve que c'est des gamines",victim_support,OAG,bully/bully_support,OTH,EMP,DFN,NEG,1,0,0
+conv27_mess38,Marjorie,14:45:49,tg elisa,bully,OAG,NULL,OTH,ATK,NULL,NEG,1,1,1
+conv27_mess39,Soan,14:45:54,zoé tu vaux mieux que sa,victim_support,NAG,NULL,NULL,EMP,EMP,NEU,0,0,0
+conv27_mess40,Natacha,14:46:00,c elle qui est venue nous dm donc on lui dit ce quon pense merdeee,bully_support,OAG,victim,OTH,ATK,EMP,NEG,1,1,1
+conv27_mess41,Zoé,14:46:15,bah normal vous avez envoyé des photos a tout le monde je prends pas des photos de vous dans les vestiaires moi,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv27_mess42,Soan,14:46:38,elle au moin  elle respect les gens,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv27_mess43,Lucie,14:46:45,ouais maint tkt on te vois pas derrire tes bourllet,bully,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv27_mess44,Soan,14:46:48,Tu as le droit de porter plainte tu sais,victim_support,NAG,NULL,NULL,EMP,CNS,NEU,0,0,0
+conv27_mess45,Marjorie,14:46:52,beh oui elle est venu nous parler elle cherche la merde cette grosse,bully,OAG,victim,OTH,ATK,EMP,NEG,1,1,1
+conv27_mess46,Soan,14:46:54,contrairrement a vous salle conne,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv27_mess47,Axelle,14:47:01,vous prenez des photos des gens sans leurs consentement vous êtes riducule,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv27_mess48,Marjorie,14:47:02,cava bouboule ?,bully,OAG,victim,DNG,ATK,NULL,NEG,1,1,1
+conv27_mess49,Natacha,14:47:06,beh ta qua arreter de faire des photos sexy qui sont pas fait pour toi,bully_support,OAG,victim,DNG,ATK,NULL,NEG,1,1,1
+conv27_mess50,Soan,14:47:08,et toi ta vu ta gueule,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv27_mess51,Lucie,14:47:17,:') :') :') :') sexyyyy tout le contraire de zoe,bully,OAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv27_mess52,Soan,14:47:45,mongolienne,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv27_mess53,Marjorie,14:47:47,oui je lau vu ne tkt pas,bully,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv27_mess54,Zoé,14:47:55,j'ai des seins vous êtes des grosses jalouse vous avez rien vous,victim,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv27_mess55,Lucie,14:48:16,ah je croyais que s'etait des bourllets,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv27_mess56,Marjorie,14:48:19,je suis 10 fois mieu foutu que elle bouffonne,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv27_mess57,Soan,14:48:20,mais putin merde a la fin laissé la tranquille elle vous a rien fais,victim_support,NAG,NULL,NULL,DFN,AIN,NEG,0,0,0

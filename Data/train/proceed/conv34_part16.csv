@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv34_mess91,coralie,11:19:54,c'est toi le singe,victim_support,OAG,bully_support,NCG,DFN,AIN,NEG,1,0,0
+conv34_mess92,leo,11:19:56,faut doser sur le couscous,bully_support,CAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv34_mess93,coralie,11:20:03,t'es meme un chien,victim_support,OAG,bully_support,NCG,DFN,AIN,NEG,1,0,0
+conv34_mess94,julie,11:20:15,*retourne manger tes bananes,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess95,Paul,11:20:38,les merguez t'en prends pas que dans la bouche,bully_support,CAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv34_mess96,coralie,11:20:42,julie tu pu le seum parce qu'elle est belle,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv34_mess97,FatimahVictime,11:20:56,"Julie, arrête maintenant",victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv34_mess98,coralie,11:21:03,julie20 ta trop la rage,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv34_mess99,julie,11:21:04,et toi tu pu...,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv34_mess100,FatimahVictime,11:21:06,T'as pas besoin d'être jalouse,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv34_mess101,leo,11:21:11,salam,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv34_mess102,FatimahVictime,11:21:18,je ne vais pas te voler ton petit ami car t'en n'as pas!,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv34_mess103,coralie,11:22:12,ptdr ta aucune chance,victim_support,CAG,bully,OTH,EMP,DFN,NEG,1,0,0
+conv34_mess104,Paul,11:22:20,coralie porte parole de la boulémi,bully_support,OAG,victim,OTH,ATK,EMP,NEG,1,1,1
+conv34_mess105,leo,11:22:23,envoie ton snap,bully_support,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv34_mess106,coralie,11:22:35,tema c'est chien,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv34_mess107,coralie,11:23:21,julie elle pu le seum parce que fatima elle est 20 fois mieux qu'elle,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv34_mess108,leo,11:23:35,fatimah elle est 20fois plus grosse qu'elle,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv34_mess109,leo,11:23:42,va la mosquée grosse folle,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess110,leo,11:24:01,ta trop la rage,bully_support,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv34_mess111,FatimahVictime,11:24:07,Julie c'est avec toi que ça se passe,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0

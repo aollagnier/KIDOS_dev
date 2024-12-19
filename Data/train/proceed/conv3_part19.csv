@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv3_mess109,Soan,09:32:33,Vraiment,victim_support,NAG,NULL,NULL,EMP,OTH,NEU,0,0,0
+conv3_mess111,Adrien,09:32:34,silvia ?,bully,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv3_mess112,SilviaVictime,09:32:37,si peut d'argument,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv3_mess113,Soan,09:32:38,Ils prennent leurs seum C'est trop Silvia t'es trop belle pour eux,victim_support,NAG,NULL,NULL,EMP,OTH,POS,0,0,0
+conv3_mess114,Adrien,09:32:54,tg jvais te cracher dessus,bully,OAG,victim_support,OTH,ATK,EMP,NEG,1,1,1
+conv3_mess115,Diana,09:33:08,crache dans sa chatte,bully_support,OAG,victim_support,OTH,AIN,ATK,NEG,1,1,1
+conv3_mess116,Soan,09:33:19,Soyez digne sérieuix sérieux,victim_support,NAG,NULL,NULL,DFN,NULL,NEG,0,0,0
+conv3_mess117,Theo,09:33:31,Diana elle a faim blup blup blup,bully_support,CAG,victim_support,DNG,AIN,AIN,NEG,1,1,1
+conv3_mess118,camille,09:34:03,parle pas de dignité quand ta collègue pecho le mec de sa pote,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv3_mess119,Soan,09:34:09,C'est lui le fautif pas elle,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv3_mess120,Theo,09:34:11,dis leur cam,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv3_mess121,Diana,09:34:18,elle aurait pu l'arreter,bully_support,OAG,victim,BLM,ATK,CNS,NEG,1,1,1
+conv3_mess122,Soan,09:34:19," Elle est célibataire, il est en couple Soyez intelligents.",victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv3_mess123,Adrien,09:34:34,toi aussi t es une traine ton avis compte pas,bully,OAG,victim_support,DNG,ATK,CNS,NEG,1,1,1
+conv3_mess124,camille,09:34:45,elle a aucun respect cette crasseuse,bully_support,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv3_mess125,Soan,09:34:50,Il a profité que sa meuf ai la grippe pour aller à droite et à gauche votre pote est indéfendable,victim_support,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv3_mess126,Diana,09:35:01,elle a bien du avaler celle la,bully_support,OAG,victim,DNG,ATK,NULL,NEG,1,1,1
+conv3_mess128,SilviaVictime,09:35:13,Oui merci Soan !! Adrien en plus tu t'enfonce avec t'es sous entendu raciste !,victim,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv3_mess129,Soan,09:35:18,Grave,victim_support,NAG,NULL,NULL,EMP,CNS,NEU,0,0,0

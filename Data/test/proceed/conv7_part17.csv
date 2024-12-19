@@ -1,0 +1,16 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv7_mess97,Julie,15:45:41,t'es pas tt bleu tt rose mv,victim_support,OAG,bully_support,OTH,DFN,ATK,NEU,1,0,0
+conv7_mess99,alice,15:45:46,seigneur dieux c'est la decadance,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv7_mess101,Anton,15:45:56,moi chui un fr de pur sang mon reuf,bully_support,NAG,NULL,NULL,OTH,CNS,NEU,0,0,1
+conv7_mess103,Julie,15:46:03,a partir du moment ou tun soutiens zemmour c'est que t'a un probleme mon pauyvre,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv7_mess104,Pierre,15:46:03," Pauline et Anton ont raison, les français restent prioritaires",bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv7_mess106,Pauline,15:46:12,les purs sang français >>>😻😻😻,bully,OAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv7_mess107,Fatima,15:46:22,pierre69 JE SUIS FRANCAISE !,victim,NAG,NULL,NULL,CNS,AIN,NEU,0,0,0
+conv7_mess108,Pauline,15:46:29,NON,bully,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv7_mess109,Nicolas,15:46:32," Mais fermez vos gueules vous detruisez notre pays, les arabes dehors c'est pareil pour les sales nègres",bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv7_mess110,Anton,15:46:35,ya un prblm avec mon tonton z,bully_support,CAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv7_mess111,Pierre,15:46:38,Pas vraiment du coup,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv7_mess112,Julie,15:46:39,pauline t'es conne toi aussi,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv7_mess113,Pauline,15:46:54,bien vu Nicolas,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv7_mess114,alice,15:47:01,deja la seule personne ici qui est dans l'ilegalite c pauline non psk juste le droit a l'image ça existe,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv7_mess116,Anton,15:47:05,retourne en afrique ma soeur,bully_support,OAG,victim,OTH,ATK,NULL,NEG,1,1,1

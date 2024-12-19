@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv2_mess1,Diana,14:04:07,hy,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv2_mess2,Diana,14:05:54,👋,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv2_mess3,Silvia,14:06:23,Salut,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv2_mess4,Adrien,14:11:30,salut,bully,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv2_mess5,Silvia,14:11:46," Salut Adri,  ça va?",victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv2_mess6,Adrien,14:12:16,déja toi sylvia me parle pas,bully,NAG,NULL,NULL,OTH,OTH,NEG,0,0,1
+conv2_mess7,Silvia,14:12:23,pq tu dis ça?,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv2_mess8,Adrien,14:12:47,t as vu ce que t as fait a la soiré sale pute,bully,OAG,victim,NCG,AIN,OTH,NEG,1,1,1
+conv2_mess9,Silvia,14:12:57,euh quelle soirée?,victim,NAG,NULL,NULL,DFN,AIN,NEU,0,0,0
+conv2_mess10,Silvia,14:13:02,et pq tu me traites de pute?,victim,NAG,NULL,NULL,DFN,AIN,NEU,0,0,0
+conv2_mess11,Diana,14:13:04,c'est clair tu abuses !,bully_support,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv2_mess13,Silvia,14:13:10,t'as un problème ?,victim,NAG,NULL,NULL,DFN,AIN,NEU,0,0,0
+conv2_mess14,Adrien,14:13:18,oui c toi,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv2_mess15,Silvia,14:13:30,et toi Diana avec ta gueule de macaque de quoi tu parles?,victim,OAG,bully_support,DNG,DFN,OTH,NEG,1,0,0
+conv2_mess16,Adrien,14:13:55,commence pas a parler d elle comme ca,bully,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv2_mess17,Soan,14:14:03,C pas de sa faute c Lucas,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv2_mess18,Silvia,14:14:08,c'est quoi ton fucking pblm,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv2_mess19,Amos,14:14:10,Tu t'es jamais vu au miroir? avant de parler,bully_support,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv2_mess20,Silvia,14:14:13,merci Soan,victim,NAG,NULL,NULL,EMP,CNS,POS,0,0,0
+conv2_mess21,Silvia,14:14:23,*dans le miroir,victim,CAG,bully_support,DNG,DFN,ATK,NEG,1,0,0

@@ -1,0 +1,14 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv30_mess37,Justine,10:38:23,"et toi ta religion ? on ne t'embête pas pour savoir ce en quoi tu crois, si ?",victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv30_mess38,Justine,10:38:46,ce n'est pas la peine qu'on s'insulte pour ça,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv30_mess39,Guillaume,10:39:00,juif!,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv30_mess40,Lea,10:39:04,allez pas nous sortir des on s'en fou de sa vie quand vous publiez des photos de vos vieilles soirées,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv30_mess41,leo,10:39:05,deja ton ptit frere on lui a couper le zizi c'est plus un homme,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv30_mess43,Justine,10:39:18,"et alors, je ne te crie pas ""catho"" à la g si ?",victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv30_mess45,Ana,10:39:54,"mdr leo y veut jouer a la plus grosse avec ton ptit frr il a vrmt un prblm t,es complexer par la tienne",victim_support,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv30_mess46,Justine,10:40:06,"on est d'abord des êtres humains après les croyances ça regarde pas les autres, c'est la vie privée, la famille",victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv30_mess49,leo,10:41:10,kestu veux toi casse toi,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv30_mess51,Ana,10:41:16,ftg leo,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv30_mess54,Justine,10:41:26,NULL,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv30_mess56,Lea,10:42:20,apprenez a écrire avant de raconter de la merde,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv30_mess57,leo,10:42:20,paul mais casse toi laisse la juive se defendre seul,bully,OAG,victim/conciliator,OTH,ATK,NULL,NEG,1,1,1

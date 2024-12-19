@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv27_mess49,Natacha,14:47:06,beh ta qua arreter de faire des photos sexy qui sont pas fait pour toi,bully_support,OAG,victim,DNG,ATK,NULL,NEG,1,1,1
+conv27_mess50,Soan,14:47:08,et toi ta vu ta gueule,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv27_mess51,Lucie,14:47:17,:') :') :') :') sexyyyy tout le contraire de zoe,bully,OAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv27_mess52,Soan,14:47:45,mongolienne,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv27_mess53,Marjorie,14:47:47,oui je lau vu ne tkt pas,bully,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv27_mess54,Zoé,14:47:55,j'ai des seins vous êtes des grosses jalouse vous avez rien vous,victim,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv27_mess55,Lucie,14:48:16,ah je croyais que s'etait des bourllets,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv27_mess56,Marjorie,14:48:19,je suis 10 fois mieu foutu que elle bouffonne,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv27_mess57,Soan,14:48:20,mais putin merde a la fin laissé la tranquille elle vous a rien fais,victim_support,NAG,NULL,NULL,DFN,AIN,NEG,0,0,0
+conv27_mess58,Axelle,14:48:39,vous avez pas de forme vous bande jalouse,victim_support,OAG,bully/bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv27_mess59,Zoé,14:48:44,c'est toi le bourlet lucie,victim,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv27_mess60,Soan,14:48:49,elle au moin elle est pas conne comme vous bande de poufiasse,victim_support,OAG,bully/bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv27_mess61,Natacha,14:48:50,jte fou un coup avec mes seins tu verras,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv27_mess62,Marjorie,14:48:50,va retourner manger macdo avec tes 3 menu signature,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv27_mess63,Lucie,14:49:02,ma pauvre moi je casse pas la balance,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv27_mess64,Marjorie,14:49:19,cest pas des forme c de la graisse,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv27_mess65,Soan,14:49:30,Mais en tout cas tu casses autre chose LUcie...,victim_support,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv27_mess66,Lucie,14:49:31,c'est clair,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv27_mess67,Natacha,14:49:33,ayaaaa sa tire a balle reel iciiiii,bully_support,CAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv27_mess68,Zoé,14:49:42,je prefere casser la balance,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv27_mess69,Soan,14:49:44,ferme la marjorie t'es  qu'une poufiasse sans cervelle,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0

@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv30_mess79,Ana,10:48:12,tu fais tiep leo,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv30_mess80,Lea,10:48:30,perso je préfère être différente que vous ressembler et être une bande de mouton a suivre une personne raciste,victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv30_mess81,Justine,10:48:33,on ne vous oblige pas à être juifs donc ...,victim,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv30_mess82,leo,10:48:46,\O/  : toi qui tient ta kipa,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv30_mess83,Justine,10:49:03,et alors qu'est-ce que ça peut te faire ? elle te gene en quoi la kipa ?,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv30_mess84,Ana,10:49:13,mdr t'es quoi toi leo chrétien?,victim_support,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv30_mess85,leo,10:49:30,nan athée,bully,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv30_mess86,Justine,10:49:50,"et alors on n'essaie pas de t'obliger à avoir une religion, pourquoi tu embêtes les autres ?",victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv30_mess87,Ana,10:49:59,ET C4EST QUOI TON PRBLM AVEC LES JUIFS,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv30_mess89,leo,10:50:18,BAS LES COUILLES,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv30_mess90,Justine,10:50:26,ah ben le débat s'élève,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv30_mess91,leo,10:50:38,non je suis tres calme et toi t'es juive,bully,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv30_mess92,Justine,10:50:44,:O,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv30_mess93,Ana,10:51:24,attention léo a des ptn d'arguments,victim_support,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv30_mess94,leo,10:51:39,tout ca pour ca jsuis decu,bully,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv30_mess95,Justine,10:51:54,deçu de quoi ?,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv30_mess96,Lea,10:52:16,laisse leur seul argumentation est qu'elle est juive waw bravo vous êtes allés a l'ecole,victim_support,CAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv30_mess97,leo,10:52:30,c'est suffisant,bully,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv30_mess98,Justine,10:52:33,c clair!,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv30_mess99,leo,10:52:33,pas besoin de plus,bully,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1

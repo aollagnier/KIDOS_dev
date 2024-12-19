@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv22_mess139,justine,10:44:51,ok,victim_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv22_mess140,Julien,10:44:58,la chatte a justine c'est la cage a costil,bully_support,OAG,victim_support,OTH,ATK,OTH,NEG,1,1,1
+conv22_mess141,justine,10:44:59,bas tg alors julein je te fait bouffer ma big bite,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess143,brice,10:45:51,bulka pire gardien ce zgeg,bully,OAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv22_mess144,justine,10:45:55,mon enorme chibrax dans ta bouche julien,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess145,Thibaut,10:45:58,tes avec qui Paul srx,victim_support,NAG,NULL,NULL,OTH,OTH,NEG,0,0,0
+conv22_mess146,Julien,10:46:01,tu bouffe ma big bite paul mange des big mac,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv22_mess147,Paul,10:46:11,Julien j'aimerais voir si je peux prendre une vidéo de toi en train de te chier dessus si ça te fait plaisir,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess149,justine,10:46:28,il c faire que ca tu peux y aller,victim_support,NAG,NULL,NULL,EMP,DFN,NEG,0,0,0
+conv22_mess150,Julien,10:46:29,lautre gros est scatophile,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv22_mess151,justine,10:46:53,et toi t vraiment un tarer mental,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv22_mess152,Thibaut,10:47:02,mais qu'est ce tu raconte srx julien tu raconte que de la merde frr,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess153,Julien,10:47:38,ta geule thibault ta mere elle se fait prendre par toute lusine peugeot,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv22_mess154,Selena,10:47:49,"julien si on te bloques tous tu va moins rigoler, t'auras plus de victime",victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess155,brice,10:47:59,paul quand il monte sur son lit il le casse,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv22_mess156,Julien,10:48:06,bah je vous emmerderez en vrai,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv22_mess157,justine,10:48:10,mec la drogue c mal faut arreter julien je sais que ta mère elle t'aime pas julien pas besoin d'attaquer les autres,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess158,Julien,10:49:03,ta mere elle prend prebnd du popers ca lui ecarte le trou de balle  justine,bully_support,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv22_mess159,justine,10:49:12,et que ta était adopté,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0

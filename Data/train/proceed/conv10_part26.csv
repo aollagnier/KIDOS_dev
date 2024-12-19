@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv10_mess151,Silvia,16:11:17,Mais putain Adrien mythonne,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv10_mess152,Silvia,16:11:21,🤣,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv10_mess153,Silvia,16:11:28,Sophie tu me fais pitié,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess154,Sophie,16:11:29,mdrr tu l'aurais pas embrassé si c'était qu'un débile,bully,NAG,NULL,NULL,GSL,DFN,NEG,0,1,1
+conv10_mess155,michel,16:11:33,taimerai biezn etre suce hein adri tes bien seul,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv10_mess156,Adrien,16:11:37,Tu trouve ca drole en plus,bully_support,NAG,NULL,NULL,AIN,GSL,NEG,0,1,1
+conv10_mess157,Silvia,16:11:58,Je l'ai pas embrassé,victim,NAG,NULL,NULL,CNS,GSL,NEU,0,0,0
+conv10_mess158,Silvia,16:12:01,putain t vmt conne,victim,OAG,bully_support,NCG,DFN,AIN,NEG,1,0,0
+conv10_mess159,Lisa,16:12:04,mais oui biensur,bully_support,NAG,NULL,NULL,OTH,CNS,NEU,0,0,1
+conv10_mess160,Adrien,16:12:04,t es un vrai sac  à foutre,bully_support,OAG,victim,NCG,ATK,CNS,NEG,1,1,1
+conv10_mess161,Sophie,16:12:07,silvia tg on a des preuvesx et des témoins,bully,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv10_mess162,Silvia,16:12:13,olalala insulte volée à ta mère,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess163,michel,16:12:16,adiren comme preuve lol,victim_support,OAG,bully/bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess164,Silvia,16:12:22,mais quelles preuves putain?!,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv10_mess166,Silvia,16:12:28,Adrien qui veut te tringler,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess168,Silvia,16:12:32,c'est lui la preuve?,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv10_mess169,Sophie,16:12:43,ptn mais t'es né d'un gangbang ou quoi,bully,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv10_mess170,Sophie,16:12:46,ptn de triso,bully,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv10_mess171,michel,16:12:48,tu fais pitie sophie  si ton mec te veux plus bah tu degage,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0

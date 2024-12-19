@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv28_mess49,Zoé,11:41:21,laisse-moi vivre ou je t'écrase,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv28_mess50,Natacha,11:41:32,XD XD,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv28_mess51,Marjorie,11:41:35,vous êtes des merdes à la défendre tous,bully,OAG,victim/victim_support/conciliator,NCG,ATK,NULL,NEG,1,1,1
+conv28_mess52,Michel,11:41:37,je te soutien a fooonnnnnnd zoé,victim_support,NAG,NULL,NULL,EMP,DFN,NEU,0,0,0
+conv28_mess53,Marjorie,11:41:40,AHHHHH JPP,bully,OAG,victim/victim_support/conciliator,NCG,ATK,NULL,NEG,1,1,1
+conv28_mess54,Michel,11:41:44,elles ne valent pas bien que toi,victim_support,NAG,NULL,NULL,EMP,DFN,NEU,0,0,0
+conv28_mess55,Lucie,11:42:02,c sur que ecraser des personnes ca doit etre facile pour toi vue que yu pese 1 tonne,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv28_mess57,Natacha,11:42:10,on dit que la verite elle na qua faire du sport,bully_support,CAG,victim,DNG,ATK,EMP,NEG,1,1,1
+conv28_mess58,Michel,11:42:14,nous au moins on est du coté des gentilles et non des mechant marjorie,victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv28_mess59,Marjorie,11:42:15,ta raison Lucie,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv28_mess60,Soan,11:42:18,comme tout le monde donne son avis je me permet je pense que vous êtes juste complexé par vos propres physique et vous vous sentez tellement dans votre peaux que vous êtes obliger de dénigré les autre,victim_support,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv28_mess61,Natacha,11:42:32,meme dans les bus on narrive pas a respire a cause d’elle,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv28_mess62,Marjorie,11:42:44,je me sens tres bien dans ma peau je te rassure,bully,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv28_mess64,Lucie,11:42:53,moi aussi tkt pas on ne fait que dire ce qu'on voit,bully,CAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv28_mess65,Natacha,11:43:16,non ne serai jamais jaloux d’elle elle est grosse,bully_support,OAG,victim,DNG,ATK,EMP,NEG,1,1,1
+conv28_mess66,Lucie,11:43:18,c'est à dire une buche qui roule sur le sol,bully,CAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv28_mess67,Marjorie,11:43:21,on dénigrent personne on donne juste notre AVIS,bully,NAG,NULL,NULL,OTH,CNS,NEG,0,0,1
+conv28_mess68,Michel,11:43:22,bh si vous vous senté bien dasn vos peu comme vous le dites si bien arreter d'embeter les autre bh ton avis maorie tu te le met la ou je pense,victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv28_mess69,Marjorie,11:43:40,allez casse vous un peu,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1

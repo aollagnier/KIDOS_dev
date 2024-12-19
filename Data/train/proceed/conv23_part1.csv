@@ -1,0 +1,17 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv23_mess1,David,14:28:36,alors la con de ta mère,bully,OAG,NULL,OTH,ATK,NULL,NEG,1,1,1
+conv23_mess2,Jim,14:28:45,OUE GROSPORC,bully_support,OAG,NULL,NCG,ATK,NULL,NEG,1,1,1
+conv23_mess4,Jim,14:29:05,il est ou le mamouth,bully_support,OAG,victim,NCG,ATK,NULL,NEG,1,1,1
+conv23_mess5,Amine,14:29:10,IL EST OU LE GROS LARD,bully_support,OAG,victim,DNG,ATK,NULL,NEG,1,1,1
+conv23_mess6,David,14:29:25,espece de boule je te pousse tu roule,bully,OAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv23_mess8,Jim,14:29:43,et oh baleine bleu,bully_support,OAG,victim,NCG,ATK,NULL,NEG,1,1,1
+conv23_mess9,Amine,14:29:45,ALLEZ MANIFESTE TOI GROS PORCS,bully_support,OAG,conciliator,NCG,ATK,CR,NEG,1,1,1
+conv23_mess10,Jim,14:31:11,y prl pas se chien,bully_support,OAG,victim,NCG,AIN,ATK,NEG,1,1,1
+conv23_mess11,Amine,14:31:16,brice le cachalot,bully_support,OAG,victim,NCG,AIN,ATK,NEG,1,1,1
+conv23_mess12,David,14:31:22,vas courir gros phoque retourne dans l'eau,bully,OAG,victim,NCG,AIN,ATK,NEG,1,1,1
+conv23_mess14,Amine,14:31:41,ta mere la reine des putes,bully_support,OAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv23_mess16,Jim,14:32:16,merci au  client fidele,bully_support,CAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv23_mess17,David,14:32:32,aller les gros,bully,OAG,victim,DNG,ATK,NULL,NEG,1,1,1
+conv23_mess18,Jim,14:32:36,alllez les gros,bully_support,OAG,victim,DNG,ATK,NULL,NEG,1,1,1
+conv23_mess19,Amine,14:32:54,ton  corps il contient 90% de tartiflette sale chien,bully_support,OAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv23_mess21,Brice,14:33:23,ça va ça va c'est quoi l'probleme,victim,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0

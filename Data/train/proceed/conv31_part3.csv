@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv31_mess13,gillom,11:35:26,ftg juif,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv31_mess14,Justine,11:35:27,"Guillaume, tais-toi !",victim,OAG,NULL,OTH,OTH,NULL,NEG,1,0,0
+conv31_mess15,Isabelle,11:35:28,non il a raison toi tait toi,bully_support,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv31_mess16,gillom,11:35:30,mais ntm waich,bully,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv31_mess17,Ana,11:35:34,??,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv31_mess18,Aurelie,11:35:37,j'avoue ferme la sale juif,bully_support,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv31_mess19,Justine,11:35:46,Quel est ton probleme Guillaume?!,victim,NAG,NULL,NULL,OTH,NULL,NEG,0,0,0
+conv31_mess20,Ana,11:35:46,pardon???,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv31_mess21,lea,11:35:47,arreter de l'insulter,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv31_mess22,gillom,11:35:47,jaim pa les juifs psk ils sont tah pa bo,bully,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv31_mess23,Isabelle,11:35:53,ferme la,bully_support,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv31_mess24,gillom,11:35:54,en plus ils on tro darjen et tout,bully,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv31_mess25,Isabelle,11:35:57,javoue,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv31_mess26,Aurelie,11:35:57,carrement,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv31_mess27,lea,11:36:13,c'est parce que vous aimez pas que faut l'insulter,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv31_mess28,Isabelle,11:36:16,oh tg,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv31_mess29,gillom,11:36:20,vous o moins vou etes pa juif,bully,CAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv31_mess30,Justine,11:36:28,"C'est ma religion, vous ne devez pas la partager",victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv31_mess31,gillom,11:36:28,tavais qua pas la partager,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv31_mess32,Ana,11:36:34,mais pk juste soit logique dans ton raisonnement? Gillom ?,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv31_mess33,gillom,11:36:35,konass,bully,OAG,victim,NCG,ATK,DFN,NEG,1,1,1

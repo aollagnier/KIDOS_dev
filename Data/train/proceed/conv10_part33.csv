@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv10_mess193,Silvia,16:15:16,plus que toi en tant que chien de Sophie,victim,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv10_mess194,Sophie,16:15:17,continue comme ça,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv10_mess195,michel,16:15:20,javoue lisa ty a pense cest meiux que sucer nempeche ca paye pas bien,victim_support,CAG,bully_support,DNG,DFN,OTH,NEG,1,0,0
+conv10_mess196,Sophie,16:15:23,ça se voit tu me connais pas,bully,CAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv10_mess197,Silvia,16:15:33,Sophie tu devrais t'occuper d'Adrien il en peut plus d'agiter la queue$,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess198,Sophie,16:15:35,des filles comme toi j'en ai connu plus d'une,bully,CAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv10_mess199,Silvia,16:15:43,et tu les a mangées?,victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess200,Sophie,16:15:49,elles sont toutes dans un cercueil mtn on sdemande pq,bully,CAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv10_mess201,Silvia,16:15:51,🐕,victim,NAG,NULL,NULL,OTH,ATK,NEG,0,0,0
+conv10_mess202,Lisa,16:15:56,bah taime ca non silvia ?,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv10_mess203,Adrien,16:15:58,Sylvia demain je te balaye en au  des marches,bully_support,OAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv10_mess204,michel,16:16:16,demain lucas va peter un cable,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv10_mess205,Silvia,16:16:19,Sohpie fais qqch là,victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess206,Lisa,16:16:21,nempeche ca se fait pas  digne d'une pute,bully_support,OAG,victim,NCG,AIN,ATK,NEG,1,1,1
+conv10_mess207,Silvia,16:16:27,il devient agressif tellement il est en manque,victim,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess208,Sophie,16:16:28,silvia t'es morte.,bully,OAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv10_mess209,Silvia,16:16:40,Mais d'où je suis morte stp,victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess210,Silvia,16:16:48,déjà faudrait que tu roules jusqu'à moi,victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess211,Sophie,16:16:55,regarde par la fenêtre ya adrien,bully,OAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv10_mess212,Silvia,16:16:55,que tu arrives à m'attraper,victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess213,Silvia,16:17:01,et qu'ensuite tu me tues,victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0

@@ -1,0 +1,18 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv7_mess181,Anton,15:51:56,nn pauline une soldat tombe ds la bataille chui ps jaloux,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv7_mess182,Pauline,15:52:15,😞,bully,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv7_mess184,Anton,15:52:21,chui juste pour le z,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv7_mess185,teresa,15:52:21,Enfin elle assume,victim_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv7_mess186,alice,15:52:26,anton65 toi t juste con,victim_support,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv7_mess187,Julie,15:52:29,d'accord avec Sarah,victim_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,0
+conv7_mess188,Pauline,15:52:30,C’est grâce à Sarah et theo que je m’en rends compte,bully,NAG,NULL,NULL,OTH,NULL,POS,0,0,1
+conv7_mess189,Nicolas,15:52:34,J'avoue je t'aime bien en fait Fatima mais je déteste toujours les arabes et les noirs,bully_support,NAG,NULL,NULL,OTH,CR,NEG,0,0,1
+conv7_mess191,Pauline,15:52:41,….,bully,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv7_mess192,Pierre,15:52:46,Aucun terrain d’entente possible quand certains sont inférieurs,bully_support,OAG,victim,DNG,ATK,CR,NEG,1,1,1
+conv7_mess193,Pauline,15:52:47,excuse moi Fatima,bully,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv7_mess194,Julie,15:52:48,faites l'amour pas la guerre mes vies <3,victim_support,NAG,NULL,NULL,CR,NULL,POS,0,0,0
+conv7_mess196,Anton,15:52:59,bien dis pierre,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv7_mess197,Fatima,15:53:01,Franchement si c'est juste ça c'est cool .Mais me fait plus jamais ça stp ^^,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv7_mess198,Pauline,15:53:09,oui… <3,bully,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv7_mess199,teresa,15:53:14,Elle va recommencer,victim_support,NAG,NULL,NULL,OTH,AIN,NEU,0,0,0
+conv7_mess200,Pierre,15:53:16,Pauline tu déçois,bully_support,NAG,NULL,NULL,AIN,OTH,NEG,0,1,1

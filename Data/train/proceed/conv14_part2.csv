@@ -1,0 +1,18 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv14_mess7,Marie,11:03:35,Et ça gaz,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv14_mess9,elodie,11:04:04,mettez vous aux hommes c'est mieux,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv14_mess10,JulieVictime,11:04:12,Avec Léa on comprend vraiment pas votre démarche,victim,NAG,NULL,NULL,DFN,NULL,NEU,0,0,0
+conv14_mess11,Marie,11:04:31,J’ai la démarche d’umtiti pour ça,victim_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,0
+conv14_mess12,Emilie,11:04:33,elodie et anna vous etes vraiment gay a faire des baille dans la salle de classe quand ya personne,bully,CAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv14_mess13,Marie,11:04:53,Oue vous fêtes le ciseaux,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv14_mess14,JulieVictime,11:05:30,C'est pas parce que vous êtes en avance sur votre age que tout le monde doit faire des trucs avec les zizi des garçon,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv14_mess16,JulieVictime,11:05:36,chaque chose en son temps et vous êtes juste jalouse parce que vous avez pas de relation amicale aussi cool que la notre,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv14_mess17,elodie,11:06:06,elles ont cas pas s'afficher devant tout le monde c'est deguelasse,bully_support,OAG,victim,DNG,ATK,CR,NEG,1,1,1
+conv14_mess18,Emilie,11:06:15,askip Anna elle fait des baille avec son pere,bully,CAG,victim,DNG,ATK,CR,NEG,1,1,1
+conv14_mess19,Marie,11:06:19,Sa se fait pas Je suce son père donc stop,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv14_mess21,JulieVictime,11:07:08,et puis Marie tu n'as jamais de vue sur tes snap c'est la première fois que tout le monde share ton truc,victim,NAG,NULL,NULL,OTH,DFN,NEU,0,0,0
+conv14_mess22,Marie,11:07:21,Et alors elle fait ce qu’elle veut,victim_support,NAG,NULL,NULL,OTH,OTH,NEG,0,0,0
+conv14_mess23,JulieVictime,11:07:28,tout ça pour devenir populaire,victim,NAG,NULL,NULL,OTH,OTH,NEG,0,0,0
+conv14_mess25,Marie,11:07:51,Si le savoir est une arme et bas bz ta mère,victim_support,OAG,conciliator,OTH,ATK,EMP,NEG,1,1,0
+conv14_mess26,Emilie,11:07:53,qui veut les nudes de Elodie,bully,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv14_mess27,JulieVictime,11:08:03,mais arretez ! c'est pas comme ça qu'on se fait des followers on peux aussi être vertueux,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0

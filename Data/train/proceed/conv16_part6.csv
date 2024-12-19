@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv16_mess31,Emilie,09:38:28,et toi un père constance,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv16_mess32,Anna,09:38:32,bref julie retourne lecher des chattes tu degoutes,bully_support,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv16_mess33,marie,09:38:33,toi emilie je vais arreter de te parler et de t'apporter de l'imprtance parce que les merde sur le trottoire je les evite mtn julie ta rien fait trace ta route,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv16_mess34,Julie,09:38:42,Anna t'es nulle,victim,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv16_mess35,Elodie,09:38:42,si,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv16_mess36,Emilie,09:38:53,ah ouasi et t'évite les hommes sur le bord de la route ?,bully,CAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv16_mess37,Julie,09:38:56,on te demande pas ce que tu fais avec les garçons alors arrête,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv16_mess38,Anna,09:38:56,julie tg,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv16_mess39,Elodie,09:39:01,julie elle gene tou le monde a lecher des chatte,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv16_mess40,marie,09:39:05,et toi?,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv16_mess41,Anna,09:39:16,tu degoute,bully_support,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv16_mess42,marie,09:39:19,ho mais va sucer ton pere toi a ba non t'en a pas,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv16_mess43,Emilie,09:39:28,non jprefere le tien mv,bully,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv16_mess44,constance,09:39:31,anna tg,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv16_mess45,Julie,09:39:38,Et vous vous gênez tout le monde avec vos insultes et votre intolérance,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv16_mess46,marie,09:39:45,il est pas zoophile,victim_support,CAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv16_mess47,Emilie,09:39:47,Julie tg tg tg,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv16_mess48,Anna,09:39:50,t'es encore la constance?,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv16_mess49,Emilie,09:39:50,tg,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv16_mess50,constance,09:39:52,julie je t'aime,victim_support,NAG,NULL,NULL,EMP,DFN,NEG,0,0,0
+conv16_mess51,Julie,09:39:55,ah le débat s'améliore...,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0

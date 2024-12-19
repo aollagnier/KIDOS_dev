@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv18_mess37,Lisa,11:13:26,arthur tu veux te fight,victim_support,CAG,bully_support,THR,DFN,OTH,NEG,1,0,0
+conv18_mess38,Arthur,11:13:33,lisa tg stp,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess39,Paul,11:13:33,je me sens terriblement humilié ...,victim,NAG,NULL,NULL,OTH,NULL,NEG,0,0,0
+conv18_mess40,Ellian,11:13:44,t'as bien raison,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv18_mess41,nicola,11:13:46,mais c le cas,bully_support,CAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv18_mess42,Arthur,11:13:47,lisa allez lets go,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess43,Paul,11:13:56,ba oui ...,victim,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv18_mess44,Lisa,11:13:57,arthur tu cherche la bagarre tu vas l'avoir petit con,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv18_mess45,nicola,11:14:12,je suis arbitre si vous voulez,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv18_mess46,Paul,11:14:28," En plus, nous étions ami sur Facebook !! ",victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv18_mess47,Arthur,11:14:45,mais Paul arrete de parler stppp,bully_support,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv18_mess48,nicola,11:14:49,le temps passe,bully_support,CAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv18_mess49,Camille,11:15:00,vous estes des gays refoulés c'est pour ça que vous savez qu'insulter,victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv18_mess50,Ellian,11:15:01,t'as cru j'allais rester pote avec un pd,bully,OAG,victim,NCG,ATK,OTH,NEG,1,1,1
+conv18_mess51,nicola,11:15:05,et les gay ont mal,bully_support,CAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv18_mess52,Camille,11:15:12,c'est toi le pd mec,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv18_mess53,Ellian,11:15:12,tg Camille,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess54,Arthur,11:15:18,ils ont mal au cul trnql,bully_support,CAG,victim/victim_support,DNG,ATK,NULL,NEG,1,1,1
+conv18_mess55,Camille,11:15:25,tu veux quoi toi Ellian,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv18_mess56,nicola,11:15:41,tg Camille t'es une merde,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess57,Ellian,11:15:49,tu raconte nimp,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1

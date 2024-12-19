@@ -1,0 +1,17 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv21_mess103,Arthur,09:24:30,:') :'),bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv21_mess104,julien,09:24:35,paul t arabe ?,bully_support,CAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv21_mess105,Paul,09:24:53,Mais putain mais c'est quoi ton problème !,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv21_mess106,brice,09:25:03,au pire blc c'est juste un gros tat,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv21_mess107,julien,09:25:07,je veux rayer les sous merde de la carte,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv21_mess109,Selena,09:25:10,paul ignore leporte pleinte,victim_support,NAG,NULL,NULL,EMP,DFN,NEU,0,0,0
+conv21_mess110,julien,09:25:16,et t en fais part,bully_support,OAG,victim,DNG,ATK,DFN,NEU,1,1,1
+conv21_mess111,Paul,09:25:22,Apprends à écrire français brice ..,victim,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv21_mess112,Arthur,09:25:23,un gros tas de graisse arabe,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv21_mess113,Thibaut,09:25:25,bah si bah les couilles supprime la vidéo mon con,victim_support,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv21_mess115,julien,09:25:34,porter pleinte carremenent ? j ai tue ta mere ou quoi,bully_support,CAG,victim_support,OTH,ATK,EMP,NEG,1,1,1
+conv21_mess116,brice,09:25:36,oui porte plainte,bully,CAG,victim_support,OTH,ATK,EMP,NEG,1,1,1
+conv21_mess117,Selena,09:25:45,brice t'as fais laid hier,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv21_mess119,brice,09:25:47,pour faire quoi même,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv21_mess120,julien,09:25:58,vsy paule sale bagraa va,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv21_mess123,Paul,09:26:52,brice je vais vraient porter plainte si ça continue. Vous êtes même pas foutu d'arrêter une blague,victim,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0

@@ -1,0 +1,19 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv17_mess67,Arthur,14:48:24,grave y degoute,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv17_mess68,Ellian,14:48:34,mais wallah vous faite pitier,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv17_mess69,Paul,14:48:35," c""est votre attitude qui degoute",victim,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv17_mess70,Arthur,14:48:43,on va te faire tournee dans tout le quartier,bully_support,CAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv17_mess72,Nicola,14:48:49,non c toi qui dégoute,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv17_mess73,Paul,14:48:57,ton manque d'intelligence c pire que tout,victim,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv17_mess74,Arthur,14:48:58,tu va repartir en boiten,bully_support,CAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv17_mess75,Ellian,14:49:12,je vais tenclancher toi vien en ce donne un tete,bully,OAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv17_mess76,Paul,14:49:19,vos menaces sont debiles,victim,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv17_mess77,Nicola,14:49:31,ba vien n face et on verra,bully_support,CAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv17_mess78,Arthur,14:49:32,lisa et camille y sont inexistant trdc perdu,bully_support,OAG,NULL,NCG,ATK,NULL,NEG,1,1,1
+conv17_mess79,Ellian,14:49:50,je vais te niker tt tes mort toi ta daronne ton daron et ton fdp de Jimmy le gwer,bully,OAG,conciliator,OTH,ATK,NULL,NEG,1,1,1
+conv17_mess81,Ellian,14:50:06,et ftg friends,bully,OAG,conciliator,OTH,ATK,CR,NEG,1,1,1
+conv17_mess82,Nicola,14:50:07,mes tu va areter jimmy,bully_support,OAG,conciliator,THR,ATK,CR,NEG,1,1,1
+conv17_mess83,Arthur,14:50:14,cb tg toi friend tes mort,bully_support,OAG,conciliator,OTH,ATK,CR,NEG,1,1,1
+conv17_mess84,Ellian,14:50:26,wallah tu tes cru au stayts,bully,CAG,conciliator,OTH,ATK,CR,NEG,1,1,1
+conv17_mess86,Paul,14:50:34,et toi  tu es pretentieux pour niquer tout le monde faut pouvoir. Mais  surtout se servir de son  cerveau c dur quand on en a pas,victim,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv17_mess87,Arthur,14:51:01,jppppppppppppp c quoi ses repartie de victimes la je meur,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1

@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv32_mess25,Leo,15:40:53,amine va te faire PTDRRR,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv32_mess26,Isabelle,15:41:04,PTDRRRR,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv32_mess27,Justine,15:41:12,"Isabelle, quel est ton problème avec la photo de mon frere ??!",victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv32_mess28,Guillaume,15:41:19,beurk une juif,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv32_mess29,Isabelle,15:41:24,il est juif quoi,bully_support,OAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv32_mess30,Leo,15:41:28,nique les juifs,bully,OAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv32_mess31,Isabelle,15:41:29,toi aussi dcp pas fou,bully_support,OAG,victim_support,NCG,ATK,DFN,NEG,1,1,1
+conv32_mess32,Lea,15:41:41,"Votre dignité est inexistante. Vous vous prenez pour les maîtres du monde en insultant des minorités, mais ça ne montre que votre puérilité totale.",victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv32_mess33,Isabelle,15:41:45,après il est mignon hein mais faudrait penser à changer de religion mskn,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv32_mess34,Guillaume,15:41:51,ouais c'est repoussant les juifs,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv32_mess35,Lea,15:42:03,À un moment faut la fermer,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv32_mess36,Isabelle,15:42:10,ok meuf justine est pas capable de gérer tt seule ou quoi,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv32_mess37,Lea,15:42:22,Votre daronne elle serait pas fière de vous honnêtement,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv32_mess39,Isabelle,15:42:28,elle est morte,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv32_mess40,Lea,15:42:30,Parce que vous êtes à deux sur elle,victim_support,CAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv32_mess41,Leo,15:42:35,laisses ma mere trql toi,bully,CAG,victim/victim_support,OTH,ATK,NULL,NEG,1,1,1
+conv32_mess42,Leo,15:42:39,on va se battre,bully,CAG,victim/victim_support,OTH,ATK,NULL,NEG,1,1,1
+conv32_mess43,Aurelie,15:42:43,dit tg,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv32_mess44,Justine,15:43:02,Mais pourquoi autant de discussion sur cette photo?!,victim,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv32_mess45,Guillaume,15:43:04,fait des nudes plutôt que des photos de ta religion,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1

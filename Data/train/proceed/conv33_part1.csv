@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv33_mess1,Coralie,11:30:03,bon julie t'arrete avec fatimah la cest toi la cochonne,victim_support,OAG,bully,NCG,DFN,NULL,NEG,1,0,0
+conv33_mess2,Léo,11:30:28,Il se passe quoi ici ?,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv33_mess3,Julie,11:30:55,alors jvous bz tous,bully,OAG,victim/victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv33_mess4,Léo,11:31:12,Oh ça insulte mdrrrrr,bully_support,CAG,victim/victim_support,DNG,AIN,ATK,NEG,1,1,1
+conv33_mess5,Pierre,11:31:13,tu bz qui toi,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv33_mess6,Julie,11:31:14,vous êtes tous mes putes,bully,OAG,victim/victim_support,NCG,ATK,DFN,NEG,1,1,1
+conv33_mess7,Fatimah,11:31:21,c'est qui tous julie? jcomprends pas,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv33_mess8,Coralie,11:31:34,mais gros lol cquoi ton pb va te pendre sal pute,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv33_mess9,Julie,11:31:37,toi en particulier,bully,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv33_mess10,Fatimah,11:31:45,"aaaaaaaaaah ouais,  moi et pourquoi ?",victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv33_mess11,Léo,11:31:50,Ayouuuuu,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv33_mess12,Coralie,11:31:56,julie ftg,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv33_mess13,Julie,11:31:58,prcq tu chauffes tous les mecs,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv33_mess14,Fatimah,11:32:02,vasi Leo calme toi laisse julie parler,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv33_mess15,Pierre,11:32:13,tu va te detendre julie,victim_support,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv33_mess16,Fatimah,11:32:13,quelle sexplique,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv33_mess18,Léo,11:32:32,Bah scuse moi j'trouve ça marrant à peine on arrive y'a embrouille mdrrrrrr C'est toi laisse la parler wsh,bully_support,CAG,victim,OTH,ATK,CR,NEG,1,1,1
+conv33_mess19,Pierre,11:32:55,a quelle moment c'est drole d'insulte les gens,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv33_mess20,Fatimah,11:32:58,"ah ouais,  toi on insulte,  et tut trouves ça marrant",victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv33_mess21,Coralie,11:33:02,clairement,victim_support,NAG,NULL,NULL,EMP,DFN,NEG,0,0,0

@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv13_mess55,Anna,14:46:37,assume que t gouine c tout grosse pute va,bully_support,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv13_mess56,Elodie,14:46:46,faut assumer frr,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv13_mess57,Emilie,14:46:46,mais c'est pas notre pote  deja,bully,OAG,victim,OTH,ATK,CR,NEG,1,1,1
+conv13_mess58,Anna,14:46:56,lvdm assume saliope,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv13_mess59,Julie,14:46:57,c'est quoi le rapport entre être gouine et être une pute ?,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv13_mess60,Anna,14:46:57,salope,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv13_mess61,Elodie,14:47:05,pute et gouine cla meme,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv13_mess62,Julie,14:47:05,ça te dérange si c'était le cas ?,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv13_mess63,Anna,14:47:08,ftg,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv13_mess64,Elodie,14:47:08,oui les garcons avec les filles pas filleet fille c degeulasse,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv13_mess65,Anna,14:47:24,grave vous me degouter,bully_support,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv13_mess66,Julie,14:47:37,t'as un problème va te faire soigner sale homophobe,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv13_mess67,Emilie,14:47:42,exactement stv on te fait un cour crasseuse,bully,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv13_mess68,Anna,14:47:53,c toi ta un problème grosse pute,bully_support,OAG,victim,NCG,GSL,DFN,NEG,1,1,1
+conv13_mess70,Elodie,14:47:57,ftg c toi la gouine tu parle avec nous sombre pute wallah t ki,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv13_mess71,Emilie,14:48:22,on va dire a un gadjo de la violer sa va lui remettre les idée en place,bully,OAG,victim,THR,AIN,NULL,NEG,1,1,1
+conv13_mess72,Elodie,14:48:30,graaave,bully_support,NAG,NULL,NULL,AIN,AIN,NEG,0,1,1
+conv13_mess73,Anna,14:48:33,mais grave wlh,bully_support,NAG,NULL,NULL,AIN,AIN,NEG,0,1,1
+conv13_mess74,Elodie,14:48:46,elles vont voir ce que c de ce faire peter le q,bully_support,OAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv13_mess75,Anna,14:48:47,bande de pute va mais grave elle vont voir,bully_support,OAG,victim,OTH,AIN,ATK,NEG,1,1,1

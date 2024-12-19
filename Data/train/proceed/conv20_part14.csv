@@ -1,0 +1,17 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv20_mess79,Theo,10:32:17,donc un peu de respect ma grande,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv20_mess81,lisa,10:32:25,arthur et les minimoys la,victim_support,OAG,bully_support,OTH,DFN,AIN,NEG,1,0,0
+conv20_mess82,Ellian,10:32:34,tg t es avec moi toi,bully,OAG,conciliator,OTH,ATK,CNS,NEG,1,1,1
+conv20_mess83,lisa,10:32:38,on va t'enclencher,victim_support,OAG,bully_support,OTH,DFN,AIN,NEG,1,0,0
+conv20_mess84,Arthur,10:32:40,ta gueule,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv20_mess86,Camille,10:32:43,tu es raciste de mieux en mieux,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv20_mess87,Paul,10:32:50,c'est clair,victim,NAG,NULL,NULL,OTH,DFN,NEU,0,0,0
+conv20_mess88,Arthur,10:32:55,ça nous apporte du rire bouffon,bully_support,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv20_mess89,Theo,10:32:55,"arthur t'as le nom du mec que j'ai frappé hier, il va bien ton nez ?",victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv20_mess90,Ellian,10:33:02,lisa retourne a la cuisine sale pute,bully,OAG,victim_support,NCG,ATK,DFN,NEG,1,1,1
+conv20_mess91,Theo,10:33:06,mdrrrr,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv20_mess92,Ellian,10:33:07,camille aussi,bully,OAG,victim_support,NCG,ATK,DFN,NEG,1,1,1
+conv20_mess94,Theo,10:33:14,Ellian c'est un nom de biche,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv20_mess96,Camille,10:33:22,et toi a la nicge sale chien,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv20_mess97,Theo,10:33:22,pourquoi tu forces espece de loco,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv20_mess99,Arthur,10:33:30,theo frr t'as le nom d'un legume,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1

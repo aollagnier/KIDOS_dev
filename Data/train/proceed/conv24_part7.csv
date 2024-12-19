@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv24_mess37,moussa,14:44:17,🖕,victim_support,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv24_mess38,David,14:44:27,🤦🏽‍♂️🤦🏽‍♂️🤦🏽‍♂️,bully,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv24_mess39,moussa,14:44:28,Arrête toi,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv24_mess40,Brice,14:44:31,D: D: D: D:,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv24_mess41,moussa,14:44:34,Connard,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv24_mess42,yanis,14:44:40,Ta guele c’est t’as mère on l’as prend en gang bang DaviD,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv24_mess43,David,14:44:43,Tu va fair quoi sale arbre moussa,bully,OAG,victim_support,NCG,ATK,DFN,NEG,1,1,1
+conv24_mess44,Brice,14:44:59,Laissez-moi tranquiulle,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv24_mess45,David,14:45:05,ADS MOUSSA,bully,OAG,victim_support,NCG,ATK,DFN,NEG,1,1,1
+conv24_mess46,Brice,14:45:09,Je veux juste la photooo,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv24_mess47,David,14:45:12,On ta pris en photo sac a patate et tout le monde va voir,bully,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv24_mess48,David,14:45:22,Dans le couuuuuu tu l aura pas,bully,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv24_mess49,Brice,14:45:23,je veux que tu la supprimes,victim,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv24_mess50,Brice,14:45:23,:( :(,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv24_mess51,David,14:45:48,G même se de t’a mère là pute,bully,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv24_mess52,moussa,14:45:50,T'a pas intérêt à le toucher on va te prendre à la sortie on va te tuer,victim_support,OAG,bully,THR,DFN,ATK,NEG,1,0,0
+conv24_mess53,Brice,14:45:57,On entre pas dans la salle de bain des gensss,victim,CAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv24_mess54,Brice,14:46:13,Tu es un voyeur,victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv24_mess55,David,14:46:22,On la met à ta mère la pute Moussa rentre chez toi,bully,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv24_mess56,David,14:46:36,Dans le couuuu la photo,bully,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv24_mess57,David,14:47:04,T une merde moussa,bully,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1

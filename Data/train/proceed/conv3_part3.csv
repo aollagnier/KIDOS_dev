@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv3_mess13,Theo,09:16:16,t'es une pute t'as trahi ta camarde,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv3_mess14,Diana,09:16:48," tu prend les mec des autres, on a toujours su que t'etais une connasse",bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv3_mess16,Soan,09:17:02,C'est votre pote la pute ici,victim_support,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv3_mess17,Adrien,09:17:06,silvia on a toujours dis que t etais une traînée,bully,OAG,victim,NCG,GSL,NULL,NEG,1,1,1
+conv3_mess18,Soan,09:17:07,Pas Silvia,victim_support,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv3_mess19,Adrien,09:17:11,que ca pompe,bully,OAG,victim,NCG,GSL,NULL,NEG,1,1,1
+conv3_mess20,Theo,09:17:12,on va te mmeler,bully_support,OAG,victim_support,THR,ATK,DFN,NEG,1,1,1
+conv3_mess21,camille,09:17:12,ta gueule tu defends une salope,bully_support,OAG,victim/victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv3_mess22,Adrien,09:17:32,Soan reprend parti jte baise,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv3_mess23,Adrien,09:18:02,bougnoule !!,bully,OAG,victim,NCG,AIN,NULL,NEG,1,1,1
+conv3_mess24,Soan,09:18:06,Racisme,victim_support,NAG,NULL,NULL,CNS,AIN,NEG,0,0,0
+conv3_mess25,Theo,09:18:12,tg,bully_support,OAG,victim_support,OTH,ATK,CNS,NEG,1,1,1
+conv3_mess26,Adrien,09:18:19,tg t’as pas le droit a la parole Soan,bully,OAG,victim_support,OTH,ATK,CNS,NEG,1,1,1
+conv3_mess27,SilviaVictime,09:18:28,Oh Lucas fait ce qu'il veut si il me prefère c'est son choix ! je n'y suis pour iren,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv3_mess28,Soan,09:18:38,Il te prefere tqt,victim_support,OAG,bully/bully_support,NCG,EMP,CNS,NEG,1,0,0
+conv3_mess29,SilviaVictime,09:18:42,laissez moi tranquille,victim,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv3_mess30,Soan,09:18:46,Ils sont juste cons,victim_support,OAG,bully/bully_support,NCG,EMP,CNS,NEG,1,0,0
+conv3_mess31,Diana,09:18:51,mdrrr sale' serbe retourne dans ton pays,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv3_mess32,SilviaVictime,09:19:00,Quelle est le rapport putain ??!!,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv3_mess33,Adrien,09:19:06," Soan par pitier deja que personne t’aime, arrete de parler",bully,OAG,victim_support,DNG,ATK,EMP,NEG,1,1,1

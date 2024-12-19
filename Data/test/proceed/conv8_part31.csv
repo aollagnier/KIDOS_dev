@@ -1,0 +1,19 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv8_mess181,Lucie,09:47:45,adrien gros suceur a lucas,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv8_mess182,Adrien,09:47:51,soan apprend l'histoire mdr,bully,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv8_mess183,Silvia,09:47:52,folle voleuse ca va on aura tout entendu de la part de racistes!!!,victim,OAG,bully/bully_support,NCG,DFN,GSL,NEG,1,0,0
+conv8_mess184,Soan,09:47:54,Lucie as raison,victim_support,NAG,NULL,NULL,EMP,DFN,NEG,0,0,0
+conv8_mess186,Theo,09:48:16,c pas raciste!,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv8_mess187,Adrien,09:48:19,pk raciste,bully,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv8_mess188,Lucie,09:48:24,cest surtt pas le theme,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv8_mess189,Camille,09:48:28,je prefere etre celib qu'en couple avec un fdp perso hein,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv8_mess190,Soan,09:48:29,Adrien t'as commencé as insulter et tu parle encore,victim_support,NAG,NULL,NULL,DFN,OTH,NEG,0,0,0
+conv8_mess191,Silvia,09:48:34,de dire que t'a rien à faire ici c'est pas raciste,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv8_mess193,Soan,09:48:53,le fdp c'est celui que tu défend Camille,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv8_mess194,Lucie,09:49:20,aucun rapport mv,victim_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv8_mess195,Adrien,09:49:26,Soan arrete de faire chauffer ftg un peu,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv8_mess196,Diana,09:49:29,soan arrete de parler pour dire de la merde,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv8_mess197,Lucie,09:49:33,cest celui qui defend l'autre fdp de lucas et adrien,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv8_mess198,Diana,09:49:44,soan on t'enccule,bully_support,OAG,victim_support,THR,ATK,DFN,NEG,1,1,1
+conv8_mess199,Soan,09:49:54,Adrien assume c que t'as crée et excuse toi alors,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv8_mess201,Camille,09:50:03,#hainecontresoan,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1

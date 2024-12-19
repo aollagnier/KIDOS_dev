@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv32_mess13,Lea,15:39:15,Tais-toi toi,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv32_mess14,Isabelle,15:39:22,c’est bon arrête un peu de faire l’assistante sociale on s’en blc,bully_support,CAG,victim_support,OTH,ATK,OTH,NEG,1,1,1
+conv32_mess16,Lea,15:39:29,Vous vous croyez intelligents avec vos remarques à la con,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv32_mess17,Justine,15:39:30,Leo et Guillaume sont insupportables HAAHAHHA Amine a bien raison,victim,OAG,bully,OTH,EMP,DFN,NEG,1,0,0
+conv32_mess18,Aurelie,15:39:48,justine pas trop gazer ca va ?,bully_support,CAG,victim,OTH,ATK,EMP,NEG,1,1,1
+conv32_mess19,Leo,15:39:58,hahahahah,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv32_mess20,Isabelle,15:40:25,faut aller prendre la douche,bully_support,CAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv32_mess21,Lea,15:40:30,"Et allez, c'est bon, bande de sous-merdes à insulter les juifs alors que vous valez rien",victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv32_mess22,Isabelle,15:40:40,juif,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv32_mess23,Lea,15:40:40,Sérieux les gars remettez-vous en question,victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv32_mess24,Aurelie,15:40:50,rammasse les cendre de ta famille tais toi,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv32_mess25,Leo,15:40:53,amine va te faire PTDRRR,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv32_mess26,Isabelle,15:41:04,PTDRRRR,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv32_mess27,Justine,15:41:12,"Isabelle, quel est ton problème avec la photo de mon frere ??!",victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv32_mess28,Guillaume,15:41:19,beurk une juif,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv32_mess29,Isabelle,15:41:24,il est juif quoi,bully_support,OAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv32_mess30,Leo,15:41:28,nique les juifs,bully,OAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv32_mess31,Isabelle,15:41:29,toi aussi dcp pas fou,bully_support,OAG,victim_support,NCG,ATK,DFN,NEG,1,1,1
+conv32_mess32,Lea,15:41:41,"Votre dignité est inexistante. Vous vous prenez pour les maîtres du monde en insultant des minorités, mais ça ne montre que votre puérilité totale.",victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv32_mess33,Isabelle,15:41:45,après il est mignon hein mais faudrait penser à changer de religion mskn,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1

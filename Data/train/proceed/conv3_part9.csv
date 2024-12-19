@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv3_mess49,Adrien,09:21:24,silvia t’as chatte toute degeulasse,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv3_mess50,Theo,09:21:25,tg Soan t'es au meme niveau que ta pote crasseuse,bully_support,OAG,victim/victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv3_mess51,Soan,09:21:36,Les conneries d'Adrien sont aussi grosses que lui,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv3_mess52,Adrien,09:21:48,Soan t’es panini,bully,OAG,victim_support,NCG,ATK,DFN,NEG,1,1,1
+conv3_mess53,Soan,09:22:00,le rapport ???????????? T'es très peu futé,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv3_mess54,Diana,09:22:12,silvia me parle pas sachant que tu fais la sainte nitouche alors que t'a bz 1000 mecs,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv3_mess55,Adrien,09:22:15,silvia parle si t as des couille grognasse,bully,OAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv3_mess57,Adrien,09:23:03,arrete d essayer de calmer,bully,OAG,conciliator,THR,ATK,CR,NEG,1,1,1
+conv3_mess58,camille,09:23:03,ta bouche c'est un garage arrête de parler,bully_support,OAG,conciliator,OTH,ATK,CR,NEG,1,1,1
+conv3_mess59,Adrien,09:23:10,ou je vais t’attraper aussi,bully,OAG,conciliator,THR,ATK,CR,NEG,1,1,1
+conv3_mess60,Diana,09:23:15,hebert tu sers a rien,bully_support,OAG,conciliator,DNG,ATK,CR,NEG,1,1,1
+conv3_mess61,Soan,09:23:16,très peu stylé votre répartie... vous embrouillez pour rien,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv3_mess63,SilviaVictime,09:23:29," Og on c'est juste embrasser 1 fois, c'est quoi ce délire !",victim,OAG,bully/bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv3_mess64,Theo,09:23:30,tg petasse,bully_support,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv3_mess65,Adrien,09:23:58,ta bouche c un garage a teub,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv3_mess66,Theo,09:24:05,on va devoir te coudre la bouche,bully_support,OAG,victim,THR,AIN,ATK,NEG,1,1,1
+conv3_mess67,SilviaVictime,09:24:36," BOn, ta pas des arguments plutot que des insuste en boucle  Adrien ?",victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv3_mess68,Diana,09:24:42,et alors frr elle etait en cvouple et toi t'embrasse le mec de ta collegue,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv3_mess69,Soan,09:24:55,Lucas a fauté,victim_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0

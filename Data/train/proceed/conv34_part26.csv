@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv34_mess151,Paul,11:29:02,tu sais ce qui separe les animaux des humains ? la mer méditerranné,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess152,FatimahVictime,11:29:08,Vous n'avez aucune pitié ça m'affecte beaucoup,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv34_mess153,julie,11:29:19,ba rentre chez toi,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess154,julie,11:29:24,a la nage,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess155,coralie,11:29:57,Paul72 tu fais trop de bruit on les entends moins les bolosses,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv34_mess156,FatimahVictime,11:30:52,"Heureusement que je sais nager Julie, contrairement à toi....",victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv34_mess157,coralie,11:30:58,et bim,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv34_mess158,leo,11:31:07,ferme ta gueule jvais te faire bouffer ma bite,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess159,coralie,11:31:13,oui,victim_support,NAG,NULL,NULL,OTH,NULL,NEG,0,0,0
+conv34_mess160,Paul,11:31:15,ferme ton fiac on arrive pas a s'entendre,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess161,coralie,11:31:15,comme d'hab,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv34_mess162,FatimahVictime,11:31:24,C'était tellement drôle de voir dans l'eau au dernier cours de natation !,victim,CAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv34_mess163,leo,11:31:29,coralie c'est une obese qui baise,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess164,FatimahVictime,11:31:31,Donc viens pas me chercher sur ce terrain !,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv34_mess165,julie,11:31:32,ces les singes qui savent pas nager,bully,OAG,victim/victim_support,NCG,ATK,NULL,NEG,1,1,1
+conv34_mess166,coralie,11:31:51, la merde ca sort par le cul et pas par la bouche leo77 et Paul72 ;P,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv34_mess167,Paul,11:32:10,t'as déjà vu un noir d'en l'eau il coule,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv34_mess168,leo,11:32:23,coralie j vais tellement t'neculer qu'on va retrouver du petrole dans ton cul enculer,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess169,FatimahVictime,11:32:32,"Leo et Paul, vous n'êtes que des diarrhées verbales !",victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv34_mess170,julie,11:32:32,C fat quand elle nage,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv34_mess171,FatimahVictime,11:32:48,Julie stp stop,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0

@@ -1,0 +1,19 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv33_mess85,Julie,11:43:55,"écoute moi bien billi boy la dernière fois qu'un mec m'a dit ça il habitait en face d'un cimetière, maintenant il habit(e en face de chez lui",bully,CAG,victim_support,THR,ATK,DFN,NEG,1,1,1
+conv33_mess86,Fatimah,11:43:55,devant ton père,victim,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv33_mess88,Léo,11:44:09,"En vrai j'dis pas mais julie elle a grv raison,  en fait tu caches bien ton jeu Fatimah",bully_support,OAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv33_mess90,Fatimah,11:44:16,julie la fausse punchline,victim,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv33_mess91,Coralie,11:44:25,tu ft pitié julie,victim_support,CAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv33_mess92,Léo,11:44:27,Tu fais genre t'es religieuse et tt mais les meufs comme vous on sait ce que ça fait en planque après les cours,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv33_mess93,Fatimah,11:44:52,mais c'est vous qui avez un pb avec la religion,victim,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv33_mess94,Pierre,11:44:54,tu fait pitié,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv33_mess95,Coralie,11:45:01,qu'es ce que t'y connais toi,victim_support,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv33_mess96,Fatimah,11:45:02,"c'est toi qu'en parle tout le temps moi juste, jvis ma vie",victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv33_mess97,Coralie,11:45:25,les religieux sont bien plus eduqués que vous déja,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv33_mess98,Fatimah,11:45:27,"ouais vzy, explique toi",victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv33_mess99,Pierre,11:45:34,grave,victim_support,NAG,NULL,NULL,EMP,DFN,NEG,0,0,0
+conv33_mess100,Léo,11:45:39,Bah retourne faire ta vie en Algérie stp,bully_support,CAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv33_mess101,Fatimah,11:45:40,dite nous julie et LeoSoutienduharc,victim,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv33_mess102,Coralie,11:45:43,eux ils sucent pas des grosses bites a longueur de journee,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv33_mess104,Julie,11:46:20,cool,bully,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv33_mess105,Coralie,11:47:07,assume enft,victim_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0

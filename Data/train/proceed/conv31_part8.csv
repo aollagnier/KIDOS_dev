@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv31_mess43,lea,11:37:36,elle voulait seulement montrer un bon moment qu'elle a passer,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv31_mess44,Justine,11:37:40,Fais-toi une vie Guillaume et laisse-moi tranquille !,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv31_mess45,Isabelle,11:37:51,mais on s'en blc,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv31_mess46,Isabelle,11:37:54,de sa vie,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv31_mess47,Aurelie,11:37:55,on est dans un pays laique donc vos gueules et partagez pas votre religion,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv31_mess48,Ana,11:38:00,Je vois pas en quoi Justine te dérange laisse la tranquille,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv31_mess49,lea,11:38:02,oui,victim_support,NAG,NULL,NULL,EMP,DFN,NEG,0,0,0
+conv31_mess50,Isabelle,11:38:07,alors elle se plaint pas d'avoir des commantaires,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv31_mess51,Justine,                                        ,"Je ne voulais pas vous convecre, c'estait juste une photo!!!!",victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv31_mess52,gillom,11:38:27,si tu voullais pas ten prendre plein la gueule fallais rien poster,bully,OAG,victim,BLM,ATK,DFN,NEG,1,1,1
+conv31_mess53,Justine,330,Vous n'avez vraiment rien ? faire pour perdre autant de temps avec ma photo.,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv31_mess54,Isabelle,11:38:34,si elle expose sa vie elle s'expose aussi  avoir es commentaires negatifs,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv31_mess56,gillom,11:38:44,ratio,bully,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv31_mess57,Isabelle,11:38:46,donc faut qu'elle la ferme en despi,bully_support,OAG,victim,OTH,ATK,CR,NEG,1,1,1
+conv31_mess58,gillom,11:38:47,justine jte pisse dans la bouche,bully,OAG,conciliator,OTH,ATK,CR,NEG,1,1,1
+conv31_mess59,lea,11:38:54,t'es vrai qu'un gamin,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv31_mess60,Isabelle,11:38:58,lea tg,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv31_mess61,lea,11:39:19,vraiment*,victim_support,OAG,bully_support,OTH,DFN,ATK,NEU,1,0,0
+conv31_mess62,Ana,11:39:21,Je- je sais pas si on est censé vous convaincre que ce que vous dites c'est stupide ou juste vous laisser dire de la merde,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv31_mess63,gillom,11:39:26,grv porte tes enorme boulles et affronte moi,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1

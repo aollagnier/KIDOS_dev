@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv28_mess139,Marjorie,11:51:33,ahhh sayer zoe ouvre sa gueuele ahahah,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv28_mess140,Lucie,11:51:35,mais c une réelle questions,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv28_mess141,Zoé,11:51:37,et je préfère avoir des formes qu'être plate comme une planche à pain point,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv28_mess142,Lucie,11:51:42,je ne comprends pas aussi,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv28_mess143,Marjorie,11:51:52,ah t'inquiete pas j'ai confiance en mi moi,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv28_mess144,Zoé,11:51:59,tant mieux pour toi moi aussi,victim,CAG,bully,OTH,DFN,AIN,NEG,1,0,0
+conv28_mess145,Michel,11:52:09,non sinon tu ne serais pas entrain de t'acharner sur les autres,victim_support,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv28_mess146,Lucie,11:52:09,on est ravi zoe,bully,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv28_mess147,Natacha,11:52:09,non les formes plste cest mieux que detre gropsse,bully_support,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv28_mess148,Soan,11:52:09,on est content pour toi mais juste ferme la,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv28_mess149,Zoé,11:52:16,alors maintenant dégage et va réviser tes cours pétasse,victim,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv28_mess150,Michel,11:52:31,bien dit zoé,victim_support,NAG,NULL,NULL,EMP,DFN,NEG,0,0,0
+conv28_mess151,Marjorie,11:52:33,mdrr tqt pas moi je peux faire du sport prendre la ou il faut toi meme en faisant du sport pendant 5ans t'arriverais pas,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv28_mess152,Zoé,11:52:38,je te signale que TU as commencé alors range-toi,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv28_mess153,Marjorie,11:52:44,a perdre 3kilos,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv28_mess154,Natacha,11:52:44,:') :') :') :') faut mieux que tu maigrix,bully_support,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv28_mess155,Lucie,11:52:45,il faut que tu t'entraine a sucer les profs pour rammener les bonnes notes,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv28_mess156,Zoé,11:53:05,et alors ? au moins j'ai de bonnes notes moi,victim,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv28_mess157,Michel,11:53:06,c'est quoi qui est drole natacha,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv28_mess158,Marjorie,11:53:09,elle le fait deja ça sucer les profs,bully,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv28_mess159,Zoé,11:53:19,(natacha t'es supposée me soutenir),victim,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0

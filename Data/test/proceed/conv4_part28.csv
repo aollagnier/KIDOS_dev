@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv4_mess163,Nicolas,11:49:24,nan pas le time bb,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv4_mess164,Fatima,11:49:27,apres cest moi qu est pas française,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv4_mess165,Teresa,11:49:27,comme une prostitué qu'elle fait bien mdrr,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv4_mess166,Nicolas,11:49:32,pour toi c sa et pas plus,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv4_mess168,Fatima,11:49:36,vas apprendre la langue de ton pays déjà,victim,CAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv4_mess169,Pierre,11:49:39,ptdr maiis fatima t'as vu ton orthographe,bully_support,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv4_mess170,Pauline,11:49:45,t dans notre pays et tu parle,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv4_mess171,Pierre,11:49:46,parle pas,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv4_mess172,Nicolas,11:49:56,elle insulte sa pote mtn,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv4_mess174,Pierre,11:50:14,non patriotes,bully_support,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv4_mess175,Nicolas,11:50:18,moi c mon pays o moinh,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv4_mess176,Pierre,11:50:23,et tout le monde devrait etre comme ça,bully_support,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv4_mess177,Nicolas,11:50:32,donc je me premer cque je veux par apport atoi,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv4_mess178,Teresa,11:50:36,ooo nicolas tg,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv4_mess179,Nicolas,11:50:43,bisoussssssssssssssssssssssssssss,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv4_mess180,Pauline,11:50:44,bon fatima on va te ntm tkt,bully,OAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv4_mess181,Fatima,11:50:58,ca veut rien dire ta phrase,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv4_mess182,Pierre,11:51:13,tu peux pas savoir fat fat,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv4_mess183,Teresa,11:51:20,bref bisous de nous les jaloux,victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0

@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv29_mess181,Aurelie,09:38:10,dors,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess182,Leo,09:38:14,toi t'es fatigay,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess183,Ana,09:38:18,vsy arretz vous fr,victim_support,NAG,NULL,NULL,CR,ATK,NEU,0,0,0
+conv29_mess184,Lea,09:38:19,Les ecoute pas justine,victim_support,NAG,NULL,NULL,EMP,DFN,NEU,0,0,0
+conv29_mess186,Lea,09:38:26,ca va aller mv,victim_support,NAG,NULL,NULL,EMP,DFN,NEU,0,0,0
+conv29_mess187,Aurelie,09:38:26,ah pdpd,bully_support,OAG,conciliator,NCG,ATK,DFN,NEG,1,1,1
+conv29_mess188,Ana,09:38:42,oue j'avoue les ecouts pas ses chiens,victim_support,OAG,bully/bully_support,NCG,DFN,NULL,NEG,1,0,0
+conv29_mess189,Lea,09:38:48,dis leur paul,victim_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,0
+conv29_mess190,Aurelie,09:38:55,tas dis a tes parents que taimais les filles juju fitcat,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess191,Leo,09:38:57,la gouine que t'es,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess192,Leo,09:39:20,gouinasse,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess193,Ana,09:39:23,questa aurelie tu suce leo,victim_support,OAG,bully/bully_support,DNG,DFN,NULL,NEG,1,0,0
+conv29_mess194,Leo,09:39:34,elle a faim,bully,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess195,Aurelie,09:39:38,tu suce paul toi,bully_support,OAG,conciliator,DNG,ATK,DFN,NEG,1,1,1
+conv29_mess196,Lea,09:39:40,elle a la dalle,victim_support,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv29_mess197,Ana,09:39:42,ca va ta gorge aurelie ?,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv29_mess198,Leo,09:39:46,mais c ma meuf sale pute,bully,OAG,victim_support,NCG,ATK,DFN,NEG,1,1,1
+conv29_mess199,Lea,09:41:34,ca se trouve justine elle est en train de pleurer,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv29_mess200,Lea,09:41:40,bande de caca,victim_support,OAG,bully/bully_support,NCG,DFN,NULL,NEG,1,0,0
+conv29_mess201,Justine,09:41:40,ça doit être pourça que tu te venge sur mon frère,victim,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0

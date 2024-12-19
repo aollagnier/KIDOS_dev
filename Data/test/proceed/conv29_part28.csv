@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv29_mess163,Lea,09:35:52,t'empire ton cas fr,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv29_mess164,Leo,09:35:54,5eu,bully,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv29_mess165,Lea,09:35:55,tu fais pitie,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv29_mess166,Justine,09:36:00,800e pour que je porte plainte surtout,victim,OAG,bully_support,THR,DFN,ATK,NEG,1,0,0
+conv29_mess168,Justine,09:37:02,jamais de la vie je vous donne un centime,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv29_mess169,Aurelie,09:37:14,10 euro,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess170,Aurelie,09:37:16,le rat,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv29_mess171,Lea,09:37:25,ca va trop loin la venez juste vous fermez vos gueules,victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv29_mess172,Leo,09:37:26,radine comme un juif,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv29_mess174,Aurelie,09:37:39,grosse radine de mort,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv29_mess175,Justine,09:37:49,c'est vous qui devez me payer pour toutes les conneries que vous me dites,victim,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv29_mess176,Justine,09:37:51,vous me fatiguez,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv29_mess177,Leo,09:37:53,je leur pisse au cul,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess178,Ana,09:38:04,bande fatiguez ah,victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv29_mess179,Leo,09:38:07,si t fatiguer dors,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess180,Aurelie,09:38:07,bah dpors,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess181,Aurelie,09:38:10,dors,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess182,Leo,09:38:14,toi t'es fatigay,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess183,Ana,09:38:18,vsy arretz vous fr,victim_support,NAG,NULL,NULL,CR,ATK,NEU,0,0,0

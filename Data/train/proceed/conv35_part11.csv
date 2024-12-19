@@ -1,0 +1,19 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv35_mess61,Pierre,15:45:44,nn ta fumer la moquette .,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv35_mess62,Julie,15:45:54,pierre tu me fais bien rire mais ftg stp,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv35_mess64,Fatimah,15:45:59,je veux sortir avec personne moi,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv35_mess65,Julie,15:46:04,t’as rien à voir la dedans,bully,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv35_mess66,Pierre,15:46:05,elle ne fait rien de mal c vous vous avez un probleme de jalousie,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv35_mess67,Coralie,15:46:07,laisser la la pauvre,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv35_mess69,Julie,15:46:24,elle a ramené ses toutous pour la defendre c mignon,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv35_mess70,Paul,15:46:33,mdr,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv35_mess71,Kate,15:46:37,Elle sait pas se défendre seule Tu fais pitié meuf,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv35_mess72,Fatimah,15:46:50,julie et kate pourquoi vous provoquez comme ça,victim,NAG,NULL,NULL,DFN,NULL,NEU,0,0,0
+conv35_mess74,Paul,15:46:58,tu vas faire quoi fatima ?? exploser de colère ?,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv35_mess75,Coralie,15:47:06,vous etes tous mechant elle fait rien et vous dites sa,victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv35_mess76,Pierre,15:47:08,tu fait la meme t a ta pote qui vien et qui te renifle le cul,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv35_mess77,Julie,15:47:35,qu’elle degage l’algérienne de mes couilles la,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv35_mess78,Fatimah,15:47:37,vous avez pas d'éducation ça craint,victim,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv35_mess79,Kate,15:47:53,J’avoue Julie,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv35_mess80,Coralie,15:48:01,ouais c est vrai fatimah a rasion,victim_support,NAG,NULL,NULL,EMP,DFN,NEG,0,0,0
+conv35_mess81,Pierre,15:48:04,kate tu fait la meme,victim_support,OAG,bully,DNG,DFN,AIN,NEG,1,0,0

@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv24_mess49,Brice,14:45:23,je veux que tu la supprimes,victim,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv24_mess50,Brice,14:45:23,:( :(,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv24_mess51,David,14:45:48,G même se de t’a mère là pute,bully,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv24_mess52,moussa,14:45:50,T'a pas intérêt à le toucher on va te prendre à la sortie on va te tuer,victim_support,OAG,bully,THR,DFN,ATK,NEG,1,0,0
+conv24_mess53,Brice,14:45:57,On entre pas dans la salle de bain des gensss,victim,CAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv24_mess54,Brice,14:46:13,Tu es un voyeur,victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv24_mess55,David,14:46:22,On la met à ta mère la pute Moussa rentre chez toi,bully,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv24_mess56,David,14:46:36,Dans le couuuu la photo,bully,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv24_mess57,David,14:47:04,T une merde moussa,bully,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv24_mess58,David,14:47:07,Dans ta pti soeur,bully,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv24_mess59,moussa,14:47:14,Va niquer ta mère David,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv24_mess60,Brice,14:47:24,Laisse Moussa,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv24_mess61,David,14:47:28,En lele ta mere moussa,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv24_mess62,Brice,14:47:29,il ne t'a rien fait,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv24_mess63,David,14:47:33,Et ta soeur,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv24_mess64,yanis,14:47:38,Regarde bien David on vas te chopper tu vas avoir le visage déformer sale chien,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv24_mess65,David,14:47:52,C ta mère la chienne,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv24_mess66,moussa,14:48:15,🖕🖕,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv24_mess67,Brice,14:50:52,C'est juste une question de photos,victim,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv24_mess68,Brice,14:50:52,rendez la moi et après on oublie,victim,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv24_mess69,moussa,14:51:02,Ferme t'a geule,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0

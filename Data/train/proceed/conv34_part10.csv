@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv34_mess55,julie,11:15:30,tu sais nager fat ?,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv34_mess56,FatimahVictime,11:15:38,C'est pas toi qui vas le sentir Leo !,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv34_mess57,leo,11:16:14,"tkt y a des photos qui tournent , pas très rasé tout ca",bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv34_mess58,Paul,11:16:32,you born fat,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv34_mess59,coralie,11:16:34,t'en a jamais vu en vrai donc ta de la chance,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv34_mess60,FatimahVictime,11:16:41,"Si tu fais ça, ... tu sais que je peux porter plainte?",victim,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv34_mess61,leo,11:16:48,j'ai vu le cul de ta soeur,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess62,coralie,11:16:57,t'en a pas vu non plus,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv34_mess63,julie,11:17:01,ça va etre fait tkt,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess64,leo,11:17:09,porte plainte grosse folle sa va te meler,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess65,coralie,11:17:12,ta jamais toucher personne,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv34_mess66,FatimahVictime,11:17:14,"Et Leo, je vois pas comment tu pourrais avoir ce genre de photo..",victim,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv34_mess67,coralie,11:17:18,leo77,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv34_mess68,leo,11:17:29,tout le monde a vu ton cul,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv34_mess69,coralie,11:17:30,bolosse,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv34_mess70,leo,11:17:42,en plus ta meme pas de forme mskn,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess71,Paul,11:17:42,tu as pu venir en france donc tout est possible,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv34_mess72,coralie,11:17:57,avec ton 2cm tu peut pas parler,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv34_mess73,julie,11:17:59,ça surcule avec tous les mecs qui ton dé glingué,bully,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv34_mess74,FatimahVictime,11:18:02,"Leo et Paul, on vous a pas causé .",victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv34_mess75,coralie,11:18:03,leo77,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0

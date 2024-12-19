@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv8_mess1,Silvia,09:27:42,c'et ce que disent toutes les jalouses,victim,OAG,NULL,OTH,DFN,NULL,NEG,1,0,0
+conv8_mess2,Lucie,09:27:48,il est tarpin pas beau en plus,victim_support,OAG,NULL,DNG,DFN,NULL,NEG,1,0,0
+conv8_mess3,Soan,09:27:59,Camille il te faut un cerveau on parle de trahison pas de beauté,victim_support,CAG,bully_support,DNG,DFN,NULL,NEG,1,0,0
+conv8_mess4,Theo,09:28:28,vous avez un point commun,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv8_mess5,Soan,09:28:47,En plus Adrien t'est un gros raciste t'as pas honte,victim_support,OAG,bully,NCG,DFN,NULL,NEG,1,0,0
+conv8_mess6,Lucie,09:28:51,lucas il f trop le mec a pas ouvrir sa bouche,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv8_mess7,Soan,09:28:58,pourquoi t'assume pas,victim_support,OAG,bully,NCG,DFN,NULL,NEU,1,0,0
+conv8_mess8,Lucie,09:28:59,affronte tes soucis mon pote,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv8_mess9,Camille,09:29:02,#Lucastufuit,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv8_mess11,Adrien,09:29:22,Soan commence pas a parler de raciste,bully,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv8_mess12,Lucie,09:29:35,tg c'est lucas qui fou la merde,victim_support,OAG,conciliator,OTH,OTH,OTH,NEG,1,0,0
+conv8_mess13,Camille,09:29:46,olala vanessa commence pas a parler de cerveaux avec nous,bully_support,CAG,conciliator,DNG,ATK,OTH,NEG,1,1,1
+conv8_mess14,Soan,09:29:46,Vanessa tu dit ça alors que tu fait pareille elle est où la logique,victim_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv8_mess15,Adrien,09:29:54,mdr lucas il a rien fait,bully,CAG,victim,DNG,ATK,OTH,NEU,1,1,1
+conv8_mess16,Soan,09:30:08,le raciste est de retour,victim_support,OAG,bully,NCG,DFN,OTH,NEG,1,0,0
+conv8_mess17,Adrien,09:30:11,c'est Silvia qui va de partout,bully,CAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv8_mess18,Soan,09:30:23,et toi tu iras en prison,victim_support,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv8_mess19,Silvia,09:30:28,partout où,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv8_mess20,Diana,09:30:44,mais c'est la faute a silvia assumer un peu,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv8_mess21,Soan,09:30:48,exactement c'est lucas qui l'as galoche,victim_support,OAG,NULL,OTH,DFN,ATK,NEG,1,0,0

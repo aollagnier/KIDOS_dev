@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv9_mess25,diana,15:45:50,nn mais la jparle  serieux enft,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv9_mess26,Soan,15:45:53,Oh elle savait même pas donc fermez là,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv9_mess27,diana,15:45:54,prq ta fait ca pttttdrr,bully_support,NAG,NULL,NULL,OTH,CNS,NEU,0,0,1
+conv9_mess28,Adrien,15:46:02,voler quel mec t as vu a quoi elle ressemble,bully,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv9_mess29,Soan,15:46:05,C’est Lucas la pute dans l’histoire,victim_support,OAG,NULL,NCG,DFN,OTH,NEG,1,0,0
+conv9_mess30,Theo,15:46:11,sa rejete la fauter sur les autres,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv9_mess31,Adrien,15:46:12,meme shreck veut pas delle,bully,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv9_mess32,Silvia,15:46:13,j'ai rien fait c'est lui qui m'a demandé,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv9_mess33,diana,15:46:19,comme par hasard elle a tt oublié,bully_support,CAG,victim,OTH,GSL,CNS,NEG,1,1,1
+conv9_mess34,Silvia,15:46:25,"Merci Adrien, c'est stupide",victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv9_mess35,diana,15:46:28,phrase de pute ca,bully_support,OAG,victim,NCG,ATK,CNS,NEG,1,1,1
+conv9_mess36,Silvia,15:46:34,je n'ai rien oublié,victim,NAG,NULL,NULL,CNS,GSL,NEU,0,0,0
+conv9_mess37,Lucie,15:46:38,silvia n'est pas fautive c'est la faute de lucas,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv9_mess38,diana,15:46:59,bref va sauter d'un pond pttdr,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv9_mess39,Adrien,15:47:10,ah en fait j ai pas encore lu le scrypte,bully,CAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv9_mess40,Theo,15:47:12,je pense que tu as des origines arabe pour voler le mec de quelqu'un,bully_support,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv9_mess41,Adrien,15:47:14,jsusi trop con,bully,CAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv9_mess42,Silvia,15:47:17,wow diana c relou,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv9_mess43,Soan,15:47:18,Mais vos bouches,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv9_mess44,Soan,15:47:27,Vous savez même pas de quoi vous parlez,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv9_mess45,diana,15:48:54,bref sivia retourne en siberie frr personne te veux ici,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1

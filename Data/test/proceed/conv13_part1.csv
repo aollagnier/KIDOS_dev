@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv13_mess1,Emilie,14:34:16,Alors julie t'ai dégeulasse de sortir avec une gadji bande de salopes,bully,OAG,victim,DNG,AIN,NULL,NEG,1,1,1
+conv13_mess2,Julie,14:35:10,allo mme est homophobe,victim,OAG,bully,NCG,DFN,AIN,NEG,1,0,0
+conv13_mess3,Emilie,14:36:50,mais tu veut quoi toi retourne avec ta gadji et assume au passant que vous ètent lesbiennes sa dégouteeee,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv13_mess4,Julie,14:37:56," on est pas ensemble déjà puis même si c'était le cas,  ça ne te regarde pas et je vois pas en quoi ça te concerne",victim,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv13_mess5,Anna,14:38:49,mais grave bande de lesbiennes vous degoutée aaaaah,bully_support,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv13_mess6,Emilie,14:39:43,mais olalala frr assume t'aime les ch*ttes mais tu dégoute meme anna elle le dit,bully,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv13_mess7,Marie,14:39:54,laissé la tranquille elle n'est pas avec elle elle vous a dit,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv13_mess8,Anna,14:40:16,mais assumer vous degouter bande de crasseuse,bully_support,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv13_mess9,Emilie,14:40:17,mais ya eu des photos pk elle mito,bully,OAG,victim,NCG,ATK,CNS,NEU,1,1,1
+conv13_mess10,Anna,14:40:24,grave on a tous vu,bully_support,NAG,NULL,NULL,AIN,ATK,NEU,0,1,1
+conv13_mess11,Emilie,14:40:28,grosse crasseuse,bully,OAG,victim,NCG,ATK,CNS,NEG,1,1,1
+conv13_mess12,Anna,14:40:41,grave abuser vous me degoutez,bully_support,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv13_mess13,Julie,14:40:57,putain mais laissez nous tranquille jvous dis qu'on est pas ensemble point,victim,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv13_mess14,Anna,14:41:09,mais assume grosse pute,bully_support,OAG,victim,NCG,ATK,CNS,NEG,1,1,1
+conv13_mess15,Emilie,14:41:17,wshhh elodie dit leur on a vu leur sal photo,bully,OAG,victim,DNG,ATK,NULL,NEG,1,1,1
+conv13_mess16,Julie,14:41:44," tu m'étonnes que vous l'avez vue,  c'est vous qu'il l'avez prises connasses",victim,OAG,bully/bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv13_mess17,Anna,14:42:02,ftg grosse salope,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv13_mess18,Julie,14:42:25,tu sais dire d'autres choses à part ça ?,victim,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv13_mess19,Elodie,14:42:48,anna bebe t ou,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv13_mess20,Marie,14:42:52,ça se fait pas en plus de prendre en photos,victim_support,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv13_mess21,Elodie,14:43:07,mais cest des gouines,bully_support,OAG,victim,NCG,ATK,CNS,NEG,1,1,1

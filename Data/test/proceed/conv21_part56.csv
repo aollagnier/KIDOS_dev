@@ -1,0 +1,15 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv21_mess331,Justine,09:45:22,.,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv21_mess332,Selena,09:45:32,brice il juge grave le physique il a cru il etait tibo inshape ou quoi,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv21_mess333,julien,09:45:34,brice fais l innoncent t deja venue me ejoindre hier dans ma chamre,bully_support,CAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv21_mess335,Thibaut,09:45:39,et ta mere une pute et elle le restera à vie brice,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv21_mess336,Paul,09:45:49,brice t'es un gros con et tu le resteras à vie ;),victim,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv21_mess337,Selena,09:45:53,popopoooo bien envoyé julien,victim_support,CAG,bully_support,OTH,DFN,AIN,NEG,1,0,0
+conv21_mess338,Arthur,09:45:57,Paul si tu veux ya des bonbons chez thibaut,bully_support,CAG,victim,OTH,ATK,CR,NEG,1,1,1
+conv21_mess340,brice,09:46:12,ma mère t'emmerde sale merde que t,bully,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv21_mess342,julien,09:46:36,"bon sale gros jte conseillerais de perde du poids mtn,",bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv21_mess343,Thibaut,09:46:43,frere ta mere et ta soeur me kiffe pd,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv21_mess346,brice,09:46:49,bon ok je m'excuse,bully,NAG,NULL,NULL,OTH,CR,NEU,0,0,1
+conv21_mess347,Selena,09:46:50,va dodo brice,victim_support,CAG,bully,OTH,DFN,OTH,NEG,1,0,0
+conv21_mess350,Selena,09:47:14,ca c'etait ma blague,victim_support,CAG,bully,OTH,DFN,OTH,NEG,1,0,0
+conv21_mess351,Paul,09:47:16,Et toi de te faire pousser quelques neuronnes julien.. Sérieux vous êtes même pas capable de voir que vous vous comportez comme des merde,victim,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0

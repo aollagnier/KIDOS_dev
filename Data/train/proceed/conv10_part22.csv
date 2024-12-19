@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv10_mess127,Silvia,16:08:54,t'avoues du coup?,victim,CAG,bully_support,OTH,OTH,OTH,NEG,1,0,0
+conv10_mess128,Silvia,16:08:58,tu veux la pécho,victim,CAG,bully_support,OTH,OTH,OTH,NEG,1,0,0
+conv10_mess129,Silvia,16:09:08,je suis en train de te parler débile,victim,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv10_mess130,Adrien,16:09:30,C estpas moi le sujet,bully_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv10_mess131,Silvia,16:09:43,c'est bon tu viens de comprendre qu'Adrien veut ju_ste te baiser Sophie?,victim,OAG,bully/bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess132,michel,16:09:43,fait chier de parler de lucas alors quil est pas la faites pas chier appelez le,victim_support,NAG,NULL,NULL,OTH,NULL,NEG,0,0,0
+conv10_mess133,Silvia,16:09:48,Il mytho de ouf,victim,OAG,bully/bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess135,Sophie,16:09:57,je vais me ramener chez moi devant ta famille tu vas voir,bully,OAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv10_mess136,Silvia,16:10:08,Appelle le Adrien vazi,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv10_mess137,Adrien,16:10:10,Mais herbert tu t es cru sur youtube,bully_support,CAG,conciliator,OTH,ATK,OTH,NEG,1,1,1
+conv10_mess138,Sophie,16:10:12,au lycée t'auras même plus de pote,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv10_mess139,michel,16:10:14,bah allez sophie,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv10_mess140,michel,16:10:19,appelle le pour voir,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv10_mess141,Sophie,16:10:23,tu vas voir quand tu sortiras des vestiaires,bully,OAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv10_mess142,Silvia,16:10:27,Mais putain tu fais plus confiance à Adri qu'à ton mec?,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess143,Silvia,16:10:32,tu fais pitié sérieux,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess144,Sophie,16:10:33,habille toi vite grosse p***,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv10_mess145,Silvia,16:10:43,moi j'en ai rien à foutre de ton débile de gros laid,victim,OAG,NULL,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess146,Sophie,16:10:51,ah mais nan c'est vrai t'aimes te faire péter le cul j'avais oublié,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv10_mess147,Silvia,16:10:55,putain je peux me faire dix mille fois mieux que lui,victim,OAG,NULL,OTH,DFN,ATK,NEG,1,0,0

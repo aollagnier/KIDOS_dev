@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv18_mess13,Camille,11:08:58,t'as que de la bouche toi,victim_support,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv18_mess14,Arthur,11:08:59,ca dégage,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv18_mess15,Paul,11:09:12,Je te faisais confiance ...,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv18_mess16,Ellian,11:09:12,Camille parle francais,bully,CAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv18_mess17,Camille,11:09:15,sinon quoi,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv18_mess18,Lisa,11:09:33,mais t'a pas d'arguments toi,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv18_mess19,Ellian,11:10:02,pédale,bully,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv18_mess20,Paul,11:10:36,Ellian et puis d’abord d'où tu penses que c'est quelque chose dont je dois me soigner ???,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv18_mess21,Arthur,11:10:36,bien dit Ellian,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv18_mess22,nicola,11:10:56,tu fait du velo sans celle,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess23,Ellian,11:11:14,bah déjà d'où t'aime les mecs c'est un virus donc va te faire soigner,bully,NAG,NULL,NULL,GSL,DFN,NEG,0,1,1
+conv18_mess24,Camille,11:11:33,occupe toi de ton cul,victim_support,CAG,bully,DNG,DFN,GSL,NEG,1,0,0
+conv18_mess25,Lisa,11:11:33,mais vous etes des grands malades,victim_support,OAG,bully/bully_support,OTH,DFN,GSL,NEG,1,0,0
+conv18_mess26,Camille,11:11:40,t'as pas de vie ou quoi,victim_support,CAG,bully,DNG,DFN,GSL,NEG,1,0,0
+conv18_mess27,Paul,11:11:47,ça ne se décide pas Ellian,victim,NAG,NULL,NULL,CNS,GSL,NEU,0,0,0
+conv18_mess28,Ellian,11:11:54,bah si!,bully,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv18_mess29,Arthur,11:11:58,Camille quest tu veux,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv18_mess30,nicola,11:12:06,Camille niq toi,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess31,Paul,11:12:22,Quel raisonnement de Boomer ...,victim,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv18_mess32,nicola,11:12:27,et pour Ellian aller aller,bully_support,NAG,NULL,NULL,AIN,OTH,NEG,0,1,1
+conv18_mess33,Arthur,11:12:27,lisa toi aussi tu veux quoi ?,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1

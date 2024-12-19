@@ -1,0 +1,16 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv7_mess133,Fatima,15:48:40,Donc pour résumé je vous ai rien fait. J'ai rien volé que dalle mais je suis juste arabe,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv7_mess135,Julie,15:48:43,grave mdrr,victim_support,NAG,NULL,NULL,EMP,DFN,NEU,0,0,0
+conv7_mess137,teresa,15:48:59,tt le monde est pareil,victim_support,NAG,NULL,NULL,CR,NULL,NEU,0,0,0
+conv7_mess139,Pauline,15:49:03,t’es en train de dire que moi je vole?,bully,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv7_mess140,Julie,15:49:05,c'est du cyberharcelement mes reufs vous forcer alors qu'elle n'a rien fait,victim_support,NAG,NULL,NULL,CNS,AIN,NEU,0,0,0
+conv7_mess141,Anton,15:49:07,oui t une arabe c pr ca ta vu c triste la vie,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv7_mess142,Fatima,15:49:08,Pauline Genre comment ? C'est mon maillot de bain quet'aimais pas ou quoi esh !,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv7_mess144,teresa,15:49:14,y’a pas de différence entre arabe et français,victim_support,NAG,NULL,NULL,CR,NULL,NEU,0,0,0
+conv7_mess145,Julie,15:49:14,oui,victim_support,NAG,NULL,NULL,EMP,CR,NEU,0,0,0
+conv7_mess146,Pauline,15:49:22,ton maillot de bain serait + beau sur moi,bully,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv7_mess147,Pierre,15:49:32," teresa pas de différences, juste une infériorité",bully_support,OAG,victim,DNG,ATK,CR,NEG,1,1,1
+conv7_mess148,Julie,15:49:32,mdrrr tu veux l'essayer elle un plu beau corps que toi meuf,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv7_mess149,Fatima,15:49:58,Pauline donc enfaite c'est bien de la jalousie !,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv7_mess150,Pauline,15:50:00,donne moi ton maillot Fatima👹👹👹👹,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv7_mess153,Pauline,15:50:21,Julie tu me body shame???? #HARCELEMENT,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1

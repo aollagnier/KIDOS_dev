@@ -1,0 +1,16 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv8_mess93,Lucie,09:37:51,oui,victim_support,NAG,NULL,NULL,EMP,CNS,NEU,0,0,0
+conv8_mess94,Silvia,09:38:00,tout ca alors que c'est lucas qui m'a embrassé,victim,OAG,bully_support,NCG,DFN,ATK,NEU,1,0,0
+conv8_mess95,Lucie,09:38:04,totalement,victim_support,NAG,NULL,NULL,EMP,CNS,NEU,0,0,0
+conv8_mess96,Adrien,09:38:14,Lucas a rien fait c'est Silvia cette chaudasse,bully,OAG,victim,NCG,ATK,CNS,NEG,1,1,1
+conv8_mess97,Silvia,09:38:17,vous etes de ouf,victim,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv8_mess98,Soan,09:38:18," Adrien t'est jaloux c'est ça, t'aimerais bien galoche Silvia c'est pour ça que tu l'harcelle",victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv8_mess99,Diana,09:38:18,denonce Silvia #violeuse,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv8_mess101,Camille,09:38:34,silvia tu veuc pas assumer un peu,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv8_mess102,Lucie,09:38:35,il avait juste pas les couilles de quitter sa meuf donc il l'a tromper,victim_support,OAG,NULL,DNG,DFN,ATK,NEG,1,0,0
+conv8_mess104,Silvia,09:38:57,j'aassume qu'il est venu m'embrasser,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv8_mess105,Adrien,09:39:00,c'est un homme un vrai,bully,NAG,NULL,NULL,OTH,DFN,POS,0,0,1
+conv8_mess106,Soan,09:39:04,Diana #pick me,victim_support,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv8_mess107,Lucie,09:39:08,oui,victim_support,NAG,NULL,NULL,EMP,DFN,NEG,0,0,0
+conv8_mess109,Lucie,09:39:22,diana tu veux te taper adrien sale chienne en chaleur,victim_support,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv8_mess110,Diana,09:39:24,c'est ta mere la pick me,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1

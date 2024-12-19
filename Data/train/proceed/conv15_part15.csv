@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv15_mess85,Caroline,15:49:14,donc vas y juste bouges ou viens assumer en face,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv15_mess86,Elodie,15:49:14,"et les hommes partaient a la guerre pour faire vivre leur famille, ils ne se maquillaient pas et ne sucaient pas de bites",bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv15_mess87,Emilie,15:49:15,UN BLEM AVEC TOI MA CHERIE,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv15_mess88,Elodie,15:49:20,c contre nature calme toi,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv15_mess89,Caroline,15:49:22,on a pas le temps pour toi,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv15_mess90,Marie,15:49:24,mais vien on s'explique en fasse,victim_support,CAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv15_mess91,Anna,15:49:29,que des langues de putes,bully_support,OAG,victim/victim_support,NCG,ATK,DFN,NEG,1,1,1
+conv15_mess92,Elodie,15:49:30,pas de souci,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv15_mess93,Emilie,15:49:31,VVIENTTTTT,bully,CAG,victim_support,THR,ATK,DFN,NEU,1,1,1
+conv15_mess94,Elodie,15:49:48,bande de pwords,bully_support,OAG,victim/victim_support,NCG,ATK,NULL,NEG,1,1,1
+conv15_mess95,Emilie,15:49:51,PAS DE PROBLEME JATTEND QUE SAAA,bully,CAG,victim_support,THR,ATK,DFN,NEG,1,1,1
+conv15_mess97,Caroline,15:49:53,mais venez vous,victim_support,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv15_mess98,Elodie,15:49:55,non c degueulasse,bully_support,NAG,NULL,NULL,OTH,OTH,NEG,0,0,1
+conv15_mess99,Marie,15:49:59,j'arrive toi en quelle salle,victim_support,CAG,bully,THR,DFN,ATK,NEG,1,0,0
+conv15_mess100,Emilie,15:50:01,NON PAULLLLLLLLLLLL,bully,NAG,NULL,NULL,OTH,OTH,NEG,0,0,1
+conv15_mess101,Elodie,15:50:05,b131 frr,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv15_mess102,Emilie,15:50:13,B131 ET TOI,bully,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv15_mess103,Caroline,15:50:19,vous venez peter les couilles donc assumez,victim_support,OAG,bully,OTH,DFN,OTH,NEG,1,0,0
+conv15_mess104,Marie,15:50:26,moi aussi,victim_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv15_mess105,Constance,15:50:27,bref en conclusion frmez vos petites bouches et laissez les autres vivre leur vie car CA NE VOUS CONCERNE PAS PTN,victim_support,OAG,bully/bully_support,NCG,DFN,NULL,NEG,1,0,0

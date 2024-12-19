@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv29_mess25,Leo,09:18:01,"Aurélie n'a que 16 ans et elle attend un enfant Ses amies et ses parents lui conseillent l'avortement Elle n'est pas d'accord elle voit les choses autrement Elle dit qu'elle se sent prête pour qu'on l'appelle ""maman"" Celui-ci c'est pour toutes les Aurélie Celles qui ont donné la vie Pour toutes les Aurélie c pas leurs faute lsl avaient pas le shoah",bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess26,Justine,09:18:44,t'abuse de parler de shoa,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv29_mess27,Leo,09:18:47,juju fitjuive,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess28,Lea,09:19:10,Pourquoi tu fais ca Léo ca va à la maison,victim_support,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv29_mess29,Ana,09:19:20,parle bien toi,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv29_mess30,Leo,09:19:33,ntm toi t'a meme pas de maison,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess31,Ana,09:19:34,laisse tranquille,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv29_mess32,Lea,09:19:54,toi meme frere je t'ai vu sous un pont,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv29_mess33,Ana,09:20:10,tg,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv29_mess34,Lea,09:20:12,mtn laisse justine et on frere tranquille,victim_support,NAG,NULL,NULL,EMP,DFN,NEG,0,0,0
+conv29_mess35,Ana,09:20:22,oue laisse les tranquille fr,victim_support,NAG,NULL,NULL,EMP,DFN,NEG,0,0,0
+conv29_mess36,Justine,09:20:46,t'as que ca a faire de ta vie que me faire chier,victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv29_mess37,Lea,09:20:50,tout doux le loup,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv29_mess38,Leo,09:21:34,tout doux ton père,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess39,Justine,09:21:35,Maintenant leo vire la photo de mon frère tout de suite,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv29_mess40,Leo,09:21:40,non sinon quoi,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess41,Aurelie,09:21:45,non on la garde,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess42,Ana,09:21:54,y a pas de on la garde en fait,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv29_mess43,Justine,09:22:01,je vais aller voir les prof et leur montrer la merde que tu dis,victim,OAG,bully/bully_support,THR,DFN,NULL,NEG,1,0,0
+conv29_mess44,Ana,09:22:03,tu l'enleves c tout,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv29_mess45,Leo,09:22:16,non ntm,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1

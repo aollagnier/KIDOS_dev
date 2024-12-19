@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv35_mess79,Kate,15:47:53,J’avoue Julie,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv35_mess80,Coralie,15:48:01,ouais c est vrai fatimah a rasion,victim_support,NAG,NULL,NULL,EMP,DFN,NEG,0,0,0
+conv35_mess81,Pierre,15:48:04,kate tu fait la meme,victim_support,OAG,bully,DNG,DFN,AIN,NEG,1,0,0
+conv35_mess82,Kate,15:48:06,Retourne dans ton pays fatimah Avec ta vieille tête la,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv35_mess83,Fatimah,15:48:17,Ca vous fait quoi que je sois algérienne,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv35_mess85,Pierre,15:48:27,tu arrive et tu lui saute dessus c pas unb morceau de viande laisse la,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv35_mess86,Paul,15:48:35,on est pas trop fan d'epices par ici,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv35_mess87,Julie,15:48:36,casse toi va manger du couscous,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv35_mess89,Pierre,15:48:44,meuf ta redoubler 3 fois parle pas,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv35_mess90,Fatimah,15:48:53,mais voila laissez moi tranquille,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv35_mess91,Kate,15:49:12,Bah laisse les mecs trkl alors,bully,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv35_mess92,Pierre,15:49:16,et toi va manger autre chose que la queue de ta pote,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv35_mess93,Julie,15:49:18,pauline jte jure ferme la avant que jten colle une,bully,OAG,conciliator,THR,ATK,DFN,NEG,1,1,1
+conv35_mess94,Fatimah,15:49:25,je veux pas de mec c'est toi qui crois trop,victim,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv35_mess95,Pierre,15:49:28,oulala octogone,victim_support,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv35_mess96,Julie,15:49:39,dis celui qui lui gobe les boules pr avoir son cul 🤣🤣,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv35_mess97,Coralie,15:49:47,elle a rien fais laisser la tranquille,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv35_mess98,Kate,15:49:48,😂,bully,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv35_mess99,Paul,15:49:50,Pierre tu me fait le policier la t'essaie de gratter un vol air algérie ???,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1

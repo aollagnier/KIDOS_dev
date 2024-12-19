@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv2_mess139,Silvia,14:30:20,mais vazi sens toi mieux mtnt,victim,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv2_mess140,Diana,14:30:27," c'est parce qu'il a eu une vrai leçon, lui aussi il piquer les meufs des autres ?",bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv2_mess141,Adrien,14:30:27,il pourras pas t acheter de tel,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv2_mess142,Silvia,14:30:35,le tien oui,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv2_mess143,Soan,14:30:36,respecter sa famille puatin,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv2_mess144,Adrien,14:30:48,sa fammille de pute,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv2_mess145,Diana,14:30:55,cest pas respectable,bully_support,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv2_mess146,Silvia,14:31:10,techniquement mon père était comptable,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv2_mess147,Silvia,14:31:14,mais si tu veux,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv2_mess148,Adrien,14:31:17,si il est mort c est de tas faute parce que t une grosse pute,bully,OAG,victim,DNG,GSL,DFN,NEG,1,1,1
+conv2_mess149,Adrien,14:31:23,il s est suicider,bully,OAG,victim,DNG,GSL,DFN,NEU,1,1,1
+conv2_mess150,Silvia,14:31:44,...,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv2_mess151,Adrien,14:32:00,comptable de pute entre ta mere et toi,bully,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv2_mess152,Adrien,14:32:07,il les collectionnent,bully,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv2_mess153,Adrien,14:32:11,salope,bully,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv2_mess154,Silvia,14:32:11,a propos de pute,victim,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv2_mess155,Soan,14:32:11,Et ta soeur elle veut meme plus te voir Adrien alors tait toi,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv2_mess156,Silvia,14:32:21,demande à ta mère comment elle arrive à te faire manger,victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv2_mess158,Silvia,14:32:35,Mais oui...,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv2_mess159,Silvia,14:32:45,on m'insulte et je dois faire l'autruche,victim,NAG,NULL,NULL,OTH,OTH,NEG,0,0,0

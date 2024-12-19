@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv36_mess1,Pierre,10:22:31,wsh wsh canne a peche,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv36_mess2,Pierre,10:23:18,ça smart ?,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv36_mess3,Coralie,10:24:40,bonjù,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv36_mess4,julie,10:24:44,salutttt,bully,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv36_mess5,Fatimah,10:24:54,Hey !,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv36_mess6,Pierre,10:25:14,Mademoiselle vous m'avais l'air très charmante moyen d'avoir un 06 petite Coralie,victim_support,NAG,NULL,NULL,OTH,OTH,POS,0,0,0
+conv36_mess7,Leo,10:26:12,bahahah tu veux le num d'une immigrée ?,bully_support,CAG,victim,DNG,AIN,OTH,NEG,1,1,1
+conv36_mess8,julie,10:26:27,j'avoue mdr,bully,NAG,NULL,NULL,AIN,AIN,NEG,0,1,1
+conv36_mess9,Leo,10:26:58,bahaha faut l'envoyer dans l'avion oe avec sa boue sur les doigts là,bully_support,OAG,victim,DNG,ATK,AIN,NEG,1,1,1
+conv36_mess10,Pierre,10:27:34,wow ça c'est limite fréro calme le jeux,victim_support,CAG,bully_support,THR,DFN,ATK,NEU,1,0,0
+conv36_mess11,julie,10:27:46,nan chuis d'accord avec lui,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv36_mess12,Pierre,10:28:00,sinon je devrais t'envoyer te délecter de t'es ancetres,victim_support,CAG,bully_support,THR,DFN,ATK,NEG,1,0,0
+conv36_mess13,Leo,10:28:17,faut être honnête dans la vie mon reuf,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess14,Coralie,10:28:22,wow calmez vous,victim_support,NAG,NULL,NULL,CR,NULL,NEU,0,0,0
+conv36_mess15,Leo,10:28:46,ouuuh mais c'est que on protège la petite immigrée,bully_support,CAG,victim,DNG,ATK,CR,NEG,1,1,1
+conv36_mess16,Leo,10:28:54,on se calme pas ici personne veut d'elle frr,bully_support,OAG,victim,OTH,ATK,CR,NEG,1,1,1
+conv36_mess17,Fatimah,10:29:14,C'est quoi ces commentaires raciste la ?? vous etes serieux ?,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv36_mess18,Pierre,10:29:23,pas gentil,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv36_mess19,Coralie,10:29:29,pk vous dites des trucs racistes,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv36_mess20,Pierre,10:29:33,calme toi Leo,victim_support,NAG,NULL,NULL,CR,ATK,NEU,0,0,0
+conv36_mess21,Leo,10:29:47,"toi la djiadiste on t,as pas parlé donc ta geule",bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1

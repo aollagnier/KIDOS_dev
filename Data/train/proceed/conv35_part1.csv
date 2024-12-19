@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv35_mess1,Pierre,15:35:07,bonjour,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv35_mess2,Pierre,15:35:59,Clap bonjour,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv35_mess3,Kate,15:36:12,Salut,bully,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv35_mess4,Fatimah,15:36:18,salut,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv35_mess5,Paul,15:36:38,bonsoir,bully_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv35_mess6,Fatimah,15:37:19,kate pourquoi tu te moque de moi comme ça ?,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv35_mess7,Kate,15:37:40,Bah.. t’es moche,bully,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv35_mess8,Paul,15:37:44,mdrrrrrr,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv35_mess9,Julie,15:38:16,franchement tu fais grave la meuf mdrrr,bully,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv35_mess10,Fatimah,15:38:23,"on s'en fiche à quoi je ressemble, c'est vous qui m'attaquez",victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv35_mess11,Pierre,15:38:43,ouaip,victim_support,NAG,NULL,NULL,EMP,DFN,NEU,0,0,0
+conv35_mess13,Julie,15:38:48,meme paul et leo le disent tu veux tous les mecs pr toi tg pauline arrête de la defendre,bully,OAG,victim/conciliator,OTH,ATK,NULL,NEG,1,1,1
+conv35_mess14,Pierre,15:39:14,he ho c pas gentil tt ca,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv35_mess15,Kate,15:39:21,Oe tu voles les mecs de tt le monde la et tu te prends pour Chepa qui,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv35_mess16,Paul,15:39:25,de  ouf on t'as cramé chuis d'accord avec julie et Kate,bully_support,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv35_mess17,Fatimah,15:39:39,genre je veux sortir avec les gars moche de la classe bien sur,victim,OAG,bully/bully_support,DNG,DFN,NULL,NEG,1,0,0
+conv35_mess19,Julie,15:39:50,MDRRR tu t’es vue,bully,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv35_mess20,Pierre,15:40:00,culotter,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv35_mess21,Julie,15:40:09,ouais bah casse toi on a pas besoin de toi frr,bully,OAG,conciliator,OTH,ATK,CR,NEG,1,1,1

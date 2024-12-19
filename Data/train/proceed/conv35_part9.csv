@@ -1,0 +1,18 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv35_mess50,Paul,15:44:07,fatima elle a rien a rouler..,bully_support,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv35_mess51,Kate,15:44:18,Elle les allume aussi la,bully,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv35_mess52,Julie,15:44:21,MDRRRRR grv kate a raison c’est abusé cmt elle ft trop la meuf,bully,OAG,victim,DNG,AIN,AIN,NEG,1,1,1
+conv35_mess53,Kate,15:44:48,Chepa pour qui elle se prend vrm,bully,OAG,victim,DNG,ATK,AIN,NEG,1,1,1
+conv35_mess54,Pierre,15:44:52,meuf tu fait la meme,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv35_mess55,Julie,15:44:56,j’avoue mddrrr cette pute,bully,OAG,victim,NCG,AIN,ATK,NEG,1,1,1
+conv35_mess57,Julie,15:45:18,mdrrrr pauline degage tu vois pas on a raison,bully,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv35_mess58,Pierre,15:45:27,tu te pointe et fait la meuf pour attirer les gars autour de toi elle ne fait rien de mal ils viennent a elle c tt,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv35_mess59,Kate,15:45:32,Pauline elle t’a payé cb pour la défendre mdr,bully,OAG,conciliator,DNG,ATK,DFN,NEG,1,1,1
+conv35_mess60,Paul,15:45:34,j'avoue pauline t'es de la police  ????,bully_support,OAG,conciliator,OTH,AIN,ATK,NEG,1,1,1
+conv35_mess61,Pierre,15:45:44,nn ta fumer la moquette .,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv35_mess62,Julie,15:45:54,pierre tu me fais bien rire mais ftg stp,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv35_mess64,Fatimah,15:45:59,je veux sortir avec personne moi,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv35_mess65,Julie,15:46:04,t’as rien à voir la dedans,bully,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv35_mess66,Pierre,15:46:05,elle ne fait rien de mal c vous vous avez un probleme de jalousie,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv35_mess67,Coralie,15:46:07,laisser la la pauvre,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv35_mess69,Julie,15:46:24,elle a ramené ses toutous pour la defendre c mignon,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1

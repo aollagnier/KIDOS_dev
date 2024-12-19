@@ -1,0 +1,16 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv8_mess121,Theo,09:40:46,neo et soan,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv8_mess124,Soan,09:40:56,Theo c'est tout ce que tu sait dire,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv8_mess125,Diana,09:41:02,si eput d'argument que sa parle de choses qui n'ont rien avoir soan,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv8_mess126,Camille,09:41:05,1 2 3 le roi du silence commence ( celui qui parle c une salope ),bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv8_mess127,Lucie,09:41:27,cest toi la solope,victim_support,OAG,bully_support,NCG,DFN,OTH,NEG,1,0,0
+conv8_mess128,Soan,09:41:31,Diana tu veux quoi toi,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv8_mess129,Adrien,09:41:32,En sah Silvia je vais lui voler son gouté,bully,OAG,victim,THR,ATK,NULL,NEG,1,1,1
+conv8_mess130,Lucie,09:41:45,tg adrien,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv8_mess131,Soan,09:41:59,Adrien on t'as pas taper quand t'étais petit,victim_support,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv8_mess134,Soan,09:42:46,Hebert faut réconcilier tu sert à rien,victim_support,OAG,conciliator,DNG,DFN,OTH,NEG,1,0,0
+conv8_mess137,Soan,09:43:06,Adrien excuse toi,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv8_mess138,Lucie,09:43:08,tg,victim_support,OAG,conciliator,OTH,DFN,OTH,NEG,1,0,0
+conv8_mess139,Diana,09:43:08,la vrai version c'est que Silvia et lucie sont des grosses salope,bully_support,OAG,victim/victim_support,NCG,ATK,NULL,NEG,1,1,1
+conv8_mess140,Soan,09:43:16,camille excuse toi,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv8_mess141,Adrien,09:43:16,Vanessa tu me fait la grosse folle depuis le début alors commence pas a me faire chauffer,bully,OAG,conciliator,OTH,ATK,CR,NEG,1,1,1

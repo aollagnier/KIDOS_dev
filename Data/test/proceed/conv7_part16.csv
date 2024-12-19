@@ -1,0 +1,17 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv7_mess91,Julie,15:45:02,apprend a ecrire le prenom de tes potes avant de parler ytoi,victim_support,CAG,bully_support,DNG,DFN,AIN,NEG,1,0,0
+conv7_mess92,Fatima,15:45:18,Mais j'ai jamais rien demandé à personne wesh T'es chelou toi !,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv7_mess93,Pierre,15:45:24,Même zemmour te donnerais raison,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv7_mess94,Anton,15:45:32,vivie le z,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv7_mess95,Julie,15:45:35," e t toi aussi tu dois ,payer pour les crimes des tiens",victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv7_mess97,Julie,15:45:41,t'es pas tt bleu tt rose mv,victim_support,OAG,bully_support,OTH,DFN,ATK,NEU,1,0,0
+conv7_mess99,alice,15:45:46,seigneur dieux c'est la decadance,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv7_mess101,Anton,15:45:56,moi chui un fr de pur sang mon reuf,bully_support,NAG,NULL,NULL,OTH,CNS,NEU,0,0,1
+conv7_mess103,Julie,15:46:03,a partir du moment ou tun soutiens zemmour c'est que t'a un probleme mon pauyvre,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv7_mess104,Pierre,15:46:03," Pauline et Anton ont raison, les français restent prioritaires",bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv7_mess106,Pauline,15:46:12,les purs sang français >>>😻😻😻,bully,OAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv7_mess107,Fatima,15:46:22,pierre69 JE SUIS FRANCAISE !,victim,NAG,NULL,NULL,CNS,AIN,NEU,0,0,0
+conv7_mess108,Pauline,15:46:29,NON,bully,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv7_mess109,Nicolas,15:46:32," Mais fermez vos gueules vous detruisez notre pays, les arabes dehors c'est pareil pour les sales nègres",bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv7_mess110,Anton,15:46:35,ya un prblm avec mon tonton z,bully_support,CAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv7_mess111,Pierre,15:46:38,Pas vraiment du coup,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1

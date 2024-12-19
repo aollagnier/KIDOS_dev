@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv18_mess139,nicola,11:28:16,bah ouais,bully_support,CAG,victim_support,OTH,ATK,DFN,NEU,1,1,1
+conv18_mess140,Arthur,11:28:16,zemours !!!!,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv18_mess141,nicola,11:28:26,vive hitler et zemmours,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess142,Lisa,11:28:44,nicola ftg,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv18_mess143,Paul,11:28:46," je ne vois le rapport entre Hitler, Zemmour et la discussion ...",victim,CAG,bully_support,OTH,DFN,ATK,NEU,1,0,0
+conv18_mess144,Arthur,11:28:48,aucun gay ICI CA DEGAGE,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess145,nicola,11:28:53,toi,bully_support,OAG,victim,OTH,ATK,DFN,NEU,1,1,1
+conv18_mess146,Paul,11:28:57,mais bon venant de nicola ça ne me surprend pas !,victim,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv18_mess147,nicola,11:28:59,le gay,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess148,Camille,11:29:05,c'est toi tu degage mec,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv18_mess149,Lisa,11:29:13,arthur alors degage,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv18_mess150,Ellian,11:29:16,Camille prend la porte,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess151,nicola,11:29:17,moi au moins je suis un sucer de premiere pas*,bully_support,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv18_mess152,Arthur,11:29:34," Camille moi j'ai compris la vie, un homme une femme . rien de plus Camille ca degage",bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess153,Camille,11:30:09,bahaha aller va te prendre une queue dans le cul ca te decoincera,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv18_mess154,Ellian,11:30:27,Camille tu me degoute,bully,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv18_mess155,nicola,11:30:35,Paul est decoincais depuis lomgtemps,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv18_mess156,Arthur,11:30:36,prends en une deja par ton mec si t'en as,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv18_mess157,Ellian,11:30:54,ptdrrr grave,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv18_mess158,Paul,11:30:57,un raisonnement typique des années 30 ...,victim,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv18_mess159,Lisa,11:30:58,fc,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0

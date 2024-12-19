@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv34_mess37,coralie,11:13:14,avec ton corps tout frele,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv34_mess38,leo,11:13:21,coralie et fatimah c'est des salopes,bully_support,OAG,victim/victim_support,NCG,ATK,NULL,NEG,1,1,1
+conv34_mess39,FatimahVictime,11:13:28,ce sont *,victim,CAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv34_mess40,julie,11:13:33,mais oui mv,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess41,leo,11:13:36,m'en branle,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess42,coralie,11:13:37,leo77 n'a pas d'arguments,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv34_mess43,FatimahVictime,11:13:38,quand on parle bien français!!,victim,CAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv34_mess44,julie,11:13:51,tg rentre chez toi,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess45,FatimahVictime,11:13:53,... je suis française donc je suis chez moi,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv34_mess46,coralie,11:14:05,leo77 il sais pas insulter et il sais pas parler francais,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv34_mess47,julie,11:14:12,t'es sans papiers on le sais,bully,CAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv34_mess48,FatimahVictime,11:14:22,tu veux les voir julie ?,victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv34_mess49,leo,11:14:33,fatimah pas très francais,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess50,Paul,11:14:34,La géographie c'est pas ton fort,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess51,julie,11:14:43,tu peux pas les monter,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess52,coralie,11:15:04,le niveau de vos blagues est eclaté les gars faite un effort,victim_support,CAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv34_mess53,leo,11:15:17,"fatimah son vagin il sens le cochon,",bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv34_mess54,Paul,11:15:24,retourne te faire enculer par un singe,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv34_mess55,julie,11:15:30,tu sais nager fat ?,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv34_mess56,FatimahVictime,11:15:38,C'est pas toi qui vas le sentir Leo !,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv34_mess57,leo,11:16:14,"tkt y a des photos qui tournent , pas très rasé tout ca",bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1

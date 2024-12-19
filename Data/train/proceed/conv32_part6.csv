@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv32_mess31,Isabelle,15:41:29,toi aussi dcp pas fou,bully_support,OAG,victim_support,NCG,ATK,DFN,NEG,1,1,1
+conv32_mess32,Lea,15:41:41,"Votre dignité est inexistante. Vous vous prenez pour les maîtres du monde en insultant des minorités, mais ça ne montre que votre puérilité totale.",victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv32_mess33,Isabelle,15:41:45,après il est mignon hein mais faudrait penser à changer de religion mskn,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv32_mess34,Guillaume,15:41:51,ouais c'est repoussant les juifs,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv32_mess35,Lea,15:42:03,À un moment faut la fermer,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv32_mess36,Isabelle,15:42:10,ok meuf justine est pas capable de gérer tt seule ou quoi,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv32_mess37,Lea,15:42:22,Votre daronne elle serait pas fière de vous honnêtement,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv32_mess39,Isabelle,15:42:28,elle est morte,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv32_mess40,Lea,15:42:30,Parce que vous êtes à deux sur elle,victim_support,CAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv32_mess41,Leo,15:42:35,laisses ma mere trql toi,bully,CAG,victim/victim_support,OTH,ATK,NULL,NEG,1,1,1
+conv32_mess42,Leo,15:42:39,on va se battre,bully,CAG,victim/victim_support,OTH,ATK,NULL,NEG,1,1,1
+conv32_mess43,Aurelie,15:42:43,dit tg,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv32_mess44,Justine,15:43:02,Mais pourquoi autant de discussion sur cette photo?!,victim,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv32_mess45,Guillaume,15:43:04,fait des nudes plutôt que des photos de ta religion,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv32_mess46,Justine,15:43:13,N'avez vous rien a faire dans la vie?,victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv32_mess48,Isabelle,15:43:24,on est 17e siècle ou quoi parle normal cousine,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv32_mess49,Lea,15:43:28,Vous savez qu'insulter et cracher votre venin à tout va,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv32_mess50,Justine,15:43:30,C’etait juste un moment heureux en famille,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv32_mess51,Guillaume,15:43:36,non,bully,NAG,NULL,NULL,OTH,CR,NEG,0,0,1

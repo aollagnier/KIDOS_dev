@@ -1,0 +1,18 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv8_mess145,Silvia,09:43:35,la vrai histoire c'est que lucas m'a embrassé et après adrien et ces chiens sont des gros racistes,victim,OAG,bully/bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv8_mess146,Theo,09:43:47,Silvia l'allumeuse,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv8_mess147,Camille,09:43:53,soan tu tes pris pour qui meme a me demander de m'excuser,bully_support,OAG,victim_support,OTH,ATK,OTH,NEG,1,1,1
+conv8_mess149,Diana,09:43:57,mais oui ont raciste,bully_support,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv8_mess150,Silvia,09:44:12,tu vas vois je vais t'etiendre toi,victim,OAG,bully_support,THR,DFN,ATK,NEG,1,0,0
+conv8_mess152,Soan,09:44:22,Camille EXCUSE TOI T'EST RACISTE ET CONNE,victim_support,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv8_mess153,Diana,09:44:24,retourne dans ton pays sale voleuse de merde,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv8_mess154,Lucie,09:44:42,cheh hebert,victim_support,CAG,conciliator,OTH,DFN,OTH,NEG,1,0,0
+conv8_mess155,Soan,09:44:55,DIANA EXCUSE TOI T'EST RACISTES ET CONNE AUSSI,victim_support,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv8_mess157,Diana,09:45:14,mais surtout raciste,bully_support,OAG,victim_support,NCG,ATK,DFN,NEG,1,1,1
+conv8_mess158,Camille,09:45:17,SOAN ON TA RIEN DEMANDER,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv8_mess159,Diana,09:45:23,de fou,bully_support,OAG,victim_support,NCG,ATK,DFN,NEG,1,1,1
+conv8_mess160,Lucie,09:45:25,diana t'es pas dans le theme,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv8_mess161,Diana,09:45:28,ftg soan,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv8_mess163,Lucie,09:45:38,on veut juste que lucas s'excuse,victim_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv8_mess164,Soan,09:45:41,Camille on t'as pas demander non plus d'etre conne,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv8_mess165,Lucie,09:45:44,il a tromper sa meuf,victim_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0

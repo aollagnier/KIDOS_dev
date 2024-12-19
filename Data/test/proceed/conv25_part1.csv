@@ -1,0 +1,19 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv25_mess1,NULL,15:53:17,Salut les cop1 :D,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv25_mess3,NULL,15:54:27,ct vachement cool ce voyage,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv25_mess4,Theo,15:55:59,ouais franchement c'était cool,bully_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv25_mess6,Theo,15:56:20,pas vrais Pauline,bully_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv25_mess7,Theresa,15:56:23,oui super le temps,bully_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv25_mess8,pierre,15:56:31,ouai c'etait trop bien 😆,victim_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv25_mess9,Theresa,15:56:49,😉,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv25_mess10,NULL,15:57:04,merci d'avoir posté les photos de moi,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv25_mess11,pierre,15:57:17,...,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv25_mess12,Pauline,15:57:44,mdrr tg francois bien fait pour ta gueule,bully,OAG,victim,OTH,AIN,OTH,NEG,1,1,1
+conv25_mess13,NULL,15:57:54,Mais pauline??,victim,NAG,NULL,NULL,OTH,AIN,NEU,0,0,0
+conv25_mess14,pierre,15:58:03,ca ce fait pas d'avoir fait ca 🙄,victim_support,NAG,NULL,NULL,OTH,AIN,NEU,0,0,0
+conv25_mess15,Theo,15:58:11,🤣,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv25_mess16,pierre,15:58:16,mais calme toi pauline,victim_support,NAG,NULL,NULL,DFN,AIN,NEU,0,0,0
+conv25_mess17,Lucas,15:58:25,Vous etes trop mechants arretez,victim_support,OAG,bully,OTH,DFN,AIN,NEG,1,0,0
+conv25_mess18,Theresa,15:58:29,Cette photo est trop drole,bully_support,CAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv25_mess19,Theo,15:58:29,c'est une blague,bully_support,OAG,victim,OTH,AIN,AIN,NEG,1,1,1
+conv25_mess20,Theo,15:58:39,franchement trop drole,bully_support,CAG,victim,DNG,AIN,ATK,NEG,1,1,1

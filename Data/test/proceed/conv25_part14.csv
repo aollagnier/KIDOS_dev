@@ -1,0 +1,18 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv25_mess79,Theo,16:06:52,meme en ouvrant les yeux,bully_support,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv25_mess80,Theresa,16:06:53,Désolé mais non,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv25_mess81,Theresa,16:07:03,oooooh,bully_support,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv25_mess82,NULL,16:07:10,bon allez supprimez moi ca,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv25_mess84,Theresa,16:07:29,une photo sur le net ca part pas mm si on voulait,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv25_mess85,NULL,16:07:30,vous voulez que je me jette d'un immeuble c'est cq?,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv25_mess86,pierre,16:07:37,pauline supprime ca t'apporte quoi serieux ?,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv25_mess87,NULL,16:07:39,ca*,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv25_mess88,Lucas,16:08:08,T'es tellement stupide Paupau,victim_support,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv25_mess89,Theresa,16:08:13,Bah non,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv25_mess90,Pauline,16:08:31,ce serai pas une grande perte,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv25_mess91,Lucas,16:08:33,Tg Thérèsa,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv25_mess93,pierre,16:08:40,mais bien sur que si 🙄puis tait toi theresa toi t'es juste un petit toutou derrière pauline qui se cache derrière son ordi,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv25_mess95,Lucas,16:08:57,Deja a partir du moment ou tu t'appelles Thérésa t'as pas le droit a la parole,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv25_mess96,pierre,16:09:07,les ecoutes pas c juste des gros cons,victim_support,OAG,bully/bully_support,NCG,DFN,NULL,NEG,1,0,0
+conv25_mess97,Theresa,16:09:17,Vs exagérez,bully_support,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv25_mess99,Theo,16:09:28,en parlant de gros,bully_support,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1

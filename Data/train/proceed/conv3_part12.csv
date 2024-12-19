@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv3_mess67,SilviaVictime,09:24:36," BOn, ta pas des arguments plutot que des insuste en boucle  Adrien ?",victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv3_mess68,Diana,09:24:42,et alors frr elle etait en cvouple et toi t'embrasse le mec de ta collegue,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv3_mess69,Soan,09:24:55,Lucas a fauté,victim_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv3_mess70,Theo,09:25:01,parle francais le s,bully_support,CAG,victim_support,DNG,ATK,OTH,NEG,1,1,1
+conv3_mess72,camille,09:25:11,et alors tu sais pas dire,bully_support,OAG,conciliator,OTH,ATK,CR,NEG,1,1,1
+conv3_mess73,Adrien,09:25:11,je comprend meme pas pq il t’as embrasse sophi est pas grosse au moins,bully,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv3_mess74,Soan,09:25:12,C'est pas la faute de Silvia Soyez logique,victim_support,NAG,NULL,NULL,CR,OTH,NEU,0,0,0
+conv3_mess75,SilviaVictime,09:25:20,C'est pas moi qui suis en couple et Lucas fait ce qu'il veut,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv3_mess76,Soan,09:25:30,Silvia a raison,victim_support,NAG,NULL,NULL,EMP,CNS,POS,0,0,0
+conv3_mess77,Diana,09:25:36,et alors t'as pas de respect ou quoi,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv3_mess78,SilviaVictime,09:25:37,merci Soan,victim,NAG,NULL,NULL,OTH,EMP,POS,0,0,0
+conv3_mess79,Adrien,09:25:37,t’as aucune dignité et Soan pareil,bully,OAG,victim/victim_support,DNG,ATK,CNS,NEG,1,1,1
+conv3_mess81,Soan,09:25:39,soyez intelligent Adrien tg,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv3_mess82,Theo,09:25:48,t'es une pute et tu resteras toujours une pute,bully_support,OAG,victim_support,NCG,ATK,DFN,NEG,1,1,1
+conv3_mess83,Soan,09:26:05,tu prends ton seum theo car tu voulais pécho Silvia ? que ça mange son seum..,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv3_mess84,Diana,09:26:38,je suis sur silvia tes trans,bully_support,OAG,victim,OTH,AIN,NULL,NEG,1,1,1
+conv3_mess85,Theo,09:26:40,je l'ai bz comme ta mère,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv3_mess86,SilviaVictime,09:26:47," Adrien et ton fan club la, donne t'es arguement ?? qu'es que tu invente, t'as vue quoi d'apres toi ?",victim,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv3_mess87,Adrien,09:27:05,j’ai vu c tout,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1

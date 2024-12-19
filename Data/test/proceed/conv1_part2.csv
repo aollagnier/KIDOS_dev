@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv1_mess7,Silvia,14:45:34,Lucas il ma di qu'il voulait pas rester avecc sophie,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv1_mess8,Théo,14:45:51,mon cul:@,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv1_mess9,Camille,14:46:06,aller niquez vos mere,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv1_mess10,Soan,14:46:15,toi nike ta mere sallle pute,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv1_mess11,Adrien,14:46:33,lucas etait en couple et toi tu est tjr la tu fou la merde en plus tu savai,bully,OAG,victim,BLM,ATK,CNS,NEG,1,1,1
+conv1_mess12,Soan,14:46:50,laisser silivia tranquille avant je vous encule bande de cave,victim_support,OAG,bully/bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv1_mess13,Camille,14:47:05,sa ser a rien de le défendre t qune pute assumee suceuse,bully_support,OAG,victim_support,NCG,ATK,DFN,NEG,1,1,1
+conv1_mess14,Soan,14:47:12,et alors lucas il est moche,victim_support,OAG,NULL,DNG,DFN,ATK,NEG,1,0,0
+conv1_mess15,Adrien,14:47:20,tu va rien faire c'est de sa faute,bully,OAG,victim,BLM,ATK,DFN,NEG,1,1,1
+conv1_mess16,Soan,14:47:27,ta mere la reine des salope,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv1_mess17,Silvia,14:47:34,lucas jmen balek il a qu'a rester avec sa sophie c'est elle qui est moche,victim,OAG,NULL,OTH,DFN,ATK,NEG,1,0,0
+conv1_mess18,Théo,14:47:42,qu'est qu'elle a l'autre rousse? tu défend les putes,bully_support,OAG,victim/victim_support,NCG,ATK,DFN,NEG,1,1,1
+conv1_mess19,Soan,14:47:53,piste ta tete endirerb un monstre poto,victim_support,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv1_mess20,Théo,14:48:02,c'est toi la moche sale serbe de mes couilles,bully_support,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv1_mess21,Soan,14:48:21,moi silvia on est les plus belle bande de fdp,victim_support,OAG,bully/bully_support,NCG,DFN,NULL,NEG,1,0,0
+conv1_mess22,Théo,14:48:26,va retourner voler des montres,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv1_mess23,Adrien,14:48:34,en plus tes la tu vien de serbi,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv1_mess24,Soan,14:48:40,et  elle ten merde niker vos grand mere,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv1_mess25,Théo,14:49:06,va te faire enculer sale rousse,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv1_mess26,Silvia,14:49:08,"la serbie c'esst le sang,  vous etes jaloux c'est tout",victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv1_mess27,Théo,14:49:14,va sucer tes profs,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1

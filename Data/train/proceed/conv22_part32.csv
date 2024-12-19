@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv22_mess187,brice,10:52:35,tu risque pas de te faire kidnapper u rentre pas dans le camion,bully,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv22_mess188,Julien,10:52:38,tg vien jtenclanche,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv22_mess189,Thibaut,10:52:47,avec quoi,victim_support,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv22_mess190,justine,10:52:49,il va se cacher il a trop peur,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess191,Julien,10:52:56,mes mains con de ta mere,bully_support,OAG,victim_support,DNG,ATK,OTH,NEG,1,1,1
+conv22_mess192,Thibaut,10:53:01,ok faisont comme ca,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess193,brice,10:53:08,il poura pas se cacher,bully,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv22_mess194,justine,10:53:20,après avec son problème mental c sur que,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv22_mess195,Julien,10:53:26,si derriere paul,bully_support,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv22_mess197,Paul,10:53:35,"J'aimerais me tuer juste pour que vous soyez punis une fois pour toutes, bande de bâtards",victim,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv22_mess198,Julien,10:53:40,cest la muraille de chine,bully_support,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv22_mess199,brice,10:53:47,pierre tu porte un maillot de nice donc tg,bully,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv22_mess200,Julien,10:53:56,TUEEEEE TOIIIIIII,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv22_mess201,justine,10:54:15,et toi accompagne ta mere dans la mort,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess202,Julien,10:54:16,brice ta mere la folle toi aussi,bully_support,OAG,bully,OTH,OTH,ATK,NEG,1,0,1
+conv22_mess203,Selena,10:54:17,"paul dis pas ça, ils vont juste se calmer et bien prendre par les flics !!! justine ho mets toi de notre côté",victim_support,NAG,NULL,NULL,EMP,DFN,NEU,0,0,0
+conv22_mess204,Julien,10:54:56,ACAB all cops are bastard,bully_support,OAG,NULL,OTH,ATK,EMP,NEG,1,1,1
+conv22_mess205,brice,10:55:09,c'est déja un miracle qu'il ait reussi à sortir du ventre de sa mère,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv22_mess206,Thibaut,10:55:12,brice ta vu julien il est meme pas avec toi,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv22_mess207,Paul,10:55:17,"Julien quand tu iras en prison, tu ne seras pas aussi cool que tu l'es maintenant, imbécile tg",victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0

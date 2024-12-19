@@ -1,0 +1,16 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv25_mess61,Lucas,16:04:21,Tu as totalement raison Francounet,victim_support,NAG,NULL,NULL,EMP,DFN,NEU,0,0,0
+conv25_mess63,Theresa,16:05:00,mdrrrr ouais comment t'as pu la kiffer tu la mérites pas en vrai,bully_support,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv25_mess64,Pauline,16:05:01,haaa  c'est beau de rever jenny,bully,CAG,conciliator,OTH,ATK,CR,NEG,1,1,1
+conv25_mess66,pierre,16:05:21,fface la photo Pauline !😡,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv25_mess67,Theresa,16:05:23,de tt facon c'est tro tard elle est postée,bully_support,OAG,conciliator,OTH,ATK,CR,NEG,1,1,1
+conv25_mess68,pierre,16:05:29,efface*,victim_support,OAG,bully,OTH,DFN,ATK,NEU,1,0,0
+conv25_mess70,NULL,16:05:56,theresa  avoue :),victim,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv25_mess71,Lucas,16:06:17,Efface ou j'irais encourager Francois à aller porter plainte pour non droit à l'image et atteinte à la vie privée,victim_support,OAG,bully/bully_support,THR,DFN,NULL,NEG,1,0,0
+conv25_mess72,Theresa,16:06:19,Au moins on me respecte,bully_support,NAG,NULL,NULL,OTH,OTH,NEG,0,0,1
+conv25_mess74,Pauline,16:06:25,regardes le un peu putain ouvre les yeux jenny,bully,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv25_mess75,NULL,16:06:35,la dignité partie au chiotte...,victim,OAG,bully/bully_support,DNG,DFN,NULL,NEG,1,0,0
+conv25_mess76,pierre,16:06:37,une photo meme postée ca s'efface nous prenez pas pour des cons 😤,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv25_mess79,Theo,16:06:52,meme en ouvrant les yeux,bully_support,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv25_mess80,Theresa,16:06:53,Désolé mais non,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv25_mess81,Theresa,16:07:03,oooooh,bully_support,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1

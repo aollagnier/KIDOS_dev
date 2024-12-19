@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv29_mess139,Leo,09:34:36,va sucer un prof comme d'hab,bully,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv29_mess140,Ana,09:34:37,c est toi t une pute,victim_support,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv29_mess141,Justine,09:34:37,"javoue la bonne solution c'est de dire à personne que vous me faites chier, ça va me mener à loin",victim,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv29_mess142,Justine,09:34:43,je vais aller tout dire avec ana,victim,OAG,bully/bully_support,THR,DFN,NULL,NEG,1,0,0
+conv29_mess143,Ana,09:34:43,aurekie,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv29_mess144,Ana,09:34:45,ta mere,victim_support,OAG,bully,OTH,DFN,ATK,NEU,1,0,0
+conv29_mess145,Ana,09:34:47,la,victim_support,OAG,bully,OTH,DFN,ATK,NEU,1,0,0
+conv29_mess146,Ana,09:34:49,pute,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv29_mess147,Leo,09:34:49,c toi ana la grosse pute a foutre,bully,OAG,victim_support,NCG,ATK,DFN,NEG,1,1,1
+conv29_mess148,Lea,09:34:50,et moi surtout,victim_support,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv29_mess149,Lea,09:34:56,c'est moi qui ai propose,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv29_mess150,Aurelie,09:35:00,jvais attraper ta mere,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess151,Ana,09:35:07,j vais te niker ta race toi la,victim_support,OAG,bully_support,THR,DFN,ATK,NEG,1,0,0
+conv29_mess152,Lea,09:35:09,tu te prend pour qui,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv29_mess153,Leo,09:35:21,justine si tu me donne 200 euro je l'enleve la photo,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess154,Lea,09:35:27,tg,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv29_mess155,Lea,09:35:32,tu vas l'enlever,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv29_mess156,Aurelie,09:35:34,800 euro pour moi,bully_support,CAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv29_mess157,Ana,09:35:38,tu fais du chantage en pklus ?,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv29_mess158,Leo,09:35:42,oui,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess159,Leo,09:35:43,ya koi,bully,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1

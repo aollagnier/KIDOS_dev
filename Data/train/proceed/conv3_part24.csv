@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv3_mess139,SilviaVictime,09:36:45,Les Serbe ne sons pas des voleurs c'est des cliché de Fachiste comme toi ça,victim,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv3_mess141,camille,09:36:55,t'as sucé pour passer la frontière ?,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv3_mess142,Soan,09:37:02,Que ça vote le z ici.. ça craint,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv3_mess143,Diana,09:37:16,meme ton pseudo c afait pitie,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv3_mess144,Adrien,09:37:19,bah la le serbe a voler le mec de quelqu’un en l’cccurence,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv3_mess145,Soan,09:37:26,apprends à écrire Diana,victim_support,CAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv3_mess146,Adrien,09:37:36,o,bully,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv3_mess147,Soan,09:37:37,la bite dans la bouche depuis tout à l'heure,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv3_mess148,Diana,09:37:39,les etranger dans l'avion,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv3_mess149,SilviaVictime,09:37:42," MAis c'est grave, qu»es ce que tu coprend pas dans le fait que je suis Française ! je suis net en France et ma mere et Francçaise ! C'est pas complique !",victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv3_mess150,Diana,09:37:58,va crever,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv3_mess151,camille,09:38:03,va te pendre,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv3_mess152,Adrien,09:38:10,mais ton pere le ptn de serbe,bully,NAG,NULL,NULL,OTH,CNS,NEU,0,0,1
+conv3_mess153,Soan,09:38:13,PARDON vous allez beaucoup trop loin,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv3_mess154,camille,09:38:21,fait pas la choquer,bully_support,CAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv3_mess156,Diana,09:38:29,hebert tg toi,bully_support,OAG,conciliator,OTH,ATK,CR,NEG,1,1,1
+conv3_mess157,SilviaVictime,09:38:42,Tu ne fait que répéter ce que tu entend comme un mouton,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv3_mess158,SilviaVictime,09:38:51,Je suis sure que tu ne connait meme pas de Serbe en plus,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv3_mess159,Soan,09:38:52,Sale mouton Diana,victim_support,OAG,bully_support,NCG,EMP,DFN,NEG,1,0,0

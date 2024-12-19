@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv3_mess1,Theo,09:13:10,wsh canapeche,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv3_mess2,Soan,09:13:11,Pourquoi tu dis ça Adrien ?????,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv3_mess3,SilviaVictime,09:13:15,What ?,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv3_mess4,Adrien,09:13:53,Soan ptite pute Soan arrete de pomper a tout va,bully,OAG,victim_support,OTH,AIN,OTH,NEG,1,1,1
+conv3_mess5,Soan,09:14:11,Sérieux tu te prends pour qui ?,victim_support,OAG,bully,OTH,DFN,AIN,NEG,1,0,0
+conv3_mess6,SilviaVictime,09:14:29," T'es serieux, qu'es tu veut Adrien",victim,NAG,NULL,NULL,DFN,AIN,NEG,0,0,0
+conv3_mess7,camille,09:14:30,essuie toi la bouche il ten reste encore un peu,bully_support,CAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv3_mess8,Adrien,09:14:46,en plus t’es trop vilan Soan tu passe pas les portes,bully,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv3_mess10,Adrien,09:15:22,tg,bully,OAG,conciliator,OTH,ATK,CR,NEG,1,1,1
+conv3_mess11,Adrien,09:15:34,t’as pas le droit a la parole femme arrete de parler hebert,bully,OAG,victim/conciliator,OTH,ATK,NULL,NEG,1,1,1
+conv3_mess12,Soan,09:15:49,Et ta mère ?,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv3_mess13,Theo,09:16:16,t'es une pute t'as trahi ta camarde,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv3_mess14,Diana,09:16:48," tu prend les mec des autres, on a toujours su que t'etais une connasse",bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv3_mess16,Soan,09:17:02,C'est votre pote la pute ici,victim_support,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv3_mess17,Adrien,09:17:06,silvia on a toujours dis que t etais une traînée,bully,OAG,victim,NCG,GSL,NULL,NEG,1,1,1
+conv3_mess18,Soan,09:17:07,Pas Silvia,victim_support,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv3_mess19,Adrien,09:17:11,que ca pompe,bully,OAG,victim,NCG,GSL,NULL,NEG,1,1,1
+conv3_mess20,Theo,09:17:12,on va te mmeler,bully_support,OAG,victim_support,THR,ATK,DFN,NEG,1,1,1
+conv3_mess21,camille,09:17:12,ta gueule tu defends une salope,bully_support,OAG,victim/victim_support,OTH,ATK,DFN,NEG,1,1,1

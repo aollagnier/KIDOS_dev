@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv5_mess19,FatimahVictime,11:11:35,Leo..,victim,OAG,bully_support,OTH,DFN,ATK,NEU,1,0,0
+conv5_mess20,julie,11:11:41,tu casse les couilles,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv5_mess21,FatimahVictime,11:11:42,Tu n'as rien à faire ici..,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv5_mess22,Paul,11:11:44,manges du couscous,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv5_mess23,FatimahVictime,11:11:49,C'est entre moi et julie !,victim,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv5_mess24,leo,11:11:58,on va te faire manger du saucisson,bully_support,CAG,victim,THR,ATK,OTH,NEG,1,1,1
+conv5_mess25,coralie,11:12:10,enfaite les gars vous savez pas harceler,victim_support,CAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv5_mess26,julie,11:12:12,trahisonnnnnnnnn,bully,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv5_mess27,coralie,11:12:15,vous etees des breles,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv5_mess28,FatimahVictime,11:12:34,Ils sont nuls !,victim,OAG,bully/bully_support,DNG,DFN,NULL,NEG,1,0,0
+conv5_mess29,coralie,11:12:41,grave,victim_support,NAG,NULL,NULL,EMP,DFN,POS,0,0,0
+conv5_mess30,FatimahVictime,11:12:46,mdr,victim,NAG,NULL,NULL,OTH,EMP,POS,0,0,0
+conv5_mess31,leo,11:12:51,coralie ferme ta gueule toi aussi t'es une petasse,bully_support,OAG,victim_support,OTH,ATK,EMP,NEG,1,1,1
+conv5_mess32,julie,11:12:53,t'es Fatigué,bully,CAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv5_mess33,Paul,11:12:54,ah parce que c'est un job maintenant,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv5_mess34,FatimahVictime,11:13:01,Bon Julie,victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv5_mess35,coralie,11:13:04,octogone quand tu veux leo77,victim_support,OAG,bully_support,THR,DFN,ATK,NEG,1,0,0
+conv5_mess36,FatimahVictime,11:13:13,tu peux me promettre que tu vas arrêter ?,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv5_mess37,coralie,11:13:14,avec ton corps tout frele,victim_support,OAG,bully_support,THR,DFN,ATK,NEG,1,0,0
+conv5_mess38,leo,11:13:21,coralie et fatimah c'est des salopes,bully_support,OAG,victim/victim_support,NCG,ATK,NULL,NEG,1,1,1
+conv5_mess39,FatimahVictime,11:13:28,ce sont *,victim,CAG,bully_support,DNG,DFN,ATK,NEG,1,0,0

@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv9_mess13,Silvia,15:44:57,je suis là et je ne suis pas une p...,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv9_mess14,Adrien,15:45:02,diana parle fr,bully,NAG,NULL,NULL,AIN,AIN,NEG,0,1,1
+conv9_mess15,diana,15:45:06,hahhahahahha trp drole,bully_support,CAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv9_mess16,Adrien,15:45:12,silvia je tbz ta mere,bully,OAG,victim,THR,ATK,CNS,NEG,1,1,1
+conv9_mess17,diana,15:45:16,wallah va te pendre fr,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv9_mess18,Adrien,15:45:17,ton pere ton fils je les bz sale pute,bully,OAG,victim,THR,ATK,CNS,NEG,1,1,1
+conv9_mess19,Silvia,15:45:31,arrêtez ça ne sert à rien de s'insulter comme ça,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv9_mess20,diana,15:45:32,prq tu vole les mecs des gens stp,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv9_mess21,Soan,15:45:34,Mais ferme là Adrien,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv9_mess22,Lucie,15:45:34,arrêtez d'insulter,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv9_mess23,Theo,15:45:47,"elle a encore une bite da,s la bouche c pour ca que l'on comprend pas",bully_support,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv9_mess24,Silvia,15:45:49,"je n'ai rien volé, lucas m'a dit que c t fini avec Sophie",victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv9_mess25,diana,15:45:50,nn mais la jparle  serieux enft,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv9_mess26,Soan,15:45:53,Oh elle savait même pas donc fermez là,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv9_mess27,diana,15:45:54,prq ta fait ca pttttdrr,bully_support,NAG,NULL,NULL,OTH,CNS,NEU,0,0,1
+conv9_mess28,Adrien,15:46:02,voler quel mec t as vu a quoi elle ressemble,bully,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv9_mess29,Soan,15:46:05,C’est Lucas la pute dans l’histoire,victim_support,OAG,NULL,NCG,DFN,OTH,NEG,1,0,0
+conv9_mess30,Theo,15:46:11,sa rejete la fauter sur les autres,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv9_mess31,Adrien,15:46:12,meme shreck veut pas delle,bully,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv9_mess32,Silvia,15:46:13,j'ai rien fait c'est lui qui m'a demandé,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv9_mess33,diana,15:46:19,comme par hasard elle a tt oublié,bully_support,CAG,victim,OTH,GSL,CNS,NEG,1,1,1

@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv22_mess38,justine,10:32:04,mec tg julien,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess39,Julien,10:32:16,toi tg retourne faire la vaisselle,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv22_mess40,Selena,10:32:30,Julien au pire défoule toi autrement non,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv22_mess41,Julien,10:32:47,jme defoule pas je dis quie la verite,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv22_mess42,justine,10:32:49,moi a moins je suis pas un iench,victim_support,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv22_mess43,brice,10:32:50,tg selena il se defoule en mangeant lui ce zgeg,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv22_mess44,Arthur,10:32:55,Il va exploser après,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv22_mess45,Thibaut,10:32:55,mais frerot tu es cringe,victim_support,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv22_mess46,Paul,10:33:06,"brice tg, ce n'est pas vrai que je mange beaucoup, je suis né comme ça, j'ai juste de gros os",victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess47,justine,10:33:12,ho no cringe,victim_support,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv22_mess49,Julien,10:33:26,c'est sque jdis t ne gros,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv22_mess50,Thibaut,10:33:51,bah voila c pas sa faute,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv22_mess51,justine,10:33:57,voila,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv22_mess52,Julien,10:34:01,jmen blc,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv22_mess53,brice,10:34:07,pierre ta soeur la chauve qui sort avk un aksel,bully,OAG,conciliator,OTH,ATK,OTH,NEG,1,1,1
+conv22_mess54,justine,10:34:18,?,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv22_mess55,Selena,10:34:23,c'est quoi ton problème ? Qu'est ce que tu veux pour arrêter,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess56,justine,10:34:24,wtf bro,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess57,brice,10:34:40,ta mere pour arrettez,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1

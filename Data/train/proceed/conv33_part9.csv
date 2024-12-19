@@ -1,0 +1,19 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv33_mess49,Coralie,11:37:36,et toi retourne en enfer sal epute de julie,victim_support,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv33_mess50,Julie,11:37:41,frere tas vu ta main tu t'es tatoué avec de la lmerde,bully,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv33_mess51,Fatimah,11:37:48,julie mais retourne dans ta campagne a baiser les chèvre bouzeuse,victim,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv33_mess53,Léo,11:38:31,Fatimah-Victime bah c'est àa dégueule au lieu d'causer là,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv33_mess54,Fatimah,11:38:33,en fait t'es juste trop jalouse,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv33_mess55,Coralie,11:38:49,"c'est magnifique,  dommage que tu sois jalouse de fatimah",victim_support,NAG,NULL,NULL,EMP,DFN,NEG,0,0,0
+conv33_mess56,Julie,11:39:00,jalouse de tya peau mi jaune mi marron,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv33_mess57,Pierre,11:39:01,mais cest une sale jalouse elle a rien a faire de sa vie et ta peau blanche a toi,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv33_mess58,Fatimah,11:39:23,"ben ouais,  jcrois qu't'es jalouse de ma peau",victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv33_mess59,Julie,11:39:27,jalouse de quoi mon pote tu me dégoute,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv33_mess61,Coralie,11:39:34,t'es blanche comme un cul tyu crois t'es mieux julie ?,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv33_mess62,Fatimah,11:39:38,"normal quand on voit la tienne, toute blanche (euh pardon rouge sous le soleil)j'aurai honte moi",victim,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv33_mess63,Coralie,11:39:51,Eh vzy 1v1 demain julie jv bz,victim_support,OAG,bully,THR,DFN,ATK,NEG,1,0,0
+conv33_mess64,Fatimah,11:39:55,une vraie babtou,victim,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv33_mess65,Julie,11:40:00,coralie tes de quelle couleur toi lol,bully,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv33_mess67,Coralie,11:40:13,moi jsuis noire c'est encore mieux,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv33_mess68,Fatimah,11:40:29,prends ça julie,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv33_mess69,Julie,11:40:32,comme la femme qui lave mes chiottes,bully,CAG,victim_support,DNG,ATK,DFN,NEG,1,1,1

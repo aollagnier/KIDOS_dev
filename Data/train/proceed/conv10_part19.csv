@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv10_mess109,Silvia,16:07:40,Et toi Sohpie tu es bien conne de croire tout ce qu'on te raconte,victim,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv10_mess111,Adrien,16:07:54,Tu veux voir la photo,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv10_mess112,Silvia,16:07:55,Lucas il te le dira,victim,OAG,bully,NCG,DFN,ATK,NEU,1,0,0
+conv10_mess114,Silvia,16:08:04,putain tu fais plus confiance à Adrien qu'à ton mec,victim,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv10_mess115,michel,16:08:11,alors parle lui avant de croire adrien ce con,victim_support,OAG,bully_support,NCG,EMP,DFN,NEG,1,0,0
+conv10_mess116,Sophie,16:08:11,déjà m'interpelle même pas on est pas pote,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv10_mess117,Lisa,16:08:12,mdr  tu ma bien tuer mais ca va comment les séances de réducation ? tarrive a remarcher ??,bully_support,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv10_mess118,Silvia,16:08:14,quelle photo povr merde,victim,OAG,bully_support,OTH,DFN,OTH,NEG,1,0,0
+conv10_mess119,Adrien,16:08:23,Logique je suis exceptionnel,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv10_mess120,Silvia,16:08:25,tu piques mes répliques Lisa?,victim,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv10_mess121,Silvia,16:08:28,teubé va,victim,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv10_mess122,michel,16:08:34,mais quelle merde,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv10_mess123,Sophie,16:08:40,laisse Lisa trql,bully,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv10_mess124,Adrien,16:08:45,La triz qui traite les autres de teube,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv10_mess125,Silvia,16:08:49,Donc tu es plus exceptionnel que son mec?,victim,CAG,bully_support,OTH,OTH,OTH,NEG,1,0,0
+conv10_mess126,Sophie,16:08:52,t'as rien à dire sous merde,bully,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv10_mess127,Silvia,16:08:54,t'avoues du coup?,victim,CAG,bully_support,OTH,OTH,OTH,NEG,1,0,0
+conv10_mess128,Silvia,16:08:58,tu veux la pécho,victim,CAG,bully_support,OTH,OTH,OTH,NEG,1,0,0
+conv10_mess129,Silvia,16:09:08,je suis en train de te parler débile,victim,OAG,bully,NCG,DFN,ATK,NEG,1,0,0

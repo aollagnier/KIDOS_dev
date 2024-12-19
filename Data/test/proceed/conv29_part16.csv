@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv29_mess91,Ana,09:28:07,ton gros crane leo,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv29_mess92,Justine,09:28:08,mais juste vire la si tu l'aime pas,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv29_mess93,Lea,09:28:11,c'est toi t'es genant tu fais que parler de ca,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv29_mess94,Justine,09:28:17,exactement !,victim,NAG,NULL,NULL,EMP,DFN,NEU,0,0,0
+conv29_mess95,Aurelie,09:28:29,il va bruler comme ses ancetres,bully_support,OAG,victim,OTH,ATK,EMP,NEG,1,1,1
+conv29_mess96,Justine,09:28:31,pourquoi tu fais une fixette sur mon frère ? tu le kiffe ?,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv29_mess97,Leo,09:28:38,fixette,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess98,Lea,09:28:38,sale pedo,victim_support,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv29_mess99,Leo,09:28:42,sale pd,bully,OAG,victim_support,NCG,ATK,DFN,NEG,1,1,1
+conv29_mess100,Lea,09:29:13,Laisse le gosse tranquille et achete lui des beyblades,victim_support,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv29_mess101,Leo,09:29:20,jsuis pauvre frr,bully,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess102,Leo,09:29:22,vzy toi,bully,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess103,Aurelie,09:29:32,comparé A eux,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv29_mess104,Justine,09:29:44,vire la photo et laisse nous tranquille serieux,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv29_mess105,Lea,09:29:44,sale pick me,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv29_mess106,Lea,09:30:00,Aurelie tu sers a rien,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv29_mess107,Leo,09:30:01,si j'enleve j'ai quoi en echange,bully,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv29_mess109,Lea,09:30:11,venez juste vous les laissez tranquille,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv29_mess110,Aurelie,09:30:29,non trop simple,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv29_mess111,Lea,09:30:46,mais t'es le iench de leo ou quoi,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0

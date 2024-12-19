@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv36_mess67,julie,10:35:27,nana mais fatimah t laide tu plaies a personne,bully,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv36_mess68,Leo,10:35:38,mais arrête de toucher les mecs avec tes doigts crades wsh,bully_support,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv36_mess69,Fatimah,10:35:45,"ça te pose un soucis, par ce que Kate c'est mieux peut etre ? fatimah c'est trés jolie et je suis fiere de porté ce prénom",victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv36_mess70,Pierre,10:35:51,ftg julie retourne en schimio,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv36_mess71,kate,10:36:03,bah kate c'est deja plus francais quoi ptdrrr,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess72,Leo,10:36:08,pierre va avec ton immigré et tais toi bnande de crades,bully_support,OAG,victim/victim_support,OTH,ATK,NULL,NEG,1,1,1
+conv36_mess73,Fatimah,10:36:20,julie Pourquoi tu as si peut alors ?,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv36_mess74,Coralie,10:36:30,ça va tu va bien paul83,victim_support,CAG,bully_support,OTH,OTH,NULL,NEG,1,0,0
+conv36_mess75,paul,10:36:36,bsahtek on ta pas demander si t'etait fier de porter ton prenom ont s'en blc,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess76,Fatimah,10:36:44,julie Pourquoi tu as si peure alors ?,victim,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv36_mess77,Leo,10:36:48,grvvv mdr tg l'immigré,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess78,Pierre,10:37:02,go back to the kicthen kate83,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv36_mess79,julie,10:37:06,vraiment fatimah tu casses les couilles a tout  le monde,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv36_mess80,Coralie,10:37:15,non,victim_support,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv36_mess81,Leo,10:37:16,retourne manger du cochon,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess83,julie,10:37:27,comment des gens peuvent te defendre,bully,OAG,victim,OTH,ATK,EMP,NEG,1,1,1
+conv36_mess84,Coralie,10:37:27,me too,victim_support,NAG,NULL,NULL,OTH,EMP,NEU,0,0,0
+conv36_mess85,Fatimah,10:37:30,paul83 arrete d'etre le chienchien de Kate et Julie et réfléchie par toi meme un peu,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv36_mess86,paul,10:37:35,sandrine suceuse,bully_support,OAG,conciliator,DNG,ATK,EMP,NEG,1,1,1
+conv36_mess87,Leo,10:37:37,ptdrr pierre est sexiste mais il nous traite de rasciste,bully_support,OAG,victim_support,NCG,ATK,DFN,NEG,1,1,1

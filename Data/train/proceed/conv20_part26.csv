@@ -1,0 +1,19 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv20_mess151,Theo,10:40:31,deja vous bz pas vous etes tous puceaux,victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv20_mess152,Ellian,10:40:37,wsh arthur parle pas mal de melissandre comme sa,bully,OAG,victim_support,OTH,AIN,ATK,NEG,1,1,1
+conv20_mess154,Theo,10:40:44,Ellian sinon quoi ? c toi la victime mtn ?,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv20_mess155,Ellian,10:40:51,elle est trop fraiche wsh,bully,OAG,victim_support,OTH,AIN,ATK,NEG,1,1,1
+conv20_mess156,Theo,10:41:01,Venez on ignore Ellian,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv20_mess157,Paul,10:41:04,Ellian si tu veux pas qu'on redevienne ami c'est pas grave mais toi et tes potes laissez moi tranquille je ne vous ai rien fait,victim,NAG,NULL,NULL,DFN,AIN,NEG,0,0,0
+conv20_mess158,Theo,10:41:08,comme ça il arrete ses betises Nan nan On ignore juste il changera pas,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv20_mess159,Theo,10:41:24,laissons le dans sa solitude éternelles sans s tomatis va me frapper,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv20_mess160,Arthur,10:41:37,elle mange bien à la cantine un oeu comme lisa,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv20_mess161,Theo,10:42:02,Elle au moins elle mange ta soeur elle est morte de faim la semaine derniere tu veux qu'on en parle ? arthur,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv20_mess162,lisa,10:42:27,bon vient Elliann quon regle nos soucie en irl,victim_support,NAG,NULL,NULL,CR,ATK,NEU,0,0,0
+conv20_mess163,Theo,10:42:43,j'avoue,victim_support,NAG,NULL,NULL,OTH,CR,NEU,0,0,0
+conv20_mess164,lisa,10:42:44,et theo pas la peine de dire que jsuis grosse,victim_support,NAG,NULL,NULL,OTH,DFN,NEG,0,0,0
+conv20_mess165,Theo,10:42:49,ramene toi on parle tranquillement,victim_support,NAG,NULL,NULL,CR,NULL,NEU,0,0,0
+conv20_mess167,Theo,10:43:01,tu vas texcuser envers Paul,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv20_mess168,Paul,10:43:10,c'est tout ce que j'attends,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv20_mess169,Ellian,10:43:21,ta mere le gay,bully,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv20_mess170,Arthur,10:43:22,theo redescend un peu t'es pd avec paul?,bully_support,OAG,victim/victim_support,OTH,ATK,NULL,NEG,1,1,1

@@ -1,0 +1,19 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv3_mess79,Adrien,09:25:37,t’as aucune dignité et Soan pareil,bully,OAG,victim/victim_support,DNG,ATK,CNS,NEG,1,1,1
+conv3_mess81,Soan,09:25:39,soyez intelligent Adrien tg,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv3_mess82,Theo,09:25:48,t'es une pute et tu resteras toujours une pute,bully_support,OAG,victim_support,NCG,ATK,DFN,NEG,1,1,1
+conv3_mess83,Soan,09:26:05,tu prends ton seum theo car tu voulais pécho Silvia ? que ça mange son seum..,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv3_mess84,Diana,09:26:38,je suis sur silvia tes trans,bully_support,OAG,victim,OTH,AIN,NULL,NEG,1,1,1
+conv3_mess85,Theo,09:26:40,je l'ai bz comme ta mère,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv3_mess86,SilviaVictime,09:26:47," Adrien et ton fan club la, donne t'es arguement ?? qu'es que tu invente, t'as vue quoi d'apres toi ?",victim,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv3_mess87,Adrien,09:27:05,j’ai vu c tout,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv3_mess88,SilviaVictime,09:27:11,C'est toi uqi vien me parler,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv3_mess89,Adrien,09:28:34,mais ferme ta gueule ?,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv3_mess91,Soan,09:28:45,Adrien tu te prends pour qui tu parles trop mal frr,victim_support,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv3_mess92,Diana,09:29:00," silvia va ken hebert il a l'air detre chaud vu que toi ca te"" derange pas",bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv3_mess93,SilviaVictime,09:29:03,Quelle est le rapport avec le fait que je suis d'orgine Serbe ?,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv3_mess94,Soan,09:29:13,Ils sont racistes fort ici,victim_support,OAG,bully/bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv3_mess95,Adrien,09:29:19,ces putain de serbes de merdes,bully,OAG,victim,DNG,ATK,NULL,NEG,1,1,1
+conv3_mess97,Adrien,09:29:24,tous les memes,bully,OAG,victim,DNG,ATK,NULL,NEG,1,1,1
+conv3_mess98,SilviaVictime,09:30:18,Comme ça tous les meme ??,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv3_mess99,Soan,09:30:31,choqué du niveau de racisme,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0

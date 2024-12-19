@@ -1,0 +1,15 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv21_mess133,Selena,09:27:41,Arthur et les minimoys,victim_support,OAG,bully/bully_support,NCG,DFN,NULL,NEG,1,0,0
+conv21_mess135,julien,09:27:49,mais cassez vous  d ici faut profiter de la vie,bully_support,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv21_mess136,Arthur,09:28:01,qu'est ce tu veut Selena,bully_support,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv21_mess137,julien,09:28:02,si vous savez pas vous amuser c votre probleme,bully_support,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv21_mess140,brice,09:28:23,nous on veut juste l'aide paul en vrai le pauvre faut qu'il comprenne qu'il est énorme,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv21_mess141,Thibaut,09:28:27,mais frere en quoi c amusant,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv21_mess143,brice,09:28:48,je sais on me le dit souvent,bully,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv21_mess144,Arthur,09:28:48,Elle se mêle de chose qui la regarde pas,bully_support,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv21_mess145,Thibaut,09:28:51,je vais te pisser dessus et tu me diras si c amusant,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv21_mess147,julien,09:28:53,il faut qu il fasse un regime et on les seuls a lui faire comprendre,bully_support,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv21_mess148,Thibaut,09:28:54,ok mon con,victim_support,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv21_mess149,Paul,09:29:05,MAis arrete de faire genre brice !,victim,NAG,NULL,NULL,DFN,AIN,NEG,0,0,0
+conv21_mess150,Thibaut,09:29:10,mais t vraiment con ma parole julien,victim_support,OAG,bully_support,NCG,DFN,AIN,NEG,1,0,0
+conv21_mess152,Thibaut,09:29:24,je te jure je vais te casser la gueule,victim_support,OAG,bully_support,THR,DFN,AIN,NEG,1,0,0

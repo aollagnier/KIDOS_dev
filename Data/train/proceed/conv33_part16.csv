@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv33_mess91,Coralie,11:44:25,tu ft pitié julie,victim_support,CAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv33_mess92,Léo,11:44:27,Tu fais genre t'es religieuse et tt mais les meufs comme vous on sait ce que ça fait en planque après les cours,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv33_mess93,Fatimah,11:44:52,mais c'est vous qui avez un pb avec la religion,victim,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv33_mess94,Pierre,11:44:54,tu fait pitié,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv33_mess95,Coralie,11:45:01,qu'es ce que t'y connais toi,victim_support,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv33_mess96,Fatimah,11:45:02,"c'est toi qu'en parle tout le temps moi juste, jvis ma vie",victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv33_mess97,Coralie,11:45:25,les religieux sont bien plus eduqués que vous déja,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv33_mess98,Fatimah,11:45:27,"ouais vzy, explique toi",victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv33_mess99,Pierre,11:45:34,grave,victim_support,NAG,NULL,NULL,EMP,DFN,NEG,0,0,0
+conv33_mess100,Léo,11:45:39,Bah retourne faire ta vie en Algérie stp,bully_support,CAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv33_mess101,Fatimah,11:45:40,dite nous julie et LeoSoutienduharc,victim,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv33_mess102,Coralie,11:45:43,eux ils sucent pas des grosses bites a longueur de journee,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv33_mess104,Julie,11:46:20,cool,bully,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv33_mess105,Coralie,11:47:07,assume enft,victim_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv33_mess106,Julie,11:47:07,ta grosse mere la pute je vais tenculer dans ton berceau tume connaispas moi,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv33_mess107,Fatimah,11:47:20,grosse gamine ouèch,victim,CAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv33_mess108,Julie,11:47:24,jsuuis une folle moi,bully,NAG,NULL,NULL,OTH,NULL,NEG,0,0,1
+conv33_mess109,Léo,11:47:29,mdrrrrrrrrrrrrrrr,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv33_mess110,Coralie,11:47:40,ohhhh viens essaie mon cul il s'ouvre pas pour toi dsl,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv33_mess111,Fatimah,11:47:43,"la meuf se lache,  elle crois quoi",victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0

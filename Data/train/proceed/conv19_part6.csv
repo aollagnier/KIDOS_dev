@@ -1,0 +1,16 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv19_mess32,Paul,12:49:00,j'assume totalement et je suis révolté par vos attitudes de l'ancien temps,victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv19_mess33,LisaLaBoss,12:49:03,homophobe,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv19_mess34,LisaLaBoss,12:49:05,homophobe homophobe,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv19_mess35,Nicola,12:49:07,paul frr vrm tu me degoute,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv19_mess37,Nicola,12:49:15,je te vois je vomis sur toi,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv19_mess38,Nicola,12:49:20,sal pd,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv19_mess39,Arthur,12:49:21,gay,bully_support,OAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv19_mess41,Ellian,12:49:27,"""revolte"" bahahaha t'as 50 ans comme ton mec",bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv19_mess42,theo,12:49:33,Arrêtés de vous répétez sayer apaiser votre âme,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv19_mess43,Nicola,12:49:34,PAUL DOIT MOURIR,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv19_mess45,Camikaz,12:49:38,paullivesmatter,victim_support,NAG,NULL,NULL,EMP,DFN,NEU,0,0,0
+conv19_mess48,Ellian,12:49:42,il vas sur Pornhub Gay ce fils de pute,bully,OAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv19_mess49,Nicola,12:49:46,brice aussi tu merite la mort wsh,bully_support,OAG,conciliator,DNG,ATK,DFN,NEG,1,1,1
+conv19_mess50,Paul,12:49:55,Oui c'est condamnable !!!,victim,NAG,NULL,NULL,EMP,CR,NEU,0,0,0
+conv19_mess51,theo,12:49:56,oe,victim_support,CAG,bully,OTH,DFN,ATK,NEG,1,0,0

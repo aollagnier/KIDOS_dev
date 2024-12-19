@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv4_mess31,Pierre,11:36:28,avec d'autres qui n'aiment pas les arabes comme toi,bully_support,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv4_mess32,Nicolas,11:36:34,tu nike ta mere plutot et encore,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv4_mess33,Fatima,11:36:35,il est tlmt ptit qu on verra rien tkt terasa,victim,CAG,bully/bully_support,OTH,EMP,DFN,NEG,1,0,0
+conv4_mess34,Nicolas,11:36:42,si quelqu un te veux,bully_support,OAG,victim,DNG,ATK,EMP,NEG,1,1,1
+conv4_mess36,Pierre,11:36:49,ooooh theresa tu me chauffes tu veux le meme sort?,bully_support,OAG,victim_support,THR,ATK,DFN,NEG,1,1,1
+conv4_mess37,Nicolas,11:37:06,ta 12 ans tu fait la grande ta pote et a pooile sur la plage et se plaint apres,bully_support,OAG,victim,BLM,ATK,NULL,NEG,1,1,1
+conv4_mess38,Pierre,11:37:13,theo arrete de defendre vrm on dirait que t'es pas francais,bully_support,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv4_mess39,Pauline,11:37:13,appelez carla elle va faire la sorcellerie jai des contacts,bully,OAG,victim/victim_support,THR,ATK,NULL,NEG,1,1,1
+conv4_mess40,Fatima,11:37:17,mai a poil de koi,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv4_mess41,Teresa,11:37:19,mais oui il fait le beau parceque t'es une gadjis mais devant un mec il ferra rien,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv4_mess42,Pauline,11:37:34,tg toi,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv4_mess43,Fatima,11:37:36,la pauline on voyait son cul et elle vient m harceler apres la,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv4_mess44,Nicolas,11:37:40,apel plutot anaé,bully_support,OAG,victim/victim_support,OTH,AIN,ATK,NEG,1,1,1
+conv4_mess45,Pauline,11:37:51,j'en ai un moi au moins,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv4_mess46,Pierre,11:37:54,en attendant elle elle avait le droit,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv4_mess47,Nicolas,11:37:55,ily aura que elle qui va te repondre mdr,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv4_mess48,Teresa,11:38:00,oe ta raison c la plus grosse des pute,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv4_mess49,Pierre,11:38:02,parce qu'elle elle est dans son pays,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv4_mess50,Teresa,11:38:07,hein pauline,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv4_mess51,Pauline,11:38:18,teresa ftg va a l'eglise,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1

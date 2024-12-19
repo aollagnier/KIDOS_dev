@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv8_mess79,Soan,09:36:35,Lucas est en faute,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv8_mess80,Diana,09:36:40,mais c'est lu ne voulais pas l'embrasser,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv8_mess81,Lucie,09:36:46,elle lui doit rien a sophie,victim_support,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv8_mess82,Soan,09:36:58,Vanessa as raison vous le suivez comme des chiens,victim_support,OAG,bully_support,DNG,EMP,DFN,NEG,1,0,0
+conv8_mess83,Theo,09:37:04,dit il,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv8_mess84,Camille,09:37:04,moi je dit lucas c un chien et silvia une chienne donc trkl ca va bien ensemble,bully_support,OAG,victim,DNG,ATK,NULL,NEG,1,1,1
+conv8_mess85,Lucie,09:37:17,Vanessa presidente,victim_support,NAG,NULL,NULL,EMP,DFN,POS,0,0,0
+conv8_mess86,Soan,09:37:22,Camille tu sert à rien,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv8_mess87,Adrien,09:37:28,lucas c'est fait attaché par l'autre grosse folle,bully,CAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv8_mess88,Lucie,09:37:31,parle mieux de ma pote,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv8_mess89,Theo,09:37:38,Soan le bouche trou,bully_support,OAG,victim_support,NCG,ATK,DFN,NEG,1,1,1
+conv8_mess90,Diana,09:37:38,c'est de la faute de Silvia doc qu'elle aille se faire enculer ailleurs,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv8_mess93,Lucie,09:37:51,oui,victim_support,NAG,NULL,NULL,EMP,CNS,NEU,0,0,0
+conv8_mess94,Silvia,09:38:00,tout ca alors que c'est lucas qui m'a embrassé,victim,OAG,bully_support,NCG,DFN,ATK,NEU,1,0,0
+conv8_mess95,Lucie,09:38:04,totalement,victim_support,NAG,NULL,NULL,EMP,CNS,NEU,0,0,0
+conv8_mess96,Adrien,09:38:14,Lucas a rien fait c'est Silvia cette chaudasse,bully,OAG,victim,NCG,ATK,CNS,NEG,1,1,1
+conv8_mess97,Silvia,09:38:17,vous etes de ouf,victim,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv8_mess98,Soan,09:38:18," Adrien t'est jaloux c'est ça, t'aimerais bien galoche Silvia c'est pour ça que tu l'harcelle",victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv8_mess99,Diana,09:38:18,denonce Silvia #violeuse,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1

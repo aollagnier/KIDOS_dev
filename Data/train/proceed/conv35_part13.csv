@@ -1,0 +1,19 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv35_mess74,Paul,15:46:58,tu vas faire quoi fatima ?? exploser de colère ?,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv35_mess75,Coralie,15:47:06,vous etes tous mechant elle fait rien et vous dites sa,victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv35_mess76,Pierre,15:47:08,tu fait la meme t a ta pote qui vien et qui te renifle le cul,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv35_mess77,Julie,15:47:35,qu’elle degage l’algérienne de mes couilles la,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv35_mess78,Fatimah,15:47:37,vous avez pas d'éducation ça craint,victim,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv35_mess79,Kate,15:47:53,J’avoue Julie,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv35_mess80,Coralie,15:48:01,ouais c est vrai fatimah a rasion,victim_support,NAG,NULL,NULL,EMP,DFN,NEG,0,0,0
+conv35_mess81,Pierre,15:48:04,kate tu fait la meme,victim_support,OAG,bully,DNG,DFN,AIN,NEG,1,0,0
+conv35_mess82,Kate,15:48:06,Retourne dans ton pays fatimah Avec ta vieille tête la,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv35_mess83,Fatimah,15:48:17,Ca vous fait quoi que je sois algérienne,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv35_mess85,Pierre,15:48:27,tu arrive et tu lui saute dessus c pas unb morceau de viande laisse la,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv35_mess86,Paul,15:48:35,on est pas trop fan d'epices par ici,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv35_mess87,Julie,15:48:36,casse toi va manger du couscous,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv35_mess89,Pierre,15:48:44,meuf ta redoubler 3 fois parle pas,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv35_mess90,Fatimah,15:48:53,mais voila laissez moi tranquille,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv35_mess91,Kate,15:49:12,Bah laisse les mecs trkl alors,bully,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv35_mess92,Pierre,15:49:16,et toi va manger autre chose que la queue de ta pote,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv35_mess93,Julie,15:49:18,pauline jte jure ferme la avant que jten colle une,bully,OAG,conciliator,THR,ATK,DFN,NEG,1,1,1

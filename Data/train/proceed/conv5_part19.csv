@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv5_mess109,leo,11:23:42,va la mosquée grosse folle,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv5_mess110,leo,11:24:01,ta trop la rage,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv5_mess111,FatimahVictime,11:24:07,Julie c'est avec toi que ça se passe,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv5_mess112,Paul,11:24:21,Fatigras,bully_support,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv5_mess113,coralie,11:24:28,leo toi t'es vraiment comme les autres,victim_support,NAG,NULL,NULL,OTH,OTH,NEG,0,0,0
+conv5_mess114,julie,11:24:28,va bouffer ton couscous,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv5_mess115,FatimahVictime,11:24:31,maintenant promets moi que tu vas arrêter,victim,NAG,NULL,NULL,OTH,ATK,NEG,0,0,0
+conv5_mess116,coralie,11:24:37,"mais developppe change tesz argume,ts",victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv5_mess117,julie,11:24:42,non tg,bully,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv5_mess118,coralie,11:24:48,grosse merde,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv5_mess119,leo,11:24:51,on va pas arreter c que le debut on va t'harceler toute la vie on va venir devant chez toi on va te bz,bully_support,OAG,victim,THR,ATK,OTH,NEG,1,1,1
+conv5_mess120,coralie,11:25:12,#une pensé pour paul le con,victim_support,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv5_mess121,julie,11:25:12,t'as cas crever,bully,OAG,victim,THR,AIN,ATK,NEG,1,1,1
+conv5_mess122,coralie,11:25:22,biienn suuur,victim_support,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv5_mess123,Paul,11:25:28,au pire tu veux pas rentrer chez toi et cassez les couilles a ta famille,bully_support,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv5_mess124,FatimahVictime,11:25:35,Je me sens pas bien quand vous faîtes ça..,victim,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv5_mess125,leo,11:25:37,coralie sa se voit c un modo discord,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv5_mess126,coralie,11:25:47,leo77 t'es un squellette frerot tu vas rien faire c'est quoi ca ? modo ?,victim_support,CAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv5_mess127,Paul,11:26:10,si il te soulève il est fort,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv5_mess128,coralie,11:26:14,non,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv5_mess129,leo,11:26:18,bahaha va faire du sport,bully_support,CAG,victim_support,OTH,ATK,CNS,NEG,1,1,1

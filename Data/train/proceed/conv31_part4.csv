@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv31_mess19,Justine,11:35:46,Quel est ton probleme Guillaume?!,victim,NAG,NULL,NULL,OTH,NULL,NEG,0,0,0
+conv31_mess20,Ana,11:35:46,pardon???,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv31_mess21,lea,11:35:47,arreter de l'insulter,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv31_mess22,gillom,11:35:47,jaim pa les juifs psk ils sont tah pa bo,bully,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv31_mess23,Isabelle,11:35:53,ferme la,bully_support,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv31_mess24,gillom,11:35:54,en plus ils on tro darjen et tout,bully,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv31_mess25,Isabelle,11:35:57,javoue,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv31_mess26,Aurelie,11:35:57,carrement,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv31_mess27,lea,11:36:13,c'est parce que vous aimez pas que faut l'insulter,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv31_mess28,Isabelle,11:36:16,oh tg,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv31_mess29,gillom,11:36:20,vous o moins vou etes pa juif,bully,CAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv31_mess30,Justine,11:36:28,"C'est ma religion, vous ne devez pas la partager",victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv31_mess31,gillom,11:36:28,tavais qua pas la partager,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv31_mess32,Ana,11:36:34,mais pk juste soit logique dans ton raisonnement? Gillom ?,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv31_mess33,gillom,11:36:35,konass,bully,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv31_mess34,Aurelie,11:36:42,t'as qu'a pas la partager toi meme,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv31_mess35,Isabelle,11:36:46,bah c pour ca l'expose pas et t'aura pas de commantaire,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv31_mess36,lea,11:36:49,il faut la respecter,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv31_mess37,gillom,11:37:06,bv,bully,OAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv31_mess38,gillom,11:37:13,nn on respect pa waich,bully,OAG,victim,OTH,ATK,EMP,NEG,1,1,1
+conv31_mess39,Justine,11:37:13,Merci Lea!,victim,NAG,NULL,NULL,OTH,EMP,NEU,0,0,0

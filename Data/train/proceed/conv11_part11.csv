@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv11_mess61,lucie,12:47:44,c’est qui eux même? angelina jolie et brad pitt?,victim_support,CAG,NULL,OTH,DFN,OTH,NEG,1,0,0
+conv11_mess62,camille,12:47:47,ba apres cest lucas le connard,bully_support,CAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv11_mess63,theo,12:47:51,« je vais pas pleurer » mdr chiale,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv11_mess64,lucie,12:47:58,à part eux même personne n’a rien à cirer de leur couple,victim_support,CAG,NULL,OTH,DFN,OTH,NEU,1,0,0
+conv11_mess65,Silvia,12:48:09,theo t'es lourd de ouf,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv11_mess66,theo,12:48:27,retourne dans ton pays salope,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv11_mess67,Silvia,12:48:37,je suis dans mon pays !,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv11_mess68,camille,12:48:41,bon les gars sylvia elle fait que sucer les profs,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv11_mess69,lucie,12:49:01,oh theo tu pete juste le seum prsk t’as pas réussi à pecho silvie c’est tout,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv11_mess70,Silvia,12:49:07,Camille t'es nul,victim,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv11_mess72,theo,12:49:19,meme pas tu respecte son prenom,bully_support,NAG,NULL,NULL,OTH,DFN,NEG,0,0,1
+conv11_mess73,lucie,12:49:21,c’est pas prks ton pote a réussi que tu dois peter ton seum comme ça,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv11_mess74,Silvia,12:49:27,c'est trop facile d'insulter les autres surtout quand on est devant son écran,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv11_mess75,camille,12:49:34,euh fgtg,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv11_mess76,theo,12:49:37,tu veux on t’insulte en face ?,bully_support,OAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv11_mess77,lucie,12:49:45,oh donc ça te touche que je respecte pas son prénom,victim_support,CAG,bully_support,OTH,DFN,OTH,NEG,1,0,0
+conv11_mess79,lucie,12:49:50,prsk tu l’aime trop c’est ça,victim_support,CAG,bully_support,OTH,DFN,OTH,NEG,1,0,0
+conv11_mess80,Silvia,12:49:52,grave !,victim,NAG,NULL,NULL,EMP,DFN,NEU,0,0,0
+conv11_mess81,lucie,12:49:52,trop fan d’elle,victim_support,CAG,bully_support,OTH,DFN,OTH,NEG,1,0,0

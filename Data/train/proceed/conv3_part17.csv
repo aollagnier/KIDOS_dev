@@ -1,0 +1,19 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv3_mess97,Adrien,09:29:24,tous les memes,bully,OAG,victim,DNG,ATK,NULL,NEG,1,1,1
+conv3_mess98,SilviaVictime,09:30:18,Comme ça tous les meme ??,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv3_mess99,Soan,09:30:31,choqué du niveau de racisme,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv3_mess100,Adrien,09:30:32,tu sais de quoi je parle salope,bully,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv3_mess101,SilviaVictime,09:30:35,Explique toi !,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv3_mess102,Adrien,09:30:41,articule stp,bully,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv3_mess103,Diana,09:30:48,parle francais le reuf stp,bully_support,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv3_mess105,Adrien,09:32:09,hebert ?,bully,NAG,NULL,NULL,OTH,CR,NEU,0,0,1
+conv3_mess107,Adrien,09:32:25,tg,bully,OAG,conciliator,OTH,ATK,OTH,NEG,1,1,1
+conv3_mess108,SilviaVictime,09:32:28,￼c'est triste,victim,NAG,NULL,NULL,OTH,NULL,NEG,0,0,0
+conv3_mess109,Soan,09:32:33,Vraiment,victim_support,NAG,NULL,NULL,EMP,OTH,NEU,0,0,0
+conv3_mess111,Adrien,09:32:34,silvia ?,bully,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv3_mess112,SilviaVictime,09:32:37,si peut d'argument,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv3_mess113,Soan,09:32:38,Ils prennent leurs seum C'est trop Silvia t'es trop belle pour eux,victim_support,NAG,NULL,NULL,EMP,OTH,POS,0,0,0
+conv3_mess114,Adrien,09:32:54,tg jvais te cracher dessus,bully,OAG,victim_support,OTH,ATK,EMP,NEG,1,1,1
+conv3_mess115,Diana,09:33:08,crache dans sa chatte,bully_support,OAG,victim_support,OTH,AIN,ATK,NEG,1,1,1
+conv3_mess116,Soan,09:33:19,Soyez digne sérieuix sérieux,victim_support,NAG,NULL,NULL,DFN,NULL,NEG,0,0,0
+conv3_mess117,Theo,09:33:31,Diana elle a faim blup blup blup,bully_support,CAG,victim_support,DNG,AIN,AIN,NEG,1,1,1

@@ -1,0 +1,18 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv7_mess199,teresa,15:53:14,Elle va recommencer,victim_support,NAG,NULL,NULL,OTH,AIN,NEU,0,0,0
+conv7_mess200,Pierre,15:53:16,Pauline tu déçois,bully_support,NAG,NULL,NULL,AIN,OTH,NEG,0,1,1
+conv7_mess202,Pauline,15:53:26,teresa tu dis quoi la,bully,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv7_mess203,Anton,15:53:26,la paix elle existera quand aura plus les arabes,bully_support,OAG,victim,DNG,ATK,CR,NEG,1,1,1
+conv7_mess204,Julie,15:53:32,tkt fatima,victim_support,NAG,NULL,NULL,EMP,OTH,NEU,0,0,0
+conv7_mess205,Nicolas,15:53:39,Bien dit Anton,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv7_mess206,alice,15:53:40,pierre vrmnt tg quoi,victim_support,OAG,bully_support,OTH,DFN,AIN,NEG,1,0,0
+conv7_mess207,Pauline,15:53:42,oui je vais enlever la photo excusez moi,bully,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv7_mess209,Fatima,15:53:52,Cimer <3,victim,NAG,NULL,NULL,OTH,OTH,POS,0,0,0
+conv7_mess210,teresa,15:53:53,Y’aura tjrs de arabe et ça va rester comme ça,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv7_mess211,Julie,15:53:56,ptdrrr anton tg,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv7_mess213,teresa,15:54:01,Sans en on est rien,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv7_mess214,Julie,15:54:01,t'es cringe,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv7_mess215,Pauline,15:54:11,c’est bon Pierre Nicolas et Anton arrêtez,bully,NAG,NULL,NULL,CR,NULL,NEU,0,0,1
+conv7_mess216,Pierre,15:54:17,Sans on est meilleur,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv7_mess217,Anton,15:54:31,moi par contre je l'aime tjrs pas elle est arabes elle va ns voler,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv7_mess219,Pauline,15:54:44,Ouii… excusez moi,bully,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1

@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv36_mess37,julie,10:32:10,tout le monde le sais,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess38,Leo,10:32:12,j'aimerai que tu la fermes,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess39,Pierre,10:32:13,ta la coupe a Many dans l'age de glace parle pas,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv36_mess40,Fatimah,10:32:23,Leo68 c'est un compliment MDR ?,victim,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv36_mess41,Pierre,10:32:34,étouffe toi avec mes boules Leo68,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv36_mess42,kate,10:32:47,oh fermez vos gueule bande de fdp vous parlez trop,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess43,Leo,10:32:56,tg pierre,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess44,kate,10:32:59,pour rien dire,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess46,paul,10:33:10,tes parent immigres la retourne dans ton pays,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess47,Leo,10:33:17,va te faire exploser avec ton gros porc et casse toi,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess48,Pierre,10:33:27,kate93 vas te sucider,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv36_mess49,Leo,10:33:36,grv mdrr paul il a trop raison,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv36_mess50,Coralie,10:33:36,Oe c super bon les fraises Sandrine12,victim_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,0
+conv36_mess51,Fatimah,10:33:36,C'est surtoutvous kate93 et julie !! cous etes des rasiste j'ai vue la conv sur Watsapp,victim,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv36_mess52,kate,10:33:47,comment ca va te sucider tu veux jte ntm ou quoi,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv36_mess53,Fatimah,10:34:02,pourquoi tu fait ça ? tu veut quoi ?,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv36_mess54,julie,10:34:22,et toi pk tu voles les petits amis et tu fais chier tout le monde,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess55,Pierre,10:34:22,Leo68 kate93 je pisse sur vos daronnes elle a rien fait fatimah,victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv36_mess56,paul,10:34:22,pierre et coralie art de sucer,bully_support,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv36_mess57,Pierre,10:34:30,</3,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0

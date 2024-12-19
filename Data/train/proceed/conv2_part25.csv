@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv2_mess145,Diana,14:30:55,cest pas respectable,bully_support,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv2_mess146,Silvia,14:31:10,techniquement mon père était comptable,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv2_mess147,Silvia,14:31:14,mais si tu veux,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv2_mess148,Adrien,14:31:17,si il est mort c est de tas faute parce que t une grosse pute,bully,OAG,victim,DNG,GSL,DFN,NEG,1,1,1
+conv2_mess149,Adrien,14:31:23,il s est suicider,bully,OAG,victim,DNG,GSL,DFN,NEU,1,1,1
+conv2_mess150,Silvia,14:31:44,...,victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv2_mess151,Adrien,14:32:00,comptable de pute entre ta mere et toi,bully,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv2_mess152,Adrien,14:32:07,il les collectionnent,bully,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv2_mess153,Adrien,14:32:11,salope,bully,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv2_mess154,Silvia,14:32:11,a propos de pute,victim,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv2_mess155,Soan,14:32:11,Et ta soeur elle veut meme plus te voir Adrien alors tait toi,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv2_mess156,Silvia,14:32:21,demande à ta mère comment elle arrive à te faire manger,victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv2_mess158,Silvia,14:32:35,Mais oui...,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv2_mess159,Silvia,14:32:45,on m'insulte et je dois faire l'autruche,victim,NAG,NULL,NULL,OTH,OTH,NEG,0,0,0
+conv2_mess160,Silvia,14:32:49,t'as vu ça où?,victim,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv2_mess161,Adrien,14:32:56,non reste je vais te demonte ta gueule qui suce des bites,bully,OAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv2_mess162,Amos,14:33:07,vas-y grosse pute. tu te sens mal maintenant enfin,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv2_mess163,Silvia,14:33:09,personne te la suce la tienne,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv2_mess164,Diana,14:33:13,comme une autruche tu met ta tete dans des trou ?,bully_support,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv2_mess165,Soan,14:33:18,Ca commence a etre lourd la,victim_support,NAG,NULL,NULL,OTH,NULL,NEG,0,0,0

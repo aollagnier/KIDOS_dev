@@ -1,0 +1,18 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv32_mess127,Lea,15:51:11,Je suis sans voix à force de lire ça. Y a pas à dire des insultes antisémites à tout va,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv32_mess128,Isabelle,15:51:15,nn jrigooe on en parle ps,bully_support,NAG,NULL,NULL,OTH,NULL,NEG,0,0,1
+conv32_mess129,Leo,15:51:17,bref justine ose remettre une photo de tes fetes de merde tu vas voir,bully,OAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv32_mess130,Isabelle,15:51:22,ça va se battre,bully_support,NAG,NULL,NULL,AIN,NULL,NEG,0,1,1
+conv32_mess131,Justine,15:51:24,Il y a eu heuresement des survivants juifs de la guerre: je suis la car ma grand mere a survécu,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv32_mess133,Leo,15:51:29,on va te prendre à 10,bully,OAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv32_mess134,Guillaume,15:51:31,vive les anticémites,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv32_mess136,Guillaume,15:51:38,non,bully,OAG,conciliator,OTH,ATK,CR,NEG,1,1,1
+conv32_mess137,Isabelle,15:51:40,on s’en tape,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv32_mess138,Guillaume,15:51:43,non,bully,OAG,conciliator,OTH,ATK,CR,NEG,1,1,1
+conv32_mess139,Aurelie,15:51:43,siii c bien les insulte,bully_support,OAG,victim/victim_support,OTH,ATK,NULL,NEG,1,1,1
+conv32_mess141,Lea,15:51:44,"Allez-y hein, on se voit au lycée et on en parle, dégonflés :)",victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv32_mess142,Isabelle,15:51:45,de ta vie HAHAHAHHA,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv32_mess143,Guillaume,15:51:50,nique toi,bully,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv32_mess144,Lea,15:51:59,Vous assumez même pas vos insultes,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv32_mess145,Aurelie,15:52:00,jv tniker ta mere lea,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv32_mess147,Leo,15:52:01,jtnique ta race,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1

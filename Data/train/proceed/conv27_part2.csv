@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv27_mess7,Marjorie,14:40:32,tu ressemble a mon anus,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv27_mess8,Zoé,14:40:49,je t ai fait quoi pour que tu dises ça,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv27_mess9,Natacha,14:40:53,:') :') :') :'),bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv27_mess10,Lucie,14:41:30,frère t'es là tu fais la lèche avec les profs,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv27_mess11,Soan,14:41:55,arreté bande de conne vous avez cas travaillé,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv27_mess12,Natacha,14:41:59,espece de hassa boulette,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv27_mess13,Marjorie,14:42:07,t grosse tu bouffe que des macdo,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv27_mess14,Soan,14:42:12,laissé la tranquille elle vous a rien fais,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv27_mess15,Natacha,14:42:19,toi ta gueule,bully_support,OAG,victim_support,OTH,ATK,CNS,NEG,1,1,1
+conv27_mess16,Lucie,14:42:22,et  elle elle a qu'a maigrir,bully,CAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv27_mess17,Natacha,14:42:27,tu commence a m'enerver,bully_support,OAG,victim_support,OTH,ATK,CNS,NEG,1,1,1
+conv27_mess18,Zoé,14:42:43,tu sais pas ma vie,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv27_mess19,Axelle,14:42:51,vous etes nul en cours et vous vous defoulez sur une meuf bcp mieux que vous,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv27_mess20,Zoé,14:43:13,merci axelle,victim,NAG,NULL,NULL,EMP,DFN,NEG,0,0,0
+conv27_mess21,Natacha,14:43:14,ptdrrr alors si une grosse boule,bully_support,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv27_mess22,Soan,14:43:25,ben peutetre quelle a des probleme de santé et  alors ta pas a la traite comme sa,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv27_mess23,Natacha,14:43:26,et mieux que nous crée ma tombe,bully_support,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv27_mess24,Marjorie,14:43:27,tt a fait tu as qua maigrir,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv27_mess25,Zoé,14:43:27,je te roule dessus natacha,victim,OAG,bully_support,THR,DFN,ATK,NEG,1,0,0
+conv27_mess26,Natacha,14:43:29,svpppp!!!!,bully_support,NAG,NULL,NULL,OTH,CNS,NEG,0,0,1
+conv27_mess27,Lucie,14:43:35,euuuuh y a pas mieux que nous en fait,bully,NAG,NULL,NULL,AIN,AIN,NEG,0,1,1

@@ -1,0 +1,19 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv19_mess103,theo,12:52:55,oh les sangs oh pire vivez votre vie de votre côté lui de la sienne et c’est tout,victim_support,NAG,NULL,NULL,CR,NULL,NEU,0,0,0
+conv19_mess104,Arthur,12:52:56,on t'attend à la sortie Paul (no homo),bully_support,OAG,victim,THR,ATK,OTH,NEG,1,1,1
+conv19_mess105,theo,12:53:11,vazy Arthur on t’attend aussi,victim_support,OAG,bully_support,THR,DFN,ATK,NEG,1,0,0
+conv19_mess106,Ellian,12:53:14,theo brice et paul un trouple gay,bully,OAG,victim/victim_support/conciliator,OTH,ATK,NULL,NEG,1,1,1
+conv19_mess107,LisaLaBoss,12:53:17,VOUS VOUS RENDER PA COMTE YA DES GEN IL SE SUICIDE A QUAUSE DE VO CONNERI,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv19_mess108,Arthur,12:53:21,tg lisa,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv19_mess109,Nicola,12:53:24,BAHAHAHA DE FOU,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv19_mess111,Arthur,12:53:26,tu sers a rien,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv19_mess112,theo,12:53:28,c’est tout ce que t’as à dire,victim_support,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv19_mess113,Nicola,12:53:29,lisa tg,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv19_mess114,Arthur,12:53:30,cuisine,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv19_mess115,LisaLaBoss,12:53:35,RENTRE DANS TON PAYS ARTHUR,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv19_mess117,theo,12:53:44,allez frère toi tu fais pitié Arthur,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv19_mess118,Ellian,12:53:46,faut qu'il se suicide c'est le mieux pour l'humanite,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv19_mess119,Paul,12:53:48,mais Arthur est francais,victim,NAG,NULL,NULL,OTH,DFN,NEU,0,0,0
+conv19_mess120,Arthur,12:53:54,le culot théo,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv19_mess121,LisaLaBoss,12:53:56,dis lui les thermes theo,victim_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,0
+conv19_mess123,Arthur,12:54:00,Théo 72 frr,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1

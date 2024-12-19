@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv36_mess49,Leo,10:33:36,grv mdrr paul il a trop raison,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv36_mess50,Coralie,10:33:36,Oe c super bon les fraises Sandrine12,victim_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,0
+conv36_mess51,Fatimah,10:33:36,C'est surtoutvous kate93 et julie !! cous etes des rasiste j'ai vue la conv sur Watsapp,victim,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv36_mess52,kate,10:33:47,comment ca va te sucider tu veux jte ntm ou quoi,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv36_mess53,Fatimah,10:34:02,pourquoi tu fait ça ? tu veut quoi ?,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv36_mess54,julie,10:34:22,et toi pk tu voles les petits amis et tu fais chier tout le monde,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess55,Pierre,10:34:22,Leo68 kate93 je pisse sur vos daronnes elle a rien fait fatimah,victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv36_mess56,paul,10:34:22,pierre et coralie art de sucer,bully_support,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv36_mess57,Pierre,10:34:30,</3,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv36_mess58,Leo,10:34:36,nan elles sont honnête frr  puis tg arrête de parler une langue qui ne vient pas de ton pays d'immigrés fatima la sale,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess59,julie,10:34:38,tu comprends pas que personne veux de toiiii,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv36_mess60,kate,10:34:39,pourquoi tu t'appelle fatimah la honte quoi,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv36_mess61,Coralie,10:34:41,arretez les propos racistes ça sert à rien,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv36_mess62,Leo,10:34:55,fatima la grosse rat,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv36_mess63,Fatimah,10:34:56,Je ne vois pas en quoi je vole amis ?? je suis comme tous le monde j'ai le droit de faire ce que je veut ?? Si tu en as pas c'est ton soucis pas le mien,victim,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv36_mess64,kate,10:35:11,fatimah la grosse pute,bully,OAG,victim,NCG,ATK,CNS,NEG,1,1,1
+conv36_mess66,Pierre,10:35:24,je suis obliger de pepon ton père car ta salope de mère est pas capable de le faire paul83,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv36_mess67,julie,10:35:27,nana mais fatimah t laide tu plaies a personne,bully,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv36_mess68,Leo,10:35:38,mais arrête de toucher les mecs avec tes doigts crades wsh,bully_support,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv36_mess69,Fatimah,10:35:45,"ça te pose un soucis, par ce que Kate c'est mieux peut etre ? fatimah c'est trés jolie et je suis fiere de porté ce prénom",victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0

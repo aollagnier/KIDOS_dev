@@ -1,0 +1,18 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv14_mess73,JulieVictime,11:19:21," ça veux dire quelque chose en allemand nazi ""les boubou"" ?",victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv14_mess74,JulieVictime,11:19:32,ba alors pourquoi tu fais des blagues nazies ?,victim,NAG,NULL,NULL,OTH,OTH,NEG,0,0,0
+conv14_mess75,Emilie,11:19:37,bougnoul,bully,OAG,victim,NCG,ATK,OTH,NEG,1,1,1
+conv14_mess76,JulieVictime,11:19:42,ah ok,victim,NAG,NULL,NULL,OTH,OTH,NEU,0,0,0
+conv14_mess77,Anna,11:19:56,cunt,bully_support,OAG,victim,NCG,ATK,OTH,NEG,1,1,1
+conv14_mess78,JulieVictime,11:20:03," tu réuni en fait tous les vices du monde c'est ça Emilie ? nazi, xénophoque et homophobe ? tu aurais pas inventé la pizza à l'ananas aussi ?",victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv14_mess80,elodie,11:20:31,mdrrrr prenez rdv avec votre donneur de sperm avant de venir nous faire chier,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv14_mess81,Emilie,11:20:37,schmutzig schwul ca veut dire sale gay en allemend,bully,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv14_mess82,JulieVictime,11:21:06,ok moi je pense qu'en fait Emilie tu devrais trouver une passion,victim,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv14_mess84,JulieVictime,11:21:35,Stéphane lui aussi était raciste et depuis qu'il fait du skate et bien il est pu raciste,victim,NAG,NULL,NULL,OTH,ATK,NEG,0,0,0
+conv14_mess85,Anna,11:21:45,pas les bites ca c sur,bully_support,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv14_mess86,elodie,11:22:01,passion des fiottes aller twerker dans une église et pleurer pendant les magnifestations gay,bully_support,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv14_mess87,JulieVictime,11:22:33,c'est sur qu'à l'entré de l'église il doit pas te faire rentrer le videur,victim,NAG,NULL,NULL,OTH,ATK,NEG,0,0,0
+conv14_mess89,JulieVictime,11:23:32,ça sert à quoi de faire ça sur les réseaux en plus ?,victim,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv14_mess90,Emilie,11:23:51,vient on se voit en vrai je te tabasse toi et tout tes potes gays,bully,OAG,victim/victim_support/conciliator,THR,ATK,NULL,NEG,1,1,1
+conv14_mess91,elodie,11:24:11,fais pas des blagues sur l'eglise dieu il a cree adam et eve tu leches des filles t'as pas honte,bully_support,OAG,victim,DNG,ATK,CNS,NEG,1,1,1
+conv14_mess93,elodie,11:24:29,jss d'accord avec Emilie,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1

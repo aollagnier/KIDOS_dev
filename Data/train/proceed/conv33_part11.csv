@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv33_mess61,Coralie,11:39:34,t'es blanche comme un cul tyu crois t'es mieux julie ?,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv33_mess62,Fatimah,11:39:38,"normal quand on voit la tienne, toute blanche (euh pardon rouge sous le soleil)j'aurai honte moi",victim,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv33_mess63,Coralie,11:39:51,Eh vzy 1v1 demain julie jv bz,victim_support,OAG,bully,THR,DFN,ATK,NEG,1,0,0
+conv33_mess64,Fatimah,11:39:55,une vraie babtou,victim,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv33_mess65,Julie,11:40:00,coralie tes de quelle couleur toi lol,bully,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv33_mess67,Coralie,11:40:13,moi jsuis noire c'est encore mieux,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv33_mess68,Fatimah,11:40:29,prends ça julie,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv33_mess69,Julie,11:40:32,comme la femme qui lave mes chiottes,bully,CAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv33_mess70,Fatimah,11:40:50,tu confinds avec ta reum la,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv33_mess71,Léo,11:40:56,Vazy Fatimah avec ton henné là on croirait tu t'es doigtée qd t'avais tes règles srx,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv33_mess72,Fatimah,11:41:03,tu confonds avec ta reum la,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv33_mess73,Léo,11:41:06,Ca fait dégueulasse,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv33_mess74,Fatimah,11:41:23,Leo parle pas de ceque tu connais pas puceau,victim,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv33_mess75,Julie,11:41:43,le traite pas de puceau y ta bz dans les chiotte,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv33_mess76,Coralie,11:41:47,va doigter ta mere toi,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv33_mess77,Julie,11:41:59,comme la moitié des mecs,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv33_mess79,Coralie,11:42:11,va doigter ta mere toi,victim_support,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv33_mess80,Julie,11:42:16,tu respect même pas ta relion t'es une szlope,bully,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv33_mess81,Coralie,11:42:35,tu la connais meme pas sale pute,victim_support,OAG,bully,NCG,DFN,ATK,NEG,1,0,0

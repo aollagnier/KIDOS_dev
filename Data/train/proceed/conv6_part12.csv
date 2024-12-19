@@ -1,0 +1,17 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv6_mess68,Teresa,14:41:20,Hooooooo sais pas bien,victim_support,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv6_mess69,Pierre,14:41:37,Son gros ventre la,bully_support,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv6_mess71,Pauline,14:41:41,pffff,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv6_mess73,Teresa,14:41:45,T toi 🐷,victim_support,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv6_mess74,Pierre,14:42:01,On choisi pas on reste dans son pays,bully_support,CAG,victim,OTH,ATK,CR,NEG,1,1,1
+conv6_mess75,Nicolas,14:42:04,Orhhh Sale terroriste,bully_support,OAG,victim,NCG,AIN,NULL,NEG,1,1,1
+conv6_mess76,Fatima,14:42:35," Pierre, toujours branché devant BFM ...",victim,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv6_mess77,Pierre,14:42:44,Fatima ton gros corps de C.R.S,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv6_mess78,Pauline,14:42:46,mdrrrrr,bully,NAG,NULL,NULL,AIN,AIN,NEG,0,1,1
+conv6_mess80,Nicolas,14:42:56,🤣🤣🤣,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv6_mess81,Pauline,14:42:56,tg,bully,OAG,conciliator,OTH,ATK,CR,NEG,1,1,1
+conv6_mess82,Fatima,14:43:04,que dans les préjugés ... alors que vous ne me connaissez même pas !,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv6_mess83,Teresa,14:43:12,Hooooooo les gros mot on ce calme,victim_support,NAG,NULL,NULL,CR,NULL,NEU,0,0,0
+conv6_mess84,Pauline,14:43:12,tg on fais hella la,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv6_mess85,Teresa,14:43:40,🦄,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv6_mess87,Pauline,14:44:11,ooooo theo ca vas te choper,bully,OAG,conciliator,THR,ATK,CR,NEG,1,1,1

@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv13_mess19,Elodie,14:42:48,anna bebe t ou,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv13_mess20,Marie,14:42:52,ça se fait pas en plus de prendre en photos,victim_support,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv13_mess21,Elodie,14:43:07,mais cest des gouines,bully_support,OAG,victim,NCG,ATK,CNS,NEG,1,1,1
+conv13_mess22,Emilie,14:43:19,et toi tu sais que la vie c'est homme femme pas femme femme salope,bully,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv13_mess23,Julie,14:43:35," on est pas gouines,  je lui tenais la main pour la réconforter y a quoi ? laissez-nous vivre",victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv13_mess24,Anna,14:43:46,assume c pas compliquer,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv13_mess25,Elodie,14:43:48,bande de gouines,bully_support,OAG,victim,NCG,AIN,NULL,NEG,1,1,1
+conv13_mess26,Emilie,14:43:54,la réconforter et la galoche après,bully,CAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv13_mess27,Anna,14:43:55,bande de crasseuse,bully_support,OAG,victim,NCG,AIN,NULL,NEG,1,1,1
+conv13_mess28,Elodie,14:43:55,taimes les filles,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv13_mess29,Julie,14:43:59," y'a rien à assumer,  puisqu'y a r",victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv13_mess30,Elodie,14:44:00,burk sa me degoute,bully_support,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv13_mess31,Julie,14:44:08,mellez-vous de votre cul,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv13_mess32,Anna,14:44:09,assume que t'aime les filles c tout connasse,bully_support,OAG,victim,NCG,ATK,CNS,NEG,1,1,1
+conv13_mess33,Marie,14:44:13,elle etait juste en train de la rassurer cest rien,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv13_mess34,Elodie,14:44:17,cul de crasseuse,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv13_mess35,Anna,14:44:20,on fait ce qu'on veut grosse chienne,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv13_mess36,Julie,14:44:36,tg saloppe,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv13_mess37,Elodie,14:44:43,marie tg,bully_support,OAG,victim_support,OTH,ATK,CNS,NEG,1,1,1
+conv13_mess38,Anna,14:44:50,grosse pute va,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv13_mess39,Elodie,14:44:55,saloperie,bully_support,OAG,victim,NCG,AIN,ATK,NEG,1,1,1

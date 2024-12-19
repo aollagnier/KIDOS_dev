@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv8_mess49,Silvia,09:33:36,et toi le cul?,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv8_mess50,Lucie,09:33:37,jte monte en l'air,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv8_mess51,Theo,09:33:38,tu comprend r,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv8_mess52,Camille,09:33:41,je suis d'accord avec adrien,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv8_mess54,Diana,09:33:57,bah viens lucie je te baise toi et ta pote la salope,bully_support,OAG,victim/victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv8_mess55,Soan,09:34:03,Theo c'est toi qui as besoins des cours gros raciste vas,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv8_mess56,Adrien,09:34:11,Soan t'a r compris a l'histoire,bully,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv8_mess57,Lucie,09:34:24,toi que je te trouve pas dans la vrais vie,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv8_mess58,Theo,09:34:29,Va dormir soan,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv8_mess59,Lucie,09:34:30,laisse ma pote trkl elle a rien fait,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv8_mess61,Diana,09:34:42,tu vas rien faire donc redescend,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv8_mess62,Lucie,09:34:54,vanessa jtm,victim_support,NAG,NULL,NULL,EMP,DFN,NEG,0,0,0
+conv8_mess63,Theo,09:35:00,Elle veut quoi vanessa paradis,bully_support,CAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv8_mess64,Soan,09:35:00,Theo tg,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv8_mess65,Camille,09:35:18,non mais j'avous lucas dans l'histoire,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv8_mess66,Lucie,09:35:23,diana tg ton collegue en faute qui assume pas,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv8_mess67,Adrien,09:35:25,Vanessa la grosse folle commence pas a me parler comme sa,bully,OAG,conciliator,NCG,ATK,DFN,NEG,1,1,1
+conv8_mess68,Lucie,09:35:42,tg elle a raison,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv8_mess69,Diana,09:35:43,mais lucas il a rien fait c'est elle qui l'a violké,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1

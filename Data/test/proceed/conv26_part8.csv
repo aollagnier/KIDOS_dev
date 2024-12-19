@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv26_mess43,jules,16:47:37,cette folle,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv26_mess44,martine,16:47:45,T'a raison ils voudraizetn pas d'elle,bully,OAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv26_mess45,Fran,16:47:47,parle pas sur ma mère,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv26_mess46,jules,16:47:50,GROSSE folle,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv26_mess47,Fran,16:47:54,toi aussi je te mange,victim,OAG,bully_support,THR,DFN,ATK,NEG,1,0,0
+conv26_mess48,jules,16:48:01,hahahahahahahahahahahahaha,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv26_mess49,jules,16:48:06,t une comique toi,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv26_mess50,martine,16:48:06,bah la mere d'une grosse moche doit etre grosse moche,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv26_mess51,Fatima,16:48:08,stop bande de fous,victim_support,OAG,bully/bully_support,NCG,DFN,NULL,NEG,1,0,0
+conv26_mess52,Fran,16:48:23,en attendant il a l'air de kiffer ma mère Jules...,victim,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv26_mess53,Fatima,16:48:24,kes tu dis,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv26_mess54,jules,16:48:27,jmange ta mere surtout,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv26_mess55,jules,16:48:42,cest elle qui me kiffe,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv26_mess56,martine,16:48:43,hey toi tut'la ferme l'étrazngère! retourne dans ton pays de merde,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv26_mess57,Fatima,16:48:46,on arrete de manger tt le mponde la,victim_support,NAG,NULL,NULL,CR,NULL,NEU,0,0,0
+conv26_mess58,Fran,16:48:57,Martine tu fermes ta bouche,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv26_mess59,martine,16:49:06,bah c sa mere qui se met a 4 pattes devant luji,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv26_mess60,Fatima,16:49:18,va crevrr,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv26_mess61,Fran,16:49:20,donc il kif les grosses moches,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv26_mess62,Fran,16:49:24,sympa pour ton pote,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv26_mess63,jules,16:49:31,oue ca doit etre ca,bully_support,CAG,victim,DNG,ATK,DFN,NEG,1,1,1

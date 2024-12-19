@@ -1,0 +1,17 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv11_mess25,theo,12:44:09,hebert littéralement tg tu sers rien,bully_support,OAG,conciliator,OTH,ATK,CR,NEG,1,1,1
+conv11_mess26,theo,12:44:15,t’es vraiment inutile,bully_support,OAG,conciliator,OTH,ATK,CR,NEG,1,1,1
+conv11_mess27,lucie,12:44:17,bah y’a même pas de soucis en sah juste un batard qui a trompé sa copine et les gens s’acharnent sur la meuf avec qui il a trompé,victim_support,OAG,NULL,NCG,DFN,NULL,NEG,1,0,0
+conv11_mess29,lucie,12:44:25,alors qu’elle y est pour rien,victim_support,OAG,NULL,NCG,DFN,NULL,NEU,1,0,0
+conv11_mess30,theo,12:44:32,bah voilà t’a dis le souci,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv11_mess32,camille,12:44:35,haaaaa,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv11_mess33,Silvia,12:44:37,merci les filles,victim,NAG,NULL,NULL,OTH,NULL,POS,0,0,0
+conv11_mess34,lucie,12:44:37,mais comme c’est une meuf bien sûr c’est elle la pute et pas le mec,victim_support,OAG,NULL,NCG,DFN,NULL,NEU,1,0,0
+conv11_mess36,lucie,12:44:44,remettez vous en question,victim_support,OAG,NULL,NCG,DFN,NULL,NEU,1,0,0
+conv11_mess37,theo,12:44:46,une pute reste une pute,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv11_mess39,Silvia,12:45:00,"Theo t'es ouf, j'ai rien fait",victim,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv11_mess40,camille,12:45:11,elle la chauffe ?,bully_support,OAG,victim,DNG,ATK,NULL,NEG,1,1,1
+conv11_mess41,theo,12:45:16,sale serbe,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv11_mess42,Silvia,12:45:24,mais t'es raciste ?,victim,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv11_mess43,theo,12:45:28,elle lui a sauter dessus oui?,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv11_mess44,Silvia,12:45:36,ben non,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0

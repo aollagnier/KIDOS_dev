@@ -1,0 +1,19 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv30_mess1,Lea,10:26:43,salut pourquoi embête tu ma copine ?,victim_support,NAG,NULL,NULL,DFN,NULL,NEU,0,0,0
+conv30_mess3,Isabelle,10:29:22,c'est marrant de se moquer,bully_support,OAG,victim_support,OTH,AIN,CR,NEG,1,1,1
+conv30_mess5,Lea,10:30:12,alors ton argument c'est que ça te fait rire ? sérieusement je te pensez plus inintelligente,victim_support,OAG,bully_support,DNG,DFN,AIN,NEG,1,0,0
+conv30_mess6,Isabelle,10:30:56,en même elle cherche,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv30_mess7,leo,10:30:59,bah oue si t'es pas drole c'est ton probleme,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv30_mess8,Lea,10:31:51,je savais pas que rire de la religion des gens etait marrant remettez vous en question,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv30_mess9,Isabelle,10:31:59,elle publie des photos comme ça faut pas s'étonnerd,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv30_mess10,Justine,10:32:06,c clair la religion c privé,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv30_mess11,leo,10:32:13,j'avoue on s'en fou de ton ptit frere le juif,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv30_mess12,Isabelle,10:32:22,ba pk tu t'affiches,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv30_mess13,Justine,10:32:28,et on s'en fout de savoir qui croit quoi,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv30_mess14,Lea,10:32:56,parce qu'elle etait fiere de lui vous postez bien des photos de votre vie et pourtant on s'en fou,victim_support,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv30_mess15,Ana,10:33:17,Vs êtes complexés ou quoi pour lui parler comme ca,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv30_mess16,Justine,10:33:49,"oui, je suis fière de mon petit frère tout comme vous vous l'êtes de votre famille",victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv30_mess17,Ana,10:33:53,Laisser la trkl nn vs avez pas une vie,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv30_mess18,leo,10:34:22,bah nan mais on s'en fou de sa vie ou de sa religion,bully,OAG,victim,OTH,ATK,CNS,NEG,1,1,1
+conv30_mess19,Lea,10:34:23,de ouf vivez votre vie on s'en tape de ce que vous pensez,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv30_mess20,Isabelle,10:34:56,grv on s'en fou,bully_support,OAG,victim,OTH,AIN,ATK,NEG,1,1,1

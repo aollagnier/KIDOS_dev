@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv15_mess13,Anna,15:40:33,exactement,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv15_mess14,Elodie,15:40:44,mais c pas une fierte qu'un garcon suce des zizi,bully_support,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv15_mess15,Constance,15:40:52,en quoi c'est normal d'etre une gamine irrespectueuse homophobe ?,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv15_mess16,Emilie,15:40:59,nis dune chatte,bully,OAG,victim,NCG,AIN,ATK,NEG,1,1,1
+conv15_mess17,Marie,15:41:04,tg,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv15_mess18,Anna,15:41:08,ah d'accord de pire en pire,bully_support,NAG,NULL,NULL,OTH,NULL,NEG,0,0,1
+conv15_mess19,Elodie,15:41:15,caroline t conne ou quoi,bully_support,OAG,victim_support,NCG,ATK,NULL,NEG,1,1,1
+conv15_mess20,Caroline,15:41:20,non ah oui mais non,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv15_mess21,Constance,15:41:38,bref julie viens on quitte le groupe,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv15_mess22,Emilie,15:41:47,elodie et anna venez on la souleve comme sa meuf,bully,OAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv15_mess23,Constance,15:41:51,ils ont tellement peu d'aguments qu'ils font pitié,victim_support,CAG,bully/bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv15_mess24,Caroline,15:42:07,vraiment c'est drole,victim_support,NAG,NULL,NULL,EMP,DFN,NEG,0,0,0
+conv15_mess25,Elodie,15:42:10,oui,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv15_mess26,Julie,15:42:16,Insupportable,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv15_mess27,Elodie,15:42:21,c drole dinsulter des maxi zoulettes comme vous,bully_support,OAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv15_mess28,Caroline,15:42:29,et ca frole l'homosexualité refoulée comme dirait l'amour de ma vie aml,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv15_mess29,Elodie,15:42:37,nimporte quoi,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv15_mess30,Anna,15:42:37,mdr des grosses merdes surtout,bully_support,OAG,victim/victim_support,DNG,AIN,ATK,NEG,1,1,1
+conv15_mess31,Constance,15:42:41,c'est drole d'avoir en face de soi un gamin de 4 ans qui se croit drole,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv15_mess32,Elodie,15:42:41,jaime les garcons julie devrait en fairer autant,bully_support,CAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv15_mess33,Anna,15:43:08,cool ta vie,bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1

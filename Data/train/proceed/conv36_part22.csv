@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv36_mess127,Leo,10:42:57,bahahh,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv36_mess128,julie,10:43:04,bahh,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv36_mess129,Fatimah,10:43:04,julie Tu ne t’arrête donc jamais  haha,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv36_mess130,Leo,10:43:14,c'est pas drole c'est nuuuuuul,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess131,julie,10:43:36,et toi julie t'a toujours pas fermé ta gueule,bully,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess132,Pierre,10:43:38,vous habitez dans des poubelles bande clodo Leo68 julie paul83,victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv36_mess133,paul,10:43:40,fatimah t genante,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess134,Pierre,10:43:50,;(,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv36_mess135,paul,10:44:06,pierre doucement ta pas trop mal a la gorge,bully_support,CAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv36_mess136,julie,10:44:08,pierre comment tu peux la soutenir vraiment elle ne vaut rien,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv36_mess138,Fatimah,10:44:28,"Bon  ça suffit le racisme de base la ! je suis née en France, j'ai la nationalité Française ! comme vous",victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv36_mess139,Leo,10:44:30,pierre arrete bouffer la teuch sale de fatima wshh nan mon reuf,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv36_mess140,Fatimah,10:44:40,et meme si ce n»était pas le cas ce n'est pas une raison !,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv36_mess141,Pierre,10:44:48,il baise des lapins le bougre de paul83,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv36_mess142,Leo,10:45:00,lers francais ils ont pas du caca sur les doigts,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv36_mess143,julie,10:45:05,j'avoue,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv36_mess144,Coralie,10:45:13,tkt Fatimah-victime ils sont bêtes ils comprennent rien,victim_support,OAG,bully/bully_support,NCG,DFN,NULL,NEG,1,0,0
+conv36_mess145,paul,10:45:20,pierre jvoit t cho sur moi il ya quoi fr,bully_support,CAG,victim_support,DNG,ATK,DFN,NEG,1,1,1
+conv36_mess146,Pierre,10:45:21,j'avoue mais ta daronne en a plein la bouche on est  passé a plusieurs,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv36_mess147,Fatimah,10:45:35,Tu sais que l'héné ça sert pour coloré les cheveux aussi ? Ah non déso tu connais rien,victim,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0

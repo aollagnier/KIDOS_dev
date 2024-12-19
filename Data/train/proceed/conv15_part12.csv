@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv15_mess67,Anna,15:47:43,vous avez trop la rage,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv15_mess68,Constance,15:47:46,bref les screens sont pris mes chéries,victim_support,NAG,NULL,NULL,CNS,NULL,NEG,0,0,0
+conv15_mess69,Elodie,15:47:47,lhomosexualite cest pas normal!!! remettez vous dans le droit chemin je dis ca pour votre bien,bully_support,NAG,NULL,NULL,GSL,OTH,NEG,0,1,1
+conv15_mess70,Marie,15:47:50,tg,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv15_mess71,Constance,15:48:02,la prochaine innsullte ca part au commissariat,victim_support,NAG,NULL,NULL,CNS,GSL,NEG,0,0,0
+conv15_mess72,Julie,15:48:03,C'est le moyen-âge,victim,NAG,NULL,NULL,DFN,GSL,NEG,0,0,0
+conv15_mess73,Emilie,15:48:06,PRENDS MAIS TQT PROFITE AVANT,bully,CAG,victim_support,OTH,ATK,CNS,NEG,1,1,1
+conv15_mess74,Caroline,15:48:10,bah au pire tg et rentres chez toi arrete de souler tout le monde laissez nous faire notre vie nan,victim_support,OAG,bully_support,OTH,DFN,GSL,NEG,1,0,0
+conv15_mess75,Elodie,15:48:14,jaimerai bien,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv15_mess76,Emilie,15:48:24,ON VA TE FAIRE LA MISERE MDRRR,bully,OAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv15_mess77,Marie,15:48:24,je vais te frapper toi,victim_support,OAG,bully,THR,DFN,ATK,NEG,1,0,0
+conv15_mess78,Elodie,15:48:32,au moyne age les femmes faisaient la cuisine pour leur mari et fermait leur gueule cette epoque me manquie,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv15_mess79,Constance,15:48:36,non julie je ne te laisserai pas te faire harceler,victim_support,NAG,NULL,NULL,EMP,OTH,POS,0,0,0
+conv15_mess80,Emilie,15:48:38,OH MARI SI TU SAVAISSSSSSSSSSSSS,bully,CAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv15_mess81,Caroline,15:48:39,vas y j'attends que ca,victim_support,CAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv15_mess82,Marie,15:48:57,t'a quoi toi,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv15_mess83,Caroline,15:49:00,en attendant vous venez parler ici tellement vous avez peur de parler en face,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv15_mess84,Constance,15:49:12,au moins les sorcieres comme toi elodie elles etaient brulees au moyen age,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv15_mess85,Caroline,15:49:14,donc vas y juste bouges ou viens assumer en face,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv15_mess86,Elodie,15:49:14,"et les hommes partaient a la guerre pour faire vivre leur famille, ils ne se maquillaient pas et ne sucaient pas de bites",bully_support,CAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv15_mess87,Emilie,15:49:15,UN BLEM AVEC TOI MA CHERIE,bully,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1

@@ -1,0 +1,17 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv19_mess67,Ellian,12:51:06,si vous balance je vous explose,bully,OAG,victim_support,THR,ATK,CNS,NEG,1,1,1
+conv19_mess68,Paul,12:51:06,Ouais on balance à la prof sinon !,victim,OAG,bully_support,THR,EMP,DFN,NEG,1,0,0
+conv19_mess69,Nicola,12:51:08,tg brice vrm,bully_support,OAG,conciliator,OTH,ATK,CR,NEG,1,1,1
+conv19_mess71,Ellian,12:51:13,paul sale merde,bully,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv19_mess72,Arthur,12:51:16,Brice endors toi,bully_support,OAG,conciliator,OTH,ATK,EMP,NEG,1,1,1
+conv19_mess74,Nicola,12:51:18,quelle prof ??,bully_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,1
+conv19_mess75,Camikaz,12:51:18,ellian arrete de faire l'homophobe on sait que t'es un trans mon reuf,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv19_mess76,Ellian,12:51:19,ca se voit t'es pd toi,bully,OAG,conciliator,NCG,ATK,CR,NEG,1,1,1
+conv19_mess78,theo,12:51:33,c’est bine t’es pas si con que ça au final Nicola tu connais au moins ton prénom,victim_support,OAG,bully_support,OTH,OTH,OTH,NEG,1,0,0
+conv19_mess79,Nicola,12:51:36,brice le gay refouler,bully_support,OAG,conciliator,DNG,ATK,DFN,NEG,1,1,1
+conv19_mess80,LisaLaBoss,12:51:41,BON ARRETEZ STOP !! LE HARCELEMENT VOU VOU RENDER PA COMTE VOU BLESSER PAUL !!!!,victim_support,NAG,NULL,NULL,CR,NULL,NEU,0,0,0
+conv19_mess82,Arthur,12:51:48,Paul tu sais faire de ta vie a part de se prendre des queues,bully_support,OAG,victim,DNG,ATK,NULL,NEG,1,1,1
+conv19_mess84,Arthur,12:51:54,rien faire*,bully_support,OAG,victim,DNG,ATK,NULL,NEG,1,1,1
+conv19_mess85,Nicola,12:51:55,on s'en fou de paul,bully_support,OAG,victim,OTH,ATK,CR,NEG,1,1,1
+conv19_mess86,Camikaz,12:51:59,c'est pas gentil d'etre mechant,victim_support,NAG,NULL,NULL,CR,NULL,NEU,0,0,0
+conv19_mess87,Nicola,12:52:02,qui creve,bully_support,OAG,victim,OTH,ATK,CR,NEG,1,1,1

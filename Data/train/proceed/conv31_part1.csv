@@ -1,0 +1,22 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv31_mess1,Justine,11:34:40,"C'est pas raisonnable ! Nous ne t'avons rien fait, non ?!",victim,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv31_mess2,Isabelle,11:34:47,Pourquoi exposer sa religion sur les réseaux sociaux garde le pour toi !,bully_support,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv31_mess3,Justine,11:34:52,Je partageait un moment heureux de ma vie!! C'est pas une faute!,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv31_mess4,Justine,11:34:54,"Lea, heureusement tu est là, j'ai vraiment besoin de ton soutine",victim,NAG,NULL,NULL,EMP,NULL,NEU,0,0,0
+conv31_mess5,Isabelle,11:34:55,Léo et guillaume ont eu raison c'est tout,bully_support,OAG,victim,OTH,AIN,NULL,NEG,1,1,1
+conv31_mess6,Justine,11:34:58,"Non, ils ont été méchants gratuitement .…",victim,OAG,bully_support,OTH,DFN,AIN,NEG,1,0,0
+conv31_mess7,Isabelle,11:34:59,ils ont ete mechant pour la bonne cause,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv31_mess8,Isabelle,11:35:09,Tout le monde s'en fou de ta cérémonie,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv31_mess9,Justine,11:35:16,je ne changerai pas de religion apres leurs attaques ...,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv31_mess10,Justine,11:35:17,ces't quoi la bonne cause?,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv31_mess11,Isabelle,11:35:17,On ta pas demande de changer de religion juste de ne pas l'exposer parce qu'on s'en fou,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv31_mess12,Justine,11:35:22,Mai je suis libre de partager mes moments en famille sur les réseaux sociaux,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv31_mess13,gillom,11:35:26,ftg juif,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv31_mess14,Justine,11:35:27,"Guillaume, tais-toi !",victim,OAG,NULL,OTH,OTH,NULL,NEG,1,0,0
+conv31_mess15,Isabelle,11:35:28,non il a raison toi tait toi,bully_support,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv31_mess16,gillom,11:35:30,mais ntm waich,bully,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv31_mess17,Ana,11:35:34,??,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv31_mess18,Aurelie,11:35:37,j'avoue ferme la sale juif,bully_support,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv31_mess19,Justine,11:35:46,Quel est ton probleme Guillaume?!,victim,NAG,NULL,NULL,OTH,NULL,NEG,0,0,0
+conv31_mess20,Ana,11:35:46,pardon???,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv31_mess21,lea,11:35:47,arreter de l'insulter,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0

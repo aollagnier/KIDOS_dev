@@ -1,0 +1,20 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv32_mess109,Guillaume,15:49:35,merci Leo,bully,NAG,NULL,NULL,AIN,AIN,NEG,0,1,1
+conv32_mess110,Isabelle,15:49:35,bah toi t pas meilleure que nous t’arrête pas de dire la mm chose salope ba,bully_support,OAG,victim_support,NCG,ATK,DFN,NEG,1,1,1
+conv32_mess111,Justine,15:49:40,En 2022 on parle encore de gaser les juifs c'est fou ca,victim,OAG,bully,OTH,DFN,AIN,NEG,1,0,0
+conv32_mess112,Guillaume,15:49:47,oui,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv32_mess113,Isabelle,15:49:54,c avec un z,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv32_mess115,Isabelle,15:49:57,gazer,bully_support,CAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv32_mess116,Justine,15:49:57,Ca vous fait rire??,victim,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv32_mess118,Justine,15:50:01,C'est orrible,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv32_mess119,Isabelle,15:50:03,illettré ou quoi,bully_support,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv32_mess120,Lea,15:50:04,Y a rien de drôle à ça,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv32_mess121,Isabelle,15:50:08,si,bully_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,1
+conv32_mess122,Aurelie,15:50:20,fait gaffe qd tu faite le menage de pas aspirer les cendre a ton pere,bully_support,OAG,victim/victim_support,DNG,ATK,NULL,NEG,1,1,1
+conv32_mess123,Justine,15:50:20,Des millions de personnes sont mortes et Guillaume rit c'est insupportable,victim,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv32_mess124,Guillaume,15:50:36,on aurait pu arrêter si il n'y avait pas de survivant juifs de la guerre,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv32_mess125,Isabelle,15:50:37,grave mdrrr ouch,bully_support,CAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv32_mess126,Isabelle,15:51:08,bon écoute c simple y’a un problème on se voit et on en parle c tout,bully_support,NAG,NULL,NULL,OTH,ATK,NEU,0,0,1
+conv32_mess127,Lea,15:51:11,Je suis sans voix à force de lire ça. Y a pas à dire des insultes antisémites à tout va,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv32_mess128,Isabelle,15:51:15,nn jrigooe on en parle ps,bully_support,NAG,NULL,NULL,OTH,NULL,NEG,0,0,1
+conv32_mess129,Leo,15:51:17,bref justine ose remettre une photo de tes fetes de merde tu vas voir,bully,OAG,victim,THR,ATK,DFN,NEG,1,1,1

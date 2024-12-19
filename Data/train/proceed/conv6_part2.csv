@@ -1,0 +1,18 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv6_mess7,Fatima,14:29:59,Oui c'était cool !,victim,NAG,NULL,NULL,OTH,OTH,POS,0,0,0
+conv6_mess8,Pauline,14:30:35,oui jme souviens,bully,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv6_mess9,Pauline,14:31:31,ta bien noirssis grossse folleee,bully,OAG,victim,OTH,AIN,OTH,NEG,1,1,1
+conv6_mess10,Fatima,14:31:53,je te demande pardon ?! :O,victim,NAG,NULL,NULL,OTH,AIN,NEU,0,0,0
+conv6_mess11,Teresa,14:32:22,Je trouve qu’elle a bien bronzé,victim_support,NAG,NULL,NULL,CNS,AIN,NEU,0,0,0
+conv6_mess13,Pauline,14:32:30,ta vu,bully,NAG,NULL,NULL,OTH,CNS,NEU,0,0,1
+conv6_mess14,Pierre,14:32:40,Bien bien noir,bully_support,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv6_mess16,Pauline,14:32:54,oui tres,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv6_mess17,Fatima,14:33:07,très noir ? comment ça ?,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv6_mess18,Pierre,14:33:20,Ta cuit ou quoi?,bully_support,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv6_mess19,Pauline,14:33:21,eh wee,bully,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv6_mess20,Teresa,14:33:40,J’aimerais bronzé comme toi 😗,victim_support,NAG,NULL,NULL,EMP,DFN,POS,0,0,0
+conv6_mess22,Pauline,14:34:05,jveux pas moi je reste blanche,bully,OAG,victim,DNG,ATK,EMP,NEG,1,1,1
+conv6_mess23,Fatima,14:34:12,Non Pierre ... et je ne vois pas où tu veux en venir,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv6_mess24,Pierre,14:34:18,On dirait un bout de charbon,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv6_mess25,Pauline,14:34:26," albatrd fatima, a quand un maffer ?",bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv6_mess26,Teresa,14:35:08,Arrêtez miskina,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0

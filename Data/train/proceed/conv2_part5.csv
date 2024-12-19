@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv2_mess25,Amos,14:14:56,je suis espagnol pardon de ne pas tout savoir connasse,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv2_mess26,Silvia,14:15:11,de où je suis une connasse?,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv2_mess27,Diana,14:15:18,tu as embrasser Lucas alors que sophia est ta pote !,bully_support,OAG,victim,DNG,ATK,DFN,NEU,1,1,1
+conv2_mess28,Diana,14:15:27,tu as foutu la merde dans leurs couple,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv2_mess29,Diana,14:15:31,c'est dégeulasse,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv2_mess30,Amos,14:15:32,bravo. je te complimente,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv2_mess31,Silvia,14:15:37,c'est Lucas qui a mis sa langue dans ma bouche donc déjà tu redescends,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv2_mess32,Adrien,14:15:53,sylvia t vraiment la pire des grosses salope tu savait qu il été en couple est tu la embrassé ta aucun *e race,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv2_mess33,Amos,14:15:58,en plus tu dis que c'est sa faute,bully_support,NAG,NULL,NULL,AIN,ATK,NEG,0,1,1
+conv2_mess34,Silvia,14:15:59,j'y peux rien si elle est pas foutue de tenir son mec,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv2_mess35,Adrien,14:16:04,vas crevé en enfer,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv2_mess36,Silvia,14:16:15,Avec ta mère Adrien,victim,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv2_mess37,Diana,14:16:16,En plus d'etre une  aguicheusse de merde tu es une menteuse,bully_support,OAG,victim,NCG,ATK,DFN,NEG,1,1,1
+conv2_mess38,Amos,14:16:19,sa faute*,bully_support,NAG,NULL,NULL,AIN,ATK,NEU,0,1,1
+conv2_mess39,Soan,14:16:24,Arreter laisser la tranquille elle a rien fait,victim_support,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv2_mess41,Amos,14:16:45,San tas rien fait et ne fait rien mnt,bully_support,NAG,NULL,NULL,OTH,CNS,NEG,0,0,1
+conv2_mess42,Adrien,14:16:49,toi ta mere c satan,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv2_mess43,Silvia,14:16:51,Il a mis sa langue dans ma bouche j'ai rien fait pour la retirer mais faut te calmùer avec les insultes,victim,NAG,NULL,NULL,CNS,ATK,NEU,0,0,0
+conv2_mess44,Amos,14:16:52,soan,bully_support,NAG,NULL,NULL,OTH,CNS,NEU,0,0,1
+conv2_mess45,Silvia,14:16:54,c'est pas cool,victim,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0

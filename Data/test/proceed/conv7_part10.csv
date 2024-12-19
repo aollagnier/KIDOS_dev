@@ -1,0 +1,18 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv7_mess55,alice,15:41:56,les termes c que vous dites de la merde,victim_support,OAG,bully_support,OTH,DFN,GSL,NEG,1,0,0
+conv7_mess57,Anton,15:41:58,logique,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv7_mess58,Julie,15:42:00,les cons : pauline anton nicolas et pierre jpp,victim_support,OAG,bully/bully_support,NCG,DFN,NULL,NEG,1,0,0
+conv7_mess60,Pauline,15:42:19,lv que nan,bully,NAG,NULL,NULL,OTH,OTH,NEU,0,0,1
+conv7_mess61,Nicolas,15:42:24,Bah les arabes c'est pas en France svp on veut pas de vous ici,bully_support,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv7_mess62,Pierre,15:42:28," infériorité*, même écrire les arabes ne savent pas faire",bully_support,OAG,victim,DNG,ATK,OTH,NEG,1,1,1
+conv7_mess63,Pauline,15:42:30,Jsuis pas jalouse de Fatima moi😹 MDMRMRR,bully,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv7_mess64,Julie,15:42:41,pouaaa,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv7_mess65,alice,15:42:42,opsk tu croit t 100% fr,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv7_mess66,Julie,15:42:48,2 de qi j'ai juré,victim_support,OAG,bully/bully_support,DNG,DFN,NULL,NEG,1,0,0
+conv7_mess67,alice,15:42:55,les origines ça existe du con,victim_support,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv7_mess69,Fatima,15:43:05,Mais genre je t'ai rien fait meuf ! Pourquoi tu me déglingue comme ça ? Dans mon dos en + !,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv7_mess70,Anton,15:43:07,fait gaffe fatima elle va nous voler comme c congenere avant,bully_support,OAG,victim,OTH,ATK,NULL,NEG,1,1,1
+conv7_mess71,Julie,15:43:14," faite pasq genre ca vous degoutes les orogines, c'est hyper sexy wsh",victim_support,NAG,NULL,NULL,CNS,ATK,POS,0,0,0
+conv7_mess72,Pauline,15:43:19,Julie t’as quoi à défendre comme ça Fatima?,bully,NAG,NULL,NULL,OTH,CNS,NEU,0,0,1
+conv7_mess74,Julie,15:43:43," je la defend elle et ses origines , c'est vous vous etes racistes",victim_support,OAG,bully,NCG,DFN,OTH,NEG,1,0,0
+conv7_mess75,Pierre,15:43:47,On est juste réaliste,bully_support,OAG,victim,OTH,GSL,DFN,NEG,1,1,1

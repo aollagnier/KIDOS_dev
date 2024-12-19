@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv26_mess7,martine,16:42:44,hey! tu m'parle autrement la grosse!,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv26_mess8,Fran,16:42:53,t kune pute,victim,OAG,bully,NCG,DFN,ATK,NEG,1,0,0
+conv26_mess9,Fatima,16:42:53,tfk jenny,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv26_mess10,martine,16:43:13,et bah quoi T pas contente? m'en fout,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv26_mess11,Fran,16:43:26,pq tu postes des fotos de mwa à poil wsh,victim,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv26_mess12,Fran,16:43:29,ta pas dvi?,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv26_mess13,Fatima,16:43:50,att c qui qui poste des photos de ki a poil,victim_support,NAG,NULL,NULL,OTH,DFN,NEU,0,0,0
+conv26_mess14,Fran,16:44:11,c'est cette put de Martine qui a pris des fotos de moi,victim,OAG,bully,NCG,OTH,OTH,NEG,1,0,0
+conv26_mess15,Fran,16:44:14,pdt le voyage,victim,OAG,bully,NCG,OTH,OTH,NEG,1,0,0
+conv26_mess16,Fran,16:44:18,sous la douche,victim,OAG,bully,NCG,OTH,OTH,NEG,1,0,0
+conv26_mess17,Fran,16:44:23,et cette conne elle l'a fait tourner,victim,OAG,bully,NCG,OTH,OTH,NEG,1,0,0
+conv26_mess18,Fatima,16:44:30,pk tu fais ca meuf,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv26_mess19,Fatima,16:44:40,dou elle etait dans ta douche,victim_support,NAG,NULL,NULL,DFN,ATK,NEU,0,0,0
+conv26_mess20,martine,16:44:43,hey quand y a une pute faut faire profiter!,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv26_mess21,martine,16:44:52,soit contente la grosse,bully,OAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv26_mess22,Fran,16:45:06,je sais pas elle aime mon cul,victim,OAG,bully,OTH,OTH,OTH,NEG,1,0,0
+conv26_mess23,jules,16:45:19,sale grosse,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv26_mess24,martine,16:45:35,hey! slt Juju!,bully,NAG,NULL,NULL,OTH,ATK,NEU,0,0,1
+conv26_mess26,Fran,16:45:40,mais d'où tu parles le micropenis stp,victim,OAG,bully,DNG,DFN,ATK,NEG,1,0,0
+conv26_mess27,martine,16:45:56,et pour aimer ton cul faurdrait etre aveugle la grosse,bully,OAG,victim,OTH,ATK,DFN,NEG,1,1,1

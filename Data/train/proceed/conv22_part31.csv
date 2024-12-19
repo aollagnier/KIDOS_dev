@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv22_mess181,Paul,10:52:04,"tg Julien , J'espère que toi et ton ami brice irez en prison.",victim,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv22_mess182,Selena,10:52:06,arrêtes toi,victim_support,NAG,NULL,NULL,CR,NULL,NEU,0,0,0
+conv22_mess183,Julien,10:52:07,jmen blc jespere il meurt,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv22_mess184,brice,10:52:12,mais sava pas marcher il va casser la corde avk son poid,bully,OAG,victim,DNG,AIN,ATK,NEG,1,1,1
+conv22_mess185,Thibaut,10:52:13,julien on te retrouve tu va avoir des problemes,victim_support,CAG,bully_support,THR,DFN,ATK,NEG,1,0,0
+conv22_mess186,justine,10:52:32,mdr,victim_support,NAG,NULL,NULL,OTH,NULL,NEU,0,0,0
+conv22_mess187,brice,10:52:35,tu risque pas de te faire kidnapper u rentre pas dans le camion,bully,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv22_mess188,Julien,10:52:38,tg vien jtenclanche,bully_support,OAG,victim_support,OTH,ATK,DFN,NEG,1,1,1
+conv22_mess189,Thibaut,10:52:47,avec quoi,victim_support,NAG,NULL,NULL,OTH,ATK,NEU,0,0,0
+conv22_mess190,justine,10:52:49,il va se cacher il a trop peur,victim_support,CAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess191,Julien,10:52:56,mes mains con de ta mere,bully_support,OAG,victim_support,DNG,ATK,OTH,NEG,1,1,1
+conv22_mess192,Thibaut,10:53:01,ok faisont comme ca,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv22_mess193,brice,10:53:08,il poura pas se cacher,bully,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv22_mess194,justine,10:53:20,après avec son problème mental c sur que,victim_support,OAG,bully_support,DNG,DFN,ATK,NEG,1,0,0
+conv22_mess195,Julien,10:53:26,si derriere paul,bully_support,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv22_mess197,Paul,10:53:35,"J'aimerais me tuer juste pour que vous soyez punis une fois pour toutes, bande de bâtards",victim,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv22_mess198,Julien,10:53:40,cest la muraille de chine,bully_support,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv22_mess199,brice,10:53:47,pierre tu porte un maillot de nice donc tg,bully,OAG,conciliator,OTH,ATK,DFN,NEG,1,1,1
+conv22_mess200,Julien,10:53:56,TUEEEEE TOIIIIIII,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv22_mess201,justine,10:54:15,et toi accompagne ta mere dans la mort,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0

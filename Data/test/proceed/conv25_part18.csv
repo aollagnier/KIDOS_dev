@@ -1,0 +1,21 @@
+ID,NAME,TIME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT,SENTIMENT,ABUSE,B_POLARITY,POR
+conv25_mess104,Theresa,16:10:09,C'est vrai qu'on force peut etre un peu mais c'est si drole,bully_support,OAG,victim,OTH,ATK,OTH,NEG,1,1,1
+conv25_mess105,pierre,16:10:12,je sis dd'aéccord c'est pas drole ferme la,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv25_mess106,Lucas,16:10:18,laisse le il t a rien fait supprime la taphoto,victim_support,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv25_mess107,pierre,16:10:38,TU M'EXPLIQUE CE QU'IL Y A DE DROLE LA DEDANS ?!!!!,victim_support,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv25_mess108,Lucas,16:10:50,y a rien de drole Theresa,victim_support,NAG,NULL,NULL,CNS,ATK,NEG,0,0,0
+conv25_mess109,Theo,16:10:50,elle nous fait tellement rire,bully_support,CAG,victim,OTH,AIN,ATK,NEG,1,1,1
+conv25_mess110,NULL,16:10:53,bon bah ok j'ai compris,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv25_mess111,NULL,16:10:59,plus personne ne veut de moi...,victim,NAG,NULL,NULL,DFN,ATK,NEG,0,0,0
+conv25_mess112,Lucas,16:11:10,si moi je veux de toi Francois ok,victim_support,NAG,NULL,NULL,EMP,DFN,POS,0,0,0
+conv25_mess113,Lucas,16:11:22,et plein d autres personnes aussi,victim_support,NAG,NULL,NULL,EMP,DFN,POS,0,0,0
+conv25_mess114,Theo,16:11:31,c'est un cadeau empoisonné,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv25_mess115,pierre,16:11:34,mais non francois les ecoutes pas c eux les nuls ils ont que ca a faire de leur vie,victim_support,OAG,bully/bully_support,OTH,DFN,NULL,NEG,1,0,0
+conv25_mess116,Theresa,16:11:39,On a besoin de toi Francois,bully_support,CAG,victim,DNG,ATK,DFN,NEG,1,1,1
+conv25_mess117,Pauline,16:11:45,Okkkk cest bon vous me faites chier je vais poster encore plus de photo de mon petit cheri francois,bully,OAG,victim,THR,ATK,DFN,NEG,1,1,1
+conv25_mess118,NULL,16:11:53,petasse...,victim,OAG,bully_support,NCG,DFN,ATK,NEG,1,0,0
+conv25_mess119,Theresa,16:11:58,Ouaaaissssss,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
+conv25_mess120,Lucas,16:12:03,Theo la prochaine fois que tu dis un truc pareil je te fais gouter au tarmac c bon ?,victim_support,OAG,bully/bully_support,THR,DFN,NULL,NEG,1,0,0
+conv25_mess121,pierre,16:12:06,mais va te faire voir pauline,victim_support,OAG,bully,OTH,DFN,ATK,NEG,1,0,0
+conv25_mess122,NULL,16:12:09,tu peux bien aller te faire foutre,victim,OAG,bully_support,OTH,DFN,ATK,NEG,1,0,0
+conv25_mess123,Theresa,16:12:13,Vas-y continue Francois,bully_support,OAG,victim,OTH,ATK,DFN,NEG,1,1,1
